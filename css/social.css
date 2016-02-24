@@ -1,0 +1,65 @@
+@charset 'UTF-8';
+
+.made_in_america{
+	width:25px;
+	height:17px;
+}
+
+.theme.twitter,
+.theme .twitter,
+.theme.facebook,
+.theme .facebook,
+.theme.gplus,
+.theme .gplus,
+.theme.linkedin,
+.theme .linkedin,
+.theme.email,
+.theme .email,
+.theme.xbox,
+.theme .xbox{
+	color:#fff;
+	font-weight:bold;
+	text-decoration:none !important;
+}
+	.theme a{
+		border:0 !important;
+	}
+
+.theme.twitter,
+.theme .twitter{
+	background:#00ACED;
+}
+.theme.facebook,
+.theme .facebook{
+	background:#3B5998;
+}
+.theme.gplus,
+.theme .gplus{
+	/*background:#4778EE;*/
+	background:#D94E30;
+}
+.theme.linkedin,
+.theme .linkedin{
+	background:#157f9d;
+}
+.theme.email,
+.theme .email{
+	background:#D94E30;
+}
+.theme.xbox,
+.theme .xbox{
+	background:#000;
+	color:#107C10;
+}
+
+.speek_logo img{
+	width:120px;
+	height:40px;
+	opacity:0.7;
+	filter:alpha(opacity=70);
+}
+	.speek_logo:hover img,
+	.speek_logo:focus img{
+		opacity:1;
+		filter:alpha(opacity=100);
+	}

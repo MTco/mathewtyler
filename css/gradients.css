@@ -1,0 +1,169 @@
+/*!
+ *
+ *	MathewTyler.co
+ *	File:gradients.css
+ *	http://mathewtyler.co
+ *
+ *	Copyright 2013 Mathew Tyler.  All rights reserved.
+ *
+ *	Date: Thu April 23 2013 -0800
+ *
+*/
+
+/* Gradients */
+	body .cancel_bttn,
+	body .grey_bttn,
+	body .silver_bttn,
+	body .bttn_cancel,
+	body .ui-button,
+	body .silverGradient{
+		background:#F2F2F2;
+		background:-webkit-gradient(linear,0% 0%,0% 100%,from(#F2F2F2),to(#ccc));
+		background:-moz-linear-gradient(center top,#F2F2F2 30%,#ccc 55%) repeat scroll 0 0 transparent;
+		border:1px solid #999;
+		margin-top:-10px;
+		box-shadow:0 0 1px rgba(255, 255, 255, 0.1) inset !important;
+		color:#444 !important;
+		font-weight:bold !important;
+		text-decoration:none;
+		cursor:pointer !important;
+		z-index:202;
+	}
+		body .cancel_bttn:hover,body .cancel_bttn:focus,body .cancel_bttn:active,
+		body .grey_bttn:hover,body .grey_bttn:focus,body .grey_bttn:active,
+		body .silver_bttn:hover,body .silver_bttn:focus,body .silver_bttn:active,
+		body .ui-button:hover,body .ui-button:focus,body .ui-button:active,
+    body .silverGradient:hover,body .silverGradient:focus,body .silverGradient:active{
+  		background:#EEE;
+  		background:-webkit-gradient(linear,0% 0%,0% 100%,from(#ccc),to(#F2F2F2));
+  		background:-moz-linear-gradient(center top,#ccc 30%,#F2F2F2 55%) repeat scroll 0 0 transparent;
+		}
+
+	body .greenGradient{
+		background:#008811;
+		background:-webkit-gradient(linear,0% 0%,0% 100%,from(#006600),to(#008811));
+		background:-moz-linear-gradient(center top,#006600 30%,#008811 55%) repeat scroll 0 0 transparent;
+		border:1px solid #999;
+		margin-top:-10px;
+		box-shadow:0 0 1px rgba(255, 255, 255, 0.1) inset !important;
+		color:#fff !important;
+		font-weight:bold !important;
+		text-decoration:none;
+		cursor:pointer !important;
+		z-index:202;
+	}
+		body .greenGradient:hover,body .greenGradient:focus,body .greenGradient:active{
+			background:#008811;
+			background:-webkit-gradient(linear,0% 0%,0% 100%,from(#008811),to(#006600));
+			background:-moz-linear-gradient(center top,#008811 30%,#ccc 55%) repeat scroll 0 0 transparent;
+		}
+
+	body .redGradient{
+		background:#a00305;
+		background:-webkit-gradient(linear,0% 0%,0% 100%,from(#a00305),to(#aa0002));
+		background:-moz-linear-gradient(center top,#a00305 30%,#aa0002 55%) repeat scroll 0 0 transparent;
+		border:1px solid #999;
+		margin-top:-10px;
+		box-shadow:0 0 1px rgba(255, 255, 255, 0.1) inset !important;
+		color:#fff !important;
+		font-weight:bold !important;
+		text-decoration:none;
+		cursor:pointer !important;
+		z-index:202;
+	}
+		body .redGradient:hover,body .redGradient:focus,body .redGradient:active{
+			background:#aa0002;
+			background:-webkit-gradient(linear,0% 0%,0% 100%,from(#aa0002),to(#a00305));
+			background:-moz-linear-gradient(center top,#aa0002 30%,#a00305 55%) repeat scroll 0 0 transparent;
+		}
+
+	body .blackGradient{
+		background:#45484d;
+		background:-webkit-gradient(linear,0% 0%,0% 100%,from(#45484d),to(#000000));
+		background:-moz-linear-gradient(center top,#45484d 30%,#000000 55%) repeat scroll 0 0 transparent;
+		margin-top:-10px;
+		box-shadow:0 0 1px rgba(255, 255, 255, 0.1) inset !important;
+		color:#fff !important;
+		font-weight:bold !important;
+		text-decoration:none;
+		cursor:pointer !important;
+		z-index:202;
+	}
+		body .blackGradient:hover,body .blackGradient:focus,body .blackGradient:active{
+			background:#000000;
+			background:-webkit-gradient(linear,0% 0%,0% 100%,from(#000000),to(#45484d));
+			background:-moz-linear-gradient(center top,#000000 30%,#45484d 55%) repeat scroll 0 0 transparent;
+		}
+	body .orangeGradient{
+		background:#febf01;
+		background:-webkit-gradient(linear,0% 0%,0% 100%,from(#febf01),to(#ffaa00));
+		background:-moz-linear-gradient(center top,#febf01 30%,#ffaa00 55%) repeat scroll 0 0 transparent;
+		border:1px solid #999;
+		margin-top:-10px;
+		box-shadow:0 0 1px rgba(255, 255, 255, 0.1) inset !important;
+		color:#333 !important;
+		font-weight:bold !important;
+		text-decoration:none;
+		cursor:pointer !important;
+		z-index:202;
+	}
+		body .orangeGradient:hover,body .orangeGradient:focus,body .orangeGradient:active{
+			background:#ffaa00;
+			background:-webkit-gradient(linear,0% 0%,0% 100%,from(#ffaa00),to(#febf01));
+			background:-moz-linear-gradient(center top,#ffaa00 30%,#febf01 55%) repeat scroll 0 0 transparent;
+		}
+	body .greyGradient{
+		background:#F2F5F6;
+		background:-webkit-gradient(linear,0% 0%,0% 100%,from(#F2F5F6),to(#C8D7DC));
+		background:-moz-linear-gradient(center top,#F2F5F6 30%,#C8D7DC 55%) repeat scroll 0 0 transparent;
+		border:1px solid #999;
+		margin-top:-10px;
+		box-shadow:0 0 1px rgba(255, 255, 255, 0.1) inset !important;
+		color:#333 !important;
+		font-weight:bold !important;
+		text-decoration:none;
+		cursor:pointer !important;
+		z-index:202;
+	}
+		body .greyGradient:hover,body .greyGradient:focus,body .greyGradient:active{
+			background:#C8D7DC;
+			background:-webkit-gradient(linear,0% 0%,0% 100%,from(#C8D7DC),to(#F2F5F6));
+			background:-moz-linear-gradient(center top,#C8D7DC 30%,#F2F5F6 55%) repeat scroll 0 0 transparent;
+		}
+	body .whiteGradient{
+		background:#EDEDED;
+		background:-webkit-gradient(linear,0% 0%,0% 100%,from(#fff),to(#EDEDED));
+		background:-moz-linear-gradient(center top,#fff 30%,#EDEDED 55%) repeat scroll 0 0 transparent;
+		border:1px solid #999;
+		margin-top:-10px;
+		box-shadow:0 0 1px rgba(255, 255, 255, 0.1) inset !important;
+		color:#333 !important;
+		font-weight:bold !important;
+		text-decoration:none;
+		cursor:pointer !important;
+		z-index:202;
+	}
+		body .whiteGradient:hover,body .whiteGradient:focus,body .whiteGradient:active{
+			background:#fff;
+			background:-webkit-gradient(linear,0% 0%,0% 100%,from(#EDEDED),to(#fff));
+			background:-moz-linear-gradient(center top,#EDEDED 30%,#fff 55%) repeat scroll 0 0 transparent;
+		}
+	body .blueGradient{
+		background:#499bea;
+		background:-webkit-gradient(linear,0% 0%,0% 100%,from(#499bea),to(#207ce5));
+		background:-moz-linear-gradient(center top,#499bea 30%,#207ce5 55%) repeat scroll 0 0 transparent;
+		border:1px solid #999;
+		margin-top:-10px;
+		box-shadow:0 0 1px rgba(255, 255, 255, 0.1) inset !important;
+		color:#fff !important;
+		font-weight:bold !important;
+		text-decoration:none;
+		cursor:pointer !important;
+		z-index:202;
+	}
+		body .blueGradient:hover,body .blueGradient:focus,body .blueGradient:active{
+			background:#207ce5;
+			background:-webkit-gradient(linear,0% 0%,0% 100%,from(#207ce5),to(#499bea));
+			background:-moz-linear-gradient(center top,#207ce5 30%,#499bea 55%) repeat scroll 0 0 transparent;
+		}
+/* // Gradients */
