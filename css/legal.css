@@ -1,6 +1,6 @@
 @charset 'UTF-8';
 
-.legal {
+.legal ,.legal *{
 	background:#fff !important;
 	color:#000 !important;
 	font-family:times,Times New Roman,times-roman,georgia,serif !important;
@@ -9,11 +9,11 @@
 	text-shadow:unset !important;
 	filter:unset !important;
 }
-a.legal {
+a.legal ,a.legal *{
 	font-size:inherit !important;
 }
-.exception ,
-.legal.exception ,
-.legal_exception {
+.exception ,.exception *,
+.legal.exception ,.legal.exception  *,
+.legal_exception ,legal_exception *{
 	text-transform:inherit !important;
 }
