@@ -116,6 +116,9 @@
 .float_right,.fr{
 	float:right;
 }
+.fr::after{
+	clear:both;
+}
 .float_right_clear,.frc{
 	float:right;
 	clear:right;
