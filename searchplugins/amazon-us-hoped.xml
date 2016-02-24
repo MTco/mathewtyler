@@ -6,5 +6,5 @@
 <SearchForm>http://www.amazon.com/</SearchForm>
 <os:Url type="text/html" rel="results" method="GET" template="http://www.amazon.com/gp/search?ie=UTF8&amp;tag=hoped-20&amp;camp=1789&amp;creative=9325&amp;index=aps&amp;linkCode=ur2&amp;t=0111011101110101011101000110010101110110-20&amp;linkId=7Z5AE5GE7NT27H2Q&amp;keywords={searchTerms}"></os:Url>
 <os:Url type="application/x-suggestions+json" rel="results" method="GET" template="http://completion.amazon.com/search/complete?method=completion&amp;tag=hoped-20&amp;search-alias=aps&amp;t=0111011101110101011101000110010101110110-20&amp;client=amzn-search-suggestions&amp;mkt=1&amp;q={searchTerms}"></os:Url>
-<os:Url type="application/opensearchdescription+xml" method="GET" template="https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/searchplugins/amazon-us-hoped.xml" rel="self"></os:Url>
+<os:Url type="application/opensearchdescription+xml" method="GET" template="https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/searchplugins/amazon-us-hoped.xml#4f80930250cf826ba0c7144dc43fe6aa9f9a07cd" rel="self"></os:Url>
 </SearchPlugin>
