@@ -70,8 +70,8 @@
 		flex-direction:column;
 	}
 	#menuLink {
-		top:3.9em;
-		top:8rem;
+		top:1.5em;
+		top:3rem;
 		display:unset;
 	}
 	header { order: 1; }
@@ -112,7 +112,7 @@
 		transform:translateZ(0px);
 		transition:transform 0.33s ease 0s;
 		backface-visibility:hidden;
-		z-index:350;
+		z-index:351;
 	}
 		.header-inner{
 			position:relative;
