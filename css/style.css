@@ -122,7 +122,7 @@ header,#main{
 		}
 
 nav a {
-	display:block;
+	display:inline-block;
 	padding:.3rem;
 	color:#444;
 	font-family:Avenir,Arial,sans-serif;
