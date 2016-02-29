@@ -1,0 +1,457 @@
+
+
+/* COSTCO.COM GLOBAL CSS */
+
+
+    /* > [1] =STRUCTURE 
+            ----------------------------------------------- */
+            .hiddenElement {display:none;}
+            .line_separator {width:720px;min-height:10px;margin-bottom:10px;margin-left:10px;margin-right:50px;margin-top:10px;border-bottom:1px solid #ccc;}
+         
+           
+    /* > [2] =HEADER
+            ----------------------------------------------- */
+           #widget_placeholder H1{font-size:20px;}
+           .widget_placeholder H1{font-size:20px;}
+          
+           #popup_close_button {float:right;margin-right:20px;cursor: hand;cursor: pointer;}
+          
+
+    /* > [3] =FOOTER
+            ----------------------------------------------- */
+           
+    /* > [4] =CATEGORYMENU
+            ----------------------------------------------- */
+
+    /* > [5] =FORMS 
+                ----------------------------------------------- */
+                /* My Account Information Tabs and Global Redlines (rl)*/
+			.my_account_tab {float:left;margin-right:10px;padding:10px 20px 10px 20px;text-align:center;border:solid;border-width:1px;border-color:gray;border-bottom-color:#dbdbdb !important;background-color: #dbdbdb;font-size:21px;border-bottom-color: #0060A9;}
+			.my_account_tab.active {background-color:#0060A9 !important;color:#fff !important;display:block;border-color:#0060A9;border-bottom-color:#0060A9 !important;}
+			.my_account_tab_line   {border-bottom-color: #0060A9;border-bottom-width:2px;border-bottom-style:solid;width:100%;clear:both;}
+			.my_account_tab_padBot {padding-bottom:10px;}
+			
+			.r1_spinner{background: url("/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/Ajax-Line-Spinner-Preloader.gif") no-repeat scroll center center #000 !important;}
+			.r1_spinnerFirstLoad{background: url("/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/Ajax-Line-Spinner-Preloader.gif") no-repeat scroll center center !important;width:700px;height:40px;position:absolute;top:200px;}
+			.r1_secondaryContent{width:740px !important;}
+			.rl_footerContent{padding-top: 35px;}
+			.rl_blockDataLeft{width:225px;float:left;margin-right:20px;margin-top:15px;}
+			.rl_blockDataLast{width:250px;float:left;margin-top:15px;}
+			.rl_blockParent{display:table-row;height:100%;}
+			.rl_blockLeft{width:230px;display:table-cell;height:100%;padding-right:20px;}
+			.rl_blockLast{vertical-align:top;height:100%;display:table-cell;}
+			
+			.rl_modalTableRow{display:table-row;height:100%;}
+			.r1_modalTableCellLeft{width:315px;display:table-cell;height:100%;padding-left: 15px !important; padding-top: 15px !important;}
+			.r1_modalTableCellRight{vertical-align:top;height:100%;display:table-cell;}
+			
+			.rl_grayText{color:#9c9c9c;}
+			.rl_grayTextArea{background-color:#efefef;}
+			.ui-dialog button.rl_modalCancelButton{background:#e0e0e0 !important; color:#0060a9 !important;border:none !important;border-style:none;font-size:16px !important; font-weight:normal !important;}
+			.ui-dialog button.rl_modalButton{background: #325c82 !important; color:#ffffff !important;border:none !important;border-style:none;font-size:16px !important;font-weight:normal !important;}
+			
+			.rl12{font-size:14px;color:#888888 !important}
+			.rl39{padding-top:10px;margin-bottom:10px;border-bottom-color: #9c9c9c;border-bottom-width:1px;border-bottom-style:solid;width:100%;clear:both;}
+			.rl40{font-size:18px; !important;}
+			.rl40_bold{font-size:18px !important;font-weight:bold !important;}
+			.rl42_bold{font-size:16px !important;font-weight:bold !important;}
+			.rl43_bold{font-size:14px !important;font-weight:bold !important;}
+			.rl43{font-size:14px !important;}
+			.rl45{font-size:14px !important;}
+			.rl46{font-size:16px !important;color:#fff !important;padding:5px 10px 5px 10px;background-color:#325c82;text-align:center;font-weight:bold;}
+			.rl46_alt{font-size:14px;color:#fff !important;padding:5px 10px 5px 10px;background-color:#325c82;text-align:center;}
+			.rl51{font-size:20px;color:#000000;}
+			.font-weight-normal { font-weight: normal; }
+			
+			.crm_h1{font-size:24px !important;color: #0060A9 !important; line-height:24px !important; margin:0px 0px 0px 0px !important;}
+			.crm_h2{font-size:18px !important;color: #000    !important; line-height:18px !important; margin:0px 0px 0px 0px !important;text-transform:none !important; font-weight:normal !important;}
+			
+			/* add admin*/
+			.admin_add_border{height:145px;width:230px;margin-top:25px;margin-bottom:25px;border-style: dashed;border-width: 2px;border-color: #e0e0e0;}
+			.admin_add_btn{text-align:center;font-size:18px;font-weight:bold;}
+			.specialeffects:hover {
+			  color: #0060a9;
+			  background-color: #e0e0e0;
+			}
+			.admin_add_border:hover {
+				background-color: #e0e0e0;
+				border: 2px dashed #0060a9;
+			}
+
+			/*Business Affiliate*/
+			.affiliate_membership_text{display:block;font-size:20px; padding: 10px;}
+			.affiliate_license_text{display:block;font-size:14px;}
+			.affiliate_add_border{}
+			.affiliate_add_btn{text-align:center;font-size:18px;font-weight:bold;}
+			.affiliate_container { margin-top: 25px;}
+			.affiliate_primary, .affiliate_household { width: 50%; min-height:145px; max-height:145px; }
+			.affiliate_primary { float: left; }
+			.affiliate_household { float: right; } 
+			.affiliate_primary .addaffiliate_viewname {
+				min-height: 145px;
+				max-height: 145px;
+				border-top: 2px solid #e0e0e0;
+				border-left: 2px solid #e0e0e0;
+				border-bottom: 2px solid #e0e0e0;
+			}
+			.addaffiliate_viewname *, .addAffHousehold_viewname *, .affHousehold_remove {
+				padding-left: 10px
+			}
+			.affiliate_has_household {
+				min-height: 145px;
+				border-left: 2px dashed #e0e0e0;
+				border-top: 2px solid #e0e0e0;
+				border-right: 2px solid #e0e0e0;
+				border-bottom: 2px solid #e0e0e0;
+			}
+			.addAffHousehold_none, .addaffiliate_plus {
+				min-height: 145px;
+				border: 2px dashed #e0e0e0;
+			}
+			.addAffHousehold_none:hover, .addaffiliate_plus:hover {
+				background-color: #e0e0e0;
+				border: 2px dashed #0060a9;
+			}
+			
+            /* Communication Preferences */
+            .rl_comm_blockDataLast{width:230px;float:left;margin-top:10px;margin-right:10px;}
+            .rl43_comm{font-size:14px;}
+            .rl43_bold_comm{font-size:14px;font-weight:bold;}
+            .widget_block7_comm{float:right;margin-right:-10px; margin-top:-70px;}
+            .commprefcheckbox-label{font-size:14px !important;padding-left:25px;text-transform:none !important;}
+			.pref-pos{padding-bottom:20px;padding-left:10px;}
+    		.editModeElement {display:none;}
+			.viewModeElement {display:inline; margin-right:5px;}
+			.italic { font-style: italic;}
+			.pref-selectbox{float:left;}
+			/*.commprefcheckbox-label{font-weight:bold; font-size:14px !important;padding-left:33px;text-transform:none !important;}*/
+			.qtip-hint{display:inline;padding-left:10px;}
+			.qtip-hint a{text-decoration:none; color:black;}
+			.commpref-choice{padding-bottom:10px;font-size:12px;font-weight:bold;}
+			
+			#comPrefSave {display:none;}
+			#comPrefCancel {display:none;}
+			.communicationEmailMsg {margin-bottom:20px;}
+			#cancelVerificationAnswer {margin-right:10px;}
+			.memberinfo_shorttext{width:45px;height:18px !important; font-size:14px; font-family:arial; line-height:20px !important}
+            .memberinfo_longtext{width:200px;height:18px !important; font-size:14px;  font-family:arial; line-height:20px !important}
+            .memberinfo_mediumtext{width:103px;height:20px !important; font-size:14px; font-family:arial; line-height:20px !important}
+            .memberinfo_mediumtext2{width:150px;height:20px !important;}
+            .memberinfo_mediumtext3{width:175px;height:20px !important; font-size:14px; font-family:arial; line-height:20px !important}
+            .memberinfo_month{width:80px;}
+            .memberinfo_year{width:60px;}
+            .memberinfo_label{font-size:14px; font-weight:bold;line-height:1.4;display:block;}
+            .memberinfo_short_selectbox{width:55px;height:21px !important; font-family:arial !important;; font-size:14px !important; padding:0px;}
+            .memberinfo_short_selectbox2{width:60px;height:21px !important; font-family:arial !important;; font-size:14px !important; padding:0px;}
+			.memberinfo_medium_selectbox{width:120px;height:21px !important; font-family:arial !important; font-size:14px !important; padding:0px;}
+            .memberinfo_medium_selectbox2{width:96px;height:21px !important; font-family:arial !important;; font-size:14px !important; padding:0px;}
+            .memberinfo_long_selectbox{width:241px;height:21px !important; font-family:arial !important; font-size:14px !important; padding:0px;}
+            
+            .input_helper_text{font-size:10px;font-family:Trebuchet MS; float:left;line-height: 2.5;}
+            .input_helper_text_member_mail{font-size:10px;font-family:Trebuchet MS; display:block;padding-left:3px;padding-top:2px;padding-bottom:5px;}
+            
+             .widgetLoading{padding-bottom:10px}
+            /* For IE padding issue */
+            .cancel_btn{padding-right:10px;}
+            
+            .member_widget_contents{ font-size:14px; font-weight: bold; line-height:1.4; display: block;}
+            .member_widget_lables{display:block; font-size:14px;}
+            .member_widget_header h2{font-size:1em; text-transform:uppercase; font-weight:bold;line-height:34px; clear:both;}
+            
+            /* Add Affiliate Members */
+            .member_add_affiliate_name{padding-bottom:20px;}
+            .member_add_affiliate_contents{ font-size:14px; font-weight: bold; line-height:1.4;}
+            .member_add_affiliate_lables{font-size:14px;padding-right:15px;}
+            .member_add_affiliate_yesno{float:right;}
+          
+          	.table-panel table {border: 0px;border-spacing: 0;border-collapse: collapse;}
+          	.contact_us_table table {border: 0px;border-spacing: 0;border-collapse: collapse; width:100%;}
+          	
+	/* > [6] =NAVIGATION
+            ----------------------------------------------- */
+       
+    /* > [7] =SEARCH
+            ----------------------------------------------- */
+
+    /* > [8] =LISTS
+            ----------------------------------------------- */
+
+    /* > [9] =TABLES
+            ----------------------------------------------- */
+
+    /* > [10] =IMAGES
+            ----------------------------------------------- */
+
+    /* > [11] =DIVIDERS 
+            ----------------------------------------------- */
+            
+            #widget_placeholder {width:720px;min-height:50px;margin-bottom:5px;margin-left:10px;margin-right:50px;margin-top:5px;font-size:16px;border-bottom:2px solid #808080;padding-top:10px;padding-bottom:10px;}
+            .widget_placeholder {width:720px;min-height:50px;margin-bottom:5px;margin-left:10px;margin-right:50px;margin-top:5px;font-size:16px;border-bottom:2px solid #808080;padding-top:10px;padding-bottom:10px;}
+            #giftmembership_placeholder {min-height:70px;margin-bottom:5px;margin-top:150px;font-size:16px;padding-top:15px;padding-bottom:10px;padding-left:10px;padding-right:10px;background-color: #F7F7F7;border: 1px solid #D6D6D6;}
+            #temporaryMembershipCard_placeholder{width:720px;min-height:50px;margin-bottom:5px;margin-left:10px;margin-right:50px;font-size:16px;border:2px solid #808080;padding-top:10px;padding-bottom:10px;padding-left:10px;}
+			#widget_pageHeading {font:16px arial,sans-serif;margin-top:10px;}
+			#loadingMessage {height:40px; width:740px;}
+			#loadingImage {margin:0 auto;}
+			.giftmembership_block1{float:left; width:210px;}
+			.widget_block1{float:left; width:35%;}
+			.widget_block2{float:left; width:35%;}
+			.widget_block3{float:left; width:30%;}
+			.widget_block4{float:right; clear:both;padding-right:20px;}
+			.widget_text{color: rgb(96, 96, 96);font:bold 12px arial;}
+			.widget_clear{clear:both;}
+			.smallfont {font-size:11px; padding-left:33px; font-family:arial;}
+			.editModeElement {display:none;}
+			.viewModeElement {display:inline; margin-right:5px;}
+			#commPrefNewEmailInput {margin-left:40px;}
+			.widget_block5{clear:both;padding-left:478px;}
+			.widget_block6{float:right;margin-right:0px;}
+			.widget_block7{float:right;margin-right:-30px; margin-top:-22px;}
+			.widget_title{font: bold 16px arial; line-height: 1.8;}
+			.widget_title_description{ font:12px arial; line-height:2.0;}
+			.thin_border {border:1px solid;height:91px; width:718px;}
+			.widget_blockcontinuos{float:left;width:65%}
+			.giftmembership_blockcontinuos{float:left;width:730px}
+			.widget_dottedline{display:block;clear:both;border-top:1px dashed #ccc;height:20px}
+			.widget_dashedline{clear:both;border-bottom:1px solid #808080;padding-bottom:20px; width:720px;}
+			.widget_solidline{display:block;clear:both;border-top:2px solid #808080;}
+			.widget_thinline{display:block;clear:both;border-top:1px solid #808080;height:20px}
+			#popup_content{font-size: 14px;padding-left:25px;padding-top:20px;}
+			.address_edit{padding-bottom:7px;}
+			
+			/*Membership Sign In Information*/			
+			.crmSignIn_marginBot{margin-bottom:13px;}
+			.crmSignIn_marginBot10{margin-bottom:10px;}
+			.crmSignIn_input{width:230px;height:25px !important; font-size:14px;  font-family:arial; line-height:20px !important;}
+			.crmSignIn_grayCopyPadding{padding:10px;}
+			.crmSignIn_successContainer{padding-top:10px;display:none;}
+			.crmSignIn_successLeft{height:20px;width:20px;background-size: 20px !important;float:left;}
+			.crmSignIn_successLast{color:#006633 !important;padding-left:10px;float:left;}
+			
+			/*Membership Crm Information Widget*/
+			.crmInfo_fontSpacing{letter-spacing:1px;}
+			.crmInfo_unknownCard{background-repeat:no-repeat;background-size:100%;background-image: url(/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/MembershipCardUnknown.png);}
+			.crmInfo_shield{width:70px;height:70px;background-repeat:no-repeat;background-size:100%;background-image: url(/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/VerificationShield.png);}
+			.crmInfo_verifiedNope{width:20px;height:20px;background-repeat:no-repeat;background-size:100%;background-image: url(/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/VerificationNope.png);}
+			.crmInfo_card_placeholder{width:70px;height:43px;display:inline-block;}
+			.crmInfo_mini_button1{padding-top:15px;}
+			.crmInfo_mini_button2{padding-top:15px;padding-left:20px}
+			.crmInfo_input{width:200px;height:25px !important; font-size:14px;  font-family:arial; line-height:20px !important}
+			.crmInfo_copy{padding:10px;}
+			.crmInfo_paddingLeft{padding-left:10px;}
+			.crmInfo_paddingTop{padding-top:10px;}
+			.crmInfo_paddingBot{padding-bottom:4px;}
+			.crmInfo_width40{width:40%;}
+			.crmInfo_verifiedNopeText{padding-left:5px;color:rgb(225, 57, 61);font-size:16px;font-weight:bold;}
+			.crmInfo_verifiedYup{width:20px;height:20px;background-repeat:no-repeat;background-size:100%;background-image: url(/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/VerificationShield.png);}
+			.crmInfo_verifiedYupText{padding-left:5px;color:rgb(25, 123, 48);font-size:16px;font-weight:bold;}
+			.crmInfo_basic{background-repeat:no-repeat;background-size:100%; background-image: url(/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/MembershipCardGold.gif);}
+			.crmInfo_businesss{background-repeat:no-repeat;background-size:100%; background-image: url(/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/MembershipCardBusiness.png);}
+			.crmInfo_executive{background-repeat:no-repeat;background-size:100%; background-image: url(/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/MembershipCardExecutive.png);}
+			.crmInfo_successYup{width:20px;height:20px;background-repeat:no-repeat;background-size:100%;background-image: url(/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/SuccessIcon.png);}
+			
+			/*Membership Crm Caller Info Widget*/
+			.crmCallerInfo_paddingBot{padding-bottom:4px;}
+			.crmCallerInfo_paddingBot13{padding-bottom:13px;}
+			.crmCallerInfo_input{width:220px;height:25px !important; font-size:14px;  font-family:arial; line-height:20px !important}
+			.crmCallerInfo_inputZip{width:100px;height:25px !important; font-size:14px;  font-family:arial; line-height:20px !important}
+			.crmCallerInfo_dropDown{width:150px;height:25px !important; font-family:arial !important; font-size:14px !important; padding:0px;}
+			.crmCallerInfo_center{width: 90%;margin: 0 auto;}
+			.crmCallerInfo_paddingLeftRight{padding-left:10px;padding-right:10px;}
+			.crmCallerInfo_padding{padding:10px;}
+			.crmCallerInfo_paddingGray{padding-left:10px;padding-right:10px;padding-top:10px;}
+			.crmCallerInfo_marginBot{margin-bottom:15px;}
+			.crmCallerInfo_editDob{width:70px;margin-right:10px;}
+			.crmCallerInfo_editDobLast{width:70px;}
+			
+			/*Membership Crm Business Widget*/
+			.crmBusiness_blockDataParent{display:table-row;height:100%;}
+			.crmBusiness_blockDataLeft{width:235px;display:table-cell;height:100%;padding-right:10px;}
+			.crmBusiness_blockDataLast{vertical-align:top;height:100%;display:table-cell;}
+			.crmBusiness_copy{padding:10px;}
+			.crmBusiness_edit_paddingBot{padding-bottom:4px;}
+			.crmBusiness_edit_paddingBot13{padding-bottom:13px;}
+			.crmBusiness_input{width:220px;height:25px !important; font-size:14px;  font-family:arial; line-height:20px !important}
+			.crmBusiness_inputZip{width:100px;height:25px !important; font-size:14px;  font-family:arial; line-height:20px !important}
+			
+			/*Renew - Upgrade Membership Widget*/
+			.renew_copy{padding:10px;}
+			.renew_card_placeholder{width:70px;height:43px;display:inline-block;}
+			.renew_mini_container{height:70px;margin-top:5px;margin-bottom:5px;margin-top:10px;}
+			.renew_mini_container_bottom{height:82px;position:relative;margin-top:10px;width:230px;}
+			.renew_mini_container_subcontainer{overflow:auto;white-space:nowrap;}
+			.renew_mini_container_bottom_content{bottom:0;position:absolute;margin-bottom:20px;}
+			.renew_mini_container_copy{display:inline-block;width:150px;margin-left:10px;overflow:auto;white-space:normal;}
+			.renew_scroll_box{height:300px;overflow-y: scroll;border: 1px solid rgb(224, 224, 224);padding:5px;padding: 5px;margin-top:10px;margin-bottom:10px;}
+			.renew_image_basic{background-repeat:no-repeat;background-size:100%; background-image: url(/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/MembershipCardGold.gif);}
+			.renew_image_businesss{background-repeat:no-repeat;background-size:100%; background-image: url(/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/MembershipCardBusiness.png);}
+			.renew_image_executive{background-repeat:no-repeat;background-size:100%; background-image: url(/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/MembershipCardExecutive.png);}
+			.renew_image_executive_big{width:144px;height:90px;}
+			.renew_package_blockDataParent{display:table-row;height:100%;}
+			.renew_package_blockDataLeft{width:330px;display:table-cell;height:100%;padding-right:10px;padding-left: 15px !important; padding-top: 15px !important;}
+			.renew_package_blockDataLast{vertical-align:top;height:100%;display:table-cell;}			
+			.renew_button{height:55px !important;width:200px !important; vertical-align:middle; display:table-cell;}
+			.renew_marginLeft{margin-left:20px;}
+			.renew_maginBot{margin-bottom:10px;}
+			.renew_maginBot5{margin-bottom:5px;}
+			.renew_maginBot25{margin-bottom:25px;}
+			.renew_maginTop{margin-top:20px;}
+			.renew_packageViewLeft{float:left;width:230px;}
+			.renew_packageViewRight{float:left;width:70px;}
+			.renew_green{color:#197b30;}
+			.renew_bold{font-weight:bold;}
+			.renew_total{margin-bottom:10px;text-align:right;padding-right:50px;}
+			
+			/* Affiliate add widget */
+			.membershipCrmAddAffiliate_input{width:230px;height:25px !important; font-size:14px;  font-family:arial; line-height:20px !important}
+			.membershipCrmAddAffiliate_inputSmall{width:75px;height:25px !important; font-size:14px;  font-family:arial; line-height:20px !important}
+			.membershipCrmAddAffiliate_copy{padding:10px;}
+			.membershipCrmAddAffiliate_paddingBot{padding-bottom:4px;}
+			.membershipCrmAddAffiliate_paddingBot13{padding-bottom:8px;}
+			.membershipCrmAddAffiliate_marginBot{margin-bottom:15px;}
+			.membershipCrmAddAffiliate_dropDown{width:150px;height:25px !important; font-family:arial !important; font-size:14px !important; padding:0px;}
+			.membershipCrmAddAffiliate_editDob{width:70px;margin-right:10px;}
+			.membershipCrmAddAffiliate_editDobLast{width:70px;}
+			
+			/*Membership Verification Widget*/
+			#MembershipAuthentication{width:550px;height:350px;border:2px solid rgb(96, 96, 96);}
+			#ValidateMembership{width:502px;height:200px;background-color: #E0E0E0;}
+			/*#validate_membership{background-image:url("/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/Membership_NotValidated.png");width:730px;height:270px;}*/
+			#validate_membership{width:730px;height:270px;border:1px solid rgb(96, 96, 96);}
+			#validateMembershipButton{position:absolute;left:577px;top:222px;width:160px;height:30px;}
+			.modal-background {opacity: .50;-webkit-opacity: .5;-moz-opacity: .5; filter: alpha(opacity=50); z-index: 1000;}
+			
+			.popup_header {margin-left:25px; margin-top:30px;}
+			.popup_text {margin-left:10px; margin-top:15px;}
+			.popup_header_text{font-size: 18px;font-weight: bold;}
+			.popup_verification_header_text{font-size: 18px;}
+			
+			.popup_header h2{font-size:18px;font-style:none;}
+			#verification_question{margin-left:100px;margin-top:30px;font-size:18px;}
+			#verification_answer_options{margin-top:10px;font-size:16px;margin-left:25px;}
+    		.verification_answer{margin-top:10px;margin-left:70px;border:none;}
+    		#verification_answer_submit {float:right;margin-right:30px;;margin-top:15px;margin-bottom:15px;}
+    		.memberVerificationBlock{float:left;width:310px;margin:10px 10px 25px 10px;}
+    		.memberVerificationBlockLast{float:left;width:170px;height:375px;}
+    		.memberVerificationText{font-size:13px;display:block;padding: 5px 0 5px 0;}
+    		.memberVerificationText_Bold{font-weight:bold;font-size:13px;}
+    		.memberVerification_Input{width:220px;}
+    		.memberVerificationText label{text-transform: none!important;font-size:13px!important}
+    		.memberVerificationSheild{margin:25px 10px;}
+    		
+    		.memberRenewBlock{float:left;width:64%;height:150px;padding:15px;}
+    		.memberRenewBlockLast{float:left;width:30%;height:239px;}
+    		
+    		.verification_save_cancel_buttons {float:right;margin-top:20px;margin-right:10px;margin-bottom:10px;}
+    		
+    		#verification_result {margin-top:50px;margin-bottom:50px;margin-left:20px;margin-right:20px;}
+			
+			/*Membership Left Navigation Widget*/
+			.member_active ul.left-navigation-list li            {text-indent: 0px !important;padding-left: 15px !important;background-image:none !important;background-color:#efefef !important;border-top:1px solid gray;                              border-right:1px solid gray;border-left:1px solid gray;}
+			.member_active ul.left-navigation-list li:last-child {background-image:none !important;background-color:#efefef !important;border-top:1px solid gray; border-bottom:1px solid gray;border-right:1px solid gray;border-left:1px solid gray;}
+			.member_active ul.left-navigation-list li.active a {background-image:none !important;background-color:#0060a9 !important;}
+			.member_active ul.left-navigation-list li.active {background-image:none !important;background-color:#0060a9 !important;}
+			.member_active ul.left-navigation-list li a {font-weight:normal !important;font-size:14px !important;line-height:2.35 !important;background:#efefef !important;}
+			.member_active ul.left-navigation-list li:hover{background-image:none !important;background-color:#3d81bb !important;color:white;}
+			.member_active ul.left-navigation-list li:hover a {color:white;background-color:#3d81bb !important;text-decoration: none;}
+			#left_nav ul.left-navigation-list.crm-list li{line-height: 44px !important;}
+			#left_nav ul.left-navigation-list.crm-list li.active a{line-height: 44px !important;}
+			
+			/* MEMBERSHIP APPLICATION WIDGET */
+			#MemberAddressBookForm {padding-left:5px;}
+			/*.memberApplication {width: 968px;margin: 0 auto;padding-bottom: 10px;}*/		
+			.memberApplication.subtitle {font-size: 14px;text-align: justify;width: 968px;padding-bottom: 25px;}		
+			#MemberAddressBookForm .submit-row {margin: 0 0px 10px !important;}
+			.middleNameText {width:20px !important;	}
+			.form-item select.minSelect {width:75px;}
+    		#MemberAddressBookForm .memberApplicationAddressBook {}
+    		#MemberAddressBookForm .memberApplicationBusinessAddress {width: 450px;}
+    		.nonEditableField {	background-color: #F0F0EA;border: 1px solid #DBDBDB;height: 23px;line-height: 23px;padding: 0 5px;color: #333333;width:188px;height:23px;margin-right: 10px;}
+    		#MemberAddressBookForm h1.title {width: 600px;}
+    		.memberApplicationFreeHouseHold .desc {font-size: 14px;text-align: justify; padding-bottom: 20px;}
+    		.memberApplicationFreeHouseHold h1.title {color: black;font-size: 14px;font-weight: bold;width: 500px;}
+    		.form-item.normalSize { font-size: 14px !important }
+    		.form-item.normalSize label:first-child { font-size: 14px !important }
+    		
+    		/* MEMBERSHIP APPLICATION AFFILIATE WIDGET */
+    		.application_affiliate_text{display:block;font-size:20px;}
+    		.membershipApplicationAffiliate { margin-bottom: 6px; }
+    		.affiliateView.subtitle { margin-bottom: 10px }
+    		#addAffiliateButton { margin-top: 10px}
+    		#affiliateErrorContainer { width: 100%;}
+
+    		/* EMPLOYEE ADDON WIDGET */
+    		.empaddon_remove_content{ padding-right:20px; float:right;}
+    		.empaddon_add_wrapper{ float:right;padding-right:20px;}
+    		.empaddon_savecancel_wrapper{ float:right;}
+    		#empaddon_cancel{padding-right:10px;}
+    		.addon_block{border-bottom:1px solid; border-color:#ccc; display: block;}
+    		
+    		/*AUTO RENEW WIDGET */
+    		.widget_continuoustext{font-size:15px; font-family:arial;}
+    		.popup_continuoustext{font-size:14px; padding-bottom:40px;}
+    		#auto_renew_card_info{padding-top:20px;}
+    		.auto_renew_setup_button_group{float:right;padding-top:50px;}
+    		.remove_renew_continue{float:right;padding-top:35px;}
+    		.continuous_text{font-size:14px; padding-bottom:27px;}
+    		.renew_employee_text{font-weight: bold; font-size: 15px; padding-top:20px;}
+    		#autorenew_button_group{margin-top:70px;}
+    		#cardSubmitSuccess{font-weight:bold;}
+    		#cardRemoveSuccess{font-weight:bold;}
+    		.auto_renew_edit_separator{margin-top:35px;margin-bottom:35px;}
+    		    		
+    		.clear {clear:both;}	
+			.floatLeft{float:left;}
+			.floatRight{float:right;}
+    		.widget_header_text{display:block ;font-size:14px !important;text-transform:uppercase;margin-top:15px;}
+    		.widget_header_text_with_hint{display:block;font-size:14px;float:left;}
+    		.header_hint{float:left;}
+    		.header_hint a{font-family: Trebuchet MS;font-size: 10px;color: #808080 !important; text-decoration: none !important; padding-left:8px;display:block;}
+			.upgrade_membership_text{display:block;font-weight:bold;padding-bottom:20px;font-size:14px;}
+			.upgradewidget_annualfee{float:left;width:50%;}
+			.upgradewidget_upgradecost{float:left;}
+			.upgradewidget_right_wrapper{padding-left:30px;}
+			.gift_membership_headertext{display:block;padding-bottom:20px;font-weight:bold;font-size:14px;font-family: Arial;}
+			.gift_membership_offertext{display:block;padding-bottom:20px;font-size:14px;font-family: Arial;}
+			#giftUpgradeMembershipButton{padding-left:10px;}
+			.membership_mailingaddress_header{display:block;color: #606060;font:bold 12px arial;padding-bottom:5px;}
+			.membership_info_text{display:block;font-size:13px;line-height:1.8; padding-bottom:15px;}
+			.membership_info_text_alt{display:block;font-size:13px;line-height:1.7;}
+			.inputbox_bottompad{padding-bottom:20px;}
+			.form-item-left{float:left;}
+			.form-item-right{float:left; padding-bottom:10px; padding-left:57px;}
+			.temporaryCard{
+				display:none;
+			}
+			
+			.multiple_membership_container{background-color:#dbdbdb;border:solid;border-width:1px;padding:10px;overflow:hidden;margin-bottom:15px;}
+			.multiple_membership_MultiCardList{border:solid;border-width:1px;float:left;margin-top:5px;padding: 0px 0px 0px 0;}
+			.multiple_image_container{float:left;margin-left:23px;height:43px;width:70px;margin-top:20px;}
+			.multiple_membership_selectbox{width:420px !important;font-family:arial !important; font-size:14px !important;}
+			.multiple_membership_block1{float:left;width:65%;}
+			.multiple_membership_h2{padding-bottom:15px;padding-top:5px;}
+			.multiple_membership_basic{background-repeat:no-repeat;background-size:100%; background-image: url(/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/MembershipCardGold.gif);}
+			.multiple_membership_businesss{background-repeat:no-repeat;background-size:100%; background-image: url(/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/MembershipCardBusiness.png);}
+			.multiple_membership_executive{background-repeat:no-repeat;background-size:100%; background-image: url(/wcsstore/CostcoGLOBALSAS/images/Widgets/membership/MembershipCardExecutive.png);}
+			
+			img.fnone{width:32px;height:26px;overflow:visible;display:inline;}
+			.ddChild{height:auto !important;width:374px !important}
+			.ddlabel{font-size:14px;}
+		
+    /* > [12] =RATINGS
+            ----------------------------------------------- */
+            
+    /* > [13] =PRODUCTS
+            ----------------------------------------------- */
+          
+                    
+    /* > [14] =CATEGORIES
+            ----------------------------------------------- */
+    
+    /* > [15] =FEATURES
+            ----------------------------------------------- */
+        
+    /* > [16] =REVIEWS
+            ----------------------------------------------- */
+            
+    /* > [17] =HOMEPAGE
+            ----------------------------------------------- */

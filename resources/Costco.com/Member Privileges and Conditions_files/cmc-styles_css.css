@@ -1,0 +1,55 @@
+.espot-243 .featureItemsTable li{
+	position: relative;
+	height: 168px;
+}
+.espot-243 .featureItemsTable li img{
+	position: absolute;
+	z-index: 1;
+}
+.espot-243 .featureItemsTable li img.borderBottom{
+	position: static;
+	padding: 3px 0px 1px 0;
+}
+.espot-243 .featureItemsTable li img.chevron{
+	display: inline;
+	position: static;
+}
+.espot-243 .featureItemsTable li .text{
+	position: absolute;
+	z-index: 2;
+	padding: 14px;
+}
+.espot-243 .featureItemsTable li .text h3{
+	font-family: Georgia;
+	font-weight: normal;
+	font-size: 18px;
+	color: #222222;
+}
+.espot-243 .featureItemsTable li .text span{
+	font-family: Trebuchet MS;
+	font-weight: normal;
+	font-size: 19px;
+	color: #0060a9;
+	height: 19px;
+	vertical-align: top;
+}
+.espot-243 .featureItemsTable li .text span.upto{
+	font-size:13px;
+	text-transform: uppercase;
+}
+.espot-243 .featureItemsTable li .text span.currency{
+	font-size:10px;
+}
+.espot-243 .featureItemsTable li .text span.value{
+	text-transform: uppercase;
+}
+.espot-243 .featureItemsTable li .text div.shopNow{
+	font-size:10px;
+	color: #0060a9;
+	text-transform: uppercase;
+}
+.espot-243 .featureItemsTable li .text div.whileSuppliesLast{
+	font-size:10px;
+	color: #666666;
+	text-transform: uppercase;
+}
