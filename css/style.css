@@ -15,7 +15,7 @@ html, body, button {
 	-moz-osx-font-smoothing:grayscale;
 	-webkit-font-smoothing:antialiased;
 	font-smoothing:antialiased;font-family:Verdana,Arial,Sans serif,"Source Sans Pro",sans-serif;
-} 
+}
 
 /*
  * #E4DDD5	#E24421	#F15D22	#4568C0
@@ -126,6 +126,9 @@ nav a {
 	padding:.3rem;
 	color:#444;
 	font-family:Avenir,Arial,sans-serif;
+}
+nav.breadcrumbs a {
+	display:block;
 }
 
 /*
@@ -384,7 +387,7 @@ a.linkAfter:after{
 	margin-top:14%;
 	margin-left:-11%;
 	opacity:0.5;
-	background:transparent url('https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/screenshots/youtube/youtube_play.png#978ddcbde59c5b03dca7dd1c5b55e459aa3e469c') no-repeat;
+	background:transparent url('https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/screenshots/youtube.com/youtube_play.png#6152b7573eb96597c520d794254a87075effa869') no-repeat;
 }
 
 .pulse {
