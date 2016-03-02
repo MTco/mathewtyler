@@ -169,12 +169,12 @@
 		}
 
 	li h2 {
-		background:unset;
-		color:#444;
-		border:0;
+		background:unset !important;
+		color:#444 !important;
+		border:0 !important;
 	}
 	.policyList {
-		display:inline-block;
+		display:inline-block !important;
 	}
 
 	.no-print,.print-no {
