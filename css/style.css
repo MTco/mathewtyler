@@ -140,6 +140,43 @@ nav.breadcrumbs a {
 .containerz ,.container ,header,main ,aside ,article ,footer {background-color: rgba(45, 53, 62, 0.9);}
 */
 
+.socialize .the-icons {
+	width:16%;
+}
+.qrOverlay {
+	position:absolute;
+	top:0;
+	left:-100vw;
+	width:1px;
+	height:1px;
+	margin:0 auto;
+	display:none;
+	background:#000;
+	align-items:center;
+	text-align:center;
+	z-index:35000;
+}
+.qrOverlay a {
+	width:96vw;
+	margin:0 auto;
+	display:flex;
+	text-align:center;
+	align-items:center;
+}
+.qrShare {
+	width:auto;
+	height:100%;
+	margin:0 auto;
+	padding:6%;
+}
+input[type=checkbox]:checked ~ .qrOverlay {
+	top:-85vh;
+	left:0;
+	width:100vw;
+	height:85vh;
+	display:flex;
+}
+
 .push {
 	height:165px;
 }
