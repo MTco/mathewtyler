@@ -511,47 +511,6 @@ a.linkAfter:after{
 	margin-bottom:0;
 }
 
-.svg-android-icon {
-	background:url('https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/ui/svg/social-sprite.svg#0ca6bbc5f8cbc322a2860f9dbc7f383de8434df1') 0 49.48484848484848% no-repeat;
-	width:28.07px;
-	height:33px;
-}
-.svg-apple {
-	background:url('https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/ui/svg/social-sprite.svg#0ca6bbc5f8cbc322a2860f9dbc7f383de8434df1') 43.39336081579518% 0 no-repeat;
-	width:26.82px;
-	height:33px;
-}
-.svg-delicious {
-	background:url('https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/ui/svg/social-sprite.svg#0ca6bbc5f8cbc322a2860f9dbc7f383de8434df1') 77.69767441860463% 0 no-repeat;
-	width:33px;
-	height:33px;
-}
-.svg-facebook {
-	background:url('https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/ui/svg/social-sprite.svg#0ca6bbc5f8cbc322a2860f9dbc7f383de8434df1') 0 99.48484848484848% no-repeat;
-	width:33px;
-	height:33px;
-}
-.svg-pinterest {
-	background:url('https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/ui/svg/social-sprite.svg#0ca6bbc5f8cbc322a2860f9dbc7f383de8434df1') 38.372093023255815% 99.48484848484848% no-repeat;
-	width:33px;
-	height:33px;
-}
-.svg-reddit {
-	background:url('https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/ui/svg/social-sprite.svg#0ca6bbc5f8cbc322a2860f9dbc7f383de8434df1') 69.22592825676526% 99.48484848484848% no-repeat;
-	width:23.66px;
-	height:33px;
-}
-.svg-tumblr-icon {
-	background:url('https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/ui/svg/social-sprite.svg#0ca6bbc5f8cbc322a2860f9dbc7f383de8434df1') 99.7601439136518% 0 no-repeat;
-	width:18.94px;
-	height:33px;
-}
-.svg-twitter {
-	background:url('https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/ui/svg/social-sprite.svg#0ca6bbc5f8cbc322a2860f9dbc7f383de8434df1') 0 0 no-repeat;
-	width:40px;
-	height:32.66px;
-}
-
 	.zocial{
 		color:#fff !important;
 	}
