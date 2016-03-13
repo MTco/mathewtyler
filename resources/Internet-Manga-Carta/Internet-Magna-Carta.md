@@ -13,7 +13,7 @@ THE WEB WE WANT WILL...
 9. not be censored by the government.
 10. not sell our personal information and preferences for money, and will make it clearer if the company/Website intends to do so.
 
-(http://dlike.co/duHoPQ1)[Source]
+[Source](http://dlike.co/duHoPQ1)
 
-(https://en.wikipedia.org/wiki/The_Freedom_Association#Magna_Carta_in_the_21st_Century)
-(https://en.wikipedia.org/wiki/Magna_Carta_for_Philippine_Internet_Freedom)
+https://en.wikipedia.org/wiki/The_Freedom_Association#Magna_Carta_in_the_21st_Century
+https://en.wikipedia.org/wiki/Magna_Carta_for_Philippine_Internet_Freedom
