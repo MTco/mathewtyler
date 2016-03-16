@@ -13,8 +13,12 @@
 9. not be censored by the government.
 10. not sell our personal information and preferences for money, and will make it clearer if the company/Website intends to do so.
 
-<p style="text-align:center;"><a href="https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/resources/Internet-Magna-Carta/Internet-Bill-Of-Rights.jpg#324642e20f4c148a32edc97663ae5c606edd74d5" title="Internet Bill of Rights"><img style="height:500px;" src="https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/resources/Internet-Magna-Carta/Internet-Bill-Of-Rights.jpg#324642e20f4c148a32edc97663ae5c606edd74d5" alt="Internet Bill of Rights" /></a></p>
+<p align="center">
+<a href="https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/resources/Internet-Magna-Carta/Internet-Bill-Of-Rights.jpg#324642e20f4c148a32edc97663ae5c606edd74d5" title="Internet Bill of Rights"><img height="500px" align="center" src="https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/resources/Internet-Magna-Carta/Internet-Bill-Of-Rights.jpg#324642e20f4c148a32edc97663ae5c606edd74d5" alt="Internet Bill of Rights" /></a>
+</p>
+
 ---
+
 * [Source](http://dlike.co/duHoPQ1)
-* https://en.wikipedia.org/wiki/The\_Freedom\_Association\#Magna\_Carta\_in\_the\_21st\_Century
-* https://en.wikipedia.org/wiki/Magna\_Carta\_for\_Philippine\_Internet\_Freedom
+* https://en.wikipedia.org/wiki/The_Freedom_Association#Magna_Carta_in_the_21st_Century
+* https://en.wikipedia.org/wiki/Magna_Carta_for_Philippine_Internet_Freedom
