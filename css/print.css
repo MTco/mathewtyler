@@ -1,14 +1,34 @@
 @charset 'UTF-8';
 @media print {
-	body,* {
-		color:#000 !important; /*color:#fefefe !important;*/
-		text-shadow:unset !important;
-		word-wrap:break-word;
+	*,
+	*:before,
+	*:after {
+		background:transparent !important;
+		color:#000 !important;
+		box-shadow:none !important;
+		text-shadow:none !important;
+		word-wrap:break-word !important;
 	}
-	main ,article {
-		float:unset;
+	* {
 		min-height:unset !important;
-		border:unset !important;
+	}
+
+	#main,main {
+		float:unset;
+		min-height:unset;
+		margin-top:unset;
+		display:block;
+	}
+	article {
+		float:unset;
+		width:unset;
+		min-height:unset;
+		margin-top:unset;
+		margin-left:10px;
+		margin-right:10px;
+		padding-left:5%;
+		padding-right:0px;
+		border:unset;
 	}
 	pre code {
 		page-break-after:always;

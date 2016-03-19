@@ -207,7 +207,7 @@ footer {
 	box-shadow:inset 0 1px 2px #E5E5E5;
 }
 #wrapper > div{
-	min-height:96vh;
+	/*min-height:96vh;*/
 	background:#fafafa;
 }
 
