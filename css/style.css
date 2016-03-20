@@ -187,8 +187,8 @@ footer,.push {
 
 footer {
 	margin-top:40px;
-	padding-top:40px;
-	padding-bottom:65px;
+	padding-top:1vh;
+	padding-bottom:6vh;
 	color:#777;
 	text-align:left;
 	font-size:0.8em;
