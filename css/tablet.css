@@ -1,5 +1,5 @@
 @charset 'UTF-8';
-@media (min-width:768px) and (max-width:959px) {
+@media (min-width:768px) and (max-width:999px) {
 	html {
 		font-size:14px;
 	}
