@@ -1,5 +1,5 @@
 @charset 'UTF-8';
-@media (min-width:768px) and (max-width:1199px) {
+@media (min-width:768px) and (max-width:959px) {
 	html {
 		font-size:14px;
 	}
@@ -18,58 +18,70 @@
 		width:752px;
 		margin-left:8px;
 		margin-right:8px;
-		padding-left:0px;
-		padding-right:0px;
+		padding-left:0;
+		padding-right:0;
 	}
 		header p a{
 			margin:3% 1%;
 		}
-		.fpotusSeal{
+		.headerLogo {
+			flex:3 6 50vw;
+			order:2;
+		}
+		.fpotusSeal {
+			order:1;
+		}
+		.fpotusSeal img {
 			max-width:96px;
 		}
 	article {
-		float:left;
 		width:90%;
 		margin-left:8px;
 		margin-right:8px;
 		padding-left:5%;
-		padding-right:0px;
+		padding-right:0;
 		flex-shrink:1;
 	}
 	aside {
-		float:left;
 		width:14%;
 		margin-left:8px;
 		margin-right:8px;
-		padding-left:0px;
-		padding-right:0px;
+		padding-left:0;
+		padding-right:0;
 	}
 	footer {
 		float:left;
 		width:752px;
 		margin-left:8px;
 		margin-right:8px;
-		padding-left:0px;
-		padding-right:0px;
+		padding-left:0;
+		padding-right:0;
 	}
 	#main,main {
-		margin-top:1em;
-		margin-top:1rem;
+		margin-top:2em;
+		margin-top:2rem;
 		justify-content:space-around;
 		flex-direction:column;
 	}
 	#menuLink {
 		top:1.25em;
 		top:2.5rem;
-		display:unset;
+		right:0.3em;
+		right:1rem;
+		display:inline-block;
+		font-size:3em;
+		font-size:3rem;
+		order:3;
 	}
 	aside {
 		margin-top:-950px;
 		margin-left:-950px;
 	}
 		#menuToggle:checked ~ aside {
-			margin-top:0;
+			margin-top:0vh;
 			margin-left:6%;
+			margin-bottom:-26em;
+			margin-bottom:-26rem;
 		}
 	.tabletVisible {
 		display:block;

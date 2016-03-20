@@ -143,8 +143,8 @@ header {
 	width:940px;
 	margin-left:10px;
 	margin-right:10px;
-	padding-left:0px;
-	padding-right:0px;
+	padding-left:0;
+	padding-right:0;
 }
 article {
 	float:left;
@@ -155,7 +155,7 @@ article {
 	margin-left:10px;
 	margin-right:10px;
 	padding-left:5%;
-	padding-right:0px;
+	padding-right:0;
 	padding-bottom:1vh;
 	border-left:1px solid #eee;
 }
@@ -164,16 +164,16 @@ aside {
 	width:10%;/*300px;*/
 	margin-left:10px;
 	margin-right:10px;
-	padding-left:0px;
-	padding-right:0px;
+	padding-left:0;
+	padding-right:0;
 }
 footer {
 	float:left;
 	width:940px;
 	margin-left:10px;
 	margin-right:10px;
-	padding-left:0px;
-	padding-right:0px;
+	padding-left:0;
+	padding-right:0;
 }
 article::after{
 	clear:both;
@@ -582,9 +582,9 @@ ul[class*="menu-"] li.selected a:hover {
 	background:#fff;
 	flex-direction:row;
 	align-items:flex-start;
-	transform:translateZ(0px) translate3d(0px, 0px, 0px);
+	transform:translateZ(0) translate3d(0,0,0);
 	transition:all 0.5s ease 0s;
-	box-shadow:0 -3px 3px 0 rgba(0, 0, 0, 0.12);
+	box-shadow:0 -3px 3px 0 rgba(0,0,0,0.12);
 	z-index:350;
 }
 	.socialize .the-icons {
@@ -605,14 +605,12 @@ ul[class*="menu-"] li.selected a:hover {
 	/*
 	float:right;
 	margin-top:0;
-	*/
 	position:fixed;
+	margin-right:2%;
+	right:0;
+	*/
 	top:1.5em;
 	top:3rem;
-	right:0;
-	margin-right:2%;
-	font-size:2em;
-	font-size:2rem;
 	text-decoration:none;
 	background:#fff;
 	z-index:365;
@@ -652,7 +650,11 @@ header,#main,main,nav,footer {
 	flex:1 100%;
 }
 
-.headerLogo{
+.headerLogo {
+	display:inline-block;
+}
+
+.headerLogo img {
 	width:350px;
 	height:49px;
 	margin-top:3%;

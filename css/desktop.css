@@ -1,5 +1,5 @@
 @charset 'UTF-8';
-@media (min-width:1200px) {
+@media (min-width:960px) {
 	html {
 		font-size:16px;
 	}
@@ -18,13 +18,13 @@
 		width:1111.5px;
 		margin-left:14.25px;
 		margin-right:14.25px;
-		padding-left:0px;
-		padding-right:0px;
+		padding-left:0;
+		padding-right:0;
 	}
 		header p a{
 			margin:3% 1%;
 		}
-		.fpotusSeal{
+		.fpotusSeal img {
 			max-width:128px;
 		}
 	article {
@@ -34,23 +34,23 @@
 		margin-left:14.25px;
 		margin-right:14.25px;
 		padding-left:5%;
-		padding-right:0px;
+		padding-right:0;
 	}
 	aside {
 		float:left;
 		width:10%;/*351.5px;*/
 		margin-left:14.25px;
 		margin-right:14.25px;
-		padding-left:0px;
-		padding-right:0px;
+		padding-left:0;
+		padding-right:0;
 	}
 	footer {
 		float:left;
 		width:1111.5px;
 		margin-left:14.25px;
 		margin-right:14.25px;
-		padding-left:0px;
-		padding-right:0px;
+		padding-left:0;
+		padding-right:0;
 	}
 	#menuLink{
 		display:none;

@@ -24,9 +24,21 @@
 		header p a{
 			margin:2% 1%;
 		}
-		.fpotusSeal{
-			max-width:48px;
+		.headerLogo {
+			max-width:65vw;
+			flex:3 6 60vw;
+			order:3;
 		}
+			.headerLogo img {
+				width:70vw;
+				height:auto;
+			}
+		.fpotusSeal {
+			order:2;
+		}
+			.fpotusSeal img {
+				max-width:48px;
+			}
 		header .pageTitleImage{
 			width:84%;
 		}
@@ -34,7 +46,6 @@
 			display:none;
 		}
 	article {
-		float:left;
 		width:90%;
 		margin-left:5%;
 		margin-right:5%;
@@ -44,7 +55,6 @@
 		flex-shrink:1;
 	}
 	aside {
-		float:left;
 		width:50%;
 		margin-top:-950px;
 		margin-left:-950px;
@@ -72,17 +82,16 @@
 	#menuLink {
 		top:0.2em;
 		top:0.5rem;
-		display:unset;
+		font-size:2.5em;
+		font-size:2.5rem;
+		display:inline-block;
+		order:1;
 	}
 	header { order: 1; }
 	article { order: 3; }
 	aside { order: 2; }
 	footer { order: 4; }
 
-	.headerLogo{
-		width:70vw;
-		height:auto;
-	}
 	.mobileVisible {
 		display:block;
 		visibility:visible;
@@ -109,7 +118,7 @@
 		right:0;
 		width:100%;
 		height:50px;
-		transform:translateZ(0px);
+		transform:translateZ(0);
 		transition:transform 0.33s ease 0s;
 		backface-visibility:hidden;
 		z-index:351;
@@ -129,7 +138,7 @@
 			display:table-cell;
 			vertical-align:middle;
 			text-align:center;
-			transform:translateZ(0px) translate3d(0px, 0px, 0px);
+			transform:translateZ(0) translate3d(0,0,0);
 			backface-visibility:hidden;
 		}
 		.header-inner .symbol{
