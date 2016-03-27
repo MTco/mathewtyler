@@ -55,7 +55,7 @@
 		flex-shrink:1;
 	}
 	aside {
-		width:50%;
+		width:50%; /**/
 		margin-top:-950px;
 		margin-left:-950px;
 		margin-right:5%;
