@@ -165,16 +165,11 @@ article {
 aside {
 	float:left;
 	width:10%;/*300px;*/
-	margin-top:-950px;
-	margin-left:-950px;
-	margin-right:5%;
+	margin-left:10px;
+	margin-right:10px;
 	padding-left:0;
 	padding-right:0;
 }
-	#menuToggle:checked ~ aside {
-		margin-top:0;
-		margin-left:6%;
-	}
 footer {
 	float:left;
 	width:940px;
