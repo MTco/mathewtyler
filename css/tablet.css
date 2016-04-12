@@ -34,29 +34,6 @@
 		.fpotusSeal img {
 			max-width:96px;
 		}
-	article {
-		width:90%;
-		margin-left:8px;
-		margin-right:8px;
-		padding-left:5%;
-		padding-right:0;
-		flex-shrink:1;
-	}
-	aside {
-		width:14%;
-		margin-left:8px;
-		margin-right:8px;
-		padding-left:0;
-		padding-right:0;
-	}
-	footer {
-		float:left;
-		width:752px;
-		margin-left:8px;
-		margin-right:8px;
-		padding-left:0;
-		padding-right:0;
-	}
 	#main,main {
 		margin-top:2em;
 		margin-top:2rem;
@@ -74,15 +51,37 @@
 		order:3;
 	}
 	aside {
+		width:14%;
 		margin-top:-950px;
 		margin-left:-950px;
+		margin-right:8px;
+		padding-left:0;
+		padding-right:0;
 	}
 		#menuToggle:checked ~ aside {
-			margin-top:0vh;
-			margin-left:6%;
-			margin-bottom:-26em;
-			margin-bottom:-26rem;
+			margin-top:-1vh;
+			margin-left:6vw;
+			margin-bottom:-23em;
+			margin-bottom:-23rem;
 		}
+	article {
+		width:83%;
+		margin-top:24em;
+		margin-top:24rem;
+		margin-left:8px;
+		margin-right:8px;
+		padding-left:0;
+		padding-right:0;
+		flex-shrink:1;
+	}
+	footer {
+		float:left;
+		width:752px;
+		margin-left:8px;
+		margin-right:8px;
+		padding-left:0;
+		padding-right:0;
+	}
 	.tabletVisible {
 		display:block;
 		visibility:visible;

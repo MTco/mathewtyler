@@ -61,10 +61,12 @@ body,footer{
 }
 
 a {
-	color:#00A0FF; /*#1485CC	#00B4F0	#0473d1	#2d9cfb	#21819C	#4A8EC2; #1D88E7	#22B6ED	#4383DE	#2A6FB0	#4078CD	#6b90da	#1a0dab	#ebeff9	#558be3	#34495E*/
+	color:#267ab7; /*#00A0FF#1485CC	#00B4F0	#0473d1	#2d9cfb	#21819C	#4A8EC2; #1D88E7	#22B6ED	#4383DE	#2A6FB0	#4078CD	#6b90da	#1a0dab	#ebeff9	#558be3	#34495E*/
 	text-decoration:none;
 }
-
+a:visited{
+	color:#1485CC;
+}
 a:focus {
 	outline:1px dotted #828587;
 }
@@ -72,14 +74,14 @@ a:focus {
 a:hover ,a:active {
 	/*#e47911	#C60	#1D9298	#1D9E8C	#a90a08	#FF4D31	#F96F00 #F47C3C #DE1515 	*/
 	/*
-	color:#1D9298;
+	color:#1D9298;#e47911;
 	text-decoration:none;
 	*/
-	color:#e47911;text-decoration:none
+	color:#00aeff;text-decoration:none;
 }
-a:visited{
-	color:#1485CC;
-}
+	a:hover span,a:active span{
+		border-bottom:1px dashed;
+	}
 nav a {
 	display:inline-block;
 	padding:.3em;
@@ -181,7 +183,7 @@ input[type=checkbox]:checked ~ .qrOverlay {
 }
 
 .push {
-	height:165px;
+	height:6vh;
 }
 
 footer,.push {
@@ -189,8 +191,8 @@ footer,.push {
 }
 
 footer {
-	margin-top:40px;
-	padding-top:1vh;
+	margin-top:18vh;
+	padding-top:2vh;
 	padding-bottom:6vh;
 	color:#777;
 	text-align:left;

@@ -11,15 +11,15 @@
 		line-height:140%;
 	}
 	.container {
-		width:100%;
+		width:99vw;
 		margin:0 auto;
 	}
 	header {
-		width:90%;
+		width:90vw;
 		margin:0;
+		margin-top:3%;
 		padding-left:0%;
 		padding-right:0%;
-		margin-top:3%;
 	}
 		header p a{
 			margin:2% 1%;
@@ -46,29 +46,33 @@
 			display:none;
 		}
 	article {
-		width:90%;
-		margin-left:5%;
-		margin-right:5%;
+		width:90vw;
+		margin-left:5vw;
+		margin-right:5vw;
 		padding-left:0%;
 		padding-right:0%;
 		border:0;
 		flex-shrink:1;
 	}
 	aside {
-		width:50%; /**/
+		width:98vw; /**/
 		margin-top:-950px;
 		margin-left:-950px;
-		margin-right:5%;
+		margin-right:5vw;
 		padding-left:0%;
 		padding-right:0%;
 	}
 		#menuToggle:checked ~ aside {
 			margin-top:0;
-			margin-left:6%;
+			margin-left:6vw;
+		}
+		#menuToggle:checked ~ article {
+			margin-top:2em;
+			margin-top:2rem;
 		}
 	footer {
 		float:left;
-		width:90%;
+		width:90vw;
 		margin-left:5%;
 		margin-right:5%;
 		padding-left:0%;
