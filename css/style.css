@@ -332,6 +332,19 @@ li:nth-child(even) h2{
 	color:#fff !important;
 }
 
+.highlight,mark,::-moz-selection,::selection{
+	background:#fff2a8;
+}
+.highlight.red,mark.red,.highlight.red::-moz-selection,.highlight.red::selection{
+	background:#ffb7b7;
+}
+.highlight.blue,mark.blue,.highlight.blue::-moz-selection,.highlight.blue::selection{
+	background:#a8d1ff;
+}
+.highlight.yellow,mark.yellow,.highlight.yellow::-moz-selection,.highlight.yellow::selection{
+	background:#fff2a8;
+}
+
 /*==================================================
  * Effect 6
  * ===============================================*/
