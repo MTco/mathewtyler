@@ -9,7 +9,8 @@ $(function(){
 			didInit=true;
 			$el=$('body',$('html')['0']).first().find(hash).first();
 			tmp=$el.parents('li').first().html();
-			$el.parents('li').first().html('<mark>'+tmp+'</mark>').addClass('highlight yellow').end().parents('ol').first().parents('li').first().find('label').first().trigger('click');
+			$el.parents('li').first().html('<mark>'+tmp+'</mark>').addClass('highlight hlYellow');
+			$el.parents('ol').first().parents('li').first().find('label').first().trigger('click');
 			$el.trigger('click');
 		}
 	}

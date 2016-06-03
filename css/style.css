@@ -332,16 +332,21 @@ li:nth-child(even) h2{
 	color:#fff !important;
 }
 
-.highlight,mark,::-moz-selection,::selection{
+/*
+::-moz-selection,::selection{
 	background:#fff2a8;
 }
-.highlight.red,mark.red,.highlight.red::-moz-selection,.highlight.red::selection{
+*/
+.highlight,mark{
+	background:#fff2a8;
+}
+.highlight.hlRed,mark.hlRed{
 	background:#ffb7b7;
 }
-.highlight.blue,mark.blue,.highlight.blue::-moz-selection,.highlight.blue::selection{
+.highlight.hlBlue,mark.hlBlue{
 	background:#a8d1ff;
 }
-.highlight.yellow,mark.yellow,.highlight.yellow::-moz-selection,.highlight.yellow::selection{
+.highlight.hlYellow,mark.hlYellow{
 	background:#fff2a8;
 }
 
