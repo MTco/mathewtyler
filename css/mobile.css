@@ -63,9 +63,9 @@
 		padding-right:0%;
 	}
 		#menuToggle:checked ~ aside {
-			margin-top:9em;
-			margin-top:9rem;
-			margin-top:30vh;
+			margin-top:8em;
+			margin-top:8rem;
+			margin-top:29vh;
 			margin-left:1em;
 			margin-left:1rem;
 			margin-left:6vw;
@@ -88,12 +88,12 @@
 		margin-top:-6rem;
 		flex-direction:column;
 	}
-	#menuLink {
+	html.js #menuLink,html.no-js #menuLink2 {display:inline-block;}
+	#menuLink,#menuLink2 {
 		top:0.2em;
 		top:0.5rem;
 		font-size:2.5em;
 		font-size:2.5rem;
-		display:inline-block;
 		order:1;
 	}
 	header { order: 1; }

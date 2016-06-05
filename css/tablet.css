@@ -40,12 +40,12 @@
 		justify-content:space-around;
 		flex-direction:column;
 	}
-	#menuLink {
+	html.js #menuLink,html.no-js #menuLink2 {display:inline-block;}
+	#menuLink,#menuLink2 {
 		top:1.25em;
 		top:2.5rem;
 		right:0.3em;
 		right:1rem;
-		display:inline-block;
 		font-size:3em;
 		font-size:3rem;
 		order:3;
