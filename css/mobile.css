@@ -56,13 +56,15 @@
 	}
 	aside {
 		width:98vw; /**/
-		margin-top:-950px;
-		margin-left:-950px;
 		margin-right:5vw;
 		padding-left:0%;
 		padding-right:0%;
 	}
-		#menuToggle:checked ~ aside {
+	html.js aside {
+		margin-top:-950px;
+		margin-left:-950px;
+	}
+		html.js #menuToggle:checked ~ aside,html.no-js aside {
 			margin-top:8em;
 			margin-top:8rem;
 			margin-top:29vh;
@@ -70,7 +72,7 @@
 			margin-left:1rem;
 			margin-left:6vw;
 		}
-		#menuToggle:checked ~ article {
+		html.js #menuToggle:checked ~ article,html.no-js article {
 			margin-top:4em;
 			margin-top:4rem;
 			margin-top:13vh;
