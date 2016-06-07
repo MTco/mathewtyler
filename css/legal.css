@@ -16,4 +16,6 @@ a.legal ,a.legal *{
 .legal.exception ,.legal.exception  *,
 .legal_exception ,legal_exception *{
 	text-transform:inherit !important;
+	background:unset !important;
+	color:unset !important;
 }
