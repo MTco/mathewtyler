@@ -1,5 +1,4 @@
 @charset 'UTF-8';
-
 .legal ,.legal *{
 	background:#fff !important;
 	color:#000 !important;
@@ -16,6 +15,8 @@ a.legal ,a.legal *{
 .legal.exception ,.legal.exception  *,
 .legal_exception ,legal_exception *{
 	text-transform:inherit !important;
-	background:unset !important;
-	color:unset !important;
+	background:inherit !important;
+	color:inherit !important;
+	font-size:inherit !important;
+	text-transform:inherit !important;
 }
