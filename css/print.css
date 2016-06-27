@@ -8,6 +8,7 @@
 		box-shadow:none !important;
 		text-shadow:none !important;
 		word-wrap:break-word !important;
+		border:unset;
 	}
 	* {
 		min-height:unset !important;
@@ -19,14 +20,21 @@
 		margin-top:unset;
 		display:block;
 	}
+	header,article,footer{
+		width:96vw;
+	}
+	header{
+		margin-bottom:0.5em;
+		margin-bottom:0.5rem;
+		padding-bottom:0.5em;
+		padding-bottom:0.5rem;
+		border-bottom:1px solid #000;
+	}
 	article {
 		float:unset;
 		min-height:unset;
-		margin-top:unset;
-		margin-left:10px;
-		margin-right:10px;
-		padding-left:5%;
-		padding-right:0px;
+		margin:0 10px;
+		padding:0 4%;
 		border:unset;
 	}
 	pre code {
