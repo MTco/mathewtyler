@@ -4,7 +4,7 @@
  *	File:basic.css
  *	http://mathewtyler.co
  *
- *	Copyright 2015 Mathew Tyler.  All rights reserved.
+ *	Copyright 2016 Mathew Tyler.  All rights reserved.
  *
 */
 
@@ -129,6 +129,17 @@
 .clear_both,.cb{
 	clear:both;
 }
+.clearfix:before,
+.clearfix:after {
+	content:"";
+	display:table;
+}
+.clearfix:after {
+	clear:both;
+}
+.clearfix {
+	zoom:1; /* For IE 6/7 (trigger hasLayout) */
+}
 .center{
 	margin:0 auto;
 }
@@ -141,6 +152,19 @@
 
 .font_165p{
 	font-size:165%;
+}
+pre:after {
+	position:absolute;
+	top:22px;
+	right:12px;
+	content:attr(rel);
+}
+
+/*Add delimiters between navigation items*/
+.menu li:before {
+	position:relative;
+	left:-1px;
+	content:"// ";
 }
 
 .help_cursor{
