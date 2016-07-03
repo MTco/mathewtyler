@@ -740,17 +740,18 @@ q::after {
 .quote .txt span{margin-left:2em;margin-left:2rem;}
 .quote .txt::before,q::before,.quote .txt::after,q::after {
 	font-size:3.5em;font-size:3.5rem;
+	display:inline-block;
 }
 /*
  * http://blog.teamtreehouse.com/5-useful-css-selectors
  */
 .quote .txt::before,q::before {
 	flex:1 1 auto;
-	padding-top:0.5em;padding-top:0.5rem;
 	content:"\275D";  /* unicode icon for opening mark */
 }
 .quote .txt::after,q::after {
 	flex:0 1 auto;
+	margin-top:0.3em;margin-top:0.3rem;
 	content:"\275E"; /* unicode icon for closing mark */
 }
 
