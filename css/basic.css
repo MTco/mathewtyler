@@ -737,7 +737,6 @@ q::after {
 	align-content:center;
 	justify-content:end;
 }
-.quote .txt span{margin-left:2em;margin-left:2rem;}
 .quote .txt::before,q::before,.quote .txt::after,q::after {
 	font-size:3.5em;font-size:3.5rem;
 	display:inline-block;
@@ -751,7 +750,7 @@ q::after {
 }
 .quote .txt::after,q::after {
 	flex:0 1 auto;
-	margin-top:0.3em;margin-top:0.3rem;
+	margin-top:0.3em;margin-top:1rem;
 	content:"\275E"; /* unicode icon for closing mark */
 }
 
