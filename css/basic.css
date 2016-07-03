@@ -729,7 +729,7 @@ q::before {
 q::after {
 	content:close-quote;
 }
-*/
+ */
 
 .quote .txt{
 	position:relative;
