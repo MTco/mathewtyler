@@ -734,26 +734,28 @@ q::after {
 /*
  * http://blog.teamtreehouse.com/5-useful-css-selectors
  */
-blockquote::before,q::before {
+blockquote::before,q::before,.quote::before {
 	content:"\275D";  /* unicode icon for opening mark */
 	margin-right:20px;
 }
-blockquote::after,q::after {
+blockquote::after,q::after,.quote::after {
 	content:"\275E"; /* unicode icon for closing mark */
 	margin-left:20px;
 }
 
 .pullquote {
-	padding:2.6rem 2.2rem 2rem 3.6rem;
+	margin:0 2em 2em 0;
 	margin:0 2rem 2rem 0;
-	font-family:Questrial, Helvetica, sans-serif;
+	padding:2.6em 2.2em 2em 3.6em;
+	padding:2.6rem 2.2rem 2rem 3.6rem;
+	font-family:Questrial, Helvetica, sans-serif,"Monotype Corsiva","Apple Chancery","URW Chancery L",cursive;
 	font-size:1.8rem;
 	line-height:1.4;
 	-webkit-font-smoothing:antialiased;
 	border:1px solid #eee;
 	box-shadow:0 0 5px #2F2F2F;
-	font-family:"Monotype Corsiva","Apple Chancery","URW Chancery L",cursive;
 	/*
+	font-family:"Monotype Corsiva","Apple Chancery","URW Chancery L",cursive;
 	float:left;
 	color:#FFF;
 	text-transform:uppercase;
