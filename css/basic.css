@@ -737,10 +737,14 @@ q::after {
 	align-content:center;
 	justify-content:end;
 }
+/*
+ * .quote .txt span{margin-left:2em;margin-left:2rem;}
+ */
 .quote .txt::before,q::before,.quote .txt::after,q::after {
 	font-size:3.5em;font-size:3.5rem;
 	display:inline-block;
 }
+
 /*
  * http://blog.teamtreehouse.com/5-useful-css-selectors
  */
