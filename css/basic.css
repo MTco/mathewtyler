@@ -722,12 +722,25 @@ q:lang(fr) {
 	*/
 }
 
+/*
 q::before {
 	content:open-quote;
 }
-
 q::after {
 	content:close-quote;
+}
+*/
+
+/*
+ * http://blog.teamtreehouse.com/5-useful-css-selectors
+ */
+blockquote::before,q::before {
+	content:"\275D";  /* unicode icon for opening mark */
+	margin-right:20px;
+}
+blockquote::after,q::after {
+	content:"\275E"; /* unicode icon for closing mark */
+	margin-left:20px;
 }
 
 .pullquote {
