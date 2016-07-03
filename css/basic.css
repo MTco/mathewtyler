@@ -734,13 +734,17 @@ q::after {
 /*
  * http://blog.teamtreehouse.com/5-useful-css-selectors
  */
-blockquote::before,q::before,.quote::before {
+blockquote .txt::before,q::before,.quote::before {
 	content:"\275D";  /* unicode icon for opening mark */
 	margin-right:20px;
+	font-size:3.5em;
+	font-size:3.5rem;
 }
-blockquote::after,q::after,.quote::after {
+blockquote .txt::after,q::after,.quote::after {
 	content:"\275E"; /* unicode icon for closing mark */
 	margin-left:20px;
+	font-size:3.5em;
+	font-size:3.5rem;
 }
 
 .pullquote {
