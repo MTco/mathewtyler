@@ -6,7 +6,7 @@ var aardvark = {
 
 isBookmarklet:true,
 resourcePrefix:'https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/aardvark/',//"http://karmatics.com/aardvark/",
-rawgitHash:'#',
+rawgitHash:'#89ea132e7b4b3e23292a73441745feb79ead0ba6',
 srcFiles: [
   'aardvarkStrings.js',
   'aardvarkUtils.js',
@@ -63,12 +63,12 @@ loadObject: function  (obj) {
   } */
 
 // anti caching....dev only (leave empty string otherwise)
-var ensureFresh = ""; // "?" + Math.round(Math.random()*100);
+var ensureFresh = aardvark.rawgitHash; // "?" + Math.round(Math.random()*100);
 
 for (var i=0; i<aardvark.srcFiles.length; i++) {
 	var scriptElem = document.createElement('script');
 	scriptElem.isAardvark = true;
-	scriptElem.src = ((aardvark.srcFiles[i].indexOf("http://") == 0) ?
+	scriptElem.src = ((aardvark.srcFiles[i].indexOf("https://") == 0) ?
 	    aardvark.srcFiles[i] : aardvark.resourcePrefix + aardvark.srcFiles[i]) + ensureFresh;
 	document.body.appendChild(scriptElem);
 	}
