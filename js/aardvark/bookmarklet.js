@@ -5,8 +5,8 @@ var showHtml = function (elem) {
 var aardvark = {
 
 isBookmarklet:true,
-resourcePrefix:'https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/aardvark/',//"http://karmatics.com/aardvark/",
-rawgitHash:'#89ea132e7b4b3e23292a73441745feb79ead0ba6',
+resourcePrefix:'https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/aardvark/',/*"http://karmatics.com/aardvark/",*/
+rawgitHash:'#944f512a8bb55a1e6cf0bcb9569eaac52a79d161',
 srcFiles: [
   'aardvarkStrings.js',
   'aardvarkUtils.js',
@@ -63,7 +63,7 @@ loadObject: function  (obj) {
   } */
 
 // anti caching....dev only (leave empty string otherwise)
-var ensureFresh = aardvark.rawgitHash; // "?" + Math.round(Math.random()*100);
+var ensureFresh='?'+Math.round(Math.random()*100)+aardvark.rawgitHash; // '?'+Math.round(Math.random()*100);
 
 for (var i=0; i<aardvark.srcFiles.length; i++) {
 	var scriptElem = document.createElement('script');
