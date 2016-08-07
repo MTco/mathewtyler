@@ -14,6 +14,7 @@ $(function(){
 				tmp=$el.parents('li').first().html();
 				$el.parents('li').first().html('<mark class="highlight hlYellow">'+tmp+'</mark>').end().parents('ol').first().parents('li').first().find('label').first().trigger('click');
 				$el.trigger('click');
+			}
 		}
 	}
 	function v(){if(l.addEventListener){l.removeEventListener('DOMContentLoaded',v,false);init();}else{if(l.readyState==='complete'){l.detachEvent('onreadystatechange',v);init();}}}if(l.readyState==='complete'){init();}else{if(l.addEventListener){l.addEventListener('DOMContentLoaded',v,false);H.addEventListener('load',init,false);}else{l.attachEvent('onreadystatechange',v);H.attachEvent('onload',init);}}
