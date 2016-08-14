@@ -1,0 +1,114 @@
+
+
+
+610 P.2d 496
+
+
+199 Colo. 475
+
+
+The PEOPLE of the State of Colorado, Petitioner,
+v.
+Raymond L. WALKER, Respondent.
+
+
+No. 79SC133.
+
+
+Supreme Court of Colorado, En Banc.
+
+
+May 12, 1980.
+
+        [199 Colo. 476] 
+
+Page 497
+
+William R. Sprague, City Atty., Claybourne M. Douglas, Aurora, for petitioner.
+
+        Scott & Boisclair, P.C., Bradley D. Hill, Denver, for respondent.
+
+        ERICKSON, Justice.
+
+        Based on evidence derived from a radar device, the respondent, Raymond L. Walker, was convicted in the Aurora Municipal Court of the offense of driving 66 miles per hour (mph) in a 35 mph zone. On appeal to the Adams County District Court, the conviction was reversed on the grounds that the prosecution had not presented sufficient evidence of the accuracy of the radar device used by the arresting officer to determine the respondent's rate of speed. We granted certiorari to review the judgment of the district court, and we now affirm that judgment.
+
+I.
+
+        On June 15, 1978, Officer Cox was "running radar" near the intersection of 23rd and Peoria street in Adams County. At about 12:15 p. m., the officer observed the defendant's vehicle proceeding at a rate in excess of the posted limit of 35 mph. Although the officer testified that he was not certain of the vehicle's exact speed, his radar unit indicated that the vehicle was travelling 66 mph. Based upon that reading, the officer cited the defendant for driving at a speed more than 20 mph in excess of the speed limit.
+
+        Officer Cox testified that the radar device used to determine the defendant's[199 Colo. 477] speed was known as a "Speedgun No. 6." 1 He also testified that he had been trained to operate that model by the manufacturer and that he had used similar types for nearly two and one-half years. In addition, he had had eight years of experience with other traffic radar devices.
+
+        The officer's sole method for determining whether the radar speedgun was functioning accurately at the time the citation was issued to the defendant involved the use of a single tuning fork. When struck against a hard object and placed in front of a radar device, the tuning fork was designed to produce a reading of 50 mph if the speedgun was functioning properly. Although he performed the test both before and after issuing a citation to the defendant, the officer had no knowledge as to whether the tuning fork was properly calibrated and he testified that no other tests were performed to ensure the machine's accuracy.
+
+        The trial court found that the radar gun used by Officer Cox had been tested for accuracy in accordance with the manufacturer's requirements. 2 On appeal to the district court, however, the defendant's conviction was reversed on the grounds that the use of a single uncalibrated tuning fork was legally insufficient to determine the accuracy of a radar gun. The district court also held that the officer's statement that the defendant "was going over the speed 
+
+Page 498
+
+limit. I couldn't say how fast he was going," was insufficient to corroborate the radar reading. 3 We agree.
+
+II.
+
+        To support a conviction based on the use of a radar device, the court must first take judicial notice of the scientific principles underlying the use of radar to determine vehicular speed. Commonwealth v. Whynaught, --- Mass. ---, 384 N.E.2d 1212 (1979); State v. Graham, 322 S.W.2d 188 (Mo.App.1959); State v. Dantonio, 18 N.J. 570, 115 A.2d 35 (1955). As a further foundation for admission of a radar reading, the court must then consider whether the particular radar unit was properly operated 4 and whether the radar unit was accurate at the time the defendant's speed was measured. Comment, Scientific Evidence and Traffic Cases, 59 J.Crim.L.C. & P.S. 57 (1968). See Kopper, The [199 Colo. 478] Scientific Reliability of Radar Speedometers, 16 Md.L.Rev. 1 (1956); Note, Proposal for a Uniform Radar Speed Detention Act, 7 U.Mich.J.L.Ref. 440 (1974); Note, Radar and the Law, 10 S.T.L.J. 269 (1968). Although in this case we hold that judicial notice was proper and that the operator was properly qualified, the question remains whether the use of a single uncalibrated tuning fork is a legally sufficient field determinant of a radar unit's accuracy.
+
+        At the outset, it is useful to review the scientific principles underlying the operation of the radar device itself. Briefly stated, radar devices of the type used in this case utilize a scientific phenomenon known as the "Doppler Effect." The "Doppler Effect" is based on the proposition that when sound waves of a continuous frequency are reflected off of a moving object the resultant frequency of the reflected sound waves will vary in proportion to the velocity of the moving object. See Kopper, The Scientific Reliability of Radar Speedometers, 16 Md.L.Rev. 1 (1956); Carosell and Coombs, Radar Evidence in the Courts, 32 Dicta 323 (1955); Note, Radar and the Law, 10 S.T.L.J. 269 (1968). In operation, a radar gun sends out a continuous signal at a set frequency either 10,525 MHz (megahertz) or 24,150 MHz which bounces off of objects in its path and returns to a receiving unit in the device. If there is an object moving through the path of the signal at the time of transmission, a signal will be reflected back toward the unit at an increased frequency as a result of the additional energy imparted to the signal by the moving object. A receiving unit in the device then measures the frequency of the reflected signal and compares it to the frequency of the original signal. Utilizing a relatively simple mathematical formula, the device translates the disparity between the transmitted and returned frequencies into a mile per hour reading which is displayed on a screen.
+
+        Because the frequency counter in the receiving unit must accurately measure small gradations in signal frequency, there has been widespread agreement that the receiving unit must be reliably calibrated within a reasonable time both before and after its operation to ensure that it is functioning properly. A survey of the testing requirements imposed by the courts of other states discloses that:
+
+"(C)ourts have found adequate foundations in various combinations of the following three means of testing radar speedometers: (1) a 'run through,' in which another police car closes on the site, holding a given speedometer reading; (2) use of calibrated tuning forks, intended to produce frequencies which will cause the machine, if accurate, to 
+
+Page 499
+
+read particular speeds; and (3) use of a signal generator within the machine for the same purpose." Commonwealth v. Whynaught, --- Mass. ---, 384 N.E.2d 1212 (1979).
+
+        Although most courts have not yet stamped their imprimatur on a single method for establishing the accuracy of a particular radar unit, nearly all [199 Colo. 479] have required that the testing procedure be designed to provide reasonable assurance of the unit's accuracy, whether it be by the use of multiple tests, or by proof that a single testing device had itself been tested for accuracy. In a number of cases, for example, courts have accepted tests based on the use of multiple tuning forks under the rationale that each tuning fork corroborates the other. See e. g. State v. Readding, 160 N.J.Super. 238, 389 A.2d 512 (1978); Kansas City v. Hill, 442 S.W.2d 89 (Mo.App.1969); State v. Tomanelli, 153 Conn. 365, 216 A.2d 625 (1966). Other courts have relied upon a combination of tuning forks and a run-through procedure to establish that a radar device was functioning accurately. See e. g. State v. Shimon, 243 N.W.2d 571 (Iowa 1976); People v. Johnson, 23 Misc.2d 11, 196 N.Y.S.2d 227 (1960); State v. Graham, 322 S.W.2d 188 (Mo.App.1959). In addition, some courts have accepted a test based on the use of tuning forks and an internal testing mechanism. See e. g. State v. McDonough, 302 Minn. 468, 225 N.W.2d 259 (1975); People v. Lynch, 61 Misc.2d 117, 304 N.Y.S.2d 985 (1969).
+
+        Of the testing methods presently endorsed by the courts of other states, the simplest and most accurate consists of the use of tuning forks which are designed to emit certain frequencies that will be translated into given miles per hour readings by the radar unit. See Note, Radar Speed Enforcement in St. Louis and St. Louis County: Accuracy of Testing and Current Practices, 1964 Wash.U.L.Q. 385, 393. Provided that a tuning fork is properly manufactured and reasonably cared for, it can be expected to maintain its original frequency within a margin of error of less than one percent, and it compares favorably with an automobile speedometer used in a run-through test, which only has a tolerance for error of between three and five percent. Id. In addition, unlike a run-through test, a tuning fork test does not require the presence of an additional officer and vehicle at the site of the test.
+
+        Where only one tuning fork has been used in the testing procedure, several courts have questioned whether the test was sufficient to ensure the accuracy of the tested unit. See e. g. Biesser v. Holland, 208 Va. 167, 156 S.E.2d 792 (1967); St. Louis v. Boecker, 370 S.W.2d 731 (Mo.App.1963); People ex rel. McCann v. Martirano, 52 Misc.2d 64, 275 N.Y.S.2d 215 (1966). One concern is whether the use of one tuning fork, which produces a reading at only one speed, can provide a reasonable assurance of accuracy over the unit's entire range of speeds. Dr. John Kopper, one of the foremost experts on radar, has suggested that field tests be conducted at two different speeds one for the speed limit of the zone and one for a speed ten to fifteen miles per hour greater than the speed limit. Kopper, The Scientific Reliability of Radar Speedometers, supra at 15. A second concern stems from the fact that a tuning fork may lose its accuracy through age or damage. Note, Radar and the Law, supra at 80-81, nn. 56 and 57. One of the operation manuals for a radar [199 Colo. 480] gun states that "(w)hen using a manual fork, care should be taken not to strike the fork hard enough to dent or damage it." State v. Gerdes, 291 Minn. 353, 191 N.W.2d 428, appendix at 432 (1971). Where there is no evidence to show that the single tuning fork is accurate, its use may only mask the fact that the radar unit itself is inaccurate. See St. Louis v. Boecker, supra; Biesser v. Holland, supra. As one court has noted, it is certainly not beyond the realm of possibility that both the radar device and the tuning fork may be inaccurate to the same degree. People ex rel. McCann v. Martirano, supra.
+
+        One simple solution to this problem is to require that all tuning forks used to calibrate radar devices be tested and certified by qualified meteorologists at the Weights and Measures Section of the Colorado Department 
+
+Page 500
+
+of Agriculture. In 1975, The National Bureau of Standards and the Colorado Department of Agriculture instituted a pilot program for this purpose and the program is now responsible for the certification of tuning forks for numerous police departments in Colorado including the Colorado State Patrol. See Allen and Brzoticky, Calibration of Police Radar Instruments, National Bureau of Standards Special Publication No. 442, in Report of the 60th National Conference on Weights and Measures 1975 at 42 (1976). Each certification statement is valid for a period of one year.
+
+        A second solution is to require that each radar device be field tested with two or more tuning forks, each set at a different speed. Such a rule would provide assurances that the radar device being field-tested was measuring accurately over a range of speeds rather than just at one point. In addition, such a rule provides greater assurances that the radar device is accurate because the result of each separate test serves to corroborate the results of the other.
+
+III.
+
+        Based on the record before us and the case law in other jurisdictions, we affirm the district court's holding that the use of a single uncalibrated tuning fork provides a legally insufficient foundation to support a reading taken from a radar device. As the court stated in St. Louis v. Boecker, 370 S.W.2d 731 (Mo.App.1963):
+
+"(T)he value of any test of a radar speedometer depends upon the accuracy of the measuring device against which it is checked. That is true whether the measuring device used is an automobile speedometer, a stop watch, or, as in the instant case, a tuning fork. All are the products of human endeavor and therefore subject to error in manufacture, or to subsequent impairment and damage. We do not question the use of a tuning fork to test a radar speedometer as a matter of principle. We accept the testimony of Sergeant Bosch that such a means is an accepted test, recommended by radar engineers. The same statement would undoubtedly apply to a test by an automobile speedometer, or a stop watch. But the value of such a test [199 Colo. 481] would obviously depend upon the accuracy of the particular tuning fork used. In the light of the number of cycles per second involved and the precise measurement which must be made, it is apparent that any imperfection in the tuning fork would materially affect the speed registered on the radar dial. Because of the absence of any evidence that the tuning fork used in the instant case was itself accurate, we entertain grave doubts that the City's evidence was sufficient to establish prima facie that the radar speedometer was functioning properly, even at the time such test was made." (Emphasis original.)
+
+        The reasoning employed in Boecker is compelling and we recognize its applicability to the case before us.
+
+        Although we are not prepared at this time to require that police officers comply with any one of the tests set out above to the exclusion of all others, some minimum foundation must be established to insure "that the persuasive force of scientific results is not improperly triggered." Commonwealth v. Whynaught, --- Mass. ---, 384 N.E.2d 1212 (1979). Accordingly, where a tuning fork test is used to calibrate a radar device, we hold that the prosecution must show that two tuning forks have been used, or, alternately, that the single tuning fork used has been certified as accurate within one year of the test. Upon such a showing, the trial court may admit the proffered radar evidence. 5
+
+        The judgment of the district court is affirmed.
+
+---------------
+
+1 The particular speedgun used in this case had been loaned to the Aurora Police Department by the manufacturer, and had been previously damaged in a fall from a motorcycle seat.
+
+2 A close reading of the record in this case elicits no evidence to show that the tuning fork used to test the "Speedgun No. 6" was either supplied by the manufacturer or that the tuning fork was compatible with that particular device.
+
+3 It cannot be argued that the officers personal observations served to corroborate the radar reading of 66 mph. Although the officer's testimony is probative of the fact that the defendant was exceeding the speed limit, it is not helpful in determining whether the defendant was speeding 20 mph over the speed limit, which is a 6 point violation, or, instead, only 15 mph over the speed limit, which would be a 4 point violation. Thus, the sole evidence to support the charge of speeding 66 mph in a 35 mph zone was the radar reading.
+
+4 Given Officer Cox's experience in using radar devices, the trial court properly found that he was qualified to operate the "Speedgun No. 6."
+
+5 Where other testing procedures are employed, we leave it within the discretion of the trial judge to determine whether the test chosen gives sufficient indicia of reliability to warrant admission of the radar readings as evidence. See Commonwealth v. Whynaught, supra.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

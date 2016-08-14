@@ -1,0 +1,182 @@
+
+
+270 N.W.2d 212
+
+
+85 Wis.2d 233
+
+
+STATE of Wisconsin, Respondent,
+v.
+Lawrence I. HANSON, Appellant.
+
+
+No. 76-061.
+
+
+Supreme Court of Wisconsin.
+
+
+Argued Sept. 6, 1978.
+Decided Oct. 3, 1978.
+
+Page 213
+
+        [85 Wis.2d 234] This is an appeal by Lawrence I. Hanson from an order affirming a judgment of conviction entered in the Dane County Court finding Hanson guilty of speeding in violation of sec. 346.57(4), Stats. The judgment of conviction entered by the HON. ARCHIE SIMONSON, County Judge, was made pursuant to an order of the Dane County Circuit Court reversing the County Court's original finding of not guilty. The HON. WILLIAM SACHTJEN reversed the original County Court finding of not guilty on an appeal brought by the state to the Circuit Court of Dane County. The state's appeal to the Circuit Court challenged Judge Simonson's ruling that judicial notice could not be taken of the accuracy and [85 Wis.2d 235] reliability of the speed radar device used in Hanson's arrest.
+
+        On January 4, 1975 at 1:18 p. m., the defendant, Lawrence I. Hanson, was ticketed for speeding on U.S. Highways 18-151 in the Town of Verona. He was cited for a violation of sec. 346.57(4), Stats., for allegedly traveling at a speed of 68 m. p. h. in a 55 m. p. h. zone. Hanson's speed on the highway was measured by a speed radar device.
+
+        Hanson contested the accuracy of the radar at trial on July 21, 1975 before the 
+
+Page 214
+
+HON. ARCHIE SIMONSON, County Judge. At that time, the state called but one witness, Trooper Charles W. Holl. Holl was the patrolman operating the radar device that measured Hanson's speed. He testified the radar unit used was a "moving radar." The moving radar unit used is known by its manufacturer's trade name as the MR-7.
+
+        Trooper Holl also testified to the fact that he had received one hour of classroom instruction on the use of the moving radar device, and that he had practical experience with it since October, 1974 when the State Patrol bought this type of radar instrument. Holl also testified that in the morning prior to Hanson's citation he had tested the radar to insure its working order. Holl also testified that before and after issuing Hanson the citation he had tested the radar to insure that it was working properly. Holl stated that he couldn't remember if he had used the radar's "verify button" following the 68 m. p. h. reading on Hanson. Holl testified that his squad car was traveling 50-55 m. p. h. when he took the reading on Hanson.
+
+        At the close of Trooper Holl's testimony the state asked Judge Simonson to take judicial notice as to the accuracy and reliability of the "moving radar" device. Following this request, the state rested. The defense objected to judicial notice being taken in that there had [85 Wis.2d 236] been no competent proof offered to establish its reliability and accuracy.
+
+        On July 29, 1975, Judge Simonson determined that judicial notice could not be taken as to the MR-7's reliability and accuracy. Judge Simonson scheduled the matter for continued hearings where expert testimony could be introduced due to the technical nature of the device.
+
+        At the continued hearing defense counsel objected to the reopening of the case and moved in opposition to any further proceedings. The motion was denied. The expert testimony elicited at the continued hearings will be dealt with in the body of this decision. On October 8, 1975, Judge Simonson rendered a written decision finding the defendant not guilty of speeding, specifically finding that the state had not proven the moving radar was sufficiently accurate and reliable so as to base a conviction upon its measurement of the defendant's speed. Appeal was taken to the Dane County Circuit Court by the state.
+
+        Judge Sachtjen reversed Judge Simonson stating there was no significant difference between stationary and moving radar, and that Wisconsin has accepted by judicial notice the accuracy and reliability of stationary radar. Judge Sachtjen further noted the policy consideration that, in requiring the state to produce expert testimony in every speed radar case, law enforcement of speeding prosecutions would be adversely affected.
+
+        On remand, Judge Simonson found himself obligated to follow the Circuit Court decision and found the defendant guilty of speeding. On appeal by the defendant, the HON. RICHARD BARDWELL, Circuit Judge, in an oral opinion and written order, affirmed the determination of guilt ostensibly to avoid conflicting Circuit Court decisions.
+
+        Peter M. Gennrich, Madison (argued), for appellant; Jenswold, Studt, Hanson, Clark & Kaufmann, Madison, on brief.
+
+        [85 Wis.2d 237] Albert O. Harriman, Asst. Atty. Gen., for respondent; Bronson C. La Follette, Atty. Gen., on brief.
+
+        COFFEY, Justice.
+
+        Two issues are presented for review:
+
+        1. Whether the trial court erred when, on its own motions, it permitted the state after resting to reopen its case in order to supply the court with expert testimony as to the reliability and accuracy of the MR-7?
+
+        2. Whether the Circuit Court erred in reversing the County Court's determination that judicial notice could not be taken as to the reliability and accuracy of the MR-7?
+
+        The issue as to whether the trial judge can reopen a party's case for further testimony after the party has rested is important in determining the scope of the 
+
+Page 215
+
+record from which this court makes its review. If the trial court improvidently reopened the case for further testimony, this court would be obliged to determine this case without the benefit of the expert testimony given at the continued hearings. We do not find the trial court in error in this respect. It has been consistently held that a litigant has no automatic right to reopen a case in order to produce additional testimony, but this limitation is not applicable to the trial court. The court may on its own motion reopen for further testimony in order to make a more complete record in the interests of equity and justice. Diener v. Heritage Mut. Ins. Co., 37 Wis.2d 411, 422, 151 N.W.2d 721 (1967); In re Estate of Javornik, 35 Wis.2d 741, 746, 151 N.W.2d 721 (1967). This rule promotes efficient judicial administration in avoiding another trial due to an incomplete record.
+
+        As to the second issue, the expert testimony received at trial indicated that both the stationary radar and moving radar devices rely on the same scientific principle known as the Doppler effect. Webster's Third New International[85 Wis.2d 238] Dictionary defines the Doppler effect as a scientific principle in the following manner:
+
+"A change in the frequency with which waves (as sound, light, or radio waves) from a given source reach an observer, the frequency decreasing with the speed at which source and observer move away from each other and increasing with the speed at which they move toward each other so that the pitch of a sound is apparently raised or lowered as the source and the observer move toward or away from each other . . ."
+
+        In a speeding conviction based upon a stationary radar instrument, a legal explanation of the Doppler effect and its application in speed radar was presented in East Cleveland v. Ferell, 168 Ohio St. 298, 154 N.E.2d 630 (1958) at 631:
+
+"The radar speed-detecting devices commonly used in traffic control operate on what is known as the Doppler Effect and utilize a continuous beam of microwaves sent out at a fixed frequency. The operation depends upon the physical law that when such waves are intercepted by a moving object the frequency changes in such a ratio to the speed of the intercepted object that, by measuring the change of frequency, the speed may be determined." 1
+
+        Many states have held that judicial notice can be taken as to the reliability and accuracy of stationary radar due to the scientific acceptance of the soundness of the Doppler effect. 2 47 A.L.R.3d 822, "Proof, by Radar [85 Wis.2d 239] or Other Mechanical or Electronic Devices, of Violations of Speed Regulations."
+
+        The moving radar is a relatively recent innovation and at the time of the arrest in this case, moving radar had only been in use in Wisconsin for three months. Moving radar is claimed to have advantages over the traditional stationary radar which is mounted to a parked police car. The moving radar, on the other hand, can be used in tracking the speed of a car traveling in the opposite direction from a moving squad car. While both radar units employ the Doppler effect, the difference from stationary radar is that two frequency beams are emitted instead of just one. The moving radar's second beam is used to determine the patrol 
+
+Page 216
+
+car's speed. The moving radar contains computer components which determine the speed of an oncoming car by subtracting the speed of the moving patrol car from the closing rate of the oncoming car to the patrol car.
+
+        To this court's knowledge, the State of Ohio is the only jurisdiction in the nation which has permitted the taking of judicial notice as to the reliability and accuracy of a moving radar unit. State v. Shelt, 46 Ohio App.2d 115, 346 N.E.2d 345 (1976). A New York court in People v. Cunha, Dist.Ct., 402 N.Y.S.2d 925 (1978) did not directly address the issue before this court, but held a speeding conviction using an untested moving radar device can uphold a conviction for speeding when the speed of the alleged violator can be supported by the testimony of qualified observers. A law enforcement officer was found to be a qualified observer. Supra at 926.
+
+        This case is indeed novel in raising a challenge as to whether judicial notice can be taken as to the reliability[85 Wis.2d 240] and accuracy of a moving radar device. Its novelty is heightened by the fact that Wisconsin has never directly ruled upon whether judicial notice can be accorded the accuracy and reliability of any speed radar device. The Circuit Court opinions found there was no reason to distinguish the moving radar from a stationary machine. These decisions relied on State v. Trailer Service, Inc., 61 Wis.2d 400, 212 N.W.2d 683 (1973) in finding that judicial notice had been taken as to the reliability of stationary radar and the same treatment should be given to moving radar devices. The reliance on State v. Trailer Service, Inc., supra, is misplaced for it was stated at 408, 212 N.W.2d at 688:
+
+"A scientific or medical method not recognized as acceptable in the scientific or medical discipline as accurate does not enjoy the presumption of accuracy, I. e., lie-detector tests. See cases cited at Anno. (1952), Physiological or Psychological Truth and Deception Tests, 23 A.L.R.2d 1306, 1308, sec. 2; State v. Bohner (1933), 210 Wis. 651, 246 N.W. 314; LeFevre v. State (1943), 242 Wis. 416, 8 N.W.2d 288; State v. Perlin (1955), 268 Wis. 529, 68 N.W.2d 32. But tests by recognized methods need not be proved for reliability in every case of violation. Examples, speedometer, breathalyzer, radar. See cases cited at Anno. (1973), Speeding Proof Radar, 47 A.L.R.3d 822, 831, sec. 3; See also : Anno. (1967), Intoxication Tests Statutes, 16 A.L.R.3d 748; 46 A.L.R.2d 1176; 127 A.L.R. 1513; 7 Am.Jur.2d, Automobiles and Highway Traffic, p. 878, sec. 334. These methods of measurement carry a prima facie presumption of accuracy. Whether the test was properly conducted or the instruments used were in good working order is a matter of defense. The administration of law would be seriously frustrated if the validity of basic and everyday accepted tests had to be a matter of evidence in every case in the first instance."
+
+        The clear wording of the court's opinion in the Trailer Service case is that there is a "prima facie presumption" as to the accuracy of radar. A prima facie presumption [85 Wis.2d 241] is a very different legal creature than a fact for which judicial notice can be taken.
+
+        Sec. 902.01(2), Stats., indicates the type of facts upon which judicial notice may be taken:
+
+"KINDS OF FACTS. A judicially noticed fact must be one not subject to reasonable dispute in that it is either (a) generally known within the territorial jurisdiction of the trial court or (b) capable of accurate and ready determination by resort to sources whose accuracy cannot reasonably be questioned."
+
+        As stated in the Federal Advisory Committee Notes published with the Wisconsin Code of Evidence in 56 Marq.L.Rev. 155 at 170, as to judicially noticed facts, "(A) high degree of indisputability is the essential prerequisite." Additionally, in Fringer v. Venema, 26 Wis.2d 366, 132 N.W.2d 565 (1965), it was established that expert testimony could be given in aiding a court in taking judicial notice. At 372, 132 N.W.2d at 569 it was stated:
+
+Page 217
+
+" 'Courts will take judicial notice of "scientific" facts which have been well established by authoritative scientists and are generally accepted as irrefutable by living scientists.' "
+
+        Based upon the standards of Fringer v. Venema, supra, the court finds in this case that neither authoritative scientists nor irrefutable scientific fact was presented.
+
+        The state called as an expert witness William Goodsen, an engineering manager for Custom Date Communications, Inc. Goodsen's employer manufactures the "moving radar" used by the State Patrol. Goodsen is a trained engineer who has done post-graduate study. It was Goodsen's testimony that the MR-7 is virtually always accurate all but one percent of the time. To his knowledge the only road condition affecting the accuracy of the MR-7 was the traffic condition where a large truck would pass the squad car; the reading for the squad would be affected, but usually in the motorist's favor.
+
+        [85 Wis.2d 242] The defense called Jerry Schroeder, an electronics engineer with West Bend Autotronics, a competitor of Custom Data. Schroeder has a two-year degree in engineering and has nine years practical experience in the field. He testified as to the results of tests he had run with a State Patrol MR-7.
+
+        He found the MR-7 to be inaccurate 15 to 20 percent of the time. The inaccuracy usually resulted on two-lane highways where traffic is congested or where the roadside is heavily covered with trees or signs. Schroeder stated that the MR-7's inaccuracy usually resulted from an incorrect patrol car speed being registered. The error in the patrol car speed was found to be as much as 20 m. p. h. slow, and this in turn caused a higher speed being calculated for the oncoming car. The tests were conducted under conditions where a calibrated speedometer was not used, and speed was determined by time-distance calculations from stop watch readings.
+
+        Apart from the Circuit Court's conclusion that State v. Trailer Service, Inc., supra, had accorded judicial notice to stationary radar devices, when the testimony of these experts is put against the testing standards of authoritative irrefutability, judicial notice should not have been taken. Sec. 902.01(2), Stats.; Fringer v. Venema, supra. Frequently, persons appearing as experts who are business competitors to one another in a limited market area lack the independent judgment required of an authoritative expert. Further, we find no challenge in the record to the expertise of Jerry Schroeder, and, although his tests were conducted under adequate scientific conditions, these tests conditions were hardly in conformity to optimum scientific procedures. The existence of credible, conflicting expert testimony refutes the idea that the accuracy of the MR-7 was indisputable. Despite Schroeder's failure to conduct his testing of the MR-7 under optimum scientific conditions, we do not [85 Wis.2d 243] find his testimony incredible as a matter of law. 3 Therefore, due to 
+
+Page 218
+
+the conflicting expert testimony, judicial notice should not have been taken as to the MR-7's reliability and accuracy.
+
+        Given that the law in Wisconsin at the time of trial was that a prima facie presumption could be accorded the accuracy of speed radar, the existence of credible, conflicting expert testimony becomes an issue of fact. The County Court sitting without a jury as the trier of fact found the defense testimony persuasive and ruled for the defendant. We find in this case based upon the record that the reviewing Circuit Court should not have reversed the trial court on an issue of fact dealing with the credibility of the witnesses when there is credible [85 Wis.2d 244] evidence which under any reasonable view fairly admits of an inference which supports the verdict. Jacobs v. Stack, 63 Wis.2d 672, 676, 218 N.W.2d 364 (1974). Since we have found the defense testimony not to be incredible as a matter of law, the trial court's finding of not guilty should have been affirmed. If one accepts the defense testimony as credible that the inaccuracy of the MR-7 results from an incorrect calculation of the patrol car speed, it is persuasive to finding the defendant not guilty in that Trooper Holl failed to establish the use of the "verify button" on this particular occasion. The "verify button" permits the patrolman by utilizing the radar's memory function to ascertain the exact reading on the squad's speed as entered into the radar's speed equation. The reading on the squad's speed then can be manually checked against the squad car's calibrated speedometer. In light of the expert testimony as to the potential inaccuracy of the calculation of the patrol car's speed, we find the use of the "verify button" and other testing techniques important safeguards in ascertaining an accurate radar reading.
+
+        Consequently we hold, that as to the MR-7 used on the date in question, the state not only failed in showing that judicial notice should be taken as to its reliability and accuracy, but that it failed to carry its burden of proof in the prosecution of a speeding citation based upon a speed reading from an MR-7 radar device.
+
+        The court takes this opportunity to establish guidelines for the prosecution of speeding citations issued on the basis of a moving speed radar device. The courts of this state may take judicial notice of the reliability of the underlying principles of speed radar detection that employs the Doppler effect as a means of determining the speed of moving objects. To this end, expert testimony is not needed to determine the initial admissibility of speed radar readings. The radar reading may be introduced[85 Wis.2d 245] by the operating law enforcement official, if he is qualified in its use and operation.
+
+        The accuracy of any speed radar device is another matter. The accuracy of the most indisputable scientific theory is subject to its application in particular conditions. The application of any virtually undisputed scientific fact to the immediate surrounding conditions must be explained in ascertaining its accuracy.
+
+        Consequently, in Wisconsin a prima facie presumption of accuracy sufficient to support a speeding conviction will be accorded to moving radar upon testimony by a competent, operating police officer that:
+
+        1. The officer operating the device has adequate training and experience in its operation.
+
+        2. That the radar device was in proper working condition at the time of the arrest. This will be established by proof that suggested methods of testing the proper functioning of the device were followed.
+
+        3. That the device was used in an area where road conditions are such that there is a minimum possibility of distortion.
+
+        4. That the input speed of the patrol car must be verified, this being especially important where there is a reasonable dispute that road conditions may have distorted the accuracy of the reading, (I. e., presence of large trucks, congested traffic and the roadside being heavily covered with trees and signs.)
+
+        5. That the speedmeter should be expertly tested within a reasonable proximity 
+
+Page 219
+
+following the arrest and that such testing be done by means which do not rely on the radar device's own internal calibrations.
+
+        We do not foresee these conditions to proving a prima facie speeding case will place on onerous burden upon the law enforcement of speeding violators. We believe these conditions are necessary to maintaining and improving [85 Wis.2d 246] the public confidence in the law enforcement and judicial systems. For the average law abiding American citizen, minor traffic offenses constitute the only contact such a person will have with the law enforcement and judicial systems. Public confidence rests upon the fairness of such proceedings. Until a radar device is invented that is accurate under any conditions, fairness dictates that contested prosecutions are conducted according to meaningful standards which insure the instrument's accuracy.
+
+        Judgment reversed and case remanded for proceedings not inconsistent with this opinion.
+
+---------------
+
+1 For a substantially similar explanation see: People v. Magri, 3 N.Y.2d 562, 565, 170 N.Y.S.2d 335, 337, 147 N.E.2d 728 (1958).
+
+2 Ark. Everight v. Little Rock, 230 Ark. 695, 326 S.W.2d 796 (1959); Cal. People v. MacLaird, 264 Cal.App.2d 972, 71 Cal.Rptr. 191 (1968); Conn. State v. Tomanelli, 153 Conn. 365, 216 A.2d 625 (1966); Ill. People v. Abdallah, 82 Ill.App.2d 312, 226 N.E.2d 408 (1967); Ky. Honeycutt v. Commonwealth, 408 S.W.2d 421 (1966); Minn. State v. Gerdes, 291 Minn. 353, 191 N.W.2d 428 (1971); Mo. State v. Graham, 322 S.W.2d 188 (1959, Mo.App.); N.J. State v. Dantonio, 18 N.J. 570, 115 A.2d 35, 49 A.L.R.2d 460 (1955); N.Y. People v. Magri, 3 N.Y.2d 562, 170 N.Y.S.2d 335, 147 N.E.2d 728 (1958); Ohio East Cleveland v. Ferell, 168 Ohio St. 298, 7 Ohio Ops.2d 6, 154 N.E.2d 630 (1958); Tenn. Hardaway v. State, 202 Tenn. 94, 302 S.W.2d 351 (1957) (dictum); Tex. Wilson v. State, 168 Tex.Cr.R. 439, 328 S.W.2d 311 (1959) (apparently recognizing rule).
+
+3 Dr. John M. Kopper, one of the nation's leading experts on speed radar, gives a layman's explanation to the workings of a speed radar in his treatise "The Scientific Reliability of Radar Speedmeters," 33 N.C.L.Rev. 343, 16 Md.L.Rev. 1. At 344, Dr. Kopper stated:
+
+"Searching the sky for a target by means of a radar set is like scanning the sky at night with a searchlight. If part of the light set out by the searchlight comes back to your eyes, we say that something in the sky is reflecting light, and we deduce from this fact that in the sky there is a cloud or airplane acting as a reflector. All of this is a roundabout way of saying that we see a target. In a similar way a radar set is said to 'see' a target."
+
+Schroeder's testimony that the accuracy of a radar unit is adversely affected by the greater number of targets along a roadside is entirely logical. The greater number of targets the greater the chance the speed of the patrol car will be determined by more than one target. The time-distance differential between more than one tracked target will render the reading on the squad car speed inaccurate.
+
+Minnesota, in giving judicial notice to the underlying principles of the stationary radar but refusing to give judicial notice as to its accuracy, noted that in proving a case necessary to support a speeding conviction there must be proof that the radar was used in an area with the minimum possibility of distortion. State v. Gerdes, 291 Minn. 353, 191 N.W.2d 428, 432 (1971).
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

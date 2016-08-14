@@ -1,0 +1,107 @@
+
+
+
+438 N.Y.S.2d 434
+
+
+108 Misc.2d 648
+
+
+The PEOPLE of the State of New York
+v.
+Stephen MEISENZAHL, Defendant.
+
+
+Ontario County Court.
+
+
+April 14, 1981.
+
+        James Harvey, Dist. Atty. by Robert S. Blazak, Asst. Dist. Atty., for the People.
+
+        John Leonard, Woodhaven, for defendant.
+
+
+MEMORANDUM DECISION
+
+        DONALD J. CORBETT, Jr., Judge.
+
+        This is an appeal by defendant from a Town Court conviction of a traffic violation. The information upon which the defendant was tried states that the defendant committed the offense of speeding in violation of subdivision (b) of Section 1180 of the Vehicle and Traffic Law of the State of New York. The case was tried before the Town Justice.
+
+        The attorney for the appellant appeals the conviction on two grounds. The only point of merit, however, is whether or not the trial Justice committed error by requesting of and receiving from the arresting officer a copy of the defendant's motor vehicle record prior to conviction.
+
+        At trial the People called the arresting officer who testified that on May 15, 1979 at approximately 8:45 p. m. he observed defendant driving towards him at a high rate of speed which he estimated to be approximately 90 miles per hour. The officer then testified that he checked his radar unit which indicated that the defendant was travelling at a speed of 94 miles per 
+
+Page 435
+
+hour. Additionally, he stated that on the day in question both before going on patrol and after returning from patrol he tested the radar unit by the standard tuning fork procedures required by the Sheriff's Department, that he checked the internal circuitry of the unit at approximately 7:00 p. m. that evening and that in his opinion the unit was functioning properly when it recorded the defendant's speed.
+
+        Upon cross-examination the officer was asked if, prior to the trial, he supplied a motor vehicle record of the defendant to the court. The officer replied: "Yes, I did. Her Honor requested it." (transcript, p. 20)
+
+        The trial court found the defendant guilty of speeding and fined him $200.00, the maximum allowed for a second offender within an 18 month period.
+
+        The question before this court is: Does the fact that the court requested and received from the arresting officer a copy of the defendant's motor vehicle record prior to trial constitute prejudicial error?
+
+        The defendant, placing his principal reliance on Section 504 of the Vehicle and Traffic Law, submits that such inquiry by the trial Justice constitutes reversible error.
+
+        Section 504(1) of the Vehicle and Traffic Law (formerly Section 501(1)(c) of the Vehicle and Traffic Law as amended by Chapter 821 of the Law of 1961) specifically provides:
+
+"The commissioner may provide adequate space on a detachable or separate part of such license, to be known as the 'record of convictions stub,' for the recording thereon of convictions as provided in Section 514 of this chapter and such record of convictions stub shall be detachable by the licensee and shall not be subject to inspection by any motor vehicle inspector, peace officer ... or any other person, but shall be exhibited on demand only to a magistrate after conviction of the licensee..." (Emphasis added)
+
+        Prior to enactment of the predecessor section, the record of conviction stub was not detachable from the license itself. Courts consistently held that it was reversible error for the trial Justice to look at the defendant's license, which included the record of conviction stub, prior to conviction. (People v. Reed, 185 Misc. 908, 57 N.Y.S.2d 902; People v. Fiore, 9 Misc.2d 468, 170 N.Y.S.2d 726.)
+
+        In People v. Fiore, 9 Misc.2d 468, 170 N.Y.S.2d 726, the defendant appealed from a conviction of a traffic violation. The court stated:
+
+"It was reversible error for the court to look at the license before conviction. Such practice should be scrupulously avoided in the future, since it is a clear violation of defendant's rights."
+
+        Similarly, in People v. Patton, 27 Misc.2d 357, 358, 210 N.Y.S.2d 591, the court reversed a judgment of conviction where the trial Justice, prior to finding the defendant guilty, asked to see the defendant's license and commented on the fact that defendant had been convicted of the same charge on two previous occasions. The court held that not until the defendant was convicted was the trial Justice entitled to view the license.
+
+        At the time of enactment of the predecessor section, Assemblyman Alexander Chananua, stated:
+
+"Even though it is reversible error at present for a Magistrate to inspect the same prior to conviction, the present law compels a motorist, under penalty of being considered an unlicensed driver, to exhibit his license, of which the prior conviction record is now a part, to a motor vehicle inspector, peace officer or state policeman. (N.Y.Legis. Annual, 1961, p. 315) (Emphasis added)
+
+        The court, in People v. Hartgrove, 12 Misc.2d 201, 205, 173 N.Y.S.2d 951 in upholding a traffic conviction where prior to trial the trial Justice received information that the defendant had a conviction for speeding on his license, stated:
+
+"It is sound policy to strike down efforts by a District Attorney to inject inadmissible evidence into a case of this type. It is also proper to restrain the trial Justice from making any inquiry about inadmissible evidence. There is no policy, however, 
+
+Page 436
+
+which would require setting aside a conviction where the trial Justice and the District Attorney were blameless ..."
+
+        The case of Matter of DeVito v. Aylward, 77 Misc.2d 524, 354 N.Y.S.2d 395 is particularly relevant to the question before this court. In that case, the file of the case contained a record of the defendant's prior convictions which were supplied by the State Motor Vehicle Department. The court stated that:
+
+"Since the purpose of this law (L.1961, ch. 821) is to insure a fair hearing on the basis of the particular charge unprejudiced by past convictions (Governor's Message, 1961 N.Y.Legis. Annual, p. 474) it would be a sophistry to attempt a distinction between the Judge's seeing the forbidden record of conviction stub and the Judge's seeing the Motor Vehicle Department's copy." Id. at 527, 354 N.Y.S.2d 395.
+
+        Nevertheless, the court held in that case that the defendant's right had not been violated for two reasons. First, the Judge swore that he did not see the Motor Vehicle Department's copy of defendant's motor vehicle record. Second, the court (p. 527, 354 N.Y.S.2d 395), held that even if the Judge had seen the copy of the records, it would "not prejudice a fair trial here because the Judge is not going to be the trier of the facts--this will be done by the jury..." supra.
+
+        In the instant matter, the Justice was the trier of facts. Additionally, since she was responsible for requesting the copy of the motor vehicle record prior to trial, it is reasonable to assume that she did, in fact, review defendant's record of conviction. Such assumption is supported by the record, wherein, the Justice, after finding the defendant guilty, fined him the maximum allowed as a second offender without requesting defendant's record of convictions stub. (transcript p. 21) Finally the Justice never denied seeing the copy and, in fact, indicated that she had a perfect right to request the record prior to trial.
+
+        It is appropriate and consistent with our concepts of a fair hearing that one charged with an offense be convicted or acquitted of such offense on the basis of the particular facts of that occasion. Prior to conviction an individual's past record has no relevance to the determination of whether a new offense was actually committed.
+
+        It is, therefore, the opinion of this court that the protection afforded the defendant by Section 504 of the Vehicle and Traffic Law was violated by the trial court and that such conduct constituted prejudice as a matter of law. The trial Justice's conduct infringed upon the defendant's statutory rights and violated his right to a fair and impartial trial.
+
+        Accordingly, the judgment of conviction is reversed and the case is remanded for a new trial before a different Justice.
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

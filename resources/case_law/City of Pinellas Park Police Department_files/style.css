@@ -1,0 +1,84 @@
+BODY {
+	COLOR: #0000be
+}
+A:link {
+	COLOR: #0000be
+}
+A:visited {
+	COLOR: #0000be
+}
+A:active {
+	COLOR: #0000be
+}
+A:link {
+	COLOR: #0000be
+}
+A:visited {
+	COLOR: #0000be
+}
+A:active {
+	COLOR: #0000be
+}
+P {
+	FONT: 11pt/14pt Verdana, Arial, Helvetica, sans-serif; COLOR: black; BACKGROUND-COLOR: white; TEXT-ALIGN: left
+}
+A {
+	FONT-SIZE: small; FONT-FAMILY: Verdana
+}
+TABLE {
+	FONT-SIZE: small; COLOR: black; FONT-FAMILY: Verdana; BACKGROUND-COLOR: white; TEXT-ALIGN: left
+}
+FONT {
+	FONT: 11pt/14pt Verdana; COLOR: black
+}
+B {
+	FONT: bold 11pt/14pt Verdana
+}
+.large {
+	FONT: medium/14pt Verdana
+}
+B.size1 {
+	FONT: bold medium/14pt Verdana
+}
+B.size-1 {
+	FONT: bold x-small/14pt Verdana
+}
+B.size-2 {
+	FONT: bold xx-small/14pt Verdana
+}
+LI {
+	FONT: 11pt/14pt Verdana; COLOR: black
+}
+A:hover {
+	FONT-WEIGHT: normal; COLOR: #be0000; TEXT-DECORATION: none
+}
+A.bold:hover {
+	FONT-WEIGHT: bold; COLOR: #be0000; TEXT-DECORATION: none
+}
+LI.size-1 {
+	FONT-SIZE: x-small; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.size-1 {
+	MARGIN-TOP: -5px; FONT-SIZE: x-small; MARGIN-BOTTOM: -5px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.size-1 {
+	MARGIN-TOP: 0px; FONT-SIZE: x-small; MARGIN-BOTTOM: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.sizesmall {
+	FONT-SIZE: x-small; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bigger {
+	FONT-SIZE: large; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+TD.size-1 {
+	MARGIN-TOP: 0px; FONT-SIZE: x-small; MARGIN-BOTTOM: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+P.size-2 {
+	MARGIN-TOP: 0px; FONT-SIZE: xx-small; MARGIN-BOTTOM: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.size-2 {
+	FONT-SIZE: xx-small; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+FONT.size-1 {
+	MARGIN-TOP: -5px; FONT-SIZE: x-small; MARGIN-BOTTOM: -5px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}

@@ -1,0 +1,127 @@
+
+
+78 N.J. 309
+
+
+394 A.2d 355
+
+
+STATE of New Jersey, Plaintiff-Respondent and Cross-Appellant,
+v.
+Russell E. TROPEA, Defendant-Appellant and Cross-Respondent.
+
+
+Supreme Court of New Jersey.
+
+
+Argued Nov. 15, 1977.
+Decided Oct. 31, 1978.
+
+Page 310
+
+        Norman L. Zlotnick, Wildwood, for defendant-appellant and cross-respondent (Perskie & Callinan, Wildwood, attorneys).
+
+Page 311
+
+        Ileana N. Saros, Deputy Atty. Gen., argued the cause for plaintiff-respondent and cross-appellant (William F. Hyland, Atty. [394 A.2d 356] Gen., attorney; Ileana Saros, of counsel and on the brief).
+
+        The opinion of the court was delivered by
+
+        CLIFFORD, J.
+
+        Defendant was convicted in Ocean City Municipal Court of operating his automobile at 44 miles per hour in a 25 mile-per-hour zone, in violation of N.J.S.A. 39:4-98. He appealed to the Cape May County Court where, after a trial De novo on the record below, the conviction was affirmed. The Appellate Division reversed on the ground that the State had failed to prove that the speed limit in the area of the alleged infraction was indeed 25 miles per hour. State v. Tropea, 142 N.J.Super. 288, 290, 361 A.2d 111 (1976). However, despite this crucial deficiency in the State's case, the Appellate Division held that defendant was not entitled to a dismissal of the charges but merely to a new trial on all issues. Hence, the case was remanded to the county court. Id.
+
+        We granted the defendant's petition for certification, 71 N.J. 502, 366 A.2d 657 (1976), and the State's cross-petition, 73 N.J. 50, 372 A.2d 315 (1977), to review the Appellate Division's determinations (a) that there was insufficient evidence presented to sustain the conviction, and (b) that there should be a remand for a new trial.
+
+        We first address the sufficiency-of-evidence question. The proofs demonstrated that on March 6, 1975, two police officers operating a speed radar unit issued defendant a summons charging him with speeding. Only one of these officers testified at the municipal court trial and he offered no direct testimony of the speed limit in the area where defendant was apprehended. At the conclusion of the State's case defendant moved for an acquittal on the ground, among others, that no evidence as to the speed limit had been introduced. 
+
+Page 312
+
+The trial judge denied the motion. Defendant then testified that he was an experienced driver; that from the time he entered Ocean City, he was "trying to keep the car at twenty five miles per hour"; and that he estimated his speed to be twenty five miles per hour at the time of his encounter with the police officers. At the conclusion of his testimony defendant renewed his motion for acquittal, which was again denied. The trial judge then found him guilty.
+
+        At defendant's trial De novo before the county court, the State argued that proof of the speed limit could be inferred from defendant's insistence that he was travelling 25 miles per hour. In addition, the State urged that the court could take judicial notice that the 25 mile per hour speed limit in "residential areas" is mandated by statute, N.J.S.A. 39:4-98(b); that the area in question fits the statutory description of a "residence district," N.J.S.A. 39:1-1; and that "the speed zone throughout the city is classified and posted as 25 miles per hour." Although the county court gave no indication that it was taking judicial notice of the area or its alleged residential nature, it stated that defendant's effort to maintain a speed of 25 miles per hour was "indicative of his knowledge of the speed limit in the area" and found "from the record" that defendant had exceeded that limit.
+
+        As the Appellate Division observed, these proofs fell far short of discharging the State's obligation to establish the applicable speed limit. So insubstantial is the State's argument on this point that we need dwell on it only long enough to observe that there is nothing in defendant's assertion that he was making a conscious effort to maintain his speed at 25 miles per hour which in any way served to establish the speed limit. Furthermore, nothing in the record suggests that either the municipal court or county court judge took judicial notice or, indeed, any other kind 
+
+Page 313
+
+of notice of any facts indicating that the area in question was residential in character. 1
+
+        [394 A.2d 357] By virtue of the State's failure to have offered any evidence of the applicable speed limit, the Appellate Division's reversal of defendant's conviction must be affirmed. See State v. Ring, 85 N.J.Super. 341, 343, 204 A.2d 716 (App.Div.1964), certif. den., 44 N.J. 407, 209 A.2d 142, Cert. den., 382 U.S. 812, 86 S.Ct. 24, 15 L.Ed.2d 60, reh. den., 382 U.S. 933, 86 S.Ct. 306, 15 L.Ed.2d 344 (1965). In light of this disposition of the sufficiency-of-evidence question, we need not consider defendant's alternative argument that the State failed to offer adequate proof that the speed radar device was properly calibrated.
+
+        The second issue is the propriety of the Appellate Division's remand of the case for a new trial on all issues. Defendant urges that the protection against being twice put in jeopardy for the same offense 2 precludes a second trial once an appellate court has found insufficient evidence to sustain a conviction. In support of this assertion he relies on the decisions of the United States Supreme Court in Burks v. United States, --- U.S. ----, 98 S.Ct. 2141, 57 L.Ed.2d 1 (1978), and Greene v. Massey, --- U.S. ----, 98 S.Ct. 2151, 57 L.Ed.2d 15 (1978), decided on the same day, which were announced after this Court had 
+
+Page 314
+
+heard oral argument in the instant matter. Those cases (Burks in the federal sphere and Greene as to state court proceedings) make it clear that although a remand for a new trial is proper where reversal of a criminal conviction is predicated on trial error, the double jeopardy clause forbids a second trial where the conviction has been overturned due to a failure of proof at trial. Burks, supra, --- U.S. ---- at ----, 98 S.Ct. 2141 at 2149-2150, 57 L.Ed.2d 1 at 12-13.
+
+(S)uch an appellate reversal means that the Government's case was so lacking that it should not have even been Submitted to the jury. Since we necessarily afford absolute finality to a jury's Verdict of acquittal no matter how erroneous its decision it is difficult to conceive how society has any greater interest in retrying a defendant when, on review, it is decided as a matter of law that the jury could not properly have returned a verdict of guilty. (Id.)
+
+        The State, on the other hand, contends that a motor vehicle conviction for speeding "is not a criminal judgment warranting the constitutional protection against double jeopardy." Its position is that the protection afforded by the prohibition against double jeopardy is limited to criminal and Quasi -criminal prosecutions (see State v. Van Landuyt, 157 N.J.Super. 469, 474, 385 A.2d 236 (App.Div.1978)), and that it was never intended to extend to the sort of minor traffic charge involved in this case.
+
+        While it is true that motor vehicle violations do not fall within the scope of the criminal justice system, being petty offenses rather than "crimes," see State v. Macuk, 57 N.J. 1, 9-10, 268 A.2d 1 (1970); Cf. Rodriguez v. Rosenblatt, 58 N.J. 281, 285-93, 277 A.2d 216 (1971); State v. Van Landuyt, supra, 157 N.J.Super. at 473-74, 385 A.2d 236; State v. Raupp, 160 N.J.Super. 315, 389 A.2d 992 (App.Div.1978), prosecutions under the motor vehicle act are sometimes labelled "Quasi -criminal" and have been equated with criminal prosecutions for certain purposes. See cases cited in State v. Zucconi, 93 N.J.Super. 380, 384, 226 A.2d 16 (App.Div.), aff'd, 50 N.J. 361, 235 A.2d 193 (1967). Perhaps the most candid appraisal of the state of the law in this area is that made 
+
+Page 315
+
+by the Appellate Division in Zucconi, 93 N.J.Super. at 385, 226 A.2d at 19, that "(w)hen it has been necessary or desirable to do so, the courts have emphasized the fundamental difference between 'Quasi -crimes' and crimes, and refused to apply to the former doctrines applicable to the latter."
+
+        In a number of cases the defense of double jeopardy has been applied to motor vehicle[394 A.2d 358] prosecutions. E. g., State v. Laird, 25 N.J. 298, 135 A.2d 859 (1957) (where driver is sentenced as a first offender for driving while intoxicated and later is discovered to be a second offender, sentence cannot then be revised to reflect more severe penalties applicable to second offenders); State v. Lanish, 103 N.J.Super. 441, 247 A.2d 492 (App.Div.1968), aff'd o. b., 54 N.J. 93, 253 A.2d 545 (1969) (where driver is convicted in municipal court of driving while his ability to operate is impaired, on De novo trial in County Court he cannot be found guilty of more serious offense of driving while intoxicated); State v. Willhite, 40 N.J.Super. 405, 123 A.2d 237 (Cty.Ct.1956) (where offense involved one continuous act, driver arrested for speeding through three municipalities is subject to a single motor vehicle prosecution in only one of the municipalities). See also Brown v. Ohio, 432 U.S. 161, 97 S.Ct. 2221, 53 L.Ed.2d 187 (1977); State v. McCarthy, 30 N.J.Super. 6, 103 A.2d 169 (App.Div.1954). Other cases, while recognizing that jeopardy attaches in prosecutions involving motor vehicle violations, nevertheless have found that subsequent prosecutions were for separate and distinct offenses, and have therefore concluded that defendants may not prevail on the merits of their double jeopardy claims. State v. Shoopman, 11 N.J. 333, 336, 340, 94 A.2d 493 (1953); State v. Redinger, 64 N.J. 41, 50, 312 A.2d 129 (1973); State v. Francis, 67 N.J.Super. 377, 381-82, 170 A.2d 476 (App.Div.1961); State v. Van Landuyt, supra, 157 N.J.Super. at 472, 475, 385 A.2d 236; see generally the discussion in State v. Currie, 41 N.J. 531, 541-45, 197 A.2d 678 (1964), and R. Knowlton & D. Coburn, New Jersey Criminal Practice § 15:6 (1976).
+
+        In the instant case we need not resolve the question of whether the solemn constitutional prohibition against exposing 
+
+Page 316
+
+a criminal defendant to double jeopardy is brought to bear on motor vehicle violations generally or on a speeding charge specifically; for constitutional compulsion aside, it is plain to us that considerations of fundamental fairness militate against any retrial in this case. Cf. Rodriguez v. Rosenblatt, supra, 58 N.J. at 294, 277 A.2d 216, at 223 (although there is no inflexible constitutional requirement that counsel be assigned without cost to indigents charged in the municipal courts with disorderly persons or other petty offenses, nonetheless "considerations of fairness dictate" that counsel be provided where necessary "to protect unrepresented indigent defendants against injustices which may result from their inability to cope fairly with municipal court charges against them").
+
+        Here the failure of the State to have produced an essential element of proof, namely, the applicable speed limit, remains without satisfactory explanation. It was raised by defendant as an objection at the trial level. While a defendant subjected to multiple speeding prosecutions may very well face less embarrassment, expense and anxiety than are encountered by those faced with criminal prosecutions, nevertheless the burdens to which he is subjected are not mere trifles. Under the circumstances of this case a rerun at the trial level would result in unwarranted harassment and should be avoided if the interests of justice will not otherwise be disserved.
+
+        They will not. Here another trial would merely afford the State another opportunity to produce evidence which it failed to muster at the original proceedings. The underlying policy considerations supporting the Burks and Greene decisions, Supra, are fully applicable to the precise factual situation before us. The reversal of defendant's conviction because of the State's failure to prove an essential element of the offense must therefore result in an acquittal.
+
+        Judgment modified; the cause is remanded to the Cape May County Court for entry there of a judgment of acquittal.
+
+Page 317
+
+        For modification and remandment: Chief Justice HUGHES and Justices MOUNTAIN, SULLIVAN, PASHMAN, CLIFFORD, SCHREIBER and HANDLER 7.
+
+        Opposed: None.
+
+---------------
+
+1 N.J.S.A. 39:1-1 describes a "residence district" as
+
+that portion of a highway and the territory contiguous thereto, not comprising a business district, where within any 600 feet along such highway there are buildings in use for business or residential purposes which occupy 300 feet or more frontage on at least one side of the highway.
+
+2 The double jeopardy clauses of the United States Constitution, U.S.Const., Amend. V, applicable to the states through the Fourteenth Amendment, Benton v. Maryland, 395 U.S. 784, 89 S.Ct. 2056, 23 L.Ed.2d 707 (1969), and the New Jersey Constitution, N.J.Const. (1947), Art. I, P 11, have been interpreted as having the same meaning and as being co-extensive in application. State v. Kleinwaks, 68 N.J. 328, 334 n. 4, 345 A.2d 793 (1975).
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

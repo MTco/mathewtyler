@@ -1,0 +1,112 @@
+
+
+
+
+
+
+243 Cal.Rptr. 359
+
+
+197 Cal.App.3d Supp. 26
+
+
+The PEOPLE, Plaintiff and Respondent,
+v.
+Robert Anthony DiFIORE, Defendant and Appellant.
+
+
+Cr. A. No. 24772.
+
+
+Appellate Department, Superior Court, Los Angeles County, California.
+
+
+Oct. 14, 1987.
+
+        [197 Cal.App.3d Supp. 27] Robert Anthony DiFiore, in pro. per.
+
+        [197 Cal.App.3d Supp. 28] Ira Reiner, Dist. Atty., and Arnold T. Guminski, Deputy Dist. Atty., for plaintiff and respondent.
+
+        SOVEN, Judge.
+
+        Defendant was convicted of violating the basic speed law (Veh.Code, § 22350). 1 The arresting officer testified that defendant was clocked on radar driving 64 miles per hour on a street posted for 40 miles per hour. Defendant then objected on grounds that the officer had failed to lay a foundation, because the officer had not presented an engineering and traffic survey. The court overruled the objection as not timely. The court erred.
+
+        In cases in which a defendant is charged with violating the basic speed law, based on evidence that the defendant exceeded a prima facie or posted speed, and evidence of that speed is obtained through radar, the People are required to produce a 
+
+Page 360
+
+current engineering and traffic survey, even without the defendant's request. (People v. Halopoff (1976) 60 Cal.App.3d Supp. 1, 6, 131 Cal.Rptr. 531; see §§ 22350, 22351.) Here, even though requested by defendant, no survey was produced; the trial court erred. (See People v. Peterson (1986) 181 Cal.App.3d Supp. 7, 10, 226 Cal.Rptr. 544.)
+
+        We conclude that defendant was entitled to rely on the anti-speed-trap laws even though the evidence showed that defendant was driving in excess of the maximum lawful speed of 55 miles per hour. (§ 22348.) 2 One of the purposes of the anti-speed-trap laws (§§ 40801-40807) is to insure that localities do not post unreasonably low speed limits (see § 40802, subd. (b)). That purpose would be defeated if officers were permitted to testify that a defendant's speed was both unlawfully excessive, within the meaning of section 22348, and unsafe or unreasonable, within the meaning of section 22350, without complying with the anti-speed-trap laws which require the production of a current survey.
+
+        In People v. Flaxman (1977) 74 Cal.App.3d Supp. 16, 19, 141 Cal.Rptr. 799, in which the defendant was convicted of driving at a speed greater than 55 miles per hour in an area posted for 40 miles per hour, the court ruled that "even if a motorist is cited for driving in excess of the ... maximum speed limit ... no evidence can be used that results from a speed trap." Consistent with Flaxman, in People v. Miller (1979) 90 Cal.App.3d [197 Cal.App.3d Supp. 29] Supp. 35, 39, 153 Cal.Rptr. 192 the court held that a defendant charged with violating the maximum speed law (§ 22348), may not rely on the anti-speed-trap laws if charged "with driving in excess of 55 miles per hour on a highway with such a speed limit," and distinguished that situation "from one in which a driver is charged with driving in excess of 55 miles per hour on a section of a highway with a prima facie speed limit" less than 55 miles per hour. (Id., at p. 39 fn. 2, 153 Cal.Rptr. 192 (italics added).)
+
+        We agree with Flaxman and Miller to the extent that those cases hold or suggest that the anti-speed-trap laws apply, where a defendant is charged with speeding, either under section 22348 or 22350 and evidence is introduced as to the prima facie or posted speed limit. Nevertheless, a defendant who drives at speeds in excess of 55 miles per hour has necessarily violated the maximum speed law, and should not escape punishment because he speeded on a road which might constitute a "speed trap" as to speeds less than 55 miles per hour.
+
+        Evidence of speed obtained by radar is not necessarily inadmissible. (See People v. Miller, supra, 90 Cal.App.3d Supp. 35, 153 Cal.Rptr. 192.) Evidence of a driver's speed upon a highway is inadmissible and the witness incompetent only when a potential "speed trap" is involved. (§§ 40803, subd. (a); 40804, subd. (a).)
+
+        A "speed trap," as relevant, is a "section of a highway with a prima facie speed limit ... not justified by an engineering and traffic survey conducted within five years ... and where enforcement involves the use of radar or other electronic devices...." (§ 40802, subd. (b) (Italics added).) Prima facie speed limits are posted speed limits less than the maximum speed otherwise allowable under the law. (E.g., §§ 22351, 22352, 22354, 22357, 22358.)
+
+        A person who drives in excess of the maximum lawful speed has not been subjected to a "speed trap" even if his speed has been detected by radar on a posted road unless the officer relies on the posted or prima facie speed limit. (See People v. Miller, supra, 90 Cal.App.3d Supp. 35, 38, and fn. 2, 153 Cal.Rptr. 192.) The officer who does rely on the posted speed limit improperly benefits from the anti-speed-trap laws, if that officer is permitted to testify to a speed that is both unlawful and 
+
+Page 361
+
+excessive, but the posted speed is not justified by a traffic survey.
+
+        In summary: If an officer testifies only that he clocked a defendant on radar at a specified speed in excess of 55 miles per hour, no "speed trap" is [197 Cal.App.3d Supp. 30] involved, and the anti-speed-trap laws do not apply. 3 If, however, that officer relies on a prima facie or posted speed limit, that officer is incompetent as a witness and any evidence concerning the vehicle's speed is inadmissible unless an adequate survey is introduced.
+
+        We recognize that when a motorist is driving in excess of 55 miles per hour, the officer might cite that driver either for violating section 22348 or section 22350, or both sections. Assuming that an officer has cited that motorist under section 22350, 4 the People would be entitled to amend the complaint to dismiss the charge of violating section 22350 and allege instead a violation of section 22348, providing that the defendant is given an adequate opportunity to respond to the new charge.
+
+        In this case, the officer testified that he clocked defendant on radar driving 64 miles per hour on a road posted for 40 miles per hour. The officer thus testified to an apparent speed trap and evidence of defendant's speed was inadmissible unless the prima facie or posted speed limit was justified by a current engineering and traffic survey. (§ 40802.) No survey was introduced. This case must then be reversed, with directions to dismiss the complaint. (People v. Bighinatti (1975) 55 Cal.App.3d Supp. 5, 7, 127 Cal.Rptr. 310.)
+
+        REESE, Acting P.J., concurs.
+
+        NEWMAN, Judge, concurs.
+
+        I write separately, however, to state my disagreement with the conclusion of the majority, in dicta, that in the case of a defendant charged with violating Vehicle Code section 22348, 1 on a street or road which has a prima facie speed limit, the survey justifying such limit must be produced in court if (1) evidence that the driver exceeded 55 miles per hour was obtained through use of radar, and (2) evidence of the prima facie speed limit is presented in the People's case. Because a speed in excess of 55 miles per hour cannot be too low irrespective of the prima facie speed limit, the purposes of the anti-speed-trap legislation (§§ 40801-40807) are not [197 Cal.App.3d Supp. 31] implicated in a prosecution for violating section 22348. Section 22348 provides that 55 miles per hour (in some cases on certain designated rural highways 65 miles per hour) is the maximum speed limit; it cannot be unreasonably low no matter the conditions of the road, weather and traffic. The purpose of the anti-speed-trap legislation is to prevent conviction of drivers for violating the prima facie speed limit by use of radar without a survey to justify that speed limit. If a defendant is convicted of violating section 22348, logic dictates that a survey justifying a prima facie speed limit is unnecessary. Thus, a driver may not be convicted of violating section 22348 based upon a speed trap. Neither an officer nor the offending driver may in any sense rely on the prima facie speed limit in such a prosecution. 2
+
+Page 362
+
+        The evidentiary problems flowing from the requirement of an engineering and traffic survey do not occur when section 22348 is violated. The purpose of an engineering and traffic survey is to require the Department of Transportation (or the local authority) to justify the posted speed limit so that a driver is not convicted of exceeding an unreasonably low speed limit. When a driver exceeds 55 miles per hour, however, no justification should be required for the posted speed limit (no matter what it is) since under section 22348, 55 (or 65) miles per hour is the fastest that any driver may travel on any road. Whether the posted speed limit is excessively low is irrelevant when the driver is accused of violating the maximum speed law.
+
+        Section 22348 sets out a maximum speed limit for all situations. The maximum is absolute, since by its very language, section 22348 eliminates a driver's ordinary opportunity (under § 22351, subd. (b)) to show that his speed, although above the posted speed limit, was nonetheless not in violation of section 22350, the basic speed law. Section 22348 states in pertinent part: "Notwithstanding ... any ... provision of this chapter [e.g., § 22351, subd. (b) ], no person shall drive a vehicle upon a highway at a speed greater than 55 miles per hour." Thus, the People should not have to produce at trial an engineering and traffic survey when an officer has determined, by the use of radar, that the defendant exceeded the speed of 55 miles per hour. In so concluding, I proceed beyond the analysis which this court set forth in People v. Miller (1979) 90 Cal.App.3d Supp. 35, 153 Cal.Rptr. 192. I have reconsidered that analysis and argue that its focus was misplaced.
+
+        In Miller, we noted that the proscription against speed traps contained in section 40802, subdivision (b), applies to sections of a highway with a prima [197 Cal.App.3d Supp. 32] facie speed limit provided by the Vehicle Code or by local ordinance pursuant to the Vehicle Code. We then set about to determine "whether the 55 miles per hour state speed limit in effect on Highway 71 at the time of appellant's alleged infraction was a 'prima facie speed limit.' " (People v. Miller, supra, 90 Cal.App.3d 35, 37, 153 Cal.Rptr. 192.) We further noted that section 22351, subdivision (b), allows a driver to defend a speeding charge by showing that he was travelling safely even though he was exceeding the prima facie speed limit, but that section 22348 prohibits driving in excess of 55 miles per hour notwithstanding section 22351, subdivision (b).
+
+        Reading section 22348 together with section 22351, subdivision (b), we reasoned that since the "I was driving safely even though exceeding the posted speed limit" defense provided by section 22351, subdivision (b), is not allowed when the defendant exceeded a posted speed limit of 55 miles per hour, then such speed limit cannot be a prima facie speed limit, because section 22351, subdivision (b), states that the defense is available where there is a prima facie speed limit. We further reasoned that since a posted speed limit of 55 miles per hour is not a prima facie speed limit and since the proscription against speed traps provided by section 40802, subdivision (b), applies only to a section of a highway with a prima facie speed limit, then section 40802, subdivision (b), does not apply to a posted speed limit of 55 miles per hour. 3 Under this analysis, an engineering and traffic survey is unnecessary when a driver's speed is detected with radar in a posted 55-mile-per-hour zone.
+
+        Upon further consideration, I now conclude that section 22348 is functionally an exception to the "safe driving" defense which section 22351, subdivision (b), otherwise provides. Section 22348 impliedly recognizes that defense but provides nonetheless 
+
+Page 363
+
+that drivers may not drive in excess of 55 miles per hour. This speed restriction applies notwithstanding the posted speed limit. Although we stated in People v. Flaxman (1977) 74 Cal.App.3d Supp. 16, 19, 141 Cal.Rptr. 799 that the anti-speed-trap legislation applied to a section 22348 prosecution, our language there was little more than dictum since the focus of the opinion was the admissibility in the trial court of a certified copy of the traffic and engineering survey in lieu of the original.
+
+        In summary, I urge that we reject the focus of our analysis in footnote 2 of People v. Miller, supra, 90 Cal.App.3d 35, 153 Cal.Rptr. 192 and hold that when [197 Cal.App.3d Supp. 33] a driver is accused of violating the maximum speed limit of the Vehicle Code in a trial where the evidence of speed is provided by radar, no engineering and traffic survey need be produced by the People.
+
+---------------
+
+* Pursuant to California Constitution, article VI, section 21.
+
+1 All code references are to the Vehicle Code.
+
+2 Sections 22348, 22349, and 22356 were amended by Stats.1987, ch. 25 and ch. 72, to permit speeds of up to 65 miles per hour on certain designated rural highways.
+
+3 People v. Flaxman, supra, 74 Cal.App.3d Supp. 16, 141 Cal.Rptr. 799, in holding that "no evidence can be used that results from a speed trap " (id., at p. Supp. 19, 141 Cal.Rptr. 799 italics added), and in requiring evidence of a survey, necessarily referred to evidence of a prima facie or posted speed limit.
+
+4 An officer might issue a citation under section 22350 through inadvertence or because the burden of proving a speeding offense beyond a reasonable doubt is easier to sustain if the evidence shows that the defendant was driving, for example, 57 miles per hour in a 35-mile-per-hour zone, rather than 57 miles per hour with a maximum permissible speed of 55, and that the trier of fact might impose a greater fine if, in our hypothetical case, the defendant's speed was excessive by 22, rather than 2, miles per hour.
+
+1 All code references are to the Vehicle Code.
+
+2 While I acknowledge the potential burden of proof problems and sentencing effects if the prima facie speed limit is admitted in evidence, such factors have nothing to do with the purposes of the anti-speed-trap legislation. (See People v. Halopoff (1976) 60 Cal.App.3d Supp. 1, 5, 131 Cal.Rptr. 531.)
+
+3 We took this analysis a step further in footnote 2 of our opinion and said "This situation is distinguished from one in which a driver is charged with driving in excess of 55 miles per hour on a section of a highway with a prima facie speed limit established pursuant to section 22352." (People v. Miller, supra, 90 Cal.App.3d at p. 39, 153 Cal.Rptr. 192.) As discussed below, I now reject this extension of our analysis.
+
+
+
+
+
+
+
+
+
+

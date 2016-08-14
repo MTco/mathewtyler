@@ -1,0 +1,222 @@
+
+
+
+568 N.W.2d 764
+
+
+1997 SD 106
+
+
+CITY OF SIOUX FALLS, Plaintiff and Appellee,
+v.
+Brent William EWOLDT, Defendant and Appellant.
+
+
+No. 19732.
+
+
+Supreme Court of South Dakota.
+
+
+Considered on Briefs Jan. 16, 1997.
+Reassigned July 10, 1997.
+Decided Aug. 20, 1997.
+
+Page 765
+
+        Walter T. Doolittle, Assistant City Attorney, Sioux Falls, for Plaintiff and Appellee.
+
+        Lois Lofgren, Sioux Falls, for Defendant and Appellant.
+
+        GILBERTSON, Justice (on reassignment).
+
+        ¶1 Brent Ewoldt appeals his speeding conviction. We affirm.
+
+
+FACTS
+
+        ¶2 On the morning of September 7, 1995, Joy Tuscherer was traveling in her motor vehicle in the vicinity of the 3100 block of West 5th Street in Sioux Falls, South Dakota (City). Tuscherer dropped off her son at the Hayward School and went on her way to work, traveling east at between ten and fifteen miles per hour. Tuscherer saw a sign indicating a child crossing ahead and approached a crosswalk with a posted speed limit of fifteen miles per hour when children are present. A crossing guard stood on the north side of the crosswalk and was about to step forward. Ewoldt passed Tuscherer's vehicle on the crossing guard's side of the road.
+
+        ¶3 Tuscherer noted Ewoldt's license plate number and reported the incident to the police. An investigation ensued and, on October 3, 1995, City filed the following complaint against Ewoldt in the Magistrate Division of the Circuit Court for the Second Judicial Circuit:
+
+The undersigned being first duly sworn, on oath complains and charges on information and belief that the Defendant, Brent William Ewoldt, in said City of Sioux Falls, Minnehaha County, State of South Dakota, 6100 West Fifth Street on or about the 7th day of September, 1995, 7:55 a.m. then and there did:
+
+Drive a vehicle on a street at a speed greater than was reasonable and prudent in violation of Section 40-137 of the Revised Ordinances of Sioux Falls, South Dakota,
+
+against the peace and dignity of the City of Sioux Falls, and prays that the Defendant may be arrested and dealt with according to law.
+
+        The complaint was signed by an assistant city attorney and notarized by a notary public.
+
+        ¶4 A court trial on the speeding charge took place on October 23, 1995. Ewoldt made various motions to dismiss the case, including a motion to dismiss for lack of jurisdiction, contending the complaint was defective in failing to set forth Ewoldt's speed and the statutory speed limit. All of the motions were denied. The only witness against Ewoldt was Tuscherer, who testified as set forth in the facts. Ewoldt testified that he was beyond the crosswalk when he passed Tuscherer, that she accelerated as he passed and that he had to speed up to get around her.
+
+        ¶5 The trial court found Ewoldt guilty and entered a judgment suspending the imposition of Ewoldt's sentence as follows:
+
+[T]he Court ... suspends the Imposition of Sentence for 2 years, on the condition that the defendant pay a fine in the amount of $133.50 plus COSTS of $26.50 by December 18, 1995 and have no like offenses for 2 years.
+
+        Ewoldt appealed the judgment to the Circuit Court, which affirmed. Ewoldt now appeals to this Court.
+
+        ¶6 Must City's complaint conform to the requirements of state law and did it do so?
+
+        ¶7 Ewoldt was convicted of violating Sioux Falls Municipal Ordinance 40-137:
+
+It shall be unlawful for any person to drive a vehicle on a street or highway at a speed greater than is reasonable and prudent under the conditions then existing or at a speed in excess of those fixed by this article.
+
+        This ordinance is virtually identical to SDCL 32-25-3:
+
+It is a Class 2 misdemeanor for any person to drive a motor vehicle on a highway located in this state at a speed greater than is reasonable and prudent under the conditions then existing or at speeds in excess of those fixed by this chapter or provided by the transportation commission.
+
+Page 766
+
+        ¶8 Ewoldt argues that since a violation of City's ordinance is also a Class 2 misdemeanor under state law, City's complaint had to conform to the requirements of SDCL 32-25-21. SDCL 32-25-21 provides:
+
+In every prosecution for violation of any of §§ 32-25-1 to 32-25-17, inclusive, the complaint, and also the summons or notice to appear, shall specify the speed at which the defendant is alleged to have driven, and also the speed which such section declares shall be lawful at the time and place of such alleged violation.
+
+        Ewoldt asserts City's complaint failed to conform to the statute because it did not allege either the speed he was traveling or the lawful speed in the area. Accordingly, he contends the complaint should have been dismissed for lack of jurisdiction.
+
+        ¶9 City asserts its ordinances control the required contents of a complaint for an ordinance violation and that since the city ordinances do not require allegations of speed in a complaint for violation of Ordinance 40-137, the ordinance should control. Article IX, Section 1 of the South Dakota Constitution, in relevant part, dictates otherwise:
+
+The Legislature shall have plenary powers to organize and classify units of local government, except that any proposed change in county boundaries shall be submitted to the voters of each affected county at an election and be approved by a majority of those voting thereon in each county[.]
+
+        See also City of Rapid City v. Rensch, 77 S.D. 242, 90 N.W.2d 380 (1958) (city authorized to regulate parking under powers conferred by Legislature, including those incidental or implied powers necessary to perform the authorized function); City of Sioux Falls v. Peterson, 71 S.D. 446, 25 N.W.2d 556 (1946) (city derived its authority for traffic ordinance from Legislature pursuant to South Dakota Constitution).
+
+        ¶10 The Legislature, by enacting SDCL 23A-1-1, provides that: "[t]his title shall govern the procedure to be used in the courts of this state in all criminal proceedings and in all proceedings for violations of ordinances and bylaws of units of local government of this state." (emphasis added). In addition, SDCL 23A-45-13 provides that, "[i]f no procedure is specifically prescribed by statute or rule, a court may proceed in any lawful manner not inconsistent with this title or with any other applicable statute." (emphasis added). Taken together, these constitutional and statutory provisions mean that City's speeding complaint had to conform to the requirements of SDCL 23A-2-1 and other applicable statutes, which always prevail over any City ordinances which conflict with state law.
+
+        ¶11 Ewoldt incorrectly contends that the complaint was required to bear the signature of a police officer, rather than the signature of the assistant city attorney. SDCL 23A-2-1 contains no such requirement. The statute simply provides that, "[a] complaint is a written statement of the essential facts constituting an offense charged. It must be signed under oath before a person authorized to administer oaths in the state of South Dakota." Therefore, in terms of the signature, City's complaint was sufficient to comply with the requirements of SDCL 23A-2-1.
+
+        ¶12 Ewoldt next contends that the speeding complaint was invalid because it failed to comply with the provision of SDCL 32-25-21 which requires the complaint to "specify the speed at which the defendant is alleged to have driven, and also the speed which such section declares shall be lawful at the time and place of such alleged violation." In accordance with both Ordinance 40-137 and SDCL 32-25-3, the complaint against Ewoldt alleged he drove "at a speed greater than is reasonable and prudent under the conditions then existing." In order to determine whether this statement is sufficient to satisfy the requirements of SDCL 32-25-21, we must interpret that statute and SDCL 32-25-3 together. Statutory interpretation is a question of law, which we review de novo. Moss v. Guttormson, 1996 SD 76, p 10, 551 N.W.2d 14, 17.
+
+        ¶13 SDCL 32-25-21 mandates the complaint "shall specify the speed at which the defendant is alleged to have driven...." Ewoldt's interpretation would require us to insert the word "numerical" in 
+
+Page 767
+
+front of the term "speed" in order to construe this statute. This is not required by the plain terms of the statute. "Ordinarily, we may not, under the guise of judicial construction, add modifying words to the statute or change its terms." State v. Franz, 526 N.W.2d 718, 720 (S.D.1995). "In construing a statute, it is always safer not to add to or subtract from the language of a statute unless imperatively required to make it a rational statute." 2A Sutherland Statutory Construction § 47.38 (5th ed 1992). Such an insertion is not required to make this statute rational.
+
+        ¶14 In addition, we do not construe SDCL 32-25-21 in isolation.
+
+        Intent must be determined from the statute as a whole, as well as enactments relating to the same subject. Where statutes appear to conflict, it is our responsibility to give reasonable construction to both, and if possible, to give effect to all provisions under consideration, construing them together to make them 'harmonious and workable.'
+
+Wiersma v. Maple Leaf Farms, 1996 SD 16, p 3, 543 N.W.2d 787, 789 (internal citations omitted).
+
+        ¶15 In order to harmoniously construe SDCL 32-25-21 and SDCL 32-25-3, we must also look to SDCL 32-25-3. This statute provides alternative methods for charging a speeding violation. SDCL 32-25-3 states that a speeder can be prosecuted two ways: either for (1) exceeding reasonable and prudent speeds under the first part of the statute OR (2) for exceeding the statutory speed limits contained elsewhere in SDCL ch 32-25 under the second part of the statute. It follows that if the motorist is charged under the second half of the statute, SDCL 32-25-21 would require the applicable numerical speed contained in SDCL ch 32-25 be alleged in the complaint. If the motorist is charged under the first part of SDCL 32-25-3, there is no numerical speed which is incorporated by reference from SDCL ch 32-25. SDCL 32-25-21 requires the complaint state "the speed which such section declares shall be unlawful." The section at issue here, the first part of SDCL 32-25-3, does not contain or reference any numerical speed that is unlawful. 1 In fact, in order to charge a violation under the numerical limits in SDCL ch 32-25 are alleged to be unlawful under the then-existing driving conditions. Ewoldt was charged under the equivalent of the first half of SDCL 32-25-3, not the second.
+
+        ¶16 It makes no sense to require an officer, in arresting a speeder for violation of SDCL 32-25-3, to allege the motorist's speed and the maximum speed zone. Under Ewoldt's interpretation, even in the middle of a blinding blizzard, a ticket for overdriving the conditions would allege that the speeder was, for instance, driving 75 miles per hour in a 75 mile per hour zone. 2 That tells the motorist nothing, implicating due process. In State v. Dale, 360 N.W.2d 687, 690 (S.D.1985), this Court has stated a speeding ticket satisfies the due process requirement that a criminal complaint set "out the elements of the offense charged in order to apprise the defendant of the exact charge he must defend against." (emphasis added). There is no numerical speed which is an element of the offense of exceeding reasonable and prudent speeds under SDCL 32-25-3. 3 To hold otherwise would require the officer to allege in the ticket more than he or she has to prove to the magistrate. See also Doyen v. Lamb, 74 S.D. 126, 49 N.W.2d 382, 384 (1951):
+
+Page 768
+
+        The lawfulness of the speed of a motor vehicle is not determined by a particular rate of speed. The lawfulness of the speed of a motor vehicle within the prima facie limits fixed by [SDCL 32-25-3] is determined by the further test of whether the speed is "greater than is reasonable and prudent under the conditions then existing." A speed which would be safe and reasonable in some places and under some circumstances might be highly dangerous and unreasonable in other places.
+
+        (cited with approval by Finch v. Christensen, 84 S.D. 420, 172 N.W.2d 571 (1969)). The interpretation advocated by Ewoldt would require law enforcement officers to engage in a meaningless act of writing in a numerical speed for the sake of writing in a numerical speed, exalting form over substance and inviting charges of arbitrariness. It would cripple prosecutions for speeding in numerous cases where it is reported by a citizen rather than law enforcement with radar gun at the ready. Accidents involving wet or icy roads would no longer be prosecuted for overdriving existing road conditions where the exact speed of the offending vehicle could not be established.
+
+        ¶17 It is clear the Legislature never intended such an irrational result when it enacted SDCL 32-25-21. When a statute does not define a term, we should construe the term according to its accepted usage and avoid a strained, impractical or absurd result. SDCL 2-14-1; Nelson v. S.D. State Bd. of Dentistry, 464 N.W.2d 621, 624 (S.D.1991).
+
+        ¶18 In both briefs to this Court, Ewoldt argued that the complaint was not sufficient to satisfy due process:
+
+Here the City's Complaint merely alleged that Ewoldt did "[d]rive a vehicle on a street at a speed greater than was reasonable and prudent in violation of Section 40-137 of the Revised Ordinances of Sioux Falls, South Dakota." However, the Complaint does not allege whether the speed was greater than the posted limit, or whether there were other special circumstances that rendered Ewoldt's speed excessive.
+
+        Ewoldt's argument is incorrect. In Dale, 360 N.W.2d at 690, we held that a speeding complaint must be drafted with such specificity that it "apprise the defendant of the exact charge he must defend against." The complaint informs Ewoldt that, pursuant to SDCL 32-25-21, he was exceeding reasonable or prudent speeds for the conditions at the time and place of such alleged violation, and that is all that was required based on these circumstances. This is clearly established by SDCL 32-25-3.
+
+        ¶19 If SDCL 32-25-21 does not require the allegation of a numerical speed for the offending vehicle, neither should it, in the same sentence, require a numerical speed as the legal maximum speed limit, especially when it is subject to varying road conditions, weather and other applicable factors. We hold that the speeding ticket was sufficient to satisfy SDCL 32-25-21 and due process requirements.
+
+        ¶20 We find Ewoldt's sufficiency of the evidence argument to be without merit, and affirm his conviction. 4
+
+        ¶21 MILLER, C.J., and KONENKAMP, J., concur.
+
+        ¶22 SABERS and AMUNDSON, JJ., dissent in part and concur specially in part.
+
+        SABERS, Justice (dissenting in part and concurring specially in part).
+
+        ¶23 I dissent from that part of the majority opinion which holds that City's complaint conformed to the requirements of state law. 5 SDCL 32-25-21 sets forth the special requirements for a speeding complaint:
+
+Page 769
+
+In every prosecution for violation of any of §§ 32-25-1 to 32-25-17 [i.e., speeding], inclusive, the complaint, and also the summons or notice to appear, shall specify the speed at which the defendant is alleged to have driven, and also the speed which such section declares shall be lawful at the time and place of such alleged violation. (emphasis added).
+
+        City's complaint failed to specify either the speed Ewoldt allegedly drove or the lawful speed at the time and place of the claimed violation. It merely charged that he drove at "a speed greater than was reasonable and prudent[.]" Therefore, the complaint was deficient and we should dismiss.
+
+        ¶24 The majority opinion goes through an extensive statutory analysis to conclude the complaint's allegation that Ewoldt drove at "a speed greater than was reasonable and prudent" was a sufficient allegation of "speed." This ignores the "shall specify" language because the word "speed" is clear, certain and unambiguous. 6 Speed is simply a rate of motion. 7 "[G]reater than ... reasonable and prudent" is not a rate of motion, it is simply a descriptive or qualifying phrase. Since City's complaint failed to specify the rate of motion Ewoldt drove or the lawful rate of motion at the time and place of his violation, its complaint was deficient.
+
+        ¶25 The majority opinion uses a blizzard hypothetical to support its conclusion that it is not necessary to specify "speed" or existing conditions under SDCL 32-25-21. However, Tuscherer testified she was traveling at between ten and fifteen miles per hour in a school zone with a signed speed limit of fifteen miles per hour when children are present and that Ewoldt passed her. Thus, the complaint could and should have alleged:
+
+That on or about 7:55 a.m. on September 7, 1995, Brent William Ewoldt drove a vehicle at sixteen miles per hour in a school zone when children were present, a speed greater than fifteen miles per hour which was a reasonable and prudent speed under these conditions, in violation of Section 40-137 of the Revised Ordinances of Sioux Falls, South Dakota ...
+
+        Similarly, using the majority's blizzard hypothetical, the complaint would have to allege:
+
+That on or about 8:00 a.m. on January 1, 1997, John Doe drove a vehicle at seventy five miles per hour in a blizzard, a speed greater than forty miles per hour which was a reasonable and prudent speed under these conditions, in violation of SDCL 32-25-3 ...
+
+        ¶26 To comport with due process and provide the accused in a speeding case such 
+
+Page 770
+
+as this with sufficient notice of the accusation and an adequate opportunity to defend himself (see City of Rapid City v. Albertus, 310 N.W.2d 167, 168 (S.D.1981)), the complaint must tell the accused exactly what he is charged with: the speed he is alleged to have driven, the lawful or reasonable and prudent speed at the time and place of his alleged violation, and, that his speed was greater than was reasonable and prudent under existing conditions. SDCL 32-25-21; Sioux Falls Municipal Ordinance 40-137. City's complaint, which alleged in vague terms that Ewoldt's speed was "greater than was reasonable and prudent" fails due process. What did this tell Ewoldt? It told him nothing about extraneous conditions that made his speed unreasonable at the time of his alleged violation. In fact, under City's complaint, he could have been convicted for driving one mile per hour if that speed was claimed unreasonable for existing conditions. 8
+
+        ¶27 The majority claim that requiring complaints to contain allegations of speed in prosecutions for driving at unreasonable speeds will "cripple" prosecutions in cases where the offense is reported by a citizen who does not have a radar gun is meritless. When a citizen complains, law enforcement should investigate the road and weather conditions, the reasonable speed under those conditions and the defendant's speed. 9 Any investigation would necessarily address these basic questions.
+
+        ¶28 Based upon this analysis, City's complaint was deficient for its failure to specify the speed Ewoldt drove and the reasonable and prudent speed under the existing conditions. While a technical deficiency in a complaint does not always provide a basis for its dismissal, a complaint in a speeding case is distinguishable because no indictment or information needs to be filed. See State v. Hanson, 53 S.D. 205, 220 N.W. 518 (1928) (complaint need not charge an offense with the precision used in indictment or information), see also SDCL 23A-6-1 (class 2 misdemeanors, petty offenses and ordinance violations need not be prosecuted by indictment or information).
+
+        ¶29 The complaint in a speeding case is normally the only charging document. Therefore, it is like an indictment or information and jurisdictional. See State v. Walker, 9 S.D. 438, 69 N.W. 586 (1896). In Honomichl v. State, 333 N.W.2d 797, 798 (S.D.1983), this court held that without a formal and sufficient indictment or information a court does not acquire jurisdiction and any judgment it enters is void. The same is true with regard to a complaint in a speeding case. To paraphrase Honomichl, in a speeding case, a complaint is a vital substantive document rather than a mere technicality. See Honomichl, 333 N.W.2d at 799.
+
+        ¶30 In this instance, City's failure to file a sufficient complaint against Ewoldt deprived the magistrate court of jurisdiction. Therefore, its judgment is void and should be reversed. This would eliminate the need to address Ewoldt's sufficiency of the evidence argument. Even after a reversal, the City could recharge and retry Ewoldt upon filing a proper complaint. 10
+
+        ¶31 AMUNDSON, J., joins this special writing.
+
+---------------
+
+1 In fact, this Court has relied on the first part of SDCL 32-25-3 as the "general statutory speed statute" when there was no evidence of a numerical speed in the record. Ricketts v. Tusa, 87 S.D. 702, 705, 214 N.W.2d 77, 79 (1974).
+
+2 This scenario could easily have applied to the instant case. Tuscherer testified she was driving between ten miles per hour and fifteen miles per hour. If she were traveling ten miles per hour instead of fifteen miles per hour, and Ewoldt passed her at half again the speed she was traveling, he still would have been within the legal speed limit of fifteen miles per hour. The issue then would come back to whether Ewoldt was exceeding reasonable or prudent speeds for the conditions, the charge for which he ultimately was convicted.
+
+3 The posted numerical limit would be evidence of what is reasonable, albeit under ideal driving conditions, but it is not an element.
+
+4 The trial court upheld Ewoldt's conviction based on its determination that the city ordinance, rather than state law, controlled. It reached the right result but for the wrong reason. See Bohlmann v. Lindquist, 1997 SD 42, 562 N.W.2d 578; Kehn v. Hoeksema, 524 N.W.2d 879, 881 (S.D.1994); Sommervold v. Grevlos, 518 N.W.2d 733, 740 (S.D.1994); Cowell v. Leapley, 458 N.W.2d 514, 519 (S.D.1990) (upholding decisions of trial courts when they reached the right result for the wrong reason).
+
+5 It is clear that City's complaint must conform to the requirements of state law rather than City's ordinances. I write specially to point out the involvement of the judicial branch concerning the supremacy of state law on court procedure. That City's complaint must conform to state law is further supported by the rule-making power granted to this Court by Article V, Section 12 of the South Dakota Constitution:
+
+The Supreme Court shall have general superintending powers over all courts and may make rules of practice and procedure and rules governing the administration of all courts. The Supreme Court by rule shall govern terms of courts, admission to the bar, and discipline of members of the bar. These rules may be changed by the Legislature.
+
+S.D, Const. art. V, § 12 (emphasis added).
+
+This Court has inherent power to regulate procedure in the courts of this state. See, e.g., Lemon v. Pasternak, 340 N.W.2d 268, 269 (Iowa 1983) (judges have inherent power to adopt rules of practice within their courts); Jones v. Eastern Michigan Motorbuses, 287 Mich. 619, 283 N.W. 710, 712 (1939) (power to regulate procedure is inherently vested in Supreme Court to be exercised under its rule making powers); State v. Johnson, 514 N.W.2d 551, 553 (Minn.1994) (Supreme Court's statutory authority to regulate criminal procedure in all state courts arises from court's inherent judicial powers).
+
+These authorities, in conjunction with Article IX, Section 1 of the South Dakota Constitution, unquestionably establish the supremacy of state law in defining court procedures. 
+
+Page 770
+
+It is important to note, however, that state law in this area may be a product of the judicial branch or the legislative branch of state government. The majority opinion's isolated reference to Article IX, Section 1 of the South Dakota Constitution and its use of the language "plenary powers" tends to incorrectly suggest the Legislature's authority in this area is exclusive.
+
+6 " 'When the language of a statute is clear, certain, and unambiguous, there is no occasion for construction, and the court's only function is to declare the meaning of the statute as clearly expressed in the statute.' " B.W. v. Meade County, 534 N.W.2d 595, 597 (S.D.1995) (quoting Petition of Famous Brands, Inc., 347 N.W.2d 882, 885 (S.D.1984)).
+
+7 "Speed" is a, "rate of motion irrespective of direction: the magnitude of velocity expressed as a particular relationship 
+
+8 The specificity of "speed" required by SDCL 32-25-21 focuses on the real issue in cases such as this, i.e., not how fast the defendant was going, but the conditions that made his speed "unreasonable." In this case, the focus should be on the school zone and the presence of children. In the majority's hypothetical, it should be on the blinding blizzard.
+
+9 A citizen is competent to testify as to his estimate of the defendant's speed. See City of Vermillion v. Williams, 84 S.D. 589, 174 N.W.2d 331 (1970) (people with experience driving cars and observing speeds thereof are competent to testify in regard to speed of motor vehicles).
+
+10 See State v. Sadowski, 331 N.W.2d 274 (N.D.1983) (where a defendant's judgment of conviction is null and void because of trial court's lack of jurisdiction to adjudge the defendant guilty, double jeopardy does not bar a subsequent prosecution for the same offense); see also Grafton v. United States, 206 U.S. 333, 345, 27 S.Ct. 749, 751, 51 L.Ed. 1084 (1907) (before person can be said to have been put in jeopardy, the court in which he was convicted must have had jurisdiction to try him for the offense charged).
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

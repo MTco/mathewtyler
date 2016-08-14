@@ -1,0 +1,426 @@
+17 Cal.Rptr.2d 801
+
+
+13 Cal.App.4th Supp. 1
+
+
+The PEOPLE, Plaintiff and Respondent,
+v.
+Judith Ann GOULET, Defendant and Appellant.
+
+
+Cr.A. No. 3227.
+
+
+Appellate Department, Superior Court, Ventura County, California.
+
+
+Dec. 18, 1992.
+As Modified Dec. 31, 1992.
+
+Page 803
+
+        [13 Cal.App.4th Supp. 3] Judith Ann Goulet, in pro. per.
+
+        Michael Bradbury, Dist. Atty., Kent Baker and William Redmond, Deputy Dist. Attys., for plaintiff and respondent.
+
+
+OPINION AND JUDGMENT
+
+        OSBORNE, Presiding Judge.
+
+A. INTRODUCTION
+
+        Several cases have clearly explained the speed trap laws adopted by the California Legislature, the policies behind them, the burden placed on the prosecution, and the general statutory requirements for an engineering and traffic survey to justify a speed zone reduced below 55 miles per hour. In this case, we apply those requirements and determine that's why a survey did not justify the speed zone adopted by a local authority.
+
+        The Legislature has declared a strong public policy against the use of speed traps. (People v. Halopoff (1976) 60 Cal.App.3d Supp. 1, 131 Cal.Rptr. 531.) The policy has been explained various ways. It furthers a policy of prevention by plain sight patrolling rather than punishment after the fact, and encourages observance of all the rules of the road. (Fleming v. Superior Court (1925) 196 Cal. 344, 349, 238 P. 88.) "Commentators have suggested that the Legislature was also motivated by a desire to eliminate clandestine methods of traffic enforcement designed to augment local revenues through exorbitant fines. [Citations.]" (People v. Sullivan (1991) 234 Cal.App.3d 56, 58, 285 Cal.Rptr. 553.)
+
+        Speed trap rules are not applicable to evidence of speed based on use of a speedometer without any use of radar. The Legislature may anticipate that [13 Cal.App.4th Supp. 4] when an officer is driving a vehicle and enforcing prima facie speed laws by observing traffic, roadside conditions, his and or her own perceptions of safety under the circumstances, and then noting speed from the speedometer of the patrol vehicle, the judgment is likely to be similar to the reasonable and prudent majority of drivers, and not be determined merely by a speed limit which, for political, revenue, or other reasons, a local authority may have set below what is reasonable and necessary for safe and efficient movement of traffic.
+
+        Traffic rules account for most of the contact by average citizens with law enforcement and the courts. Enforcement of laws which are widely perceived as unreasonable and unfair generates disrespect and even contempt toward those who make and enforce those laws.
+
+        Whatever the motivation, the Legislature has spoken clearly and emphatically about speed trap laws.
+
+B. FACTS
+
+        Appellant was cited for violation of section 22350 1 of the California Vehicle
+
+Page 804
+
+Code 2, exceeding the basic speed limit. The citation states her approximate speed as 52 miles per hour, the prima facie speed limit as 35 miles per hour, and the safe speed as 35 miles per hour. The citation notes the use of radar.
+
+        Deputy Berg testified that he visually estimated appellant's speed at 50-55 miles per hour in a posted 35 miles per hour zone, the radar showed 52 miles per hour, he pursued and stopped her, and he cited her. 3 He stated she was traveling near a senior citizens' complex where there is often a lot of foot traffic and bicyclists.
+
+        In support of the 35 mph speed zone, an engineering and traffic survey was performed May 19, 1988. The road is a major artery with a raised median center divider, with two striped lanes in each direction.
+
+        For traffic in the direction appellant was traveling, the 85th percentile critical speed was 48 mph. That is, 85 percent of the surveyed vehicles were traveling at a speed of 48 mph or less. The average speed was 43 mph. The speed limit of 35 mph was exceeded by 95 percent of the drivers.
+
+        [13 Cal.App.4th Supp. 5] The "ACCIDENT AND ROADSIDE FEATURES REVIEW" section of the engineering and traffic survey lists "Unusual Roadside Features" as "1,000' radius curve, limited sight distance to commercial driveways." The segment length is 3,300 feet. The 1987 average daily traffic is stated as 12,300. The number of speed-related accidents (1985, 1986, 1987) is zero. 4
+
+C. ISSUES
+
+        Appellant raises several issues stated in different ways. We find two issues to be dispositive and thus do not find it necessary to discuss the others in detail. She contends, and we conclude: (1) The speed trap laws required the prosecution to establish that the posted speed limit was justified by a valid engineering and traffic survey, and (2) The posted speed limit of 35 mph was not justified by the engineering and traffic survey.
+
+D. OVERVIEW
+
+        In this case, there is no issue regarding timing a vehicle over a measured distance, 5 an officer not wearing a distinctive uniform, or an officer using a vehicle not painted a distinctive color. 6 The only issue relates to the use of radar, and therefore the analysis begins with the provisions of subdivision (b) of section 40802.
+
+        Under subdivision (b) of section 40802, speed trap rules do not apply, and radar can be used:
+
+        1. On "local streets and roads" as defined by section 40802, subdivision (b),
+
+        2. To enforce an absolute 60 or 65 mph speed limit set pursuant to section 22356, and
+
+        3. To enforce the absolute 55 mph speed limit established by section 22349, unless a lower speed limit has been purportedly established pursuant to section 22354 or section 22358. (See fn. 7.)
+
+        [13 Cal.App.4th Supp. 6] None of these exceptions apply to the present case.
+
+        Under subdivision (b) of section 40802, there can be no prosecution of any charge
+
+Page 805
+
+involving the speed of a vehicle 7, where enforcement involves the use of radar, except in compliance with speed trap rules, on a particular section of a highway with a prima facie speed limit decreased pursuant to sections 22354, 22358, or 22358.3. 8
+
+        This case involves a speed limit decreased by local authority pursuant to section 22358, and therefore the prosecution must comply with the speed trap rules.
+
+E. SPEED TRAP RULES
+
+        Deputy Berg testified that he visually estimated appellant's speed at 50-55 mph in a posted 35 mph zone, and that his radar showed 52 mph.
+
+        Appellant argues that the prosecution used radar evidence to convict her, the radar evidence was illegally obtained by use of a speed trap, and therefore the court lacked jurisdiction. Appellant cites People v. Halopoff, supra, 60 Cal.App.3d Supp. 1, 131 Cal.Rptr. 531 and People v. Sterritt (1976) 65 Cal.App.3d Supp. 1, 135 Cal.Rptr. 522, among other cases. Respondent contends that in those cases, the only evidence of guilt was a radar reading with no independent speed observations by the officers, whereas in this case the evidence includes an initial visual estimate of appellant's speed which was then confirmed by radar.
+
+        We are aware that in unpublished decisions, other panels of this appellate department have distinguished Halopoff and Sterritt on that basis. We conclude that such a distinction is in error. Sections 40802, subdivision (b) and [13 Cal.App.4th Supp. 7] 40803, subdivision (b) both apply "where enforcement involves the use of radar." (Emphasis added.) These sections do not say that they apply only where enforcement is exclusively based on the use of radar.
+
+        Section 40801 prohibits use of a speed trap in securing evidence of the speed of a vehicle for prosecution under the Vehicle Code. 9
+
+        Section 40802 defines a "speed trap." 10 It includes a section of a highway with a
+
+Page 806
+
+prima facie speed limit provided by local ordinance pursuant to section 22358, which speed limit is not justified by an engineering and traffic survey conducted within the five years prior to the date of the alleged violation, and where enforcement involves the use of radar.
+
+        Section 40803, subdivision (a), provides that no evidence as to the speed of a vehicle shall be admitted in any court upon the trial of any person for an alleged violation of this code when the evidence is based upon or obtained from or by the maintenance of a speed trap. 11
+
+        [13 Cal.App.4th Supp. 8] Section 40804 provides that in a prosecution for a charge involving speed, any officer shall be incompetent as a witness if the testimony is obtained by the maintenance of a speed trap. 12
+
+        Section 40805 provides that a court is without jurisdiction to render a judgment of conviction for speeding if the court admits any evidence secured in violation of sections 40800 through 40808. 13 The only exception for a highway with a prima facie speed limit is for "local streets and roads" as defined in section 40802.
+
+        Thus, as noted above, section 40802, subdivision (b) provides that a "speed trap" is a section of highway with a prima facie speed limit which is not justified by an engineering and traffic survey conducted within five years and where enforcement involves the use of radar. Subdivision (b) of section 40803 provides that in a speeding prosecution where enforcement involves the use of radar, the prosecution shall establish, as part of its prima facie case, that the evidence is not based upon a speed trap.
+
+        As in this case, People v. Peterson (1986) 181 Cal.App.3d Supp. 7, 226 Cal.Rptr. 544 and People v. DiFiore (1987) 197 Cal.App.3d Supp. 26, 243 Cal.Rptr. 359 applied the speed trap sections to cases in which
+
+Page 807
+
+officers also [13 Cal.App.4th Supp. 9] testified to visual estimates. (See also People v. Sullivan, supra, 234 Cal.App.3d at pages 60-62, 285 Cal.Rptr. 553.)
+
+        Section 40803, subdivision (b) places on the prosecution the duty to establish that the evidence or testimony is not based upon a speed trap, that is, that the speed limit is justified by an engineering and traffic survey. 14
+
+F. THE RULES FOR A SURVEY 15
+
+        In this case, there is a survey which was made within five years prior to the alleged violation. 16 Appellant contends that the survey does not justify the 35 mph speed limit.
+
+        Can there be a speed trap when there is a survey within the specified five year period? Yes. Evidence that there was a survey within five years is prima facie evidence that the evidence or testimony is not based on a speed trap. (§ 40803, subd. (c).) However, that is merely a prima facie case, and the speed limit must be justified by the survey. A speed limit is not justified by a survey unless the survey proves or shows the speed limit to be just and based upon a sufficient lawful reason.
+
+        What are the rules applicable to a survey which can justify a reduced speed limit for the purpose of radar speed enforcement?
+
+        1. A local authority may, based on a survey, set a prima facie speed limit (less than 55 mph) which is most appropriate to facilitate the orderly movement of traffic and is reasonable and safe. 17 This general standard is given more specific meaning by the Department of Transportation. Section [13 Cal.App.4th Supp. 10] 627 provides that a survey must comply with methods determined by the Department of Transportation, and shall consider prevailing speeds, accident records, and conditions not readily apparent to the driver. 18
+
+        2. In the absence of other factors, physical conditions readily apparent to a driver do not require reduced speed zoning. 19
+
+Page 808
+
+        3. Methods required by the Department of Transportation are published in a traffic manual. Chapter 8 provides traffic regulations. Sections 8-03.1 through 8-03.4 deal with speed limits and zones. Excerpts of section 8-03.3 governing establishment of prima facie speed zones are set forth in the appendix.
+
+        The following excerpt from the traffic manual, section 8-03.3, subdivision B.1.b., provides a frame of reference:
+
+        "Speed limits should be established preferably at or near the 85 percentile speed, which is defined as that speed at or below which 85 percent of the traffic is moving.... Speed limits higher than the 85 percentile are not generally considered reasonable and safe and limits below the 85 percentile do not facilitate the orderly movement of traffic. Speed limits established on this basis conform to the consensus of those who drive highways as to what speed is reasonable and safe; and are not dependent on the judgement of one or a few individuals.
+
+        "The basic speed law states that no person shall drive at a speed greater than is reasonable or prudent. The majority of drivers comply with this law, and disregard regulations which they consider unreasonable. It is only the top fringe of drivers that are inclined to be reckless and unreliable, or who have faulty judgement and must be controlled by enforcement. Speed limits set at or slightly below the 85 percentile speed provide law enforcement [13 Cal.App.4th Supp. 11] officers with a means of controlling the drivers who will not conform to what the majority considers reasonable and prudent.
+
+        "Only when roadside development results in traffic conflicts and unusual conditions which are not readily apparent to drivers, are speed limits somewhat below the 85 percentile warranted."
+
+        For the purposes of this case, the rules are well summarized in the traffic manual, section 8-03.3, subdivision B.2.b, which provides in part:
+
+        "The speed limit normally should be established at the first five mile per hour increment below the 85 percentile speed. However, in matching existing conditions with the traffic safety needs of the community, engineering judgement may indicate the need for a further reduction of five miles per hour. The factors justifying such a further reduction are the same factors mentioned above. Whenever such factors are considered to establish the speed limit, they should be documented on the speed zone survey or the accompanying engineering report.
+
+        "The Engineering and Traffic Survey should contain sufficient information to document that the conditions of CVC Section 627 have been complied with and that other conditions not readily apparent to a motorist are properly identified.
+
+        "The establishment of a speed limit of more than 5 miles per hour below the 85 percentile (critical) speed should be done with great care as this may make violators of a disproportionate number of the reasonable majority of drivers."
+
+G. APPLICATION OF THE RULES TO THE SURVEY IN THIS CASE
+
+        Deputy Berg testified appellant was traveling near a senior citizens' complex where there is often a lot of foot traffic and bicyclists. An officer's description of conditions at the time of the alleged violation would be relevant to whether there was a violation of section 22350, if he were competent to testify. But his testimony is irrelevant to the existence of a speed trap. The existence of a speed trap depends on whether the survey justified the action of the local authority in setting the speed limit.
+
+        The survey was performed May 19, 1988, well within the five-year requirement. The road is a major artery with a raised median center divider, with two striped lanes in each direction.
+
+        For traffic in the direction appellant was traveling, the 85th percentile critical speed was 48 mph. Only 15 percent of drivers exceeded 48 mph, [13 Cal.App.4th Supp. 12] whereas 85 percent drove at that speed or slower. As a general
+
+Page 809
+
+rule, that would support a prima facie speed limit of 45 mph. The average speed was 43 mph. The speed limit was actually set at 35 mph, a speed exceeded by 95 percent of the drivers.
+
+        Obviously the collective judgment of the presumed reasonable and prudent majority of drivers does not support the speed limit based on readily apparent conditions. To support such a reduced speed limit, the survey must contain sufficient information to document other conditions not readily apparent to a motorist.
+
+        The "ACCIDENT AND ROADSIDE FEATURES REVIEW" section of the survey lists "Unusual Roadside Features" as "1,000' radius curve, limited sight distance to commercial driveways." The segment length is 3,300 feet. The 1987 average daily traffic is stated as 12,300. The number of speed related accidents (1985, 1986, 1987) is zero.
+
+        Section 22358.5 precludes justifying reduced speed zoning on physical conditions such as curvature or any other condition readily apparent to a driver.
+
+        That leaves only the reference to "limited sight distance to commercial driveways" to justify the speed limit. It is questionable whether, with that volume of daily traffic, a condition not apparent to drivers can justify a 10 mph speed reduction unless the accident rate is greater than would be statistically expected from the traffic volume and road type. Here, there were no speed related accidents within three years. However, the stated condition fails to justify the speed for another reason. The survey does not state the sight distance or the location of the driveways, or explain how the condition affects the safe speed. This is not a mere technical nicety. In this case, two licensed traffic engineers testified there are no driveways that affect safety for traffic traveling in the direction of appellant.
+
+        The two traffic engineers gave compelling testimony explaining the insufficiencies of the engineering and traffic survey in this case. We have not dwelt on their testimony for several reasons. A trier of fact may, at least under certain circumstances, reject the testimony of expert witnesses. (People v. Green (1984) 163 Cal.App.3d 239, 209 Cal.Rptr. 255.) Most drivers cited for traffic violations post and forfeit bail, feeling they cannot afford the inconvenience or the time off work to contest even a citation they believe to be unfair. Conviction of common, frequent traffic infractions, with the attendant consequences of fines, points toward suspension of driver's licenses, and increased insurance rates, ought not depend on the ability of a [13 Cal.App.4th Supp. 13] driver to obtain the assistance of a licensed traffic engineer. The Legislature has carefully constructed the speed trap laws to be jurisdictional in nature. The prosecution ought not attempt to invoke, and the judiciary ought not attempt to exercise, jurisdiction contrary to the clearly expressed statutory limitation.
+
+        In the supplemental brief we requested, respondent argues that the survey states the opinion of the city traffic engineer that the accident or roadside features warrant additional speed zone reduction. Respondent concludes: "The established speed limit of 35 miles per hour was based upon a proper compliance with procedure and the law. Although experts in traffic engineering may disagree with a specific speed or conditions, the law requires only that a proper procedure be followed to establish a given speed in a given location."
+
+        Disagreement of experts will not necessarily invalidate a prima facie speed limit. But if respondent is arguing that an engineer's stated opinion is merely a procedural prerequisite not subject to judicial review, we disagree. A trial judge must first see if there is a timely survey that purports to justify the speed limit. If so, the trial judge must determine if the facts stated in the survey justify the speed limit set. If the judge determines that the speed limit is not justified, the speeding charge must be dismissed. If the judge determines the speed limit is justified, the judge will then decide whether guilt is proved beyond a reasonable doubt, subject to review
+
+Page 810
+
+on both issues if there is a conviction. 20
+
+H. EFFECT OF PROPOSITION 8
+
+        Respondent contended (1) speed trap rules were not applicable because there was evidence of a visual estimate of speed, and (2) the speed trap rules, if applicable, were satisfied because there was a survey within five years. Respondent did not address the application of Proposition 8. Having rejected those two arguments by respondent, we must address Proposition 8.
+
+        The longstanding rule of section 40803, subdivision (a) requiring exclusion of evidence obtained by use of a speed trap was abrogated June 8, 1982, [13 Cal.App.4th Supp. 14] by the adoption of the Proposition 8 "Right to Truth-in-Evidence" provision contained in article I, section 28, subdivision (d), of the California Constitution. (People v. Sullivan, supra, 234 Cal.App.3d 56, 285 Cal.Rptr. 553.)
+
+        However, as discussed above in part E, the sanction for violation of speed trap prohibitions is not merely exclusion of the offending radar evidence. The officer is incompetent as a witness to a charge of speeding (section 40804), and the court is deprived of jurisdiction (section 40805). Some have argued that Proposition 8 also abrogated those provisions. People v. Munoz (1992) 11 Cal.App.4th 1190, 1191, footnote 1, 15 Cal.Rptr.2d 21, indicates that the appellate department, following People v. Sullivan, supra, 234 Cal.App.3d 56, 285 Cal.Rptr. 553, held Proposition 8 eliminated exclusion of speed trap evidence in speeding cases. We question that conclusion. 21
+
+        The question has been decisively resolved by the adoption of section 40808 by Statutes 1992, chapter 538, section 2. The measure passed the Senate 35 to 0 and the Assembly 57 to 3, both well in excess of the two-thirds majority required by Proposition 8. The new section, effective January 1, 1993, provides: "Subdivision (d) of Section 28 of Article I of the California Constitution shall not be construed as abrogating the evidentiary provisions of this article." People v. Munoz, supra, 11 Cal.App.4th 1190, 15 Cal.Rptr.2d 21, held that the new statute should be applied retrospectively to all cases not final on the effective date of the statute. (Chapter 538 also amended section 40803, subdivision (a) to make it, like sections 40803, subdivision (b), 40804, and 40805, applicable only in a prosecution upon a charge involving the speed of a vehicle, preserving the holding of Sullivan in prosecutions of charges not involving speed.)
+
+        In short, the speed trap rules apply only to charges involving the speed of a vehicle, and are not abrogated by Proposition 8.
+
+I. CONCLUSION
+
+        The Legislature has spoken clearly on the subject of speed traps.
+
+Page 811
+
+Speed traps--reduced speed zones not justified by the conditions--bring disrespect [13 Cal.App.4th Supp. 15] to law enforcement and the courts. We have discussed the requirements and consequences at length because it must be clear to traffic engineers, local authorities, and law enforcement officers that if a prima facie speed limit is set without being justified in fact by the engineering and traffic survey, the speed limit cannot be enforced by any means involving the use of radar. Local authorities must set prima facie speed limits carefully, as justified by appropriate factors, to avoid making use of radar unavailable for speed enforcement.
+
+        When enforcing traffic laws by plain sight patrolling, officers should exercise their law enforcement discretion based on the same reasonable and prudent judgments as most other drivers, not influenced by prima facie speed zones which are not justified.
+
+        The survey in this case did not justify the prima facie speed limit. Enforcement involved the use of radar. Thus, a speed trap existed. The officer was therefore not competent as a witness and the court was without jurisdiction to render the judgment of conviction.
+
+        The judgment is reversed, and the case is remanded to the municipal court with directions to dismiss.
+
+        MCNALLY and STEELE, JJ., concur.
+
+[13 Cal.App.4th Supp. 16] APPENDIX
+
+
+TRAFFIC MANUAL
+
+CHAPTER 8--REGULATIONS
+
+Speed Limits and Zones 8-03
+
+* * * * * *
+
+8-03.3 Establishment of Prima Facie ... Speed Zones
+
+A. Legal Authority
+
+* * * * * *
+
+        7. Speed Trap--Section 40802(b) provides that prima facie speed limits established under Sections 22352(b)(1), 22354, 22357, 22358 and 22358.3 may not be enforced by radar unless the speed limit has been justified by an engineering and traffic survey within the last five years.
+
+        An "Engineering and Traffic Survey" is required where enforcement involves the use of radar or other electronic speed measuring devices, under CVC 40802(b). Local streets and of roads, as defined in the second paragraph CVC 40802(b), primarily serving abutting residential property, are exempt from this requirement....
+
+B. Engineering and Traffic Surveys
+
+        Section 627 of the Vehicle code defines the term "Engineering and Traffic Survey" and lists requirements therefor. Following are two methods of conducting engineering and traffic surveys to be used to establish or justify prima facie speed limits. These methods are presented as required by the Vehicle Code.
+
+        1. State Highways--The engineering and traffic survey for State highways is made under the direction of the District Traffic Engineer. The data shall include:
+
+a. One copy of the Standard Speed Zone Survey Sheet showing:
+
+ú A north arrow.
+
+ú Engineer's station or post mileage.
+
+ú Limits of the proposed zones.
+
+ú Appropriate notations showing type of roadside development, such as "scattered business", "solid residential", etc. Schools adjacent to the highway should be shown, but other buildings need not be plotted unless they are a factor in the speed recommendation or the point of termination of a speed zone.
+
+ú Accident rates for the zones involved.
+
+ú Average daily traffic volume.
+
+ú Location of traffic signals, signs and markings.
+
+ú If the highway is divided, the limits of zones for each direction of travel.
+
+ú Plotted 85 percentile and pace speeds at location taken showing speed profile.
+
+b. A report to the District Director shall:
+
+ú State the reason for the initiation of speed zone survey.
+
+Page 812
+
+ú Give recommendations and reasons therefor.
+
+ú List the enforcement jurisdictions involved and the attitude of these officials.
+
+ú Give the stationing or mileage at the beginning and at the end of each proposed zone and any intermediate equations. Ties must be given to readily identifiable physical features.
+
+        In determining the speed limit which is most appropriate to facilitate the orderly movement of traffic and is reasonable and safe, important factors are prevailing speeds, unexpected conditions, and accident records.
+
+        [13 Cal.App.4th Supp. 17] Speed limits should be established preferably at or near the 85 percentile speed, which is defined as that speed at or below which 85 percent of the traffic is moving. The 85 percentile is often referred to as critical speed. Pace speed is defined as the 10-mile increment of speed containing the largest number of vehicles. The lower limit of the pace is plotted on the Speed Zone Survey Sheets as an aid in determining the proper zone limits. Speed limits higher than the 85 percentile are not generally considered reasonable and safe and limits below the 85 percentile do not facilitate the orderly movement of traffic. Speed limits established on this basis conform to the consensus of those who drive highways as to what speed is reasonable and safe; and are not dependent on the judgement of one or a few individuals.
+
+        The basic speed law states that no person shall drive at a speed greater than is reasonable or prudent. The majority of drivers comply with this law, and disregard regulations which they consider unreasonable. It is only the top fringe of drivers that are inclined to be reckless and unreliable, or who have faulty judgement and must be controlled by enforcement. Speed limits set at or slightly below the 85 percentile speed provide law enforcement officers with a means of controlling the drivers who will not conform to what the majority considers reasonable and prudent.
+
+        Only when roadside development results in traffic conflicts and unusual conditions which are not readily apparent to drivers, are speed limits somewhat below the 85 percentile warranted.
+
+        Concurrence and support of enforcement officials are necessary for the successful operation of a restricted speed zone.
+
+        Section 22358.5 of the Vehicle Code states that it is the intent of the Legislature that physical conditions such as width, curvature, grade and surface conditions, or any other condition readily apparent to the driver, in the absence of other factors, would not require special downward speed zoning.
+
+        Speed zones of less than half a mile and short transition zones should be avoided.
+
+        2. City and County Through Highways, Arterials, Collector Roads and Local Streets.
+
+a. Introduction--This is a short method of speed zoning based on the premise that a reasonable speed limit is one that conforms to the actual behavior of the majority of motorists, and that by measuring motorists' speeds, one will be able to select a speed limit that is both reasonable and effective. Other factors that need to be considered are the most recent two year accident record, roadway design speed, safe stopping sight distance, superelevation, shoulder conditions, profile conditions, intersection spacing and offsets, commercial driveway characteristics, pedestrian traffic in the roadway without sidewalks, etc. In most situations, the short form will be adequate, but the procedure used on State highways may be used at the option of the agency.
+
+b. Determination of Existing Speed Limits--These speeds will either be verified, increased or decreased depending on the results of the investigation. Specific types of vehicles may be tallied by use of letter symbols in appropriate squares.
+
+        The speed limit normally should be established at the first five mile per hour increment below the 85 percentile speed. However, in matching existing
+
+Page 813
+
+conditions with the traffic safety needs of the community, engineering judgement may indicate the need for a further reduction of five miles per hour. The factors justifying such a further reduction are the same factors mentioned above. Whenever such factors are considered to establish the speed limit, they should be documented on the speed zone survey or the accompanying engineering report.
+
+        The Engineering and Traffic Survey should contain sufficient information to document that the conditions of CVC Section 627 have been complied with and that other conditions not readily apparent to a motorist are properly identified.
+
+        The establishment of a speed limit of more than 5 miles per hour below the 85 percentile (critical) speed should be done with great care as this may make violators of a disproportionate number of the reasonable majority of drivers.
+
+[13 Cal.App.4th Supp. 18] c. Speed Zone Survey--
+
+ú The intent of the speed measurements [is] to determine the actual speed of the unimpeded traffic. The speed of traffic should not be altered by concentrated law enforcement, or other means, just prior to, or while taking the speed measurements.
+
+ú Only one person is required for the field work. Speeds can be read directly from a radar meter.
+
+ú Devices, other than radar, capable of accurately distinguishing and measuring the unimpeded speed of free flowing vehicles unaffected by platoon movement may be used. Special application of devices other than radar are particularly appropriate on low volume facilities.
+
+ú A location should be selected where prevailing speeds are representative of the entire speed zone section. If speeds vary on a given route, more than one speed zone section may be required, with separate measurements for each section. Locations for measurements should be chosen so as to minimize the effects of traffic signals or stop signs.
+
+ú Speed measurements should be taken during off-peak hours on weekdays. If there is difficulty in obtaining the desired quality, speed measurements may be taken during any period with free flowing traffic. The weather should be fair with no unusual conditions prevailing. It is important that the surveyor and his equipment be so inconspicuous as not to affect the traffic speeds. For this reason an unmarked car is recommended, with radar speed meter located as inconspicuously as possible. It should be placed so as to be able to survey traffic in both directions, and should not make an angle greater than 15 degrees with the roadway centerline.
+
+ú In order for the sample to be representative of the actual traffic flow, it is desirable to have a minimum sample of 100 vehicles in each survey. In no case should the sample for any survey contain less than 50 vehicles.
+
+ú Short speed zones of less than half a mile should be avoided, except in transition areas.
+
+ú Speed zone changes should be coordinated with changes in roadway conditions or roadside development.
+
+ú Speed zoning should be in 10 mile per hour increments except in urban areas where 5 mile per hour increments are preferable.
+
+ú Speed zoning should be coordinated with adjacent jurisdictions.
+
+* * * * * *
+
+        [Figures omitted.]
+
+---------------
+
+1 "No person shall drive a vehicle upon a highway at a speed greater than is reasonable or prudent having due regard for weather, visibility, the traffic on, and the surface and width of, the highway, and in no event at a speed which endangers the safety of persons or property." (§ 22350.)
+
+2 Unless otherwise indicated, all section references are to the Vehicle Code.
+
+3 The abbreviation "mph" will often be used herein in place of "miles per hour."
+
+4 Since 95 percent of drivers exceeded the prima facie speed limit, it is evident that the excellent safety record on that segment of the roadway was not the result of any reduced speed limit, but was the result of the road conditions and safe driving uninfluenced by the low speed limit.
+
+5 Calculating speed of a vehicle by timing it over a measured distance is defined as a "speed trap" by section 40802, subdivision (a). Enforcement is provided by sections 40801, 40803, subdivision (a), 40804, subdivision (a), and 40805.
+
+6 The uniform and vehicle requirements are specified in section 40800, with enforcement provided by section 40804, subdivision (b).
+
+7 If radar is used in conjunction with a prima facie speed limit, the prima facie speed limit must be justified as required by the statute even if the driver is charged with violation of the 55 mph maximum speed limit under section 22349 and is not charged with violation of the prima facie speed limit. (People v. Flaxman (1977) 74 Cal.App.3d Supp. 16, 18-19, 141 Cal.Rptr. 799.)
+
+8 It would be helpful to have legislation clarifying whether section 40802, subdivision (b)'s reference to a "section of a highway with a prima facie speed limit provided by this code" includes speed limits:
+
+1. Set by section 22352, subdivision (a) at 15 mph at railway grade crossings with obstructed views, intersections with obstructed views, and alleys;
+
+2. Set by section 22352, subdivision (b) at 25 mph in a business or residence district, when passing a school while children are going or coming during school hours, and when passing a posted senior center;
+
+3. Increased pursuant to section 22357;
+
+4. Made variable for a freeway pursuant to section 22355;
+
+5. Set pursuant to section 22357.1 at 25 mph adjacent to a children's playground in a public park during particular hours; or
+
+6. Reduced to 20 or 15 mph near a school or senior center, pursuant to section 22358.4.
+
+9 "No peace officer or other person shall use a speed trap in arresting, or participating or assisting in the arrest of, any person for any alleged violation of this code nor shall any speed trap be used in securing evidence as to the speed of any vehicle for the purpose of an arrest or prosecution under this code." (§ 40801.)
+
+10 "A 'speed trap' is either of the following:
+
+"(a) A particular section of a highway measured as to distance and with boundaries marked, designated, or otherwise determined in order that the speed of a vehicle may be calculated by securing the time it takes the vehicle to travel the known distance.
+
+"(b) A particular section of a highway with a prima facie speed limit provided by this code or by local ordinance pursuant to paragraph (1) of subdivision (b) of Section 22352, or established pursuant to Section 22354, 22357, 22358, or 22358.3, which speed limit is not justified by an engineering and traffic survey conducted within five years prior to the date of the alleged violation, and where enforcement involves the use of radar or other electronic devices which measure the speed of moving objects. This subdivision does not apply to local streets and roads.
+
+"For purposes of this section, local streets and roads shall be defined by the latest functional usage and federal-aid system maps as submitted to the Federal Highway Administration. When these maps have not been submitted, the following definition shall be used: A local street or road primarily provides access to abutting residential property and shall meet the following three conditions:
+
+"(1) Roadway width of not more than 40 feet.
+
+"(2) Not more than one-half mile of uninterrupted length. Interruptions shall include official traffic control devices as defined in Section 445.
+
+"(3) Not more than one traffic lane in each direction." (§ 40802)
+
+11 "(a) No evidence as to the speed of a vehicle upon a highway shall be admitted in any court upon the trial of any person for an alleged violation of this code when the evidence is based upon or obtained from or by the maintenance or use of a speedtrap.
+
+"(b) In any prosecution under this code of a charge involving the speed of a vehicle, where enforcement involves the use of radar or other electronic devices which measure the speed of moving objects, the prosecution shall establish, as part of its prima facie case, that the evidence or testimony presented is not based upon a speedtrap as defined in subdivision (b) of Section 40802.
+
+"(c) When a traffic and engineering survey is required pursuant to subdivision (b) of Section 40802, evidence that a traffic and engineering survey has been conducted within five years of the date of the alleged violation or evidence that the offense was committed on a local street or road as defined in subdivision (b) of Section 40802 shall constitute a prima facie case that the evidence or testimony is not based upon a speedtrap as defined in subdivision (b) of Section 40802." (§ 40803.)
+
+Note: Section 40803 has since been amended by Statutes 1992, chapter 538, section 1, effective January 1, 1993.
+
+12 "(a) In any prosecution under this code upon a charge involving the speed of a vehicle, any officer or other person shall be incompetent as a witness if the testimony is based upon or obtained from or by the maintenance or use of a speed trap.
+
+"(b) Every officer arresting, or participating or assisting in the arrest of, a person so charged while on duty for the exclusive or main purpose of enforcing the provision of Divisions 10 and 11 is incompetent as a witness if at the time of such arrest he was not wearing a distinctive uniform, or was using a motor vehicle not painted the distinctive color specified by the commissioner.
+
+"This section does not apply to an officer assigned exclusively to the duty of investigating and securing evidence in reference to any theft of a vehicle or failure of a person to stop in the event of an accident or violation of Section 23109 or in reference to any felony charge or to any officer engaged in serving any warrant when the officer is not engaged in patrolling the highways for the purpose of enforcing the traffic laws." (§ 40804.)
+
+13 "Every court shall be without jurisdiction to render a judgment of conviction against any person for a violation of this code involving the speed of a vehicle if the court admits any evidence or testimony secured in violation of, or which is inadmissible under this article." (§ 40805.)
+
+14 People v. Halopoff, supra, 60 Cal.App.3d Supp. 1, 131 Cal.Rptr. 531, and People v. Sterritt, supra, 65 Cal.App.3d Supp. 1, 6, footnote 4, 135 Cal.Rptr. 522, held that to avoid the consequences of a speed trap finding, the prosecution must produce the engineering and traffic survey. The requirements of Halopoff and Sterritt were codified in 1981 as subdivision (b) of section 40803. That provision was interpreted and applied in People v. Peterson, supra, 181 Cal.App.3d Supp. 7, 226 Cal.Rptr. 544.
+
+15 Subdivision (c) of section 40803 refers to a "traffic and engineering survey." Subdivision (b) of section 40802 and other sections refer to an "engineering and traffic survey." They obviously refer to the same thing, which we shall generally refer to as a survey.
+
+16 Appellant raises the issue whether the existence of the survey was sufficiently before the court. The officer testified to a survey, appellant produced two expert witnesses who testified to details of the same survey, and respondent has provided a certified copy of a survey which is obviously the same one relied on by the prosecution in trial and attacked by appellant at trial and on appeal. We elect to deal with the merits of the survey rather than remand for retrial merely to have the survey clearly identified in the record.
+
+17 "Whenever a local authority determines upon the basis of an engineering and traffic survey that the limit of 55 miles per hour is more than is reasonable or safe upon any portion of any street other than a state highway where the limit of 55 miles per hour is applicable, the local authority may by ordinance determine and declare a prima facie speed limit of 50, 45, 40, 35, 30, or 25 miles per hour, whichever is found most appropriate to facilitate the orderly movement of traffic and is reasonable and safe, which declared prima facie limit shall be effective when appropriate signs giving notice thereof are erected upon the street." (§ 22358.)
+
+18 "(a) 'Engineering and traffic survey', as used in this code, means a survey of highway and traffic conditions in accordance with methods determined by the Department of Transportation for use by the state and local authorities.
+
+"(b) An engineering and traffic survey shall include, among other requirements deemed necessary by the department, consideration of all of the following:
+
+"(1) Prevailing speeds as determined by traffic engineering measurements.
+
+"(2) Accident records.
+
+"(3) Highway, traffic, and roadside conditions not readily apparent to the driver." (§ 627.)
+
+19 "It is the intent of the Legislature that physical conditions such as width, curvature, grade and surface conditions, or any other condition readily apparent to a driver, in the absence of other factors, would not require special downward speed zoning, as the basic rule of Section 22350 is sufficient regulation as to such conditions." (§ 22358.5.)
+
+20 Review at trial or on appeal will tend to fall into patterns. Many speed limits will apparently be justified because, in accordance with the general rule, they are set at the 85th percentile speed or within 5 mph under that speed. Some speed limits may be justified because they are set five mph below the general rule, based on higher than expected accident rates or listed hidden hazards. Some speed limits may appear to be unjustified or questionable because:
+
+1. The speed limit is set 10 or more mph under the 85th percentile speed;
+
+2. The speed limit makes violators of a large percentage of drivers;
+
+3. "Conditions" listed are not hidden hazards, that is, they are readily apparent to a driver;
+
+4. There is no explanation how the conditions listed require the speed limit set; or
+
+5. The accident rate is not higher than would be expected statistically.
+
+21 Sullivan involved only section 40803, subdivision (a) which excluded speed trap evidence in all Vehicle Code prosecutions, including driving under the influence of alcohol as alleged in that case. Sullivan, supra, 234 Cal.App.3d at page 63, 285 Cal.Rptr. 553, held that "... section 40803, subdivision (a), can only be characterized as a rule of evidence." The court continued: "The Legislature could have selected other remedies or penalties for violation of section 40801, but it clearly opted for the exclusion of evidence." (Ibid.) That remedy was abrogated by Proposition 8. But the court stated: "Sections 40803, subdivision (b), 40804, and 40805, which apply only when a defendant is charged with an offense involving the speed of a vehicle, do not apply in this case." (Id., at p. 60, 285 Cal.Rptr. 553.) Those sections do provide other remedies or penalties for violation of section 40801 besides exclusion of evidence. We doubt that Proposition 8 was intended to abrogate statutes making a person incompetent as a witness and limiting the jurisdiction of a court.
+
+
+
+
+
+
+
+
+

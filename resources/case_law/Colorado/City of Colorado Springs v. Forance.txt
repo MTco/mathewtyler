@@ -1,0 +1,194 @@
+
+
+776 P.2d 1107
+
+
+The CITY OF COLORADO SPRINGS, Petitioner,
+v.
+Donna FORANCE, Respondent.
+
+
+No. 88SC85.
+
+
+Supreme Court of Colorado,
+En Banc.
+
+
+July 24, 1989.
+
+        James G. Colvin II, City Atty., and Kathleen M. Moore, Asst. Chief Pros. Atty., Colorado Springs, for petitioner.
+
+        Frank A. Gerig, P.C., Frank A. Gerig and Gregory R. Werner, Colorado Springs, for respondent.
+
+        VOLLACK, Justice.
+
+        We granted certiorari to review the ruling entered by the El Paso District Court ordering that the respondent's guilty plea be set aside. The effect of this ruling is to declare unconstitutional the advisement contained on the reverse of the standard summons and complaint issued for minor traffic violations. We reverse the district court's order.
+
+Page 1108
+
+I.
+
+        In April 1986 the respondent Donna Forance (Forance or the defendant) was issued a summons and complaint by a Colorado Springs Police Officer for driving a motor vehicle at 39 miles per hour (mph) in a posted speed limit zone of 30 mph. Rather than appear in municipal court on the scheduled appearance date of May 15, Forance signed the back of the summons and complaint, which is a form entitled "Appearance, Acknowledgment of Guilt, and Waiver," and paid a fifteen-dollar fine. 1
+
+        Over one year later Forance filed a motion to set aside the 1986 guilty plea and a hearing was held on the motion in June 1987. Forance testified at the hearing that she had not read the advisement of rights contained on the form before she signed it. She contended that she should be permitted to withdraw her guilty plea because it was not knowingly and understandingly made. The municipal court denied the motion to set aside.
+
+        Forance appealed, and the district court reversed the municipal court's holding. The district court concluded that because the "Acknowledgement of Guilt" advisement did not describe the elements of the speeding charge, the guilty plea was not knowingly and understandingly entered. The City of Colorado Springs (the City) filed a petition for writ of certiorari in this court. We granted certiorari to address the issue of whether the procedure authorized by the Colorado Municipal Court Rules of Procedure, which allows a defendant to appear at the violations bureau to make payment of a fine pursuant to a fine schedule established by the municipal court in lieu of appearance at arraignment, is in accord with constitutional requirements for entry of a guilty plea to a municipal ordinance violation.
+
+II.
+
+A.
+
+        The reverse of the summons and complaint form used in this case stated:
+
+APPEARANCE, ACKNOWLEDGEMENT OF GUILT, AND WAIVER
+
+You have the right:
+
+        1. To a trial before a judge or jury
+
+        2. To plead not guilty and have the charge(s) proved beyond a reasonable doubt at a trial to the Court, or upon written demand within ten (10) days and payment of a $25.00 jury fee, unless waived, a trial to a jury of three (3) to six (6) persons
+
+        3. To be represented by a lawyer and, if indigent, to ask the Court to appoint one
+
+        4. To remain silent concerning the charge(s) against you
+
+        5. To testify or not testify in your own behalf, to cross-examine witnesses against you, to call witnesses in your own behalf, and the right to have subpoenas issued to bring your witnesses to court
+
+        6. To Bail if you are in custody
+
+        7. To appeal your conviction to a higher court
+
+        The undersigned hereby enters his/her appearance, acknowledges guilt of the offense(s) charged on the reverse side on this Summons and Complaint, acknowledges that he/she has read and understands the Defendant's rights set forth above and further understands that by signing this acknowledgement he/she waives all of such rights.
+
+        Forance signed this advisement to enter her guilty plea and paid a fine. When she filed the motion to set aside her guilty plea, the municipal court found that "the Defendant signed her name acknowledging that she understood her rights on a form," that she "was in a position to understand said language and that her mere assertion that she does not think she read said advisement is not a sufficient prima facie showing that she did not understand her rights." On this basis, the court ruled that
+
+Page 1109
+
+the Defendant has failed to show a prima facie case that she did not voluntarily and understandingly waive her rights, voluntarily and understandingly enter a guilty plea to the charge of speeding 39 in a 30, and even if it could be argued that she had prima facie shown such evidence, it is apparent that the City met its burden by a preponderance of the evidence that Defendant did voluntarily, and understandingly enter her guilty plea.
+
+        The district court disagreed and found that Forance's plea was not entered knowingly and understandingly because the elements of speeding were not described on the advisement form. The court noted:
+
+        While this Court may personally feel that a lesser advisement on a certain class of violations bureau cases in the Municipal and County Courts is appropriate because of the simple nature of the offenses and particularly as to the elements, the Appellate Courts have not yet recognized the desirability of that policy.
+
+        The issue for our determination is whether the procedures described on the reverse side of the ticket satisfy constitutional requirements for entry of a guilty plea.
+
+B.
+
+        The proceedings at issue here were conducted pursuant to the Colorado Municipal Court Rules of Procedure (C.M.C.R.). Under the municipal rules, when a summons and complaint is issued, the defendant may either (1) appear in court for arraignment, or (2) enter an appearance at the clerk's office or violations bureau. C.M.C.R. 210(a,b). Both procedures require that the defendant be arraigned in court, unless (1) the defendant elects to appear at the clerk's office or violations bureau for the purpose of pleading guilty and (2) "the offense is included in a uniform schedule of fines imposed by the court in accordance with the provisions of subsection (5) below." C.M.C.R. 210(b)(2). 2 The speeding offense at issue here, speeding 0-9 miles over the speed limit, was included in the uniform schedule of fines.
+
+        C.M.C.R. 211 provides that the court may not accept a defendant's guilty plea without (1) determining that the plea is voluntarily made and that the defendant understands "the nature of the charge," and (2) explaining to the defendant his right to jury trial, his right to counsel, and the possible penalty. C.M.C.R. 211.
+
+        The parties concede that the acknowledgement form signed by Forance lists the rights that are being waived by entry of a guilty plea. The acknowledgement form, however, does not contain a description of the elements of speeding. 3 In this case, the summons described the offense as "39/30 posted--radar." The issue becomes whether this description of the offense satisfies constitutional requirements for entry of a plea of guilty.
+
+C.
+
+        While it is permissible to recognize "the practical realities faced by county and municipal courts" in which thousands of cases like this are filed every year, the convenience of the parties and courts can be given deference "only so long as the constitutional rights of the defendant are fully respected." People v. Lesh, 668 P.2d 1362, 1367 (Colo.1983). To be constitutionally acceptable, a defendant's guilty plea must be knowing and voluntary. Id. A guilty plea cannot be knowing or voluntary "unless the defendant receives notice of the true nature of the charge against him." People v. Cabral, 698 P.2d 234, 235 (Colo.1985). When an advisement does not meet the mandatory constitutional requirements, 
+
+Page 1110
+
+the guilty plea cannot be accepted; nothing in the municipal rules permits a proceeding that violates an individual constitutional right. Mulkey v. Sullivan, 753 P.2d 1226, 1230-31 (Colo.1988).
+
+        A guilty plea may be unconstitutionally involuntary in one of two ways. First, a plea may be involuntary if the defendant does not understand the constitutional protections he is waiving. Lacy v. People, 775 P.2d 1, 4-5 (Colo.1989). Second, "a plea may be involuntary because the defendant 'has such an incomplete understanding of the charge that his plea cannot stand as an intelligent admission of guilt.' " Id. at 5 (quoting Henderson v. Morgan, 426 U.S. 637, 645 n. 13, 96 S.Ct. 2253, 2257 n. 13, 49 L.Ed.2d 108 (1976)). This type of plea may be involuntary if the defendant did not receive real notice of the true nature of the charge against him, which in turn depends on whether the record as a whole affirmatively demonstrates "that the defendant understood the constitutional rights he was waiving and the critical elements of the crime to which the plea was entered." Id.
+
+        Certain safeguards apply to the "over-the-counter" procedure at issue here. This procedure cannot be used for serious traffic offenses described in the Municipal Rules and cannot even be used in any speeding case where the defendant is charged with exceeding the posted speed limit by more than 20 mph. C.M.C.R. 206(c)(4) requires that the summons and complaint contain the defendant's name, the date and location of the offense, the "identification of the offense charged" citing the charter or ordinance allegedly violated, and "a brief statement or description of the offense charged."
+
+        The purpose of these rules "is to provide for simplicity in procedure and fairness in administration." Alessi v. Municipal Court, 38 Colo.App. 153, 156, 556 P.2d 87, 89 (1976). The court of appeals held in Alessi that "[w]here the city and municipal court name is printed on the face of the ticket, the section number together with a reference to the 'local ordinance' provides adequate notice to the defendant of the offense allegedly violated." Id. at 156, 556 P.2d at 89.
+
+        In this case, the summons and complaint said that Forance was directed to appear to answer charges of violation of "Section 22-5-104" of the code of the City of Colorado Springs, titled "... Posted Speed Limit." The description of the offense was "39/30 Posted--Radar." The elements of this offense are that the defendant drove a motor vehicle in excess of the posted speed limit. The summons in this case showed that Forance was charged with driving "39" at 1000 East Cheyenne Meadows Place, on 4/16/86 at 9:15 A.M., where the posted speed limit was "30." The ticket further shows that Forance's speed was determined by radar.
+
+        We also note that the only evidence presented by the defendant at the hearing was that she did not read any part of the advisement. She did not claim that she did not receive the advisement, or that she attempted to read it and was unable to understand it. She testified that the signature on the advisement was hers, and that she remembered signing it. Rather, she explained that she had not read it at all and that she "usually" did not read documents before signing them. She further testified that because her boss would not give her time off from work for anything, she did not have the time to contest the speeding charge. Her reason for filing the motion to set aside the guilty plea in this case was that she had since received two additional speeding tickets.
+
+        The court ruled that the defendant had not made a prima facie showing that she did not voluntarily and understandingly waive her rights and enter a plea of guilty. The evidence in the record included her acknowledgement by signature in May 1986 that she read, understood, and waived the rights described on the summons and complaint. The evidence to the contrary consisted of her testimony at the hearing over one year later; she testified that she had not read the advisement form before signing it. The trier of fact found that this denial alone, when considered along with the advisement form containing her signature 
+
+Page 1111
+
+and her testimony in this regard, was not sufficient to establish a prima facie showing that the plea was not voluntarily and understandingly made.
+
+        The burden was on the defendant to present a prima facie case that her plea was not knowingly and understandingly made. Lesh, 668 P.2d at 1368; Lamb v. People, 174 Colo. 441, 446, 484 P.2d 798, 800 (1971); see Mulkey, 753 P.2d at 1232-33. The weight and credibility to be given a witness' testimony at the hearing is within the province of the trial court; if the evidence supports the trial court's findings and holding, the trial court's ruling will not be disturbed on review. Lamb, 174 Colo. at 446, 484 P.2d at 800. In its written order, the trial court held that "the Defendant signed her name acknowledging that she understood her rights," that Forance "was in a position to understand said language," 4 and the court found that the acknowledgement and waiver was voluntarily made. Based on the testimony at the hearing and the evidence introduced by the prosecution, the judge concluded that Forance's assertion at the hearing that she did not think she read the advisement did not amount to a prima facie showing that she did not understand her rights. After assessing the witness' credibility and balancing the conflicting evidence, the trial court entered this ruling. Because the ruling is amply supported by the evidence in the record, we will not disturb the ruling on review.
+
+        Because the elements of this speeding charge are simple, obvious, and readily understandable by an adult licensed to drive in the State of Colorado, we conclude that the advisement in this case adequately notified Forance of the true nature of the charge. Consequently, her argument as to the involuntary nature of her plea is without merit. The district court erred in directing that the motion to set aside be granted. We reverse the district court and remand with directions to affirm the municipal court's denial of the motion to withdraw guilty plea.
+
+        KIRSHBAUM, J., specially concurs.
+
+        LOHR, J., dissents.
+
+        KIRSHBAUM, Justice, specially concurring.
+
+        I specially concur with the majority opinion reversing the district court's order in this case. While I believe that the defendant established a prima facie case that her plea was involuntary, I also believe that the record supports the municipal court's alternative conclusion that on the basis of the evidence introduced during the Crim. P. 35 hearing the People successfully rebutted that presumption. I therefore agree that the district court's judgment must be reversed.
+
+        LOHR, Justice, dissenting:
+
+        I respectfully dissent. The majority holds that the record adequately establishes that defendant Donna Forance's plea of guilty to the 1986 speeding offense was voluntary and therefore was constitutionally sufficient. I am persuaded, however, that the record presents a question of fact on this issue and that the municipal court improperly gave conclusive effect to the defendant's signed waiver in resolving that question. I would reverse the judgment of the district court and return the case to that court for remand to the municipal court to determine whether the defendant's plea of guilty was voluntary.
+
+I.
+
+        I agree with the general statements of the law set forth by the majority concerning the constitutional sufficiency of guilty pleas. A guilty plea must be voluntary in order to satisfy due process of law. E.g., Henderson v. Morgan, 426 U.S. 637, 96 S.Ct. 2253, 49 L.Ed.2d 108 (1976); Lacy v. People, 775 P.2d 1, 4 (Colo.1989). A plea may be involuntary either because the defendant does not understand the constitutional protections she is waiving or has 
+
+Page 1112
+
+such an incomplete understanding of the charge that her plea cannot stand as an intelligent admission of guilt. Henderson, 426 U.S. at 645 n. 13, 96 S.Ct. at 2257 n. 13; Lacy, 775 P.2d at 4. 1 "In order to establish that the constitutional requirement of voluntariness has been satisfied, the record as a whole must affirmatively demonstrate that the defendant understood the constitutional rights [she] was waiving and the critical elements of the crime to which the plea was tendered." Lacy, at 4; see also People v. Wade, 708 P.2d 1366, 1368-69 (Colo.1985).
+
+        This court has previously held that the foregoing general principles for evaluating the validity of guilty pleas apply to misdemeanors and traffic offenses as well as to felonies. People v. Lesh, 668 P.2d 1362, 1367 (Colo.1983); accord Mills v. Municipal Court, 10 Cal.3d 288, 110 Cal.Rptr. 329, 515 P.2d 273 (1973); State v. Nordstrom, 331 N.W.2d 901 (Minn.1983); State v. Tweedy, 209 Neb. 649, 309 N.W.2d 94 (1981); Cleveland v. Whipkey, 29 Ohio App.2d 79, 278 N.E.2d 374 (1972); Crew v. Nelson, 88 S.D. 162, 216 N.W.2d 565 (1974). In Lesh, we held that "before accepting a plea of guilty or nolo contendere to a misdemeanor or traffic offense, the trial court must be satisfied that the defendant's decision to acknowledge guilt has been made knowingly and understandingly." (Emphasis in original.) Recognizing the practical realities faced by trial courts in dealing with minor offenses, however, we noted in Lesh that the constitutional requirements for accepting guilty pleas do not preclude the adoption of simplified procedures applicable to cases involving less serious offenses, so long as such procedures afford adequate protection to the constitutional interests at stake. Lesh, 668 P.2d at 1367 (citing Mills v. Municipal Court, 10 Cal.3d 288, 304-05, 110 Cal.Rptr. 329, 340-41, 515 P.2d 273, 304-05 (1973)). 2
+
+II.
+
+        Involved in the instant case is the "over-the-counter" procedure for entering guilty pleas in cases involving certain minor traffic offenses. This simplified procedure is authorized by C.M.C.R. 210(b), which permits a defendant to enter a plea and pay a prescribed fine without the need for attending an arraignment and entering a plea in open court. Nevertheless, C.M.C.R. 211 mandates that the municipal court may not accept a defendant's guilty plea, whether entered "over-the-counter" or after a personal advisement, without first determining that the plea was voluntarily made and that the defendant was apprised of his right to trial by jury, right to counsel, and the possible penalty for the offense charged.
+
+        In evaluating the validity of Forance's 1986 guilty plea, we must ascertain whether the record of the proceedings used to obtain the plea contains sufficient evidence to demonstrate that the defendant entered her plea voluntarily. People v. Wade, 708 P.2d 1366, 1368-69 (Colo.1985). If at the hearing on her motion to set aside the 1986 plea the defendant presented evidence sufficient to make out a prima facie case that her plea was not voluntarily made, the burden should have shifted to the prosecution to establish the constitutional validity of the guilty plea by a preponderance of the evidence. Lesh, 668 P.2d at 1368; Watkins v. People, 655 P.2d 834, 837 (Colo.1982).
+
+Page 1113
+
+III.
+
+        As the majority notes and the parties concede, the acknowledgment form appearing on the back of the summons and complaint and signed by the defendant sufficiently describes the rights that are being waived by entry of a guilty plea. See maj.op. at 1109. I also agree with the majority's analysis that the contents of the summons and complaint were adequate to advise Forance of the elements of the speeding offense with which she was charged, and that the district court erred in ruling to the contrary. See maj.op. at 1110. However, the issue is not whether Forance had adequate access to information regarding these rights and elements, but rather whether she understood them.
+
+        Based on the record before us, I would conclude that the defendant offered evidence at the hearing sufficient to establish a prima facie case that she did not understand her rights and that her guilty plea was therefore not voluntarily made. She testified that she did not read the advisement on the reverse side of the summons and complaint before signing it. As earlier noted, however, the summons and complaint contains an adequate recital of rights. It also includes an acknowledgment form, which was signed by the defendant and states as follows:
+
+The undersigned hereby enters his her appearance, acknowledges guilt of the offense(s) charged on the reverse side of this Summons and Complaint, acknowledges that he she has read and understands the Defendant's rights set forth above and further understands that by signing this acknowledgment he she waives all of such rights.
+
+        The record suggests no source other than a reading of the advisement form from which it could be found that the defendant understood the constitutional rights she was waiving and the critical elements of the charge to which she was pleading. This presented the trial court with conflicting evidence from which it could have found either that the defendant did or did not read and understand her rights and the elements of the offense with which she was charged. The trial court did not make such a finding but instead stated, "[d]efendant cannot be heard to complain she did not understand her rights when they were before her in written form, she acknowledged by her signature she had read such rights, and if she failed to so read such rights such failure was of her own volition." 3
+
+        This statement by the district court reflects an erroneous view of the law. Absent a finding based on the record as a whole that the defendant in fact understood the constitutional rights she was waiving and the critical elements of the crime to which the plea was tendered, the conviction upon which that plea was based does not meet constitutional standards. To hold otherwise renders meaningless the constitutional protections deemed applicable to all offenses, regardless of their gravity. See Lesh, 668 P.2d at 1367.
+
+        I would reverse the judgment of the district court and remand the case to that court with directions to return it to the municipal court for a factual determination of whether the plea was voluntary and for such further proceedings as might be appropriate in light of that determination.
+
+---------------
+
+1 Forance's testimony was that she could not remember whether she appeared in person at the violations bureau to pay the fine or mailed in the ticket with the fine.
+
+2 This simplified procedure is not available for the following traffic violations:
+
+(I) Offenses resulting in an accident causing personal injury or substantial property damage;
+
+(II) Reckless driving;
+
+(III) Exceeding the speed limit by more than twenty miles per hour;
+
+(IV) Drag racing or any speed contest.
+
+C.M.C.R. 210(b)(4)(I-IV).
+
+3 Speeding is a strict liability offense, and the elements that must be established are that (1) the defendant was operating a motor vehicle (2) in excess of the applicable speed limit. See People v. Caddy, 189 Colo. 353, 540 P.2d 1089 (1975).
+
+4 The court found that Forance had graduated from high school, had received a blue copy of the ticket, had taken a written test to obtain her Colorado driver's license, and appeared to be "at least a person of average or ordinary intelligence."
+
+1 This court has described the standard for measuring the constitutional validity of guilty pleas alternatively as "voluntarily made," e.g., Lacy, 775 P.2d at 4, "voluntarily and understandingly made," e.g., People v. Chavez, 730 P.2d 321, 324 (Colo.1986); People v. Wade, 708 P.2d 1366, 1368 (Colo.1985); People v. Leonard, 673 P.2d 37, 39 (Colo.1983); and "voluntarily and knowingly made," e.g., Harshfield v. People, 697 P.2d 391, 393 (Colo.1985); Wilson v. People, 708 P.2d 792, 795 (Colo.1985). In my view the preferable formulation of the inquiry is whether the guilty plea was made "voluntarily." The term "voluntarily" encompasses the requirements that the defendant know and understand both the constitutional protections she is waiving and the true nature of the charges against her. See Henderson, 426 U.S. at 644-45, 96 S.Ct. at 2257 (referring to the relevant constitutional inquiry as whether the plea of guilty was "voluntary" in the constitutional sense).
+
+2 In People v. Lesh we upheld the procedure in Crim.P. 11(c) authorizing the entry of a guilty plea by counsel on behalf of a defendant in a non-felony case so long as the trial court assures itself by suitable means that the defendant's plea meets constitutional standards. Lesh, 668 P.2d at 1367-68.
+
+3 The majority reads the trial court's order as reflecting a ruling, entered "[a]fter assessing the witness' credibility and balancing the conflicting evidence," that the defendant did not present a prima facie case that she did not understand her rights. Maj.op. at 1111. I disagree with this interpretation. The advisement was the only source of information from which the court could have found that the defendant was informed of her rights. As the quotation to which this footnote is appended reflects, the trial judge erroneously concluded that it was irrelevant to a determination of voluntariness whether the defendant had read or understood the advisement form as long as she was capable of doing so and was given the opportunity to do so. The trial court's general conclusions concerning the sufficiency of the evidence to present a prima facie case of involuntariness or to resolve that issue if presented must be interpreted in light of its determination that an opportunity to become informed, even if not availed of, would suffice to support a finding that the plea was voluntary.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

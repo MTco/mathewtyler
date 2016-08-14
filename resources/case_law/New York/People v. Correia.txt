@@ -1,0 +1,102 @@
+
+
+
+
+531 N.Y.S.2d 998
+
+
+140 Misc.2d 813
+
+
+The PEOPLE of the State of New York, Plaintiff,
+v.
+Jamie J. CORREIA, Defendant.
+
+
+Village Justice Court
+of Muttontown.
+
+
+July 21, 1988.
+
+        Joseph R. Carrieri, Jericho, Village Prosecutor of Muttontown, for the people.
+
+        David A. Mansfield, Islandia, for defendant.
+
+        MARTIN I. KAMINSKY, Village Justice.
+
+        After trial of this traffic speeding case, novel questions are presented regarding the legal sufficiency of a police officer's independent estimate of the defendant's speed, since the officer's estimate was made following and as the result of an unreliable and possibly inaccurate radar clocking of the defendant's speed and while the officer was in a stationary position, observing the defendant drive past him.
+
+        Defendant Jamie J. Correia was ticketed on the morning of April 3, 1987 for alleged speeding on Route 25A in the Village of Muttontown. Defendant is alleged to have been driving at 81 mph in a 55 mph zone, in violation of § 1180(b) of the Vehicle & Traffic Law. Police Officer Peter Cusak, who issued the summons, first clocked the defendant on a Doppler radar unit in his police car, and then made an independent 
+
+Page 999
+
+estimate of the defendant's speed. Officer Cusak was monitoring traffic while in a stationary position, off the roadway. He was alerted to the defendant's presence by the sound of the radar unit's read-out. Officer Cusak looked down to see the radar read-out. Then, Officer Cusak looked up, saw the defendant and made his own estimate of the defendant's speed, as the defendant crossed his field of vision.
+
+        Officer Cusak's testimony established that he has expertise in the use of Doppler radar equipment and extensive experience in making independent estimates of the speed of moving vehicles. He has had police academy and on-the-road training, and has been on road and traffic patrol for some years. Officer Cusak has regularly worked with and tested radar units, and has made hundreds or even thousands of independent estimates of speed. Checks of his independent estimates against radar units and his speedometer indicate that Officer Cusak's independent estimates are generally within about 3 miles of those read-outs.
+
+        Officer Cusak tested the radar unit he was using twice on the day in question. He did so both before and after he issued a summons to the defendant. Officer Cusak checked the unit's read-outs against two tuning forks and made internal calibration checks, noting the test results in a written log which his department maintains with respect to the unit. The test results from one of the tuning fork tests conducted after the summons was issued, at least as recorded by the police officer, showed speed read-outs outside the range permissible to verify the accuracy and reliability of the unit.
+
+        Defendant contends that (a) the radar unit in question was not properly or reliably tested, rendering the radar evidence non-probative, and (b) since Officer Cusak's independent estimate of the defendant's speed occurred after (indeed as a result of) the radar clocking and while the officer was in a stationary position, that estimate was necessarily tainted by the radar reading and is insufficient to sustain a conviction. In so arguing, defendant has presented a novel question: viz., is a police officer's independent estimate of speed insufficient, as a matter of law, to sustain a conviction where that estimate was made following the officer's observance of a faulty or unreliable radar clocking of the defendant's speed? A corollary novel question is whether the fact that the police officer's independent estimate was made while he was in a stationary position, rather than while pacing the defendant's vehicle, necessarily affects the result.
+
+        Neither counsel nor the Court have found a case directly in point on these issues. Based upon analogous authority (discussed below), the Court holds that a conviction can, but need not, result from a police officer's independent estimate in these circumstances, i.e. regardless of whether that occurred before or after a radar clocking and whether the officer made his estimate while in a stationary as opposed to a pacing mode. The sufficiency of such evidence must be determined on a case-by-case basis, in light of and considering the particular facts and circumstances presented. In other words, while the sequence of a faulty radar clocking and an officer's independent estimate of speed may affect the weight to be given to the independent estimate, it does not necessarily render the independent estimate insufficient as a matter of law. The same is true with respect to the police officer's position relative to the defendant.
+
+        Generally, the Court in a speeding case is presented with a combination of a radar or other mechanical (e.g. speedometer) clocking of the defendant's speed, corroborated by a trooper's or police officer's estimate (i.e., opinion evidence) of the defendant's speed. See, e.g., People v. Magri, 3 N.Y.2d 562, 564-65, 170 N.Y.S.2d 335, 147 N.E.2d 728 (1958); People v. Maniscalco, 94 Misc.2d 915, 917-18, 405 N.Y.S.2d 888. See also: People v. Smalley, 64 Misc.2d 363, 364-65, 314 N.Y.S.2d 924. However, both forms of evidence are not necessary for there to be a conviction. Either (a) a radar or other mechanical clocking (Magri, supra; People v. Perlman, 89 Misc.2d 973, 977-78, 392 N.Y.S.2d 985) or (b) the 
+
+Page 1000
+
+police officer's independent estimate of the defendant's speed ( People v. Olsen, 22 N.Y.2d 230, 231, 292 N.Y.S.2d 420; Mtr. of Graf v. Foschio, 102 A.D.2d 891, 892, 477 N.Y.S.2d 190; People v. Jeck-Tisch, 133 Misc.2d 1090, 1091, 509 N.Y.S.2d 463) alone can suffice to produce and sustain a conviction.
+
+        Doppler radar devices have been judicially accepted as probative evidence of speed for over thirty years ( Magri, supra, 3 N.Y.2d 562, 170 N.Y.S.2d 335, 147 N.E.2d 728), provided they are properly used and were tested within a reasonable time period both before and after the summons in question was issued. Perlman, supra, 89 Misc.2d at 977-78, 392 N.Y.S.2d 985. However, not all uses of such equipment and not all radar or other speed measuring devices are, as yet, accepted as reliable. For example, in People v. Conlon, 109 Misc.2d 729, 731-32, 440 N.Y.S.2d 831, the Court rejected evidence of an MR-9 radar clocking made while the police officer was "in a moving or verifying mode", on the ground that the reliability of "moving radar" has not yet been scientifically established to warrant the Court's taking judicial notice thereof. In People v. Leatherbarrow, 69 Misc.2d 563, 566, 330 N.Y.S.2d 676, the Court rejected Vascar speed measurements altogether.
+
+        Proper testing of radar generally consists of a series of tests with tuning forks and internal calibration devices within reasonable time periods both before and after the summons at issue was issued, sometimes coupled with verification against the speedometer of a companion police vehicle or the testing officer's own vehicle. Maniscalco, supra, 94 Misc.2d at 916, 405 N.Y.S.2d 888; People v. Lynch, 61 Misc.2d 117, 119, 304 N.Y.S.2d 985; People v. Stephens, 52 Misc.2d 1070, 1072, 277 N.Y.S.2d 567. See also: Mtr. of Lovenheim v. Foschio, 93 A.D.2d 986, 987, 461 N.Y.S.2d 638. Testing of a mechanical speed device requires similar before and after testing by the police officer within reasonable proximity to the incident in question, as well as outside verification of the reliability of the device. Govt. of V.I. v. Rodriguez, 300 F.Supp. 909, 910 (D.C. V.I.) (N.Y. law applied); People v. Marsellus, 2 N.Y.2d 653, 163 N.Y.S.2d 1, 143 N.E.2d 1. See also: People v. Cunha, 93 Misc.2d 467, 469, 402 N.Y.S.2d 925, aff'd, 96 Misc.2d 522, 409 N.Y.S.2d 387 (App. Term 2d Dept). Where the radar or other mechanical speed device involved is not shown to have been properly or reliably tested, evidence based upon or generated from it is inadmissible and, even if admitted, is legally insufficient to sustain a conviction. People v. Cunha, 93 Misc.2d 467, 468-69, 402 N.Y.S.2d 925, aff'd, 96 Misc.2d 522, 409 N.Y.S.2d 387 (App. Term 2d Dept.). In that circumstance, for a conviction to result, the People must prove their case, or at least corroborate the proffered radar or mechanical evidence, with other independent, legally sufficient evidence (e.g., the police officer's estimate of speed). People v. Heyser, 2 N.Y.2d 390, 393, 161 N.Y.S.2d 36, 141 N.E.2d 553; People v. Higley, 55 Misc.2d 460, 461-462, 285 N.Y.S.2d 467.
+
+Here, as noted earlier, the results of the tuning fork tests after the summons was issued exceeded the tolerances permissible to verify the accuracy of the unit. Whether that is because the unit was faulty or the tester made an error (either in conducting the test or recording its results) is irrelevant. Regardless of the reason, the test evidence does not and cannot provide assurance of the reliability of the radar unit at the time of the clocking of the defendant's vehicle. Although the defendant did not move to strike the faulty radar evidence, he argued that it should be disregarded as unreliable. The Court agrees and finds that evidence to be non-probative and insufficient to prove the People's case. Hence, the People's case depends upon the sufficiency of Officer Cusak's estimate of the defendant's speed.
+
+        Where, as here, the People are relying upon an estimate (i.e., opinion evidence) of the defendant's speed, the police officer must be shown to be qualified to make such an estimate. Proper qualification of the police officer requires evidence of his training to make such an estimate, his prior 
+
+Page 1001
+
+experience in doing so, and his established margin of accuracy or error. Olsen, supra, 22 N.Y.2d at 231-32, 292 N.Y.S.2d 420; Cunha, supra, 93 Misc.2d at 470-71, 402 N.Y.S.2d 925. Thus, in Leatherbarrow, supra, 69 Misc.2d at 565, 330 N.Y.S.2d 676, the defendant was acquitted when the trooper "failed to specifically indicate or particularize [his] experience and accuracy in judging the speed of moving vehicles ..." However, as the Court explained, if the trooper had "properly established his qualifications with regard to estimating speed", his testimony alone would have sufficed to result in a conviction. 1
+
+        How much experience and what amount of evidence are necessary to qualify an officer to give his estimate has not been definitively decreed, but rather is a matter for the Court to decide on a case-by-case basis. Evidence that the police officer received proper training at the police academy and on the road, that he has spent considerable time on road patrol, that he has experience estimating speed and comparing his estimates against radar or mechanically calibrated speed readings, and that he has a historically established margin of error of only a few miles per hour, such as the People have introduced here, has often been held to be sufficient. Higley, supra, 55 Misc.2d at 461, 284 N.Y.S.2d 684; People v. Wimmer, 15 Misc.2d 568, 569, 182 N.Y.S.2d 148. Compare People v. Page, 32 Misc.2d 179, 180-81, 222 N.Y.S.2d 450. Indeed, it seems apparent that a great deal of proof in this regard is not required. For example, in People v. Dusing, 5 N.Y.2d 126, 127, 181 N.Y.S.2d 493, 155 N.E.2d 393 (1959), a conviction was sustained on the basis of conclusory testimony by a motorcycle officer that he had two years' experience, had arrested drivers for speeding "many times", and was able to estimate speed on the basis of his experience as a policeman and a driver. 2
+
+        Qualifying the police officer is only the first step in the Court's review and consideration of his evidence. The defendant is entitled to challenge the police officer's qualifications, and the defendant may obtain pre-trial disclosure thereof (via proper discovery request) for that purpose. People v. Gutterson, 93 Misc.2d 1105, 1108-09, 403 N.Y.S.2d 998. Where no objection is made to the admissibility of the police officer's qualifications, his opinion must be considered by the Court, but it can be given little weight. Cunha, supra, 93 Misc.2d at 470, 402 N.Y.S.2d 925. The Court must weigh all circumstances of the case, including "the nature and extent of the opportunity which the officer had to view the moving vehicle" ( Olsen, supra, 22 N.Y.2d at 232, 292 N.Y.S.2d 420) and "the relative positions of the policeman and the approaching car" ( Dusing, supra, 5 N.Y.2d at 128, 181 N.Y.S.2d 493, 155 N.E.2d 393). Thus, the Court may reject or discount the police officer's evidence on the basis of the other facts and circumstances of the case: e.g., where he was situated in relation to the defendant's vehicle, how long he observed the defendant, the nature of his observance, and how he went about estimating the defendant's speed. Credibility is, of course, also a factor to be taken into account. People v. Clark, 33 Misc.2d 390, 393, 226 N.Y.S.2d 828.
+
+Page 1002
+
+        In this case, Officer Cusak was a forthright and credible witness, both in his demeanor and the clarity of his recitation of the facts. However, the police officer was situated in a stationary position when he first observed the defendant; and he saw the potentially inaccurate radar read-out before he even observed the defendant, much less made his independent estimate of speed. Indeed, it was the radar read-out which called the police officer's attention to the defendant in the first place. Officer Cusak did not pace the defendant, and, thus, did not verify his estimate on his speedometer or by an extended or continued observance. Compare Conlon, supra, 109 Misc.2d 729 at 734-35, 440 N.Y.S.2d 831. 3 Rather he made essentially a spur-of-the-moment estimate, relatively in an instant, as the defendant proceeded by him. It is impossible for the Court to determine whether, in doing so, the police officer was influenced, albeit unintentionally and perhaps only subconsciously, by the radar read-out. In these circumstances, the Court cannot say that the police officer's testimony alone proves the defendant's guilt beyond a reasonable doubt. 4 See, e.g., People v. Perlman, 89 Misc.2d 973, 980-81, 392 N.Y.S.2d 985, overruled on other grounds, Graf v. Foschio, 102 A.D.2d 891, 477 N.Y.S.2d 190; People v. Greenhouse, 4 Misc.2d 692, 693, 136 N.Y.S.2d 675. Compare Clark, supra, 33 Misc.2d at 393, 226 N.Y.S.2d 828.
+
+        Accordingly, the Court finds the defendant not guilty. The Clerk of the Court is directed to enter judgment dismissing the Summons.
+
+---------------
+
+1 The mere fact that the defendant's alleged rate of speed may be extraordinarily high will not lessen the People's burden of proving the police officer's qualifications. In Leatherbarrow, supra, 69 Misc.2d at 565, 330 N.Y.S.2d 676, for example, the alleged speed was 90 miles per hour, demonstrably in excess of the speed limit. But compare Olsen, supra, 22 NY 2d at 231, 292 N.Y.S.2d 420, where the Court of Appeals observed that the degree of excessiveness in speed (i.e., number of miles over the speed limit) may bear upon the weight to be given to the officer's opinion. See also: Cunha, supra, 93 Misc.2d at 470, 402 N.Y.S.2d 925 ("the variance of 40 to 45 miles over the speed limit of 30 miles per hour was clearly sufficient for the court to give it the weight necessary to establish the People's case").
+
+2 The rule is the same in civil cases. For example, in Senecal v. Drollette, 304 N.Y. 446, 108 N.E.2d 602 (1952), a twelve year old boy was permitted, in a civil tort case, to give an estimate of speed based on his having ridden in automobiles and having observed speedometers. But compare Swoboda v. We Try Harder, Inc., 128 A.D.2d 862, 863, 513 N.Y.S.2d 781, where a lay opinion on speed was held to be inadmissible because the witness's qualifications were not established.
+
+3 Clocking on a speedometer while "pacing" the subject vehicle is considered sufficient to prove excessive speed if the police officer's experience and qualifications are established. Heyser, supra, 2 N.Y.2d at 394, 161 N.Y.S.2d 36, 141 N.E.2d 553; Conlon, supra, 109 Misc.2d at 733-34, 440 N.Y.S.2d 831.
+
+4 The test in a traffic case is proof "beyond a reasonable doubt." Cunha, supra, 96 Misc.2d at 523, 402 N.Y.S.2d 925; People v. Baker, 2 Misc.2d 600, 602 (App. Term 1st Dept.). By contrast, in a license revocation proceeding, the test is merely proof by "clear and convincing evidence." VTL § 227[1]; Silver v. N.Y. Dept. of Motor Vehicles, 108 A.D.2d 848, 849, 485 N.Y.S.2d 352; Mtr. of Graf, supra, 102 A.D.2d at 891, 892, 477 N.Y.S.2d 190.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

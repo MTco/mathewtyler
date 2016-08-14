@@ -1,0 +1,195 @@
+
+501 A.2d 626
+
+
+509 Pa. 183
+
+
+COMMONWEALTH of Pennsylvania
+v.
+Guy J. DePASQUALE, Appellant.
+
+
+2576 Phila. 1982
+
+
+Supreme Court of Pennsylvania.
+
+
+Argued May 17, 1985.
+Decided Nov. 21, 1985.
+
+Page 627
+
+        [509 Pa. 184] Clinton G. Smith, Jr., Vincent Yakowicz, Harrisburg, for appellant.
+
+        Theodore B. Smith, III, Asst. Dist. Atty., for appellee.
+
+        Before NIX, C.J., and LARSON, McDERMOTT, HUTCHINSON, ZAPPALA and PAPADAKOS, JJ.
+
+[509 Pa. 185] OPINION OF THE COURT
+
+        LARSEN, Justice.
+
+        In this case we are asked to define the limits of a municipality's power to detect and cite drivers who violate posted speed limits. While we recognize the public safety considerations which render speed detection an important part of a police department's duties, we are also mindful of the potential for abuse to the drivers of this Commonwealth which can arise from overly zealous enforcement of the speed limit laws, made evermore simple through the use of modern speed timing devices.
+
+        On November 17, 1981, appellant Guy J. DePasquale was convicted by a judge of driving in excess of a maximum posted speed limit, and was sentenced to pay a fine of $47.00. On appeal, the Superior Court affirmed, 327 Pa.Super. 579, 476 A.2d 419. We granted appellant's petition for allowance of appeal and we now reverse.
+
+        Appellant was convicted of driving 36 mph in a 25 mph zone. His speed was detected by the East Pennsboro Township Police using a Model TK100 Excessive Speed Preventer (ESP). The ESP machine 
+
+Page 628
+
+consists of two sensors, each approximately ten feet long, which are taped across the width of a roadway six feet apart from each other. The sensors are connected to a unit which is located inside a police car and which measures the time it takes a vehicle to drive from the first sensor to the second, translates the time measurement into miles per hour, and then displays the speed of the vehicle. When a vehicle travels over the sensors above a preselected speed, an alarm in the unit sounds and the speed of that vehicle can be locked into the readout.
+
+        In this appeal, appellant contends that it was unlawful for the East Pennsboro Township Police to use the ESP machine.
+
+        The Motor Vehicle Code differentiates between mechanical or electrical, and electronic, speed timing devices. The Code provides that
+
+[509 Pa. 186] (1) The rate of speed of any vehicle may be timed on any highway by a police officer using a mechanical or electrical speed timing device.
+
+(2) Electronic devices such as radio-microwave devices (commonly referred to as electronic speed meters or radar) may be used only by members of the Pennsylvania State Police.
+
+        75 Pa.C.S.A. § 3368(c).
+
+        Appellant argues that the ESP is an electronic, rather than a mechanical or electrical, device and that it may, therefore, only be used by the State Police. We agree.
+
+        According to the plain language of the Motor Vehicle Code, the category of electronic speed timing devices includes, but is not limited to, radio-microwave devices. 1 The language of this section leaves open the question whether the ESP machine is, in fact, an electronic device.
+
+        At trial, the Commonwealth did not present expert testimony on this issue, but relied instead upon a regulation of the Department of Transportation (PennDOT) which, at the time this case arose, classified the ESP machine as an electrical device. 67 Pa.Code § 337.25. 2 We are not persuaded, however, that this regulation is dispositive of this case.
+
+        This Court has distinguished "between two general types of rulemaking, one or the other of which a legislature customarily authorizes administrative agencies which the legislature has created to employ in the discharge of agency responsibilities." Girard School District v. Pittenger, 481 Pa. 91, 94, 392 A.2d 261, 262 (1978). See also Pennsylvania Human Relations Commission v. Uniontown Area School District, 455 Pa. 52, 313 A.2d 156 (1973) (plurality [509 Pa. 187] opinion). According to this distinction, rules may be classified as either legislative or interpretative:
+
+[R]ules have force of law when issued pursuant to a grant of legislative power to make law through rules. The conclusion, very solidly based, is that rules are legislative when the agency is exercising delegated power to make law through rules, and rules are interpretative when the agency is not exercising such delegated power in issuing them. When an agency has no granted power to make law through rules, the rules it issues are necessarily interpretative; when an agency has such granted power, the rules are interpretative unless it intends to exercise the granted power. The statutory grant of power may be specific and clear, or it may be broad, general, vague, and uncertain.
+
+        ....
+
+        ... Interpretative rules cannot be binding on courts, like statutes, but courts, without being bound by them, may give them authoritative effect that equals or approximates force of law....
+
+        ....
+
+Page 629
+
+        When a rule is issued pursuant to delegated power, the court is bound by it as if it were a statute, and the court can do no more than inquire into its validity. But when a rule is not issued pursuant to delegated power, the court's inquiry is not into validity but is into correctness or propriety; the court may substitute judgment to whatever extent it finds desirable.
+
+        K.C. Davis, 2 Administrative Law Treatise § 7:10 at 54, § 7:13 at 59 (2d ed.1979) (emphasis added).
+
+        In this case, we have concluded that the rule at issue--a PennDOT regulation which classifies the ESP machine as an electrical device--is an interpretative, rather than a legislative, rule, and that it does not, therefore, have either the force of law or a binding effect upon this Court. 3
+
+        [509 Pa. 188] The regulation at issue in this case was purportedly adopted pursuant to two sections of the Motor Vehicle Code. 8 Pa.B. 3578. These sections provide:
+
+All mechanical, electrical or electronic devices shall be of a type approved by the department, which shall appoint stations for calibrating and testing the devices and may prescribe regulations as to the manner in which calibrations and tests shall be made....
+
+        75 Pa.C.S.A. § 3368(d).
+
+In addition to the specific powers granted to the department by this title to promulgate rules and regulations, the department shall have the power in accordance with the provisions of ... the Commonwealth Documents Law, to promulgate, consistent with and in furtherance of this title, rules and regulations in accordance with which the department shall carry out its responsibilities and duties under this title.
+
+        75 Pa.C.S.A. § 6103(a).
+
+        75 Pa.C.S.A. § 3368(d) simply provides that PennDOT may approve the speed detection devices which police may use. The language of 75 Pa.C.S.A. § 6103(a) really adds nothing to this grant of administrative power; that section merely states that PennDOT may promulgate rules and regulations to carry out its previously-defined responsibility to approve speed detection devices. Nowhere in these statutory provisions, however, is PennDOT given the responsibility or the authority to classify speed detection devices as mechanical, electrical or electronic. Two conclusions necessarily follow from this fact: First, even though [509 Pa. 189] PennDOT has some legislatively-granted power to make law through rules, since the rule at issue here could not have been promulgated pursuant to this legislative grant of power, it is an interpretative rule; and second, the classification of speed timing devices is a question of law which, although it may be answered interpretatively by PennDOT, may be answered definitively only by the courts.
+
+        Turning now to this question of law, we note initially that the determination of whether a particular device is electrical or electronic requires some understanding of the difference between the two concepts and an ability to view the particular device in question in light of that understanding. In order to assist the trial court in making this determination in the instant case, appellant 
+
+Page 630
+
+presented at trial the testimony of an expert witness, Tolbert V. Prowell.
+
+        At the time of trial, Mr. Prowell was an electrical engineer, employed in the Electric Division of the Public Utility Commission's Bureau of Rates, and he had previously worked for two private electronics firms. Mr. Prowell testified as follows: that he had examined the sales literature and the wiring blueprints for the ESP machine; that an electronic device deals with either the transmission, reception, detection, or processing of information, or the performance of calculations; that electrical devices deal with the generation, transmission, distribution and utilization of power; that an electronic signal is used to transmit information while an electric signal is used to transmit large quantities of power; that the ESP machine is an electronic device because it contains electronic components and processes information from the sensors electronically; that the electronic components include a quartz crystal, a quartz crystal oscillator, a light emitting diode readout, resistors, transistors, and capacitors; that the most important part of the ESP machine is the crystal oscillator; that the digital lodging circuitry in the ESP machine determines how long it takes a vehicle to travel six feet, translates that information electronically into miles per hour, and displays the vehicle speed on the readout; that it would take an [509 Pa. 190] electronic technician who was familiar with such equipment as frequency counters, oscilloscopes, and voltammeters, and with solid-state circuitry and digital lodging, to repair or calibrate an ESP machine; and that a piece of equipment may be electronic even though it does not radiate any radio or microwave energy.
+
+        Based upon this reliable, uncontradicted testimony, we conclude that, although the ESP machine does have some electrical components, since its primary components are electronic and since its primary function is one that must be carried out by an electronic device, the ESP machine is an electronic device within the meaning of 75 Pa.C.S.A. § 3368(c). 4
+
+        A review of the legislative policy reasons underlying the enactment of 75 Pa.C.S.A. § 3368(c) provides strong support for our holding today. During the House and Senate debates on the various amendments which sought to define the limits of a local municipality's power to enforce the [509 Pa. 191] speed limit laws, members of the legislature cited the following reasons for their desire to restrict the use of electronic devices to the State Police: that the proponents of radar in municipalities are concerned more with revenue raising than with safety; that the drivers being stopped for speeding "were the poor guys who have to go to work and make a living and pay the very taxes to keep the community going" rather than 
+
+Page 631
+
+"the speeders"; that radar has not improved safety on the roads but has only helped the district justices and the "arresting mills"; that police who have access to radar would leave serious crime undetected while improving their records by making large numbers of arrests for a summary offense; that when radar is available to the police, the number of arrests for speeding increases dramatically; that there would not be an even distribution of justice because the local police would have "some sort of campaign on for those whom [they] do not care for"; and that it is unfair to allow municipalities to use radar when the speed limits have not been updated to keep pace with new developments in transportation and in residential and commercial areas. See 1 Legislative Journal--Senate 1635, Sess. of 1976 (June 2, 1976) (remarks of Sen. Dwyer); 1 Legislative Journal--House 3942-45, Sess. of 1976 (March 10, 1976) (remarks of Reps. McCue, Zeller, Lincoln, Halverson, Fryer, and Vroon). See also 1 Legislative Journal--House 4034-39, Sess. of 1976 (March 22, 1976).
+
+        We are confident that our holding today is consistent with the goal the legislature sought to achieve when it enacted the Motor Vehicle Code.
+
+        Since we have determined that it was unlawful for the police in this case to use the ESP machine, we need not address appellant's second contention. 5 The order of the Superior Court is reversed and the judgment of sentence is vacated.
+
+[509 Pa. 192] JUDGMENT
+
+        ON CONSIDERATION WHEREOF, it is now hereby ordered and adjudged by this Court that the Order of the Superior Court is reversed and the judgment of sentence is vacated.
+
+        PAPADAKOS, J., filed a concurring opinion.
+
+        NIX, C.J., filed a dissenting opinion joined by McDERMOTT, J.
+
+        FLAHERTY, J., did not participate in the consideration or decision of this case.
+
+        PAPADAKOS, Justice, concurring.
+
+        I concur in the result reached by the Majority. I write separately to voice my disagreement with the holding of the Majority that the classification of speed timing devices is a question of law. In my view, this is a pure question of fact as clearly set out in the explanation of the expert witness, Tolbert V. Prowell. It is a fact that the ESP machine contains electronic components, thus making it an electronic device. An electric light switch, which turns lights on and off, has no electronic components. It is, therefore, an electrical device. These are facts and no legal theories are needed to answer the question.
+
+        NIX, Chief Justice, dissenting.
+
+        The erudite explication of the majority's conclusion that the ESP machine used in this case was an electric device within the meaning of section 3368(c) of the Motor Vehicle Code, 75 Pa.C.S. § 3368(c), does not address the underlying issue in this appeal. We are not here faced with a challenge to the accuracy of this device nor is it questioned that this is an approved timing device under section 3368(d), 75 Pa.C.S. § 3368(d). The issue here, in my judgment, is whether there is justification to impose a prophylactic rule, by implication, under section 3368(c).
+
+        In this appeal the evidence established that the posted speed limit was 25 miles per hour and that appellant was [509 Pa. 193] driving at the rate of 36 miles per hour. The accuracy of the ESP reading is not being challenged. Accepting that the municipal authorities were using a device that the State Police were allowed to use, are we thereby mandated to ignore this clear violation of the speed laws? There is no express per se 
+
+Page 632
+
+requirement under the provisions of this section, and I for one do not believe we are justified in inferring it. 1
+
+        Implicit in the logic of the majority is that the legislature views the operation of its laws regulating the speed of vehicular traffic as a contest between law enforcement officials and the motorist. There is an implicit assumption that there is a required element of fairness to balance the rivalry. 2 I realize that the most law abiding and conscientious motorist may on occasion be guilty of a violation. This does not erase the fact that it is a violation. These laws are designed to protect the safety of the public, including the driver. This slight incursion could have been the direct cause for the loss of the life of a small child [509 Pa. 194] chasing a ball, who had the misfortune to proceed in the path of appellant's vehicle.
+
+        I therefore dissent.
+
+        McDERMOTT, J., joins in this dissenting opinion.
+
+---------------
+
+1 According to the statute, these radio-microwave devices are also known as radar or electronic speed meters.
+
+2 This regulation was initially adopted on December 16, 1978. 8 Pa.B. 3578. It was subsequently renumbered to 67 Pa.Code § 105.51, and on March 31, 1984, three years after the offense in this case occurred, it was deleted from the Pa.Code. 14 Pa.B. 1090.
+
+3 The Commonwealth contends that PennDOT's regulation is entitled to a presumption of regularity and constitutionality, and, therefore, validity, and in support of its contention cites 45 Pa.C.S.A. § 905 ("The publication in the code ... or the bulletin of any document shall create a rebuttable presumption: (1) That it was duly issued.... (2) That it was approved as to legality.... (3) That all requirements ... (relating to regulations of Commonwealth agencies) ... have been complied with."). This statute has no bearing on our holding here, however.
+
+When a rule is interpretative, "the court's inquiry is not into validity but is into correctness or propriety." Davis, supra. A court may choose to totally disregard a properly adopted interpretative rule. Thus, a statute which merely creates a presumption that a rule is legal and has been properly adopted has no bearing on the weight which this Court must accord the rule.
+
+4 In arriving at its holding that the ESP machine is an electrical device, the trial court did not find as a fact that the testimony of appellant's expert was unreliable or incredible; in fact, the trial court cited numerous portions of that testimony in its opinion, yet simply concluded that it was "not convinced that defendant's method of analysis, although certainly meritorious, is necessarily superior." Rather, it relied on the opinion in another case similar to this one, not as a legal precedent but as an additional source of expert testimony on the issue of the classification of the ESP machine. See Commonwealth v. Herdman, 31 Cambria L.J. 36 (1981). This was improper.
+
+A court is bound to decide the case before it based upon the evidence presented to it by the parties; it has no authority to seek out additional testimony in the records of unrelated cases on the matters at issue before it. This Court, in a case involving a claim of res judicata, noted that "a court may not ordinarily take judicial notice in one case of the records in another case even though the case arose in the same court and the contents of those records are known to the court." Callery v. Municipal Authority of Township of Blythe, 432 Pa. 307, 309, 243 A.2d 385, 386 (1968). A fortiori, a court may not base a decision upon evidence of record in another unrelated case. Cf. Commonwealth v. Young, 456 Pa. 102, 115, 317 A.2d 258, 264 (1974) ("An appellate court may consider only the facts which have been duly certified in the record on appeal."). In addition, in a criminal case such as this, a court creates a serious question regarding the defendant's constitutional right to confront the witnesses against him whenever it bases its decision on evidence outside the record.
+
+5 Appellant also argues that municipalities must adopt ordinances approving the use of speed timing devices such as the ESP machine and must post signs warning that such machines are in use prior to actually using them to detect violations of the speed limit laws.
+
+1 The imposition of a prophylactic sanction which requires the discarding of incriminating evidence is only justified where there is widespread abuse by police officials that offend a fundamental right of the citizen. Commonwealth v. Floyd, 494 Pa. 537, 541, 431 A.2d 984, 986-87 (1981); Commonwealth v. Kulp, 476 Pa. 358, 362-63, 382 A.2d 1209, 1211-12 (1978); Commonwealth v. Williams, 454 Pa. 368, 372, 312 A.2d 597, 599-600 (1973); see generally, Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966); Mapp v. Ohio, 367 U.S. 643, 81 S.Ct. 1684, 6 L.Ed.2d 1081 (1961). Assuming that there is widespread abuse, which has not been demonstrated on this record, there certainly is no fundamental right intruded upon in the detection of a speeding car upon a public highway.
+
+2 The majority gleans this intention from statements of some of the legislators during the debates. We have repeatedly stated that such statements should not be relied upon to aid in the ascertaining of legislative intent. Martin v. Soblotney, 502 Pa. 418, 424 n. 5, 466 A.2d 1022, 1025 n. 5 (1983); Bowers v. Pennsylvania State Relations Board, 402 Pa. 542, 557, 167 A.2d 480, 487 (1961); Martin Estate, 365 Pa. 280, 283, 74 A.2d 120, 122 (1950); National Transit Company v. Boardman, 328 Pa. 450, 454, 197 A. 239, 241 (1938); Tarlo's Estate, 315 Pa. 321, 325, 172 A. 139, 140 (1934). Although some of the legislators may have shared this position, the General Assembly did not express that view by expressly requiring the imposition of a prophylactic rule for a violation of section 3368(c). 75 Pa.C.S. § 3368(c).
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

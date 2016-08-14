@@ -1,0 +1,129 @@
+
+
+392 N.Y.S.2d 985
+
+
+89 Misc.2d 973
+
+
+The PEOPLE of the State of New York,
+v.
+Irving PERLMAN, Defendant.
+
+
+District Court, Suffolk County, First District.
+
+
+March 16, 1977.
+
+         
+
+Page 987
+
+Henry F. O'Brien, Dist. Atty. of Suffolk County, Hauppauge, by Louis A. Bracco, Hauppauge, of counsel.
+
+        Immerman & Perlman, Baldwin, for defendant by Stanley A. Immerman, Baldwin, of counsel.
+
+
+MEMORANDUM
+
+        STUART NAMM, Judge.
+
+        The defendant is charged with a violation of Section 1180(d) of the Vehicle and Traffic Law. The simplified traffic information alleges that on April 6, 1976, at 7:53 a.m., the defendant operated a 1973 Buick eastbound on Southern State Parkway, east of Belmont Road, in the Town of Babylon, at a spped of 67 m.p.h. in a 55 m.p.h. zone.
+
+        The charge has been made by an officer of the Long Island State Parkway Police, who on that date was utilizing a Digidar I Radar unit for speed detection as a one-man team, doubling both as a radar operator and chase man. The People contend that the defendant's speed was clocked by means of such speed detection device, and that, in addition, an independent estimate of the defendant's speed was made by the officer at a distance of 400 feet, through the rear view mirror of his police vehicle. It is further contended that the unit had been properly tested, and it was the officer's opinion that the unit was functioning properly when it recorded the defendant's speed at 67 m.p.h.
+
+        In contrast, the defendant testified that he was travelling at a speed between 50 and 55 m.p.h., and that his vehicle never exceeded a speed of 55 m.p.h. The defendant moved generally, at the close of the People's case, to dismiss for failure to make out a prima facie case; and at the close of the trial, for failure on the part of the People to prove the defendant guilty beyond a reasonable doubt. The defendant contends, inter alia, that the information was jurisdictionally defective since: (1) the officer's signature on the defendant's copy differed from the court's copy; (2) the date of violation had been changed on all copies from '3 March' to '6 April' prior to issuance of the summons; and (3) the information did not indicate whether the defendant was charged with a traffic infraction or a misdemeanor; and that the radar device was inaccurate and was not properly tested. Decision was reversed as to each of these applications by the defendant.
+
+        The Smith and Wesson Digidar I Radar unit, which is in widespread use on Long Island parkways, has been in use by the Long Island State Parkway Police since at least 1974. The arresting officer testified that he had been using this unit since then, and that he had been trained in its operation at a two-day school conducted by the manufacturer. It is a digital readout device consisting of two component parts: a console which is mounted on the dashboard of the police vehicle, and a parabolic antenna transceiver which is either mounted on a tripod outside the vehicle or on the police vehicle itself. In this case, with the officer operating as a one-man team, the antenna was mounted on the side of the police vehicle monitoring eastbound traffic for a distance of 300 feet.
+
+        The unit is powered by a 12 volt source, and built into it is an internal calibration switch which is used by the operator to both check the function of the numitrons--digital numbers on the console--which record vehicular speed, and to check the speed timing device at a reading of 60 m.p.h.
+
+        The officer testified that on the date in question, at his first location, he tested the accuracy of the unit by striking a 60 m.p.h. tuning fork in front of the raised antenna and observing a reading of '60' on the console; and by conducting an internal calibration test and observing a reading on the console of '188' and then '60.' This indicated to him that the numitrons were working and that the speed timer was working accurately. He further testified that at each subsequent setup, including the set up 
+
+Page 988
+
+at which the defendant's vehicle was clocked, after having moved his vehicle, he performed only the internal calibration test, and that at the end of his tour, he performed both the tuning fork and the internal calibration tests.
+
+        This testing procedure contrasted with the procedure which the officer described when the radar operator was part of a multiple or two-man team. At such time, the radar vehicle is not moved during the tour of duty, and prior to the opening of business, the radar is tested by three means: (1) the tuning fork test; (2) the internal calibration test; and (3) by driving a police vehicle with a calibrated speedometer through the zone of influence of the radar at a known speed. It was his testimony that each of these tests is then repeated at the closedown of business on such a tour of duty.
+
+        Almost twenty years have passed since Judge Froessel, speaking for a unanimous Court of Appeals, stated that '. . . the time has come when we may recognize the general reliability of the radar speedmeter as a device for measuring the speed of a moving vehicle, and that it will no longer be necessary to require expert testimony in each case as to the nature, function or scientific principles underlying it.' People v. Magri, 3 N.Y.2d 562, 566, 170 N.Y.S.2d 335, 338, 147 N.E.2d 728, 730. Science and technology have advanced cons in this short span of time, and we have seen the mass production of computers and digital devices. Radar detection of speed has moved from its infant stage with graphic readouts of vehicular speed to digital detection devices which lock in on the speed of an offending motorist. Various types of radar devices have gained wide acceptance in all courts, to the point where the words of a trial Judge equating radar with bread as a 'staff of our life,' which may have seemed overly enthusiastic in 1955, appear with hindsight to have been truly prophetic, if somewhat exaggerated. People v. Sachs, 1 Misc.2d 148, 160, 147 N.Y.S.2d 801, 812. It should be noted that it was the Sachs case (supra) and other well considered lower court decisions, such as People v. Nasella, 3 Misc.2d 418, 155 N.Y.S.2d 463 and People v. Sarver, 205 Misc. 523, 129 N.Y.S.2d 9, which the Court of Appeals cited and made specific reference to in the Magri decision (supra).
+
+        Nevertheless, this court feels compelled to consider the quantum and quality of evidence necessary to convict in this case involving a digital radar device which is in widespread use, there appearing to be a real difference between this device and those under consideration in the earlier cases, and their practical application in speed detection. To do so, it is necessary to compare the earlier types of radar devices with the more sophisticated type of radar speed detection devices, and in particular, the Smith and Wesson Digidar I unit which was used herein; and to compare the means used by law enforcement officials to test these instruments and to detect potential offenders.
+
+        In the earliest cases (Sachs, Nasella and Magri, supra), the radar device being utilized by the New York City Police and the State Park Police, respectively, contained a speedmeter which provided the officer in the radar car, who was part of a radar team including a 'chase car', with a graphic readout of the speed of vehicles passing through the zone of influence of the radar, and with a graphic readout of all tests performed as to the accuracy of the radar device.
+
+        In all of the early cases, after choosing a location for operation of the radar equipment, a police vehicle with a calibrated speedometer--either a motorcycle or an automobile--was driven through the zone of influence of the radar, at a known speed, and the accuracy of the radar speedmeter was checked against the speed of the calibrated vehicle. Such test speed was recorded on the graph and was made available to the court at trial. At the close of business, a like test was conducted and recorded in each case. In addition, in Magri (supra), 3 N.Y.2d, p. 564, 170 N.Y.S.2d p. 336, 147 N.E.2d p. 729, the radar was checked further for accuracy 'by striking a sounding fork, which is set by the manufacturer at 50 
+
+Page 989
+
+m.p.h., in front of the transmitter-receiver both before and after the violation.'
+
+        It is important to note that in each of these cases, the radar detection unit consisted of more than one officer, and the radar was set up in a stationary position throughout the course of the tour of duty of the radar team. This is in contrast with the instant case where the police officer operated as a one-man team, functioning both as a radar operator and a chase man to apprehend an offender; thereby necessitating the removal of the police vehicle to a different location when a chase became necessary. In this case, defendant was the fifth person given a summons on April 6 by the arresting officer. Other persons were issued summonses subsequent to the defendant, and the police vehicle had been moved several times before and after the apprehension of the defendant.
+
+        One-man radar units are not new to speed detection, and as early as 1969, the question of the adequateness of testing of radar equipment utilized by a one-man team was considered on an appeal of a speeding conviction in a Village Court in Tompkins County. People v. Lynch, 61 Misc.2d 117, 119, 304 N.Y.S.2d 985, 987. In that case, the record revealed that the radar equipment had been tested by three different means '. . . before and after each setup that day and there had been no irregularities.', although no test vehicle was used to pass through the radar's field of influence. 'The first test was by means of an internal switch, the second by means of a 50 miles per hour tuning fork, and the third by means of a 30 miles per hour tuning fork.' People v. Lynch (supra) page 118, 304 N.Y.S.2d page 986. In affirming the judgment of conviction, the Judge incorporated in his decision the oftquoted language of Judge Lyman H. Smith in People v. Stephens, 52 Misc.2d 1070, 1072, 277 N.Y.S.2d 567, 569, involving tests of the accuracy of a radar speed detection unit, and where that Judge 'succinctly and comprehensively' addressed himself to the problem as follows:
+
+        'While our higher courts have not spelled out the exact limits to which the accused speeder may go upon trial to plumb the accuracy of the testing devices, this court is not prepared to cast the burden on the People of offering proof of the accuracy of both the calibrated tuning fork and the speedometer of the test car beyond the Simple comparative analyses made in the instant case. Beyond such simple tests must lie tests of the devices used to test other measuring devices. Beyond these tests must lie metal fatigue tests, conductivity tests, and electrical time-lag tests involving the variant components used in all of the testing devices, and so on and on. These tests must end somewhere. The oft-heard layman's opinion that the enforcement of the law can be frustrated by a 'legal bag of tricks' must not be encouraged by slavish adherence to hypertechnical requirements of myriad testings of the components of every device used to measure accuracy of every other measuring device.' (emphasis added)
+
+        This court can do nothing less than wholeheartedly agree with the opinion of the learned Judge, but the key to that language, which is so often cited by prosecutors, would appear to be in the words 'simple comparative analyses.' Has there been sufficient comparative analyses made in the instant case? This court thinks not.
+
+        The People contend, and the officer has testified, that by conducting an internal calibration test and a 60 m.p.h. tuning fork test at the initial setup, and by conducting an internal calibration test before each subsequent setup, and by subsequently repeating the 60 m.p.h. tuning fork test and the internal calibration test at the close of the business day, the officer is effectively conducting more tests of the radar equipment when operating as a one-man team than are conducted when operating as a two-man team. In the latter instance, the opening and closing tests include the test against a vehicle with a calibrated speedometer, a tuning fork test and an internal calibration test.
+
+Page 990
+
+        This court cannot reach the same conclusion. Perhaps, numerically speaking, more tests are performed in a one-man setup, but they are more of the same tests (internal calibration), depending on how many times the vehicle has been moved to give chase. Only one test is conducted prior to each subsequent setup after the initial location. It is not the quantity of tests which must be considered by the court, but the quality of the tests performed, and more important, whether the testing has provided ample opportunity for 'simple comparative analyses' of the tests in question. People v. Stephens (supra).
+
+        The People seek to have the court conclude that the radar device was operating accurately and had been adequately tested on the date in question, where the internal calibration device contained in the equipment itself, and operating from the same electrical source, confirmed that the equipment was functioning properly, where no external test had been performed before or after a particular setup, and where no graphic record was kept of the radar test. Furthermore, no proof had been offered at trial of the testing of this equipment by expert technicians within a reasonable proximity of the date in question, the radar reading having been received in evidence without objection despite the lack of such proof. Nor has there been any scientific testimony as to the reliability or falibility of the internal calibration device.
+
+        In essence, the People seek to have this court take judicial notice of the general reliability of radar as a speed detection device, where properly tested, and as to the general reliability of the internal calibration device, as a means for testing the accuracy of radar. This court has no difficulty with the former, but as to the latter, without expert testimony or a known history of general reliability developed through court usage and acceptance, this court cannot do so.
+
+        If expediency, practicality and economy dictate the need for utilization of a one-man radar setup, and a law enforcement agency finds it impractical to conduct comparative analyses before and after each setup, then at the very least, expert testimony should be presented so that a body of precedents can be formulated, from which the courts might conclude, at some point, that the internal calibration test is sufficient in and of itself, due to its recognized reliability in testing the accuracy of the radar device.
+
+        On the evidence before it, and without such a recorded history, this court cannot reach the desired conclusion. In fairness to the defendant, where he has been charged with speeding by means of radar detection, which has been characterized as a '. . . new and great instrument which has transmitted the business of apprehending speeders from the mechanical into the realm of fantasy and wonder', People v. Sachs, (supra), 1 Misc.2d p. 154, 147 N.Y.S.2d p. 807, and which is accepted by many as being tantamount to conclusive proof of guilt, there should be a showing of testing of the instrument before and after each setup, including at least one test by an outside source to insure that 'simple comparative analyses' can be made, and there should be proof of expert technical testing of the machine periodically, within a reasonable proximity of the date of violation. To accept less, and to rely solely upon the internal calibration by the machine itself, without the testimony of an expert witness, is to render an injustice to the accused, and to encourage a 'slavish adherence' to an electronic device which is potentially subject to inaccuracies and failure, as are all machines and human beings alike.
+
+        If a law enforcement agency finds it expedient and economical to utilize a one-man radar team--and this court can certainly understand its plight under present economic conditions--it should insure that no less safeguards are employed in such speed detection than where a multiple team is involved. The argument of impracticality and expediency is not persuasive, since practicality and expediency must always give way to the fundamental rights of an accused.
+
+Page 991
+
+        Accordingly, this court is constrained to conclude that the radar equipment was not properly tested under all of the circumstances of this case, and that the speed reading was obtained from an untested device. Nevertheless, it is possible to convict on the basis of the reading of an untested radar device, if some other form of corroboration has been provided. People v. Dusing, 5 N.Y.2d 126, 181 N.Y.S.2d 493, 155 N.E.2d 393; People v. Heyser, 2 N.Y.2d 390, 161 N.Y.S.2d 36, 141 N.E.2d 553; People v. Smalley, 64 Misc.2d 363, 314 N.Y.S.2d 924.
+
+        In this case, the officer, who was trained in the independent estimate of speeds of moving vehicles, testified that he first observed the defendant's vehicle approximately 400 feet to his rear, through his rear view mirror, and that, at that point, he estimated defendant's speed to be 68 m.p.h. This court is constrained to conclude, as did Judge Van Voorhis, in his concurring opinion in People v. Dusing, (supra) 5 N.Y.2d, p. 130, 181 N.Y.S.2d p. 498, 155 N.E.2d p. 396, when he was considering the speed estimates of two officers, that: 'Looking at an automobile in the rear view mirror . . . under those circumstances supplies an insufficient foundation for opinions concerning the speed of the vehicle.' In rejecting the rear view mirror estimate of the officer, this court is cognizant of the majority opinion in Dusing (supra), p. 128, 181 N.Y.S.2d p. 495, 155 N.E.2d p. 394, but notes that in that case the Court of Appeals had under consideration two separate observations, only one of which was through a rear view mirror, and an 'appellate court's holding . . . that as a matter of law neither of the policemen had adequate opportunity to check the speed of defendant's car approaching from their rear . . .' In reversing the lower court, Judge Desmond stated: 'The relative positions of the policemen and the approaching car . . . were factors going to the weight of the officer's opinion testimony. But the testimony itself was not as a matter of law inadmissible.' The Court of Appeals did not have to reach the question of whether an independent estimate of speed through a rear view mirror alone could sustain a conviction.
+
+        At trial, in the instant case, the People were permitted to offer evidence of the officer's opinion as to the defendant's speed as seen through his rear view mirror at 400 feet. Nevertheless, without the benefit of another expert opinion, i.e., a second police officer; and faced with defendant's testimony that his speed had not exceeded 55 m.p.h., this court cannot find that the defendant has been proven guilty beyond a reasonable doubt of speeding, even where the testimony of the officer is offered to bolster the evidence of a speed reading from a radar device, the same not having been properly tested, and the estimate having been made through a rear view mirror.
+
+        As to the defendant's contention that the information was jurisdictionally defective, suffice it to say that the law merely requires substantial compliance with the form prescribed by the Commissioner of Motor Vehicles for a simplified traffic information. C.P.L. 100.25 and 100.40. The uniform traffic ticket, together with the supporting deposition, fully apprised the defendant of the nature of the charge against him, and the factual basis therefor.
+
+        The fact that the date had been changed prior to issuance of the ticket, and that the officer used two different signatures--one on the ticket and one to verify the information--and that he failed to indicate whether defendant was charged with a traffic infraction or misdemeanor, was not sufficiently fatal to divest this court of jurisdiction over the charge. People v. Godin, 80 Misc.2d 919, 365 N.Y.S.2d 412.
+
+        'Since it is basically an invitation to appear, defects in the ticket should not be fatal to a prosecustion unless the defect affects the motorist's ability to defend against the charge.' Mot.Veh.Man. for Magistrates, State of N.Y., Dept. of Mot. Veh., Oct., 1974, Ch. 2, at page two.
+
+        For all of the foregoing reasons, the defendant's applications to dismiss the information are granted, and the defendant is found 'not guilty' of Speeding in violation 
+
+Page 992
+
+of Section 1180(d) of the Vehicle and Traffic Law.
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

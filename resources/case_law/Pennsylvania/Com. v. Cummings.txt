@@ -1,0 +1,140 @@
+
+487 A.2d 897
+
+
+338 Pa.Super. 149
+
+
+COMMONWEALTH of Pennsylvania, Appellant,
+v.
+Lewis G. CUMMINGS.
+
+
+Superior Court of Pennsylvania.
+
+
+Argued April 3, 1984.
+Filed Jan. 18, 1985.
+
+Page 898
+
+        [338 Pa.Super. 150] Francis X. O'Brien, Jr., Chief Counsel, Harrisburg, for Commonwealth, appellant.
+
+        Philip S. Cosentino, Chambersburg, for appellee.
+
+        Before WICKERSHAM, OLSZEWSKI and HOFFMAN, JJ.
+
+        [338 Pa.Super. 151] HOFFMAN, Judge:
+
+        The sole issue on appeal is whether in a prosecution for driving in excess of the maximum speed limit, the Commonwealth may enter into evidence a photocopy of the certificate of timing device accuracy required by 75 Pa.C.S.A. § 3368(d). We hold that the lower court correctly rejected the evidentiary offer of the photocopy in this case and, accordingly, affirm the order below dismissing the prosecution.
+
+        On November 10, 1981, appellee was driving his vehicle on Interstate 81 in Franklin County. Pennsylvania State Trooper Thomas A. Algatt, flying in a state police aircraft and using a stopwatch, timed appellee's rate of travel over a measured distance of three-tenths (.3) of a mile at 66.2 miles per hour and relayed this information to Trooper David E. Burkholder who was in a chase vehicle on the highway. Trooper Burkholder then issued a citation to appellee, who refused to sign, acknowledging receipt of the citation. Following a January 28, 1982 hearing, appellee was found guilty by the District Justice on February 3, 1982. On appeal, the lower court held a summary hearing on December 16, 1982. At this hearing, the Assistant District Attorney advised the court that a legal issue had been raised regarding the admissibility of the certificate of stopwatch accuracy issued by the appointed testing station on October 19, 1981 pursuant to 75 Pa.C.S.A. § 3368(d). The Commonwealth made an offer of proof that it was prepared to introduce a photographic copy of the certificate. The lower court, upon appellee's motion, rejected the offer and dismissed the case. This Commonwealth appeal followed.
+
+        Section 3368(d) of the Vehicle Code provides that:
+
+...--All mechanical, electrical or electronic devices shall be of a type approved by the department, which shall appoint stations for calibrating and testing the devices and may prescribe regulations as to the manner in which calibrations and tests shall be made. The devices shall have been tested for accuracy within a period of 60 days [338 Pa.Super. 152] prior to the alleged violation. A certificate from the station showing that the calibration and test were made within the required period, and that the device was accurate, shall be competent and prima facie evidence of those facts in every proceeding in which a violation of this title is charged.
+
+        75 Pa.C.S.A. § 3368(d) (emphasis added). This Court set forth the requirements of § 3368(d) in Commonwealth v. Gernsheimer, 276 Pa.Superior Ct. 418, 419 A.2d 528 (1980), holding that
+
+in prosecuting speeding cases where a radar or other electronic device is used to 
+
+Page 899
+
+calibrate a defendant's speed that in order to introduce the results of such into evidence the Commonwealth must offer a Certificate, certified by the Secretary of Transportation or his designee certifying the agency which performs the tests on the device as an official testing station, and must introduce a Certificate of Electronic Device (radar) Accuracy into evidence. The Certificate of Electronic Device (radar) Accuracy must be signed by the person who performed the tests and the engineer in charge of the testing station, must show that the device was accurate when tested by stating the various speeds at which it was tested and the results thereof, and must show, on its face, that the particular device was tested within sixty (60) days of the date it was used to calibrate the particular defendant's speed.
+
+        Id. at 423-24, 419 A.2d at 530. Although the question of the admissibility of a photocopy, instead of the original, of the certificate of accuracy did not arise in Gernsheimer, 1 we note that the entry of the original certificate appears to be common practice. See Commonwealth v. Gussey, 319 Pa.Superior Ct. 398, 466 A.2d 219 (1983); Commonwealth v. Gernsheimer, supra.
+
+        The Commonwealth argues, however, that it may enter a photocopy of the required certificate of accuracy [338 Pa.Super. 153] under the statutory hearsay exception for business and public records, 42 Pa.C.S.A. § 6109(b). We disagree. Section 6109(b) provides that a photocopy of "any memo, writing, entry, print, representation, or combination thereof, of any act, transaction, occurrence or event" which in the regular course of business has been "recorded, copied or reproduced" may be as admissible in evidence as the original itself. Before the photocopy can be admitted, however, 42 Pa.C.S.A. § 6108(b) requires that the document be authenticated:
+
+...--A record of an act, condition or event shall, insofar as relevant, be competent evidence if the custodian or other qualified witness testifies to its identity and the mode of its preparation, and if it was made in the regular course of business at or near the time of the act, condition or event, and if, in the opinion of the tribunal, the sources of information, method and time of preparation were such as to justify its admission.
+
+        (Emphasis added).
+
+        In the instant case, we find first that the certificate of accuracy does not qualify as a business or public record under § 6109(b). In Commonwealth v. Gernsheimer, supra, the defendant asserted that the certificate of accuracy should have been inadmissible because it was an official record and did not contain the state seal as required by 42 Pa.C.S.A. § 5328. In rejecting this argument, we stated: "Since 75 Pa.C.S.A. § 3368(d) applies particularly to proofs in speeding cases we hold that it takes preference over the general requirements of the Official Documents Law (42 Pa.C.S.A. 5328) in speeding situations." 276 Pa.Superior Ct. at 423, 419 A.2d at 530. That rationale applies equally to this case. As the lower court correctly reasoned:
+
+Special legislation was passed to admit the certificate of the testing station. Ordinarily to show that the testing device was accurate, the person who made the test would have to be called to say what he did and what he found. That would be cumbersome. In light of that problem, the leislature permitted the issuance of a certificate. It [338 Pa.Super. 154] seems to be no burden or hardship on the Commonwealth to produce the original certificate with the original signature on it. As to admissibility of business records, generally they are not made in contemplation of a law suit. However, these certificates are made with the full knowledge of the Commonwealth that the accuracy of the 
+
+Page 900
+
+testing devise [sic] will be called in a trial.
+
+        (Lower Court Opinion at 2). Additionally, we note that the Commonwealth's witness, Trooper Algatt, was unable to properly identify the document sought to be admitted. Algatt had never seen the original certificate and therefore could not testify as to whether the photocopy was a true copy of it. (N.T. December 16, 1982 at 3). He could only testify that it was customary for the original certificate to be sent by the approved testing station--in this case, Leitzel's Jewelry--to the police headquarters where it would be photostated and copies sent to different stations. Therefore, contrary to the Commonwealth's contention, the photocopy was not properly authenticated. 2
+
+        Accordingly, the Commonwealth has given us no reason for overturning the lower court's rejection of the admission of the photocopy in lieu of the original certificate of accuracy.
+
+        Affirmed.
+
+        WICKERSHAM, J., files a dissenting opinion.
+
+        WICKERSHAM, Judge, dissenting:
+
+        I would hold that the lower court incorrectly rejected the evidentiary offer of the photocopy in this case and, accordingly,[338 Pa.Super. 155] would reverse the order below dismissing the prosecution.
+
+        The court below dismissed the speeding prosecution "because the Commonwealth was not prepared to introduce a certificate of timing device accuracy as required by law." Lower ct. op. at 3. This conclusion was based upon two separate grounds: (1) the photocopy of the certificate of accuracy was not admissible under 42 Pa.C.S. § 6109(b), and (2) Trooper Algatt could not provide sufficient identification of the document to satisfy 42 Pa.C.S. § 6108(b). I would hold that, on the facts stated, the photocopy was sufficiently identified and was admissible pursuant to 42 Pa.C.S. § 6109.
+
+        The sole issue on this appeal is whether the prosecution must fall because a photocopy of a document, rather than the original, was offered to prove an element of the case. There is no question raised about the substance of the document, the certificate of timing accuracy. The testing of the stopwatch was done by Leitzel's Jewelry, which was designated as an official testing station by the Pennsylvania Department of Transportation, pursuant to 75 Pa.C.S. § 3368(d).
+
+        The photocopy of the certificate established that on October 19, 1981, Leitzel's had tested the stopwatch used to clock appellee. The citation issued to appellee on November 10, 1981 was well within the sixty day testing period prescribed by section 3368(d). No issue has been raised and no suggestion made that the proffered photocopy somehow differed from the original document.
+
+        Section 6109 of Title 42 provides, in pertinent part, as follows:
+
+        If ... any department or agency of government, in the regular course of business or activity, has kept or recorded any memorandum [or] writing ... of any act, transaction, occurrence or event, and in the regular course of business has caused any or all of the same to be recorded, copied or reproduced.... [s]uch reproduction, when satisfactorily identified, is as admissible in evidence as the [338 Pa.Super. 156] original itself in any judicial ... proceeding, whether the original is in existence or not.
+
+        42 Pa.C.S. § 6109(b).
+
+        The offer of proof made by the Commonwealth below would have shown the procedure 
+
+Page 901
+
+whereby the photocopy of the certificate was received by Trooper Algatt and ultimately produced in court. When an authorized testing station tests and certifies a stopwatch, the certificate of accuracy is sent to the Pennsylvania State Police Bureau of Patrol in Harrisburg. Because any given stopwatch in any aircraft is used to clock speeders in conjunction with many different state police stations or barracks, the Bureau of Patrol sends a photocopy of the certificate of accuracy to each station that needs it. It was in this manner that Trooper Algatt received the photocopy of the document certifying that Leitzel's had tested the stopwatch on October 19, 1981. The proffered testimony would have clearly satisfied all of the essential requirements for admissibility of the photocopy pursuant to 42 Pa.C.S. § 6109(b).
+
+        The only requirement on which an issue exists is that of the identification of the copy. Section 6109(b) allows reproductions to be admitted only "when satisfactorily identified." I would hold that "satisfactory identification" need not be actual testimony that the copy is a true and correct copy. The procedures in the present case provide an appropriate link between the original document and the photocopy. The procedures showing the legitimacy of the copy were explained to the court below. Absent some suggestion that the document or its contents differed from the original, the document should have been accepted by the court as proof pursuant to 75 Pa.C.S. § 3368(d).
+
+        The lower court also reasoned that the document had to be "identified by a qualified witness" pursuant to 42 Pa.C.S. § 6108(b) to be admissible as a business record. Section 6108 creates an exception to the hearsay rule for business records. See Commonwealth v. Visconto, 301 Pa.Super. 543, 448 A.2d 41 (1982). Such a hearsay exception would be superfluous for the certificate of stopwatch accuracy, however,[338 Pa.Super. 157] because the Vehicle Code provides a specific hearsay exception for the certificate in section 3368(d). See also Commonwealth v. Gernsheimer, 276 Pa.Super. 418, 419 A.2d 528 (1980) (in speeding prosecution, section 3368(d) takes preference over general requirements of Official Documents Law). Thus, the Commonwealth need not have met the requirements of section 6108(b), which it never invoked.
+
+        For these reasons, the order of the trial court dismissing the citation was error. I would accordingly reverse.
+
+---------------
+
+1 The issue in Gernsheimer was whether § 3368(d) required that the official state seal appear on the certificate of accuracy. We held that such a seal was not needed for admissibility.
+
+2 In Commonwealth v. Perdok, 411 Pa. 301, 192 A.2d 221 (1963), the Supreme Court approved the admission of the certificate for the limited purpose of proving that the radar apparatus was accurate. However, the Court reversed the speeding conviction on the ground that the document was not admissible to prove the Secretary of Revenue's approval of the machine unless it fell under the hearsay exceptions for business records or official statements and that, because no foundation had been laid and it was not part of the testing station's duty to approve the type of radar apparatus used, such exceptions did not apply.
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,110 @@
+
+
+24 Ohio Misc.2d 7
+
+
+493 N.E.2d 571, 24 O.B.R. 131
+
+
+The STATE of Ohio
+v.
+FREEMAN. *
+
+
+No. 85 TRD 737.
+
+
+Ashtabula County Court of Ohio.
+
+
+Sept. 3, 1985.
+
+
+Syllabus by the Court
+
+        1. The reliability of radar-speed detection devices may be generally attacked by a properly qualified expert witness, and such testimony is relevant and goes to the proper weight to be given to the radar evidence.
+
+        2. Judicial notice of the accuracy or dependability of a K-55 radar device may not be taken when the trial court has never in any case previously before it received expert evidence and determined that the device is dependable and accurate, and such issue has not been passed upon by the appellate court.
+
+        Michael Franklin, Asst. Pros. Atty., for plaintiff.
+
+        Patsy J. Freeman, pro se.
+
+        YOST, Judge.
+
+        This case involves a speeding citation issued by a trooper of the Ohio State Highway Patrol to Patsy J. Freeman, alleging that on April 11, 1985, at 10:40 a.m., she operated a vehicle at a speed exceeding fifty-five miles per hour, in violation of R.C. 4511.21(D).
+
+        The state's case-in-chief consisted of the testimony of the arresting officer that he [493 N.E.2d 572] measured the defendant's speed with a K-55 radar device, at sixty-six miles per hour; that he was qualified to operate the K-55 radar; that he had calibrated the particular radar device, prior to its use on the date in question; and that, in his opinion, there were no factors which would have interfered with the proper and accurate operation of the radar device. The officer also testified as to his opinion, based upon his visual observation, that the defendant was operating her vehicle in excess of fifty-five miles per hour.
+
+        The defendant presented the testimony of her husband, Dr. Jonathan Freeman, who holds a Ph.D. in electrical engineering from Case Western Reserve University. Based upon testimony as to Dr. Freeman's education and experience, the court determined that he was qualified to give expert testimony. Dr. Freeman's testimony dealt with numerous factors that can influence the reliability of radar detection devices and the extremely high level of stability and sensitivity required to detect the very minute shifts in frequency of radar waves, used to measure the speed of vehicles, particularly when the radar reading is taken from a moving patrol car. Dr. Freeman did not examine or test the particular K-55 radar unit in question. His testimony attacked the general reliability of radar-speed detection devices of the type used by police agencies. The defendant testified essentially that she simply was not driving in excess of fifty-five miles per hour.
+
+        On rebuttal, the state presented the testimony of Trooper Doug Warren, who is a certified radar instructor for the Ohio State Patrol. Warren explained the factors which are necessary to assure a "good clock." In objecting to the admissibility of Dr. Freeman's testimony, the state has urged that expert testimony is not admissible to attack the reliability of radar devices in general. This argument flows, by analogy, from the general statement in State v. Vega (1984), 12 Ohio St.3d 185, 465 N.E.2d 1303, 
+
+Page 8
+
+that an accused may not make a general attack upon the reliability and validity of a breath-testing instrument. A close reading of the Vega decision reveals that this general rule of law is grounded upon a number of factors, most important of which is that the legislature has specifically provided for the admission of such test results, when conducted in accordance with statute and rules promulgated by the Director of Health. The legislature has charged the Director of Health with determining which types of breath-testing devices are suitable for breath-alcohol analysis. Citing McCormick, Evidence (2 Ed. Cleary Ed.1972) 511, 513, Section 209, the court in Vega, at 188, adopted the rationale that questions as to the general reliability of such tests have already been answered by the legislature and that issues of relevancy, and to a large extent of weight, have also been legislatively resolved.
+
+        This court finds quite a different state of affairs with regard to radar-speed detection devices. In R.C. 4511.091, the legislature has sanctioned the use of radar devices as a means for providing probable cause to arrest for a violation of R.C. 4511.21. The legislature had not established any statutory guidelines for the operation of radar devices nor has it set up a system for developing administrative regulations governing and controlling the proper use and operation of such devices. Finally, the legislature has not designated a person in any department, or agency, to be charged with the responsibility of determining which, among the many radar devices on the market, are suitable for determining the speed of vehicles. Significantly, the General Assembly has not legislatively provided for the admission of the results obtained from radar devices in speeding cases. The court therefore holds that the reliability of radar-speed detection devices may be generally attacked by a properly qualified expert witness, and that such testimony is relevant and goes to the proper weight to be given to the radar evidence.
+
+        The testimony of the expert witness, in this case, seriously questions the reliability of what would ordinarily be the state's most persuasive evidence. The state did not have comparable expert testimony with [493 N.E.2d 573] which to answer the questions raised by the defendant. Even though the defendant did not object to the testimony of the police officers concerning the K-55 radar unit, the effect of her evidence has been to raise the question of whether this court may judicially notice that the K-55 radar unit is reliable for its intended purpose, so as to support a finding of guilt, in the face of uncontroverted evidence to the contrary.
+
+        A review of the case authority discloses that this issue has not been frequently considered by the Supreme Court of this state. The leading case has been East Cleveland v. Ferell (1958), 168 Ohio St. 298, 154 N.E.2d 630 [7 O.O.2d 6]. This case recognizes the acceptance of the Doppler principle as the scientific basis for radar-speed detection devices. This decision also established three fundamental principles concerning the admission of the results obtained from a radar-speed detection device. In interpreting the Ferell decision, the Franklin County Court of Appeals, in State v. Wilcox (1974), 40 Ohio App.2d 380, 319 N.E.2d 615 [69 O.O.2d 333], held at paragraphs one and two of the syllabus that, although the Doppler principle is scientifically recognized, expert testimony would still be required with respect to construction and method of operation of a device which not only measures speed but adjusts such speed measurement to compensate for the speed of the moving vehicle in which it is mounted. That court had occasion to review its decision in Wilcox, supra, in State v. Doles (1980), 70 Ohio App.2d 35, 433 N.E.2d 1290, [24 O.O.3d 25], a case dealing specifically with the K-55 radar. In its syllabus, the court states:
+
+Page 9
+
+        "1. In order for judicial notice to be taken, the fact must be one of common knowledge throughout the jurisdiction of the court.
+
+        "2. Where there is no testimony as to the construction and method of operation of a speed measuring device not the subject of judicial notice, the testimony of the user that he operated the device as instructed is insufficient to sustain a conviction for speeding." (Emphasis sic.)
+
+        In State v. Shelt (1976), 46 Ohio App.2d 115, 346 N.E.2d 345 [75 O.O.2d 103], the Lucas County Court of Appeals reviewed a speeding conviction based upon evidence obtained from an MR-7 moving radar device. The court determined that there was sufficient expert testimony on the construction of the device and its method of operation in determining the speed of an approaching vehicle from the opposite direction and sustained the conviction. In its syllabus, the court went on to state:
+
+        "2. Upon publication of this opinion, it may be judicially noticed that the MR-7 moving radar device, using the Doppler effect, is acceptable as dependable for its proposed purpose. * * * "
+
+        The only reported decision in which a court has taken judicial notice of the reliability of the K-55 radar unit is Akron v. Gray (1979), 60 Ohio Misc. 68, 397 N.E.2d 429 [14 O.O.3d 303]. The opinion indicates that one expert was called by each side to testify as to the scientific reliability of radar devices in general. The court also made personal observation of the operation of the K-55 radar, at the request of both counsel. The court further found that the MR-7 and the K-55 operate substantially the same, noting that the MR-7 received judicial recognition in State v. Shelt, supra. Shelt and Gray were acknowledged and considered by the court deciding State v. Doles.
+
+        "While other courts have taken judicial notice of the dependability of moving radar units, State v. Shelt (1976), 46 Ohio App.2d 115, 346 N.E.2d 345 [75 O.O.2d 103], and Akron v. Gray (1979), 60 Ohio Misc. 68, 397 N.E.2d 429 [14 O.O.3d 303], an examination of those cases indicates that the prosecution presented significant expert testimony before the trial court in both cases to establish the construction and method of operation of the mobile radar units. The language in those opinions indicates that judicial notice of the fact that the mobile radar units in question are dependable for their proposed purpose was established for future cases within those jurisdictions. The fact that other jurisdictions[493 N.E.2d 574] have taken judicial notice of the dependability of mobile radar units for future cases within those respective jurisdictions is only persuasive evidence in this jurisdiction. Those decisions cannot serve as a proper basis for judicial notice in this jurisdiction." State v. Doles, supra, 70 Ohio App. at 38, 433 N.E.2d 1290.
+
+        The most recent reported decision dealing with judicial notice of the accuracy or dependability of the K-55 radar device is State v. Colby (1984), 14 Ohio App.3d 291, 470 N.E.2d 924. In this succinct decision the court held that judicial notice of the accuracy or dependability of a K-55 radar device may not be taken when the trial court has never in any case previously before it received expert evidence and determined that the device is dependable and accurate. Id. at paragraph one of the syllabus.
+
+        This court notes that there has never been a case previously before it in which expert testimony was offered or received on the dependability or accuracy of the K-55 radar device, nor any prior determination that such device is dependable and accurate. This court is not aware of any decision, nor has any been cited, of our Eleventh District Court of Appeals, in which that court has reviewed the sufficiency of any expert testimony concerning the dependability or accuracy of the K-55 radar device, so as to provide a proper basis 
+
+Page 10
+
+for judicial notice of the K-55 in this jurisdiction.
+
+        The court therefore concludes that it cannot take judicial notice that the K-55 radar unit is reliable for its intended purpose. Upon careful review and consideration of all of the evidence before the court, including the officer's opinion that the defendant was speeding, the court cannot find that the state has proven the case beyond a reasonable doubt.
+
+        The court therefore finds the defendant not guilty.
+
+        Defendant not guilty.
+
+---------------
+
+* No appeal has been taken from the decision of the court.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

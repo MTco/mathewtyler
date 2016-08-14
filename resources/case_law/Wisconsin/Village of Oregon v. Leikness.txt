@@ -1,0 +1,111 @@
+
+444 N.W.2d 67
+
+
+150 Wis.2d 948
+
+
+NOTICE: UNPUBLISHED OPINION. RULE 809.23(3), RULES OF CIVIL PROCEDURE, PROVIDE THAT UNPUBLISHED OPINIONS ARE OF NO PRECEDENTIAL VALUE AND MAY NOT BE CITED EXCEPT IN LIMITED INSTANCES.
+
+
+VILLAGE OF OREGON, Plaintiff-Appellant,
+v.
+Julie L. LEIKNESS, Defendant-Respondent.
+
+
+No. 88-2384.
+
+
+Court of Appeals of Wisconsin.
+
+
+May 25, 1989.
+
+        Circuit Court, Dane County.
+
+        REVERSED AND CAUSE REMANDED.
+
+        APPEAL from a judgment of the circuit court for Dane county: GERALD C. NICHOL, Judge.
+
+        DYKMAN, Judge.
+
+        This is a one-judge appeal decided pursuant to sec. 752.31(2)(c), Stats. 1 The Village of Oregon appeals from a judgment 2 finding Julie Leikness not guilty of speeding in violation of sec. 346.57(4), Stats. The first issue is whether the trial court erred by concluding that Oregon had not shown a prima facie presumption of accuracy for its moving radar unit. The second issue is whether the trial court erred by finding a conflict in testimony. We resolve both issues against Leikness and reverse and remand for further proceedings.
+
+
+FACTS
+
+        A Village of Oregon police officer gave Julie Leikness a speeding citation on February 6, 1988. At trial, the officer testified that his moving radar unit had clocked Leikness's car at 72 m.p.h. in a 55 m.p.h. zone. Leikness proved that the speedometer of the officer's patrol car had not been certified until October 4, 1988, eight months after Leikness's arrest. Leikness's father also testified, claiming that it was impossible for the police officer to have seen his daughter because of a curve in the road where the alleged violation took place. On rebuttal, Oregon submitted a hand-drawn diagram allegedly depicting the area where it asserted that the offense occurred. Oregon also submitted a photograph taken by the officer which allegedly depicted the curve in question.
+
+        The trial court found that Oregon had tested the moving radar unit on October 4, 1988. The court concluded, relying on State v. Hanson, 85 Wis.2d 233, 245, 270 N.W.2d 212, 218-19 (1978), that this test was not within a reasonable proximity of the arrest, and that therefore the radar unit was unreliable. The court also concluded that because of a conflict between the officer's testimony and that of Mr. Leikness, the court doubted "whether the vehicle in the scope of the moving radar was that operated by the defendant, Julie Leikness." The court found Leikness not guilty of speeding.
+
+
+STANDARD OF REVIEW
+
+        We uphold findings of fact unless clearly erroneous. Sec. 805.17(2), Stats. Whether Hanson requires that the state prove that a patrol car's speedometer has been certified to be accurate is a question of law which we review de novo. See Washington County v. Luedtke, 135 Wis.2d 131, 137, 399 N.W.2d 906, 908 (1987) (interpretation of Hanson criteria question of law). The credibility of witnesses is exclusively for the trier of fact. State v. Wyss, 124 Wis.2d 681, 694, 370 N.W.2d 745, 751 (1985).
+
+
+DISCUSSION
+
+        The trial court found that the officer tested the moving radar unit on October 4, 1988, eight months after the arrest. This finding is clearly erroneous. The officer testified that he tested the moving radar unit immediately after the arrest, and that it was operating properly. Leikness produced no evidence challenging this claim. The trial court's error seems to be based on a misreading of Hanson, 85 Wis.2d at 245, 270 N.W.2d at 218-19, where the supreme court ruled that the state must prove that five conditions apply in order to have a prima facie presumption that a moving radar unit is accurate. 3 The fifth criterion provides "[t]hat the speed meter should be expertly tested within a reasonable proximity following the arrest...." Id. "The speedmeter is that portion of the radar device that displays the speed of the respective vehicles.... As used in criterion five, 'speedmeter' refers to the radar device itself." Luedtke, 135 Wis.2d at 134 n. 3, 399 N.W.2d at 907.
+
+        The [ State v. Kramer, 99 Wis.2d 700, 299 N.W.2d 882 (1981) ] court stated that the evidence [that the speedometer had been certified], if introduced, did not have any relevance to the fifth criterion, the testing of the speedmeter by internal or external controls. Only criterion 4 had anything to do with the speedometer, but evidence of its accuracy was not required. Hence, even with respect to criterion 4, such evidence--proof of the speedometer's accuracy--is irrelevant. Irrelevant evidence is not admissible. Rule 904.02.
+
+        Luedtke, 135 Wis.2d at 139, 399 N.W.2d at 909.
+
+        While it is undisputed that the speedometer was tested on October 4, 1988, evidence of the speedometer's accuracy is irrelevant. Luedtke, 135 Wis.2d at 139, 399 N.W.2d at 909. Therefore we reverse and remand this issue to the trial court for further consideration.
+
+        The next issue is whether the trial court's finding that because of an alleged conflict in the testimony of the arresting officer and Mr. Leikness, there was a doubt that Julie Leikness's car was the one that the officer clocked with his moving radar unit. The officer claimed that it was Leikness's car that he clocked with his moving radar unit. Mr. Leikness testified that it was impossible for the officer to have seen the car because of the curve in the road.
+
+        We need not decide whether there actually was a conflict in the testimony. Oregon submitted a photograph of the area in question. Chart v. General Motors Corp., 80 Wis.2d 91, 111-12, 258 N.W.2d 680, 688-89 (1977), holds that where trial testimony conflicts with photographs, the photographs override the testimony. The officer testified that he had taken the photograph from the same position where he had allegedly clocked Leikness's car. If the photograph represents the position of the arresting officer at the time of the alleged offense, the photograph directly conflicts with testimony that it would be impossible to see around the curve in question. Based on our examination of the photograph, there is nothing obstructing a view of the curve, and the photograph overrides any conflicting testimony. Based on Chart, we must reverse and remand this issue to the trial court for further proceedings.
+
+
+CONCLUSION
+
+        The arresting officer testified that all of the Hanson criteria were satisfied. On remand, the trial court must decide as to the credibility of this testimony. In addition, the trial court must decide the credibility of the officer's testimony that the photograph accurately represented his position at the moment of the alleged violation. We place no barrier on the trial court's evaluation of the witnesses' relative credibility. That decision is solely up to the trial court. Wyss, 124 Wis.2d at 694, 370 N.W.2d at 751.
+
+        By the Court.--Judgment reversed and cause remanded for further proceedings.
+
+        Inclusion in the official reports is not recommended.
+
+---------------
+
+1 Section 752.31(2), Stats., provides in part:
+
+Appeals to or other proceedings in the court of appeals in the following types of cases shall be decided as specified in sub. (3):
+
+* * *
+
+(c) Cases involving violations of traffic regulations....
+
+2 The document is entitled "Decision." Only final orders or judgments are appealable of right. However we are to look beyond labels to ascertain the correct nature of a document. In re Incorporation of Town of Fitchburg, 98 Wis.2d 635, 647-48, 299 N.W.2d 199, 205 (1980). We conclude that the document is final judgment because it fully disposed of the entire matter. Fredrick v. City of Janesville, 92 Wis.2d 685, 687, 285 N.W.2d 655, 656 (1979). Therefore it is appealable. State ex rel. Brennan v. Branch 24 of Cir.Ct., 104 Wis.2d 72, 74, 310 N.W.2d 629, 630 (Ct.App.1981).
+
+3 This confusion may result from a typographical error on p. 245 in the Hanson opinion that was later corrected by a substitute page 245 to be placed in 85 Wis.2d. The new page substituted "speedometer" in criterion five with "speed meter." Perhaps the trial court's copy of Callaghan's Wisconsin Reports, 85 Wis.2d, did not have this substitute page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

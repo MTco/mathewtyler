@@ -1,0 +1,166 @@
+
+
+605 A.2d 814
+
+
+413 Pa.Super. 460
+
+
+COMMONWEALTH of Pennsylvania
+v.
+Dorith S. COHEN, Appellant.
+
+
+Superior Court of Pennsylvania.
+
+
+Argued Jan. 15, 1992.
+Filed March 30, 1992.
+
+Page 815
+
+        [413 Pa.Super. 461] William G. Cohen, New Castle, for appellant.
+
+        Kemal A. Mericli, Asst. Dist. Atty., Pittsburgh, for Com.
+
+        Before CAVANAUGH, WIEAND and HESTER, JJ.
+
+        [413 Pa.Super. 462] CAVANAUGH, Judge.
+
+        This case involves an appeal from a conviction and fine for violation of 75 Pa.C.S.A. § 3365(b), a provision which prohibits speeding in a school zone. Appellant raises two issues on appeal: (1) whether the lower court erred in failing to quash a citation for speeding in a school zone, where the citation allegedly did not give her fair notice of what violation she was supposed to have committed and (2) whether the lower court erred in allowing a police officer to testify that appellant was driving over the speed limit in a school zone where the testimony was not obtained by a speed timing device. Although we find that the citation more than amply gave appellant "fair notice," we are constrained to agree with the appellant that the current state of the law is that a police officer cannot testify as to his or her personal observation of speeding in a school zone. We reverse.
+
+        The facts of this case are as follows. At approximately 3:25 p.m. on Wednesday, September 12, 1990, appellant was stopped by Pittsburgh Police Officer Regina Martin in the 5600 block of Beacon St. of the city's Squirrel Hill section, a school zone. The school zone had the statutorily required signs posted which declared that speed in the zone during school hours was 15 M.P.H. Police Officer Martin gave appellant a traffic citation, after having personally observed the rate of speed of appellant's car. Appellant was subsequently found guilty of speeding in a school zone after a hearing before Chief Magistrate Harrington of the Pittsburgh Traffic Court. Following an appeal from this summary conviction, she was again convicted after a de novo hearing before the Hon. Raymond L. Schieb of the Allegheny County Court of Common Pleas. This appeal followed.
+
+        The first issue appellant would have us address is whether the traffic citation gave appellant fair notice of the conduct she was alleged to have committed, the speed at which she was alleged to have driven, or the applicable speed limit. Appellant argues that the citation is impermissibly unclear, as Police Officer Martin abbreviated the [413 Pa.Super. 463] speed at which she was alleged to have driven and the applicable speed limit. Appellant argues that such abbreviations are deficient, both under the Rules of Criminal Procedures and under the Motor Vehicle Code. Appellant refers us to Pa.R.Crim.P 53, "Contents of Citation:"
+
+(a) Every citation shall contain:
+
+* * * * * *
+
+(5) A citation of the specific section and subsection of the statute or ordinance allegedly violated, together with a summary of the facts sufficient to advise the defendant of the nature of the offense charged ...
+
+        (emphasis appellant's). Appellant also calls our attention to § 3366 of the Motor Vehicle Code, which provides as follows:
+
+In every violation of a speed provision in this subchapter except for a violation of section 3361 (relating to driving vehicles at safe speed), the citation shall specify the speed at which the defendant is alleged to have driven and the applicable speed limit.
+
+        75 Pa.C.S.A. § 3366. We think it does full justice to this argument to state that it is completely without merit.
+
+Page 816
+
+        "Although a citation must include a specific section of the statute violated, it need only show a summary of the facts sufficient to advise the defendant of the nature of the offense charged." Commonwealth v. Weed, 3 Pa.D & C 3rd 151 (C.P.Cumb.1977), as quoted in Commonwealth v. Stahl, 296 Pa.Super. 507, 513, 442 A.2d 1166, 1169 (1982). The citation involved, No. 513613, reads in large, boldfaced, capitol letters at the top "TRAFFIC CITATION." The citation is divided into a number of boxes wherein the dispensing officer writes down pertinent information such as the driver's name and address, the nature of the charge, the driving conditions, the make and year of the vehicle, and the dispensing officer's signature. In box number 16, entitled "Charge," Officer Martin filled in "EXCEEDING SPEED LIMIT." In box number 19, entitled "Nature of the Offense," Officer Martin wrote "IN SCHOOL ZONE P25 Allow 15 App 25-26." It is only reasonable to conclude [413 Pa.Super. 464] that this is fair notice that the traffic citation had been issued for exceeding the speed limit at approximately 25 M.P.H. in a school zone where the speed limit allowed was 15 M.P.H. Moreover, it is pertinent to note that in box numbers 38 and 39, entitled "Sec." and "Sub Sec.," Officer Martin also wrote in the "3365" and "b," the section and subsection of the Motor Vehicle Code dealing with speeding in a school zone. The argument that appellant did not receive "fair notice" is meritless.
+
+        Even if we had found the citation defective, we could not find in appellant's favor on that ground. When a citation contains defects, we must look to Pa.R.Crim.P. 70 for the consequences. Commonwealth, Dept. of Trans. v. Palmer, 334 Pa.Super. 248, 251, 482 A.2d 1318, 1319 (1984). Pa.R.Crim.P. 90 provides, inter alia, that a Citation cannot be dismissed absent prejudice to the rights of the defendant:
+
+        A defendant shall not be discharged nor shall a case be dismissed because of a defect in the form or content of a complaint, citation, summons, or warrant, or a defect in the proceedings of this Chapter, unless the defendant raises the defect before the conclusion of the summary trial and the defect is prejudicial to the rights of the defendant.
+
+        Pa.R.Crim.P. 90 (emphasis added); see also Palmer, supra. Although appellant has not explicitly argued that she has suffered prejudice by the officer's abbreviations, 1 we find in any case that no such prejudice occurred. As we discussed supra, it strains the imagination to believe that appellant was surprised in any way about the significance of the Citation as a whole or the meaning of the abbreviations in particular.
+
+        The second issue appellant would have us address is whether a police officer can testify based solely on visual observation that an automobile was exceeding the speed limit in a school zone. The appellant asserts that 75 Pa. [413 Pa.Super. 465] C.S.A. § 3368, as interpreted in our en banc decision Commonwealth v. Martorano, 387 Pa.Super. 151, 563 A.2d 1229 (1989), compels us to rule in her favor. We are constrained to agree.
+
+        Our legislature in 75 Pa.C.S.A. § 3368 established comprehensive guidelines for the utilization of speed timing devices. It is pertinent to note that the legislature, in enacting the guidelines, did not indicate under what circumstances they apply. Martorano presented our Court with a case of first impression: does the existence of the guidelines require their mandatory use or do the guidelines merely indicate that if the police decide to use a speed timing device that they must use it according to the guidelines.
+
+        In Martorano, a police officer timed a driver greatly exceeding the speed limit with a VASCAR speed timing device in a twenty-five mile an hour zone, the Betsy Ross Bridge exit ramp onto Interstate 95. The driver was apprehended and issued a traffic citation for his violation of 75 Pa.C.S.A. § 3362(a)(3), which reads:
+
+§ 3362. Maximum speed limits
+
+(a) General rule.--Except when a special hazard exists that requires lower speed 
+
+Page 817
+
+for compliance with section 3361 (relating to driving vehicle at safe speed), the limits specified in this subsection or established under this subchapter shall be maximum lawful speeds and no person shall drive a vehicle at a speed in excess of the following speed limits:
+
+        (1) 35 miles per hour in any urban district.
+
+        (2) 55 miles per hour in other locations.
+
+        (3) Any other maximum speed limit established under this subchapter.
+
+        The driver was convicted in traffic court and subsequently exercised his right to have a de novo hearing in the court of common pleas. At the hearing, the Commonwealth was unable to find the original certificate of accuracy of the VASCAR unit operated by the police officer. The Court accepted a Xerox copy over the driver's objection, and he [413 Pa.Super. 466] was once again convicted. However, for reasons which do not concern us here, the Court in its Opinion acknowledged that the Xerox copy was inadmissible and the VASCAR evidence could not be properly sustained as competent evidence. Notwithstanding, the Court found that the police officer's eyewitness testimony was sufficient evidence independent of the VASCAR reading to support appellant's conviction.
+
+        On appeal, an en banc panel of this Court faced for the first time the issue of whether, in light of § 3368, a police officer's opinion testimony is sufficient grounds upon which to base a speeding violation pursuant to 75 Pa.C.S.A. § 3362(a)(3). Before the enactment of § 3368, a police officer had always been competent to render his opinion on a vehicle's speed, subject only to the fact he must have observed the vehicle. See Commonwealth v. Martorano, 387 Pa.Super. 151, 163, 563 A.2d 1229, 1235 (1989) (Johnson, J., Dissenting); Commonwealth v. Monosky, 360 Pa.Super. 481, 485, 520 A.2d 1192, 1194 (1987); Commonwealth v. Reynolds, 256 Pa.Super. 259, 271, 389 A.2d 1113, 1119 (1978); Commonwealth v. Forrey, 172 Pa.Super. 65, 70, 92 A.2d 233, 235 (1952). However, in a 5-3 decision, 2 we found that the recent amendments to § 3368 in 1985 and 1986 indicated a legislative intent that speed timing devices were mandatory. Martorano, supra, 387 Pa.Super. at 157, 563 A.2d at 1232. As the Court declared in that case:
+
+[W]e conclude that because the legislature enacted detailed and specific instructions regarding use and maintenance of speed timing devices in this Commonwealth, it would be impermissible for us to sanction circumvention of those provisions. Therefore, we hold that in order to sustain a speeding conviction under 75 Pa.C.S. § 3362 the Commonwealth must present evidence which would satisfy the requirements of 75 Pa.C.S. § 3368. As a consequence, we also hold that a police officer's uncorroborated[413 Pa.Super. 467] testimony as to speed is insufficient to support a conviction for violating Section 3362.
+
+        Id. The Court went on to distinguish Commonwealth v. Monosky, a case which stated that opinion testimony of police officers who observed a speeder was sufficient to establish a violation of the motor vehicle statute. Monosky, the Court indicated, was distinguishable because it involved a violation of 75 Pa.C.S.A. § 3361, which requires drivers to drive at a safe speed and included no specificity with respect to the driver's actual speed. Id. 360 Pa.Super. at 157-158, 563 A.2d at 1232-1233. The Court also utilized similar reasoning in distinguishing a case involving reckless driving, Commonwealth v. Dandar, 249 Pa.Super. 327, 378 A.2d 319 (1977). Martorano, supra, 387 Pa.Super. at 160 n. 5, 563 A.2d at 1233-1234 n. 5.
+
+        We note that in Martorano, subsection (3) of § 3362(a) was before the Court, and this subsection prohibits a person from driving a vehicle at any other maximum speed limit established under this subchapter. The subchapter subsection (3) refers to is subchapter F of the Motor Vehicle Code, of which § 3365(b), the section before us today, is a part. Thus, since Martorano's holding is not restricted to § 3362, but includes the maximum speed limits set in Subchapter F, it would be 
+
+Page 818
+
+unreasonable to restrict its holding to § 3362. Section 3362(a)(3) must always be used in conjunction with another section of Subchapter F which establishes a maximum speed limit. Indeed, although the Martorano opinion does not make clear exactly which maximum speed limit in Subchapter F the driver allegedly violated, it appears that it was § 3365(a). It is pertinent to note that § 3365(a) provides the Department of Transportation and local authorities with the power to set maximum speed limits on bridges or other elevated structure constituting part of a highway. See 75 Pa.C.S.A. § 3365(a). This is undoubtedly the maximum speed limit the driver in Martorano allegedly violated as he came off the Betsy Ross [413 Pa.Super. 468] Bridge exit ramp onto Interstate 95. 3
+
+        The Commonwealth, although admitting the strength of Martorano, suggests Monosky, supra, is more analogous to this case than Martorano. However, the Commonwealth's reasoning does not make a principled distinction because it relies on policy rather than the accepted canons of statutory interpretation. The Commonwealth notes that since the rate of speed in school zones is very low, and since school zones have a limited distance, it is fairly easy for an experienced police officer to determine whether someone is speeding. Moreover, the Commonwealth argues that it will be potentially onerous and burdensome to require police to use mechanical speed devices in school zones. Finally, it asserts that the state's interest in protecting children would be ill-served by following Martorano. While we share the Commonwealth's concerns as a matter of policy, we agree with the appellant that Martorano stands for the proposition that all provisions in Subchapter F which establish a maximum speed limit must be enforced by a speed timing device. 4
+
+        [413 Pa.Super. 469] Order reversed. Case remanded for actions consistent with this opinion. Jurisdiction is relinquished.
+
+        WIEAND, J., files a dissenting opinion.
+
+        WIEAND, Judge, dissenting:
+
+        I respectfully dissent and would affirm the judgment of sentence. I do so for two reasons.
+
+        First, in my judgment, Commonwealth v. Martorano, 387 Pa.Super. 151, 563 A.2d 1229 (1989), was incorrectly decided and should be reexamined. The legislature, in 75 Pa.C.S. § 3368, did no more than impose certain conditions upon the use of evidence obtained by mechanical speed timing devices. It did not eliminate the use of other competent evidence in cases involving alleged violations of the speed laws.
+
+        Secondly and in any event, I would not extend the holding in Martorano to the circumstances of the instant case. Although I comprehend the logic of the majority's argument, I find it difficult to believe, as a practical matter, that the legislature 
+
+Page 819
+
+intended to render it impossible to convict drivers who speed through school zones, at great risk to innocent school children, without the prior, anticipatory presence of a speed timing device.
+
+        When the evidence in this case is considered in the light most favorable to the Commonwealth, as we are required to do, I am of the opinion that it is sufficient to sustain appellant's conviction of speeding in a school zone. Therefore, I would affirm the judgment of sentence. 1
+
+---------------
+
+1 It is perhaps implicit in the appellant's argument that she did not receive "fair notice."
+
+2 Melinson, J. did not participate in the consideration or decision of Martorano.
+
+3 We note that given the Court's reasoning in Martorano, it is possible that other charges may have been brought pursuant to which Officer Martin may have testified as to speed in order to establish conditions which would have brought the appellant's conduct within the purview of another Motor Vehicle Code violation. See, e.g., Martorano, supra, 387 Pa. Superior Ct. at 160 n. 5, 563 A.2d at 1233-1234 n. 5; Monosky, supra; Dandar, supra; Commonwealth v. Schmitzer, 286 Pa.Super. 138, 144-5, 428 A.2d 610, 613 (1981) (defendant found guilty of reckless driving based in part on police officer's visual observation that he was travelling 25 to 30 m.p.h. in a 15 m.p.h. school zone).
+
+4 We note the following in support of our decision. Martorano held that the presence of regulations relating to the administration of speed timing devices in § 3368 indicated a legislative intent that such devices were to be used mandatorily by law enforcement officials to determine speed violations. Section 3368(e) states the following:
+
+(e) Distance requirements for use of mechanical, electrical and electronic devices.--Mechanical, electrical or electronic devices may not be used to time the rate of speed of vehicles within 500 feet after a speed limit sign indicating a decrease of speed. This limitation on the use of speed timing devices shall not apply to speed limit signs indicating school zones, bridge and elevated structure speed limits, hazardous grade speed limits and work zone speed limits.
+
+75 Pa.C.S.A. § 3368(e) (emphasis added). Accordingly, in light of Martorano's reasoning, the legislature by the presence of § 3368(e) not only contemplated the use of speed timing devices, but also facilitated their use as well.
+
+1 I agree fully with the majority that the citation was sufficient and does not require an arrest of judgment.
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

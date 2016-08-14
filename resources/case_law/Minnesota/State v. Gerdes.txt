@@ -1,0 +1,139 @@
+
+191 N.W.2d 428
+
+
+291 Minn. 353
+
+
+STATE of Minnesota, Respondent,
+v.
+David Arnold GERDES, Appellant.
+
+
+No. 42514.
+
+
+Supreme Court of Minnesota.
+
+
+Oct. 29, 1971.
+
+        Syllabus by the Court
+
+        1. Courts may take judicial notice of the underlying principles and reliability of properly tested and operated radar devices for determining the speed of motor vehicles without requiring expert testimony concerning the theory and mechanics of a particular unit.
+
+        2. Where the only means of testing the accuracy of a radar device is an internal mechanism which is an integral part of 
+
+Page 429
+
+the unit, and there is no evidence other than the radar reading that a motorist was driving at a speed in excess of the limit, his conviction cannot be sustained.
+
+        Robins, Meshbesher, Singer & Spence, and Morley Friedman, Minneapolis, for appellant.
+
+        Warren Spannaus, Atty. Gen., St. Paul, Adrian Herbst, City Atty., Gary Gandrud, Edward C. Tischleder, and Robert D. Heacock, Jr., Asst. City Atty., Bloomington, for respondent.
+
+        Keith M. Stidd, City Atty., Thomas L. Johnson, Asst. City Atty., Minneapolis, amicus curiae.
+
+        Heard before KNUTSON, C.J., and MURPHY, OTIS, ROGOSHESKE, and ROLLOFF, JJ.
+
+
+OPINION
+
+        OTIS, Justice.
+
+        Defendant appeals from a conviction for speeding 40 m.p.h. [291 Minn. 354] in a 30 m.p.h. zone for which he was sentenced to pay a fine of $30 or serve a term of 5 days. The only evidence of his precise speed was the reading of a radar unit operated by a Bloomington police officer.
+
+        The issues are, first, whether the court may take judicial notice of the reliability of radar in establishing the speed of an automobile; and, second, whether the particular radar unit used in the instant case was adequately tested before it was put into operation on the day defendant was arrested.
+
+        We hold that the court may take judicial notice of the reliability of radar but that the particular unit here involved was not properly tested. Accordingly, we reverse.
+
+        This arrest occurred on the morning of October 3, 1969, in the vicinity of 82nd Street and Colfax Avenue South in the city of Bloomington. The radar unit which was being used by Officer Michael Studer was a Stephenson Mark VI Speedalyzer. He had received one hour's training in its operation at the suburban police academy, and was given 4 hours on-the-job training with another officer. Thereafter, he had operated the machine periodically for a period of 14 months. After warming it up for 5 minutes, Officer Studer tested the unit by pressing a button which indicated whether the radio waves from the antenna head were being properly emitted and received. The machine was then calibrated to a speed of 60 m.p.h. The only other test the officer made was to take a reading of traffic which by personal observation he estimated to be approximately 30 m.p.h. From this he judged that the machine was functioning properly. He acknowledged that the accuracy of the machine can be distorted by interference from other vehicles, noise, neon lights, high-tension power lines or high-power radio stations.
+
+        The instruction manual which accompanied the radar unit describes three methods which are available to test its accuracy. The first is to run a patrol car through the beam and check the speedometer against the radar reading. The second is to use a manual tuning fork set to a frequency of 60 m.p.h. The third [291 Minn. 355] is to check the unit with its built-in electric tuning fork. This last method was the only one used by Officer Studer. 1
+
+        The prosecution called Richard Holevinski, a project engineer for the Stephenson Company, which manufactured the unit here in question. He explained in detail the operation of the unit and the principle on which it is based. With respect to the critical question of the accuracy of the particular unit used, Mr. Holevinski testified that it had been thoroughly inspected at the factory and that, if anything were wrong with the machine, it would show no 
+
+Page 430
+
+reading whatsoever. In his opinion, the internal tests of the antenna head and the calibration by Officer Studer were adequate. He stated that any inaccuracy in the machine would be for the benefit of the motorist since it would read lower than the actual speed.
+
+        1. Dr. John M. Kopper is the authority on which nearly all of the courts have relied in accepting the principles underlying radar speedmeters as a proper subject of judicial notice. His treatise on radar speedmeters, The Scientific Reliability of Radar Speedmeters, appears in 33 N.C.L.Rev. 343, and with minor editorial changes in 16 Md.L.Rev. 1. State v. Dantonio, 18 N.J. 570, 115 A.2d 35, 49 A.L.R.2d 460 (1955); United States v. Dreos, 156 F.Supp. 200 (D.Md.1957); People v. Magri, 3 N.Y.2d 562, 170 N.Y.S.2d 335, 147 N.E.2d 728 (1958); City of East Cleveland v. Ferell, 168 Ohio St. 298, 154 N.W.2d 630 (1958); People v. MacLaird, 264 Cal.App.2d 972, 71 Cal.Rptr. 191 (1968); People v. Abdallah, 82 Ill.App.2d 312, 226 N.E.2d 408 (1967); State v. Tomanelli, 153 Conn. 365, 216 A.2d 625 (1966).
+
+        The term 'radar' is an abbreviation of 'radio detection and ranging.' The type of radar system employed in radar speed-meters functions on an application of the Doppler effect. Kopper, 33 N.C.L.Rev. 345, 16 Md.L.Rev. 4. The operation of the speedmeter is summarized in the Magri case as follows:
+
+[291 Minn. 356] '* * * It consists of a transmitting and receiving unit which sends out the radar beam and receives the impulse from the moving vehicle. The wave from the transmitting antenna is sent out on one frequency, and because of the speed of the approaching vehicle the deflected wave returns on a different and higher frequency. It is then translated into miles per hour by the electric speedmeter, which measures the difference in the frequencies of the transmitted wave and the received wave * * *. ' 3 N.Y.2d 565, 170 N.Y.S.2d 337, 147 N.E.2d 730.
+
+        As Dr. Kopper points out, the theory of the Doppler effect has been known since its discovery by Christian Johann Doppler in 1842. It has been used since then for measuring the velocity of stars and, more recently, the speed and altitude of airplanes. Kopper, Supra. Police in some 47 states now employ radar for detecting the speed of automobiles. Without exception, courts which have dealt with the question have taken judicial notice of the accuracy of such devices if they have been properly tested. They permit testimony of radar readings by police officers who are not conversant with the technical operation or theory of the radar unit they are reading. In Radar in the Courts, 40 Va.L.Rev. 809, 814, Professor Woodbridge, then Dean of Law School, College of William and Mary, had this to say:
+
+'Under the Uniform Rules of Evidence, already approved by the American Bar Association at its 1953 meeting, judicial notice 'shall be taken without request by a party * * * of such specific facts and propositions of generalized knowledge as are so universally known that they cannot reasonably be the subject of dispute.' Radar speed meters are now in this category. Why should the time of experts be wasted and the expenses of litigation be increased by compelling such men to appear in court after court telling the same truths over and over? While it is agreed that every reasonable doubt about the accuracy of new developments should promptly be resolved against them in the absence of expert evidence, there is no longer any such doubt [291 Minn. 357] concerning radar. Rather, the applicable maxim should now be, 'What the world generally knows a court of justice may be assumed to know."
+
+        We are in accord with the authorities which accept the reliability of radar speedmeters where there is evidence they were operated by trained personnel who have 
+
+Page 431
+
+adequately tested the accuracy of the particular device by which the defendant's speed was determined. Consequently, we hold that it was proper for the trial court to take judicial notice of the reliability of radar as a means of establishing speed without requiring the operator to be qualified as an expert in the field. 2
+
+        2. No case has been called to our attention where a conviction has been sustained exclusively on evidence of speed determined by a radar device which has not been subjected to external testing. 3 Courts have uniformly refused to take judicial notice of the accuracy of a particular unit. Dr. Kopper recommends that the meter be tested each time it is used, both before and after the period of observation. He suggests that a test car with a calibrated speedometer be run through the zone twice, once at the speed limit of the zone, and once at a speed 10 or 15 miles an hour greater. 33 N.C.L.Rev. 353, 16 Md.L.Rev. 14. The other standard method of testing is described in the instruction pamphlet referred to above and noted in the appendix. It is accomplished by activating a manual tuning fork calibrated to an established frequency, usually 60 m.p.h., which in turn will produce a reading of that speed on the correctly calibrated radar [291 Minn. 358] meter. Neither of these tests was used in the instant case.
+
+        We are not satisfied that this or any other radar device is infallible. To test the machine by the machine itself seems to be bootstrapping. In two leading cases the New York Court of Appeals has underscored the need for adequate testing. In Magri it said (3 N.Y.2d 566, 170 N.Y.S.2d 338, 147 N.E.2d 731):
+
+'* * * Were the only evidence here that of the untested radar equipment, we would hold, as in the case of an untested automobile speedometer (People v. Heyser, 2 N.Y.2d 390, 393, (161 N.Y.S.2d 36, 37, 141 N.E.2d 553, 554 (1957)), that such evidence is insufficient to sustain a conviction for speeding.'
+
+        Subsequently, in a concurring opinion, People v. Dusing, 5 N.Y.2d 126, 130, 181 N.Y.S.2d 493, 497, 155 N.E.2d 393, 395 (1959), Judge Van Voorhis made a much-quoted observation with which we concur:
+
+'It is important to public respect for the enforcement of the speed laws that the speed of a motorist shall be checked by speedometer or radar before he can be convicted of speeding. * * *
+
+'Cases involving untested speedometers and radar apparatus should not arise. Any objections which could be made to the introduction of evidence concerning the readings of such apparatus would be simply and easily overcome by making regular tests and keeping records of the tests in the books of the police department by which the tests were made. The offer in evidence under section 374-a of the Civil Practice Act of such records indicating the routine testing of such devices would be all that is necessary. By giving attention to such simple procedures, the law enforcement agencies would eliminate technical objections, save embarrassment for them and others, and promote better understanding of the necessary procedures as well as public confidence in the correctness of convictions for speeding.'
+
+Page 432
+
+        These views have been echoed in other opinions: People v. Abdallah,[291 Minn. 359] Supra; United States v. Dreos, 156 F.Supp. 200, 208; State v. Tomanelli, 153 Conn. 365, 371, 216 A.2d 625, 629.
+
+        By way of summary, we hold that the courts may take judicial notice of the reliability of the underlying principles of radar as a means of determining the speed of moving objects. However, it does not follow that any given radar unit necessarily functions accurately. The requisite conditions for proving the accuracy of a particular instrument sufficient to support a conviction are:
+
+        (1) The officer reading the device must have adequate training and experience in its operation;
+
+        (2) The officer should testify to the manner in which the unit was set up and the conditions under which it was used;
+
+        (3) A showing must be made that the machine was operated with a minimum possibility of distortion from such external interference as noise, neon lights, high-tension powerlines, high-power radio stations, and other similar influences; and
+
+        (4) On the occasion when the machine is set up, its accuracy must be tested in some external manner by a reliably calibrated tuning fork or by an actual test run, using another vehicle with an accurately calibrated speedometer.
+
+        Because at the time of its operation the radar unit on which this defendant's conviction was based had not been tested except by a tuning fork which was an integral part of the machine, we hold that the evidence was insufficient to sustain his conviction.
+
+        Reversed.
+
+
+APPENDIX
+
+VI. Calibration
+
+        Three methods are available to check the calibration of the MARK VI traffic radar unit; the use of a test car, the use of a manual tuning fork, or the use of an electronic tuning fork.
+
+A. Test Vehicle
+
+A test vehicle, such as a patrol car equipped with an accurately calibrated speedometer, may be used to check the calibration of the MARK VI. The radar unit is set up on the roadway to be checked, taking care that beam angle is minimized as previously described. The test vehicle [291 Minn. 360] is driven through the beam at a set speed usually at the speed limit of the roadway. The operator checks the meter reading to see that it agrees with the speedometer reading of the test car.
+
+B. Manual Tuning Fork
+
+A special tuning fork can be used to check the calibration of traffic radar. The special tuning fork is not to be confused with the forks used to tune musical instruments. The radar check fork is specially calibrated for checking a radar unit. The fork is tuned to vibrate at a frequency equal to the doppler frequency for some set speed, usually at 60 M.P.H. The speed check value will be stamped into the handle of the fork.
+
+The calibration fork is used as follows: Aim the antenna head upward away from any targets. Strike the fork on a plastic or wooden object to get it vibrating. Hold the vibrating fork in the radar beam approximately 4 in front of the radar head. Be careful not to move the fork while checking the meter reading. Check the meter reading; it should read the same speed as stamped on the fork handle. If it does not, the radar unit must be recalibrated as described in the operator manual. The use of the fork, as outlined above, modulates the radar beam so that the receiver is supplied with a signal equivalent to the normal doppler signal. The radar unit thus 'sees' a signal equal to that coming from a vehicle traveling at a speed exactly equal to the speed stamped on the fork. When using a manual fork, care should be taken not to strike the fork hard enough to dent or damage it. A typical 60 M.P.H. manual tuning fork will have an accuracy of 0.2 M.P.H.
+
+Page 433
+
+C. Electronic Tuning Fork
+
+The MARK VI contains a built-in electronic tuning fork system. The heart of the system is a tiny precision tuning fork that is kept in oscillation by an electromagnetic drive coil driven by a transistor oscillator circuit. The tuning fork and drive system are hermetically sealed in a metal case to prevent humidity and barometric changes from effecting the fork frequency. A pick-up coil near the fork provides the 'doppler' signal that is used to calibrate the radar circuit. Pressing the calibrate button turns on the electric tuning fork and applies its accurate calibration signal to the radar amplifier circuit. The frequency of the electronic fork is set for 60 M.P.H. If the meter does not read exactly 60 M.P.H., the radar unit must be calibrated as outlined in the operator's manual. The calibration signal from the electronic tuning fork is accurate to .2 M.P.H. at 60 M.P.H.
+
+Whenever any of the above methods are used to check calibration, a record should be made of the time, date and equipment used.
+
+---------------
+
+1 The instructions for calibration contained in the manual are set forth in the appendix.
+
+2 In the instant case there was, of course, expert testimony concerning the mechanics of this particular unit.
+
+3 In addition to those decisions already cited, the following cases required some kind of external test of accuracy: People v. Barbic, 105 Ill.App.2d 360, 244 N.E.2d 626 (1969); People v. Stankovich, 119 Ill.App.2d 187, 255 N.E.2d 461 (1970); Honeycutt v. Commonwealth (Ky.1966), 408 S.W.2d 421; Cromer v. State (Tex.Cr.App.1964), 374 S.W.2d 884; Kansas City v. Hill (Mo.Ct.App. 1969) 442 S.W.2d 89; State v. Snyder, 184 Neb. 465, 168 N.W.2d 530 (1969). See, also, 7 Am.Jur.2d, Automobiles and Highway Traffic, § 327.
+
+

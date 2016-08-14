@@ -1,0 +1,74 @@
+
+514 N.W.2d 423
+
+
+181 Wis.2d 369
+
+
+NOTICE: UNPUBLISHED OPINION. RULE 809.23(3), RULES OF CIVIL PROCEDURE, PROVIDE THAT UNPUBLISHED OPINIONS ARE OF NO PRECEDENTIAL VALUE AND MAY NOT BE CITED EXCEPT IN LIMITED INSTANCES.
+
+
+STATE of Wisconsin, Plaintiff-Respondent,
+v.
+Joseph R. REDA, Defendant-Appellant.
+
+
+No. 93-1688-CR.
+
+
+Court of Appeals of Wisconsin.
+
+
+Dec. 23, 1993.
+
+        GARTZKE. 1
+
+        Joseph Reda appeals from his conviction for operating a motor vehicle under the influence of an intoxicant, second offense, sec. 346.63(1)(a), Stats. He seeks review of the order denying his motion to suppress certain evidence. The issue is whether the arresting officer had grounds for an investigative stop. The trial court held that the officer did, and therefore the evidence obtained as a result of the stop was admissible. We disagree and reverse.
+
+        The police may make a traffic or investigative stop of a vehicle when the officer "reasonably suspects" that the driver is committing, is about to commit or has committed a crime. Section 968.24, Stats. Furthermore, an officer may make an investigative stop when a driver's activity can result either in a civil forfeiture or a criminal penalty. State v. Krier, 165 Wis.2d 673, 678, 478 N.W.2d 63, 65(Ct.App.1991). The officer testified at the suppression hearing that he stopped Reda because Reda was speeding. Section 346.57, Stats. Speeding results in a civil forfeiture. Section 346.60, Stats. Krier is not clear as to whether an investigative stop may be made for an apparent traffic violation which will result in a forfeiture and therefore is not a crime. We need not decide that question, however, since Reda correctly asserts that no evidence was produced at the hearing that he was in fact speeding.
+
+        The officer testified that he saw Reda's vehicle proceeding at a higher rate of speed than other vehicles approaching the officer. The officer then activated his radar. He attempted to testify that the radar showed that Reda's vehicle was moving 69 miles per hour. The trial court sustained Reda's objection to that testimony for lack of a proper foundation. The officer was then asked whether the vehicle appeared to him to be traveling in excess of the posted speed limit, 55 miles per hour, and Reda again objected on grounds that no proper foundation had been laid. The court responded that because the officer had testified he had Reda "on moving radar," that provided a "foundation for the statement that the vehicle was traveling at a high rate of speed, given the fact that the speed limit was 55 miles per hour." The court therefore overruled Reda's second objection.
+
+        A trial court erroneously exercises its discretion when it relies on a faulty rationale not based on facts of record. See Christensen v. Economy Fire & Casualty Co., 77 Wis.2d 50, 55-56, 252 N.W.2d 81, 84(1977). The court erroneously exercised its discretion by overruling Reda's second objection, because moments before that ruling it had sustained Reda's objection to the officer's testimony regarding the radar reading on grounds that no foundation had been laid for that testimony. Consequently, the radar reading was not in evidence, and it provided no foundation for the officer's testimony that Reda's vehicle appeared to be traveling in excess of the speed limit.
+
+        The state contends that this is not the case, since a reading of the transcript of the officer's testimony "shows that only the radar-related portion of his testimony was excluded by the trial court. The trial court did not exclude the testimony to the effect that visual observation indicated an excessive rate of speed." But Reda objected to the officer's estimate based on the officer's visual observation. The objection was overruled solely because the officer's previous testimony that he "had him [Reda] on moving radar" established a foundation for the officer's testimony regarding his visual observation.
+
+        The state asserts that after Reda stopped his vehicle and left it, the officer observed that Reda's gait was unsteady and his speech was slurred. That does not meet Reda's argument that the officer lacked a reasonable basis for stopping Reda's vehicle in the first place. The only basis for the traffic stop was the officer's suspicion that Reda was speeding, and no admissible evidence was offered to show that speeding had occurred.
+
+        For that reason, the trial court erred when it denied Reda's motion to suppress the evidence obtained as a result of the stop. Reda is entitled to a new trial on the OMVWI charge at which the evidence obtained as a result of the traffic stop may not be admitted.
+
+        By the Court.--Judgment reversed and remanded for a new trial.
+
+        This opinion will not be published. See Rule 809.23(1)(b)4, Stats.
+
+---------------
+
+1 This appeal is decided by one judge pursuant to sec. 752.31(2)(f), Stats.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

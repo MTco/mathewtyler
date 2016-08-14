@@ -1,0 +1,50 @@
+
+
+408 S.W.2d 421
+
+
+Erna Elijah HONEYCUTT, Appellant,
+v.
+COMMONWEALTH of Kentucky, Appellee.
+
+
+Court of Appeals of Kentucky.
+
+
+Nov. 4, 1966.
+Rehearing Denied Dec. 16, 1966.
+
+Page 422
+
+        M. S. Mahurin, Henderson, for appellant.
+
+        Robert Matthews, Atty. Gen., George F. Rabe, Asst. Atty. Gen., Frankfort, for appellee.
+
+        CULLEN, Commissioner.
+
+        Erna Elijah Honeycutt has moved for an appeal from a judgment fining him $10 for exceeding the speed limit in the City of Henderson, by traveling 50 miles per hour in a 35-mile-per-hour zone. We are granting the motion because the appeal presents important questions of public concern with regard to the admissibility of evidence of speed as recorded by a radar device.
+
+        The trial court allowed a city policeman to testify that a radar device operated by him, having a speedometer unit in a police cruiser in which the policeman was parked just off a certain street in Henderson, registered the fact that a vehicle was approaching from the rear of the police cruiser at 50 miles per hour, and upon visual observation the policeman identified the vehicle as being one operated by the appellant, Honeycutt. The policeman testified that the accuracy of the radar unit had been tested, earlier in the same day, by use of a calibrated tuning fork and by a speedometer check with another police cruiser driven through the radar field. The evidence was admitted over the appellant's objections.
+
+        The appellant maintains that evidence of the radar reading should not have been admitted because (1) there was no expert testimony of the scientific validity of the principles of radar speed detection or that radar is capable of accurately measuring speed of a motor vehicle; (2) the accuracy of the particular instrument used in this case was not proved; and (3) the policeman was not shown to be qualified to properly operate and interpret the instrument. Further, appellant argues that there was insufficient proof that his car was the one that caused the radar speedometer to show a reading of 50 miles per hour.
+
+        This court has not previously been presented with a case involving the use of evidence from a radar detecter, but a number of such cases recently have reached the courts of sister states. Those courts have written at some length on the questions raised and we think there is no need for us to add to the literature on the subject. It will be sufficient for us to indicate our agreement with what appears to be the uniform view of all of the other courts in the cases that have arisen in the last few years.
+
+        First, the courts will take judicial notice of the fact that a properly constructed and operated radar device is capable of accurately measuring the speed of a motor vehicle. 7 Am.Jur.2d, Automobiles and Highway Traffic, sec. 327, p. 870; State v. Dantonio, 18 N.J. 570, 115 A.2d 35, 49 A.L.R.2d 460; Everight v. City of Little Rock, 230 Ark. 695, 326 S.W.2d 796; State v. Graham, Mo.App., 322 S.W.2d 188; State v. Tomanelli, 153 Conn. 365, 216 A.2d 625.
+
+        Second, the courts will not take judicial notice of the accuracy of the particular 
+
+Page 423
+
+instrument employed on a specific occasion, but will treat, as sufficient evidence of accuracy, uncontested testimony that the instrument was tested within a few hours of its specific use, and found to be accurate, by use of a calibrated tuning fork and by a comparison with the speedometer of another vehicle driven through the radar field. 7 Am.Jur.2d, Automobiles and Highway Traffic, sec. 327, pp. 870, 871; State v. Dantonio, 18 N.J. 570, 115 A.2d 35; State v. Graham, Mo.App., 322 S.W.2d 188; State v. Tomanelli, 153 Conn. 365, 216 A.2d 625. In fact, in the latter (Connecticut) case it is indicated that the tuning fork test alone may be sufficient. It is pointed out in that case that the accuracy of the tuning fork itself may be assumed in the absence of an attack by the defendant.
+
+        Third, it is sufficient to qualify the operator that he have such knowledge and training as enables him to properly set up, test, and read the instrument; it is not required that he understand the scientific principles of radar or be able to explain its internal workings; a few hours' instruction normally should be enough to qualify an operator. State v. Dantonio, 18 N.J. 570, 115 A.2d 35; State v. Graham, Mo.App., 322 S.W.2d 188; State v. Tomanelli, 153 Conn, 365, 216 A.2d 625. In the instant case the policeman had received 13 weeks' training as a radar repairman and had operated radar equipment for almost two years. We think this was sufficient qualification to make his testimony competent. A reading of his testimony indicates that he understood how to operate the instrument.
+
+        The radar device used in the instant case simply registered a speed reading on a speedometer dial. It did not show a 'blip' on a screen or by any other means undertake to show location or direction of a vehicle in its filed. The testimony of the policeman was that he had set up the instrument to cover northbound traffic on the four-lane, two-way street in question. He said that he observed, in the rear view mirror of the cruiser, several vehicles approaching from the south. One of them was passing the others. The radar speedometer registered an unstable reading, with a top of 50 m.p.h. Directly, the reading stabilized at 50 m.p.h. and he observed in the mirror that one car had passed the others and was by itself out in front of the others. The fact that the one car was by itself, away from the others, and closest to the radar unit, enabled the radar unit to make a stable reading of its speed. The policeman pursued the car in question, in the cruiser, and caused it to stop. The car was being driven by the appellant.
+
+        The appellant argues that there was insufficient evidence that his car was the one which caused the radar unit to show a 50 m.p.h. reading; that a south-bound car in the other lane could have caused it. In our opinion the reasonable import of the policeman's testimony is that he observed the appellant's car passing others at the same time the radar dial showed a fluctuating reading with a 50 m.p.h. maximum. When the dial stabilized at 50 m.p.h. the car was in front by itself, nearest to the unit. The policeman's estimate of its speed, from visual observation alone, was from 40 to 45 m.p.h. This evidence reasonably points to the appellant's car as the offending vehicle, and we do not think that the evidence is reduced to worthlessness by the remote chance of coincidence that a south-bound vehicle broke clear from a passing situation, at 50 m.p.h., at the same moment that the appellant's car got out in front in the north-bound lanes. Furthermore, the testimony indicates with reasonable certainty that a south-bound car, when it entered the range field of the radar, would have been beyond the north-bound cars and therefore would not have registered a stabilized reading.
+
+        In our opinion the radar evidence in this case was competent.
+
+        The judgment is affirmed.
+

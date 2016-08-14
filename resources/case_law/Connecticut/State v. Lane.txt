@@ -1,0 +1,98 @@
+
+
+
+
+232 A.2d 518
+
+
+4 Conn.Cir.Ct. 368
+
+
+STATE of Connecticut
+v.
+George W. LANE.
+
+
+No. MV 10-37731.
+
+
+Circuit Court of Connecticut, Appellate Division.
+
+
+Argued Sept. 12, 1966.
+Decided March 31, 1967.
+
+Page 519
+
+        [4 Conn.Cir.Ct. 369] Hyman Wilensky, New London, for appellant (defendant).
+
+        Morris H. Globerman, Asst. Pros. Atty., for appellee (state).
+
+Page 520
+
+        DEARINGTON, Judge.
+
+        The defendant was convicted of speeding in violation of General Statutes § 14-219 in a trial to the jury and has appealed from the judgment. 1 He has assigned error in the denial of his motion to correct the finding, in the charge, in certain rulings on evidence, in denying him the right to cross-examine a witness and in denying his motion to set aside the verdict. While the defendant has set forth several assignments of error, the fundamental issues raised, both in argument and brief, refer to the court's ruling on the admission of certain evidence, its ruling as a matter of law on the type of highway involved, and its denial of the defendant's motion to set aside the verdict.
+
+        The state offered evidence and claimed to have proved that on February 3, 1966, at about 6 a.m., a state trooper was patrolling route 2, which is a public highway, in the town of Preston. The trooper observed the defendant driving his car in a northerly direction on this highway and followed him for some distance. The trooper clocked the defendant for half a mile. The speed of the defendant's car during the clocking varied from seventy to seventy[4 Conn.Cir.Ct. 370] -four miles per hour. Route 2 in this area consists of two lanes and is not a multiple-lane, limited-access highway. The portion of route 2 on which the defendant was clocked passes through a rural area; on either side of the highway there are business establishments, garages, and one-family dwellings. The speedometer of the trooper's car was calibrated or checked on January 20, 1966, by running the car through a radar beam at speeds of forty, sixty and eighty miles per hour, and the speedometer indicated a slight variation of half a mile per hour at speeds of forty and eighty miles per hour. There were no highway signs indicating speed limits posted within the clocked distance and no intersections. In the area, a short distance before the clocking commenced, a state traffic commission sign limited maximum speed to fifty miles per hour.
+
+        The only material difference in the state's claims of proof and those of the defendant is related to the type of highway during the clocking. The defendant claimed that the highway in this area is a multiple-lane limited-access highway.
+
+        In our review, we shall consider only those errors assigned by the defendant which have been pursued in the argument and the brief. The first error thus considered relates to the court's ruling on the admission of certain evidence. A state trooper, the state's only witness, testified that while clocking the defendant his speedometer varied between seventy and seventy-four miles per hour. We have held that the speed indicated by the speed-ometer of a moving vehicle is prima facie evidence of the speed of such vehicle. State v. Tarquinio, 3 Conn.Cir. 566, 568, 221 A.2d 595. The witness then testified that he had checked his speedometer on a prior occasion by driving his car through a radar beam at several speeds while the radar instrument was being operated by another state trooper. The defendant [4 Conn.Cir.Ct. 371] objected to this testimony, claiming that a foundation had not been laid and the evidence was hearsay. Upon being overruled, the defendant took an exception. The witness 
+
+Page 521
+
+then referred to a purported calibration sheet to refresh his recollection. This sheet had been typed and prepared by the radar operator. Thereafter, the witness testified to the several speeds of his vehicle claimed to have been recorded by the speedometer of the radar instrument as he drove through the beam. The witness admitted he had no personal knowledge of the recordings other than what appeared on the sheet and did not know whether the radar machine was functioning properly. At this point the defendant moved, without success, to strike the entire testimony as it related to the speeds of the witness' vehicle as indicated by the radar check, for the reasons previously stated.
+
+        It is not clear upon what grounds, if any, the state claimed that the evidence was admissible. As far as appears of record, the trooper had no knowledge of the subject; all he could testify to on this point was what appeared on the paper given to him by the radar operator. If the evidence was pertinent to the state's case, then the radar operator should have been required to testify as to the results of the test he conducted, provided a foundation had first been laid in accordance with the rules set forth in State v. Tomanelli, 153 Conn. 365, 372, 216 A.2d 625. The court said, in Tomanelli (p. 371, 216 A.2d p. 629): 'Whether the instrument (radar) itself is accurate and is accurately operated must necessarily be demonstrated to the satisfaction of the trier in order to render the evidence produced by it admissible.' In the instant case there was no such evidence and, absence such evidence, the inquiry was objectionable. While evidence of the speed of the defendant's car as indicated by the trooper's speedometer made out a [4 Conn.Cir.Ct. 372] prima facie case of statutory violation; State v. Tarquinio, supra; we cannot say that the radar evidence could not have been materially harmful in view of the defendant's countervailing evidence that his speedometer indicated a speed of between fifty-five and sixty miles per hour in this area. A new trial is therefore required.
+
+        Since this is so, we consider the remaining assignment of error, which involves a question which may arise on a retrial. During the trial, the court ruled as a matter of law on the type of highway in question. It further appears that the court charged the jury in accordance with its ruling of law. The defendant objected both to the ruling and to the charge on this point. The defendant had proffered certain photographs of the highway in question for the claimed purpose of showing the nature of the highway. The court questioned the relevancy of the photographs and then ruled them inadmissible. 'The court: Either he was going over sixty or he wasn't, that is the only question. Mr. Wilensky (defendant's attorney): I beg to differ, Your Honor, I am raising the issue whether this is a limited-access highway. The court: I am ruling right now that this is an unlimited-access highway where the maximum speed is sixty miles per hour. * * * There's been testimony of homes and businesses on both sides. Even on your questioning, it was brought out that there is access from the highway, which means access is unlimited. I am making it an adjudication right now that the maximum speed is sixty miles per hour. Mr. Wilensky: May I respectfully request then whether or not Your Honor is submitting this as a statement of law that this particular highway in question is not a limited-access highway? The court: Yes.'
+
+        The question raised is whether the court could on the evidence presented rule conclusively as a matter [4 Conn.Cir.Ct. 373] of law that the highway was other than a limited-access highway. Of comparatively recent origin are the so-called superhighways, designed to facilitate the movement of traffic from one point to another safely and quickly. If is a well-known fact that such highways have been and are being constructed throughout the country. In various sections of the country they are designated as 'freeways,' 
+
+Page 522
+
+'throughways,' 'expressways,' 'parkways,' and 'beltways.' See Words and Phrases for judicial construction and definitions of such highways. Special legislation has been enacted in this state to provide for such highways, under title 13a of our General Statutes. Thus, for example, the Connecticut Turnpike, Merritt Parkway and sections of the Wilbur Cross Parkway are highways known as this type, sometimes designated 'expressways' (§ 13a-20) 2 or 'parkways' (§ 13a-26). 3 See South Meadows Realty Corporation v. State, 144 Conn. 289, 291, 130 A.2d 290.
+
+        Such highways are usually distinguished from conventional highways by well-known physical characteristics such as four or more lanes, at least two of which run in the same direction, such lanes being generally separated by a median divider from the lanes running in the opposite direction. Posted speed limits determined by the state traffic commission[4 Conn.Cir.Ct. 374] usually provide for higher limits than on conventional highways, and the use of the highways frequently requires the payment of tolls. One of the principal distinguishing characteristics is the limitation of access. 4 On such highways, limited access is necessary because they are designed particularly for movement of through traffic, and cross traffic must be eliminated or severely curtailed and entrances and exits strictly limited, with the result that abutting landowners have no easement or right of access different from that enjoyed by the public in general. South Meadows Realty Corporation v. State, supra, 144 Conn. 294, 130 A.2d 290; State ex rel. Moulton v. Williams, 207 Tenn. 695, 343 S.W.2d 857. One of the principal characteristics of a limited-access highway is the impairment of the right of direct access by abutting owners. Note, 43 A.L.R.2d 1072, 1077. Ordinary highways permit abutting landowners to have access to the outside world and are distinguished from the limited-access highway, designed primarily to move through traffic. Hedrick v. Graham, 245 N.C. 249, 96 S.E.2d 129. A limited-access facility may be broadly described as a highway which motorists can enter and leave only at designated interchanges, usually some distance apart. Arkansas State Highway Commission v. Union Planters National Bank, 231 Ark. 907, 333 S.W.2d 904. Conversely, it may be said that one of the principal distinguishing characteristics of a conventional or unlimited-access highway is the right of ingress and egress to and from abutting properties.
+
+        The expressed intent of the legislature was to distinguish the two types of highways described in § 14-219, that is, the 'multiple-lane, limited access highway' and 'any other highway.' Intent is determined[4 Conn.Cir.Ct. 375] from the language used when there is no ambiguity. State ex rel. Sloane v. Reidy, 152 Conn. 419, 424, 209 A.2d 674. 'Words in statutes are to be construed according to their commonly approved usage. General Statutes § 1-1 * * *.' Metropolitan Casualty Co. v. Billings, 150 Conn. 603, 608, 192 A.2d 541, 544. The 
+
+Page 523
+
+legislative intent by contradistinction of the two types of highways is obvious, the multiple-lane, limited-access highway on the one hand and the conventional highway on the other. An unlimited-access highway is one to which ingress and egress may be made from abutting properties. Any other interpretation would defeat the purpose of the legislation and violate the language used.
+
+        There was evidence in this case that there were business establishments, garages, and one-family homes on either side of route 2, and access to those properties could be made directly from driveways extending from route 2. There was further evidence that in the area of the clocking the highway consisted of two adjoining lanes, one each, running in opposite directions. While there was no evidence of traffic commission speed signs in the area in which the clocking took place, there was evidence that in the general area state traffic commission signs indicated a limit of fifty miles per hour. The highway was described merely as route 2. Such evidence, if unchallenged, would warrant a ruling on the type of highway involved, but if the facts are challenged by a defendant, he should be afforded an opportunity to offer countervailing evidence on the matter. The state argues that the court took judicial notice of the type of highway involved. But '(m)atter which it is claimed the court should judicially notice should be called to its attention by the party seeking to take advantage of the matter so that, if there is ground upon which it may be contradicted or explained, the adverse party will be [4 Conn.Cir.Ct. 376] afforded an opportunity to do so.' State ex rel. Capurso v. Flis, 144 Conn. 473, 477, 133 A.2d 901, 903; Nichols v. Nichols, 126 Conn. 614, 622, 13 A.2d 591. The court, in ruling as it did, denied the defendant an opportunity to offer evidence on the matter. Whether such evidence would have been relevant or would have been excluded by some rule of law is not a part of the record.
+
+        The defendant's assignment of error in the denial of his motion to set the verdict aside needs no further consideration, for reasons already stated.
+
+        There is error, the judgment is set aside and a new trial is ordered.
+
+        In this opinion JACOBS and KINMONTH, JJ., concurred.
+
+---------------
+
+1 Section 14-219, entitled 'Speeding,' provides in part that the following shall constitute violations of the section: '(2) the operation of a motor vehicle at a rate of speed greater than seventy miles per hour upon a multiple-lane limited access highway or greater than sixty miles per hour upon any other highway.' While the information merely alleges a violation of § 14-219 and hence would not limit the state to the provisions of subsection (2), it appears from an evidential ruling of the court, the briefs and the arguments that the state was proceeding on the theory that the defendant had violated the part of subsection (2) relating to the operation of a motor vehicle at a rate of speed greater than sixty miles per hour upon a highway other than a multiple-lane, limited-access highway.
+
+2 Section 13a-20 provides in part: "Expressway' means highway * * * which may provide separation of opposing traffic of vehicles and elimination of cross traffic of vehicles as deemed necessary by the (state highway) commissioner and access to which is allowed only at highway intersections designated by the commissioner * * *.' The Connecticut Turnpike is referred to as an expressway under this section.
+
+3 Section 13a-26 provides in part that "parkway' means any state highway * * * to which access may be allowed only at highway intersections designated by the (state highway) commissioner and designed by him so as to eliminate cross traffic of vehicles.' Both the Wilbur Cross and Merritt highways are described as 'parkways.' General Statutes §§ 13a-27, 13a-154.
+
+4 Section 13a-1 provides in part that "limited access state highway' means any state highway to which access is permitted only at highway intersections or other points designated by the (state highway) commissioner.'
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

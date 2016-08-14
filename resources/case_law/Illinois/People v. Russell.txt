@@ -1,0 +1,84 @@
+
+
+
+256 N.E.2d 468
+
+
+120 Ill.App.2d 197
+
+
+The PEOPLE of the State of Illinois, Plaintiff-Appellee,
+v.
+John RUSSELL, Defendant-Appellant.
+
+
+Gen. No. 69--138.
+
+
+Appellate Court of Illinois, Second District.
+
+
+March 11, 1970.
+
+        [120 Ill.App.2d 198] Robert J. Bourelle, Wheaton, for appellant.
+
+Page 469
+
+        William V. Hopf, State's Atty., A. E. Botti, Asst. State's Atty., Wheaton, for appellee.
+
+        THOMAS J. MORAN, Justice.
+
+        The defendant was charged with speeding, tried before the court, found guilty, fined $25.00 plus $10.00 costs and appeals.
+
+        The evidence consisted of the testimony of two State troopers. Trooper Quist testified that he parked his squad car, which had a radar unit attached, on Route 64 about one-quarter of a mile east of the Pheasant Run Motel entrance. The radar equipment had been tested for accuracy prior to and shortly after the occurrence in question and was in good operating condition on both occasions. The defendant's car was clocked at 76 m.p.h. in a 55 m.p.h. speed zone. This information was relayed, by radio, to Trooper Scalf in a second squad car, called the 'catch' car, which was [120 Ill.App.2d 199] parked at the entrance to the motel. The defendant was stopped and given a ticket for exceeding the speed limit.
+
+        During cross-examination, Quist testified that his squad car was parked within 6 inches of a speed limit sign which had marked upon it, 'Speed Limit 55 m.p.h.'. At the moment this answer was given, the defendant moved for judgment for the defendant based upon Section 49.01. The motion was denied. Thereafter, Scalf testified, was not cross-examined and the State closed proofs. No evidence was introduced by the defendant and the court found for the State.
+
+        Section 49 of the Uniform Act Regulating Traffic on Highways (Ill.Rev.Stat. 1967, Ch. 95 1/2, Sec. 146) sets forth the general speed restrictions for public highways within this State. The maximum speed limit, outside of an urban district, is 65 m.p.h. The location in question will be considered such an area since the State has not, by way or argument or evidence, controverted the defendant's position on this point.
+
+        Section 49.01 of the same Act allows the Department of Public Works and Buildings, after an engineering and traffic investigation, to alter the speed restrictions by either increasing or decreasing the limit that is generally prescribed by law. This determination becomes effective 'when Appropriate signs giving notice of the limit are erected * * * along such part or zone of the highway.' (emphasis added)
+
+        In 1959, this section was amended to include:
+
+'Electronic speed-detecting devices shall not be used within 500 feet beyond Any such sign in the direction of travel; if so used in violation hereof, evidence obtained thereby shall be inadmissible in any prosecution for speeding.' (Emphasis added)
+
+        [120 Ill.App.2d 200] The briefs and arguments before this Court were chiefly centered about whether the testimony of Quist, who monitored the radar speed-detection unit within 500 feet of a speed limit sign, was admissible.
+
+        It is the defendant's position that 'any such sign', emphasized above, refers to 'appropriate signs', also emphasized above, which is plural and therefore the legislature intended the provision with regard to the placing of electronic speed-detecting devices to mean any sign which denotes the speed limit.
+
+        The State argues that the prohibition against the use of such devices is applicable only to one sign, that being the first sign, in what may prove to be a series of signs, upon entry into a changed speed zone.
+
+        Without deciding between these two interpretations, but for the purpose of this opinion, we still must reverse, since the State failed to meet its burden of proof upon the evidence introduced.
+
+        As stated previously, the defendant, during cross-examination of Trooper Quist, established that the electronic device was being operated within 6 inches of A speed limit sign. Upon receiving this 
+
+Page 470
+
+answer the defendant immediately moved for judgment on behalf of the defendant. This was premature since the State had not closed its proof and a motion to strike Trooper Quist's testimony would probably have been more appropriate since it was based upon Section 49.01. Nevertheless, an affirmative defense was placed in issue which should have put the State on notice that it would have to sustain the burden of proof on this issue, as well as the elements of the offense involved. See, People v. Powers, 89 Ill.App.2d 120, 122, 233 N.E.2d 93 (1967). The denial of the motion by the trial court did not relieve the State of its burden.
+
+        [120 Ill.App.2d 201] The State draws our attention to the further testimony of Quist, elicited during cross-examination, which was as follows:
+
+'Q. Officer, you testified that there are posted speed limit signs along Route 64?
+
+A. That is correct.
+
+Q. And what are those speed limit signs?
+
+A. 55 miles per hour'
+
+        and also calls our attention to an answer given by Trooper Scalf which was:
+
+'A. I was working radar out by Pheasant Run and got a call from Trooper Guist (sic) that there was a white Chevrolet, 1961, two-door hard top, doing 76 miles per hour in a 55-mile zone. I stopped the car.'
+
+        Based upon the above, the State claims that 'the People met their burden by showing that although the radar equipment was 6 inches to the west of 'a' 55 mile per hour speed sign, there were other 55 mile per hour speed signs along Route 64, and that the defendant was not entering a different speed zone when he was observed by the radar device.'
+
+        The fact that there were other 55 m.p.h. speed signs along Route 64 does not establish whether the one in question was or was not the first in a series of such signs. The record does not disclose if these other signs were to the east or to the west of the one in question and we cannot conclude, as the State does, that this particular sign was not the first of a series of like signs.
+
+        In another portion of his brief, the State argues, '(T)here is no evidence in the record that the sign in question reduced the speed from 65 miles per hour. This conclusion was defendant's.'
+
+        [120 Ill.App.2d 202] Since it is the State's position that the prohibition called for in the quoted section of the statute applies only to the first sign in what may prove to be a series of signs, then the specific sign in question becomes of paramount importance, especially when the defendant placed in issue his affirmative defense based upon Section 49.01. The burden was on the State, under its own interpretation of the statute to prove that the sign in question was not the first in a series. By its own statement, it admits that there was no evidence in the record (and we agree from our review) that the sign reduced the speed. The point is that there should have been some evidence on the part of the State, once the defense was raised, to show that the sign was not the first in a series. Having failed to do so, the State, even on its own theory of interpretation of the statute, did not meet its burden of proof to overcome the affirmative defense and therefore the judgment must be reversed.
+
+        Judgment reversed.
+
+        DAVIS, P.J., and ABRAHAMSON, J., concur.
+

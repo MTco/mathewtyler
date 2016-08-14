@@ -1,0 +1,69 @@
+
+
+648 S.W.2d 927
+
+
+CITY OF JACKSON, Missouri, Respondent,
+v.
+Robert LANGFORD, Appellant.
+
+
+No. 45377.
+
+
+Missouri Court of Appeals,
+Eastern District,
+Division Three.
+
+
+March 22, 1983.
+
+Page 928
+
+        Kenneth L. Waldron, Jackson, for appellant.
+
+        Jack H. Knowlan, Jr., Jackson, for respondent.
+
+        PER CURIAM.
+
+        Defendant was convicted by a jury of exceeding the speed limit in violation of a city ordinance of Jackson, Missouri, and was fined $150.00.
+
+        Lieutenant Larry Koenig of the Jackson Police Department testified that at approximately 8:30 p.m. on April 28, 1981, he established a radar speed check on Highway 61. At approximately 9:04 p.m., defendant was clocked on the radar unit traveling 55 miles per hour in a 40 mile per hour zone. He was thereupon issued a Missouri Uniform Traffic citation. His conviction and this appeal ensued. We find merit to defendant's contention that the city failed to make a submissible case and reverse his conviction.
+
+        The city was required to prove defendant's guilt beyond a reasonable doubt. Kansas City v. Bradley, 420 S.W.2d 68, 71 (Mo.App.1967). Our scope of review in determining whether the prosecution makes a submissible case for violation of a municipal ordinance was set forth in City of Kansas City v. Oxley, 579 S.W.2d 113, 115 (Mo. banc 1979):
+
+"[I]t becomes the duty of an appellate court as a matter of law to decide whether the evidence was sufficient to induce a belief of the defendant's guilt beyond a reasonable doubt in the minds [of the trier of the facts] ..." citing State v. Gregory, 339 Mo. 133, 96 S.W.2d 47, 52 (Mo.1936).
+
+        Defendant alleges the state failed to make a submissible case because the city failed to establish that the "radar device used to register appellant's speed was accurate and functioning properly at the time appellant's speed was checked."
+
+        Our examination of the appellate court decisions reveals that the use of radar as a speed detection device has been firmly accepted for over twenty years. 1 Nonetheless, these same cases also recognize that 
+
+Page 929
+
+the prosecution has a prima facie duty to establish that the radar unit was tested and found to be operating properly at the site of and reasonably close in time to the arrest. State v. Weatherwax, 635 S.W.2d 34 (Mo.App.1982); City of St. Louis v. Boecker, 370 S.W.2d 731 (Mo.App.1963). The prosecution must also establish that the measuring device used to test the radar unit for accuracy was itself tested for accuracy. City of Ballwin v. Collins, 534 S.W.2d 280 (Mo.App.1976). 2
+
+        In City of St. Louis v. Boecker, 370 S.W.2d 731 (Mo.App.1963), this court stated that establishing the accuracy of the radar unit at the site of and reasonably close in time to the arrest was necessary because outside factors can easily affect the operation of the radar unit and because the unit can be affected by movement from place to place. The court stated:
+
+        We are not unmindful that excessive speed is a dominant factor in the appalling amount of injury and death which occurs daily on our streets and highways. Nor are we unaware of the difficulties encountered by the authorities in the enforcement of the traffic laws and ordinances. Such efforts are to be encouraged, and not hampered. But the requirement that proof be adduced that a radar [instrument] was tested and found to be operating properly at the site of and reasonably close to the time of an arrest should not place an undue burden on the prosecution, and should at the same time protect the rights of motorists against the possibility of error in this device which makes "delicate measurements." [citation omitted].
+
+        370 S.W.2d at 737. See State v. Weatherwax, 635 S.W.2d 34 (Mo.App.1982).
+
+        With these principles in mind, we shall set forth the evidence the city introduced to establish the radar unit was accurate and operating properly. Robert L. Emerson, an electronics technician, testified that two tuning forks, one calibrated for 30 miles per hour and one calibrated for 50 miles per hour were used to test the radar unit for accuracy. He further testified that he tested the two tuning forks with an oscilloscope on May 29, 1980, October 10, 1980, April 29, 1981, and August 31, 1981, and found the forks to be accurate. Lieutenant Koenig testified that he had been certified to operate the radar gun which he used on the evening of April 28, 1981, by the Jackson Police Department. He identified the two tuning forks used to verify the accuracy of the radar gun. Lieutenant Koenig was asked whether, prior to the time he started using the radar, he did anything to check the accuracy of the radar gun. He testified that it was the policy of the department, prior to using the instrument, to check it with the two tuning forks.
+
+        Defendant does not challenge that the tuning forks used to check the accuracy of the radar unit were properly tested for accuracy. But in light of the burden which the city had, our review of Lieutenant Koenig's testimony establishes that it was insufficient to establish beyond a reasonable doubt that the radar unit was found to be operating properly at the site of and reasonably close in time to the arrest of the defendant. State v. Weatherwax, 635 S.W.2d 34 (Mo.App.1982). At best, the city established that the unit was tested sometime prior to 8:30 p.m. on April 28. But at no point in the officer's testimony did he state that the results of the test he conducted established the unit was functioning properly, and without knowing where and at approximately what time the instrument was tested, we would only be speculating that it was reasonably close in time and place to the arrest. Thus, the city failed to make a prima facie case that the machine was functioning properly.
+
+Page 930
+
+        Although both Lieutenant Koenig and another officer testified that defendant was traveling in excess of the speed limit, that opinion evidence in the circumstances here, does not constitute sufficient substantial evidence to find defendant guilty beyond a reasonable doubt. City of Kansas City v. Oxley, 579 S.W.2d 113 (Mo. banc 1979). 3 It follows that the state failed to make a submissible case against the defendant.
+
+        Reversed.
+
+        All Judges concur.
+
+---------------
+
+1 State v. Dahlgren, 627 S.W.2d 53 (Mo. banc 1982); State v. Hunziker, 638 S.W.2d 793 (Mo.App.1982); State v. Weatherwax, 635 S.W.2d 34 (Mo.App.1982); City of Kansas City v. Tennill, 630 S.W.2d 173 (Mo.App.1982); State v. White, 559 S.W.2d 76 (Mo.App.1977); City of Kansas City v. Corley, 552 S.W.2d 30 (Mo.App.1977); State v. Bollinger, 550 S.W.2d 214 (Mo.App.1977); City of Ballwin v. Collins, 534 S.W.2d 280 (Mo.App.1976); Kansas City v. Hill, 442 S.W.2d 89 (Mo.App.1969); City of St. Louis v. Boecker, 370 S.W.2d 731 (Mo.App.1963); State v. Graham, 322 S.W.2d 188 (Mo.App.1959).
+
+2 As a "point of faith," there is no requirement that this second measuring device itself be proven to be accurate. City of Kansas City v. Tennill, 630 S.W.2d 173, 174 (Mo.App.1982).
+
+3 Some writers have suggested that a speeding case can never be made with opinion evidence alone. We do not read Oxley that broadly.

@@ -1,0 +1,15 @@
+STANDARD OF PROOF - The amount of evidence which a plaintiff (or prosecuting attorney, in a criminal case) must present in a trial in order to win is called the standard of proof. Different cases require different standards of proof depending on what is at stake. The common standards are: 
+
+* Beyond a reasonable doubt (criminal cases)--for a criminal defendant to be convicted of a crime, the prosecutor must prove her case to the point that the jurors have no reasonable doubts in their minds that the defendant did whatever he is charged with having done. 
+
+* Clear and convincing evidence (civil cases involving the potential loss of important interests such as the termination of parental rights)--for a party to prove a case under this standard, she must show something more than it is more likely than not, but not as much as beyond a reasonable doubt. No legal scholar has ever been able to define clear and convincing evidence more precisely than that. 
+
+* Preponderance of the evidence (most civil cases including fault divorces)--preponderance of the evidence generally means that a party will win if she can show that it is more likely than not that her contention is true. 
+
+Civil Infractions 
+ 
+A "civil infraction" is not a crime, although it is a charge filed by the state. The state has to prove that you committed a civil infraction by a "preponderance of the evidence," which is to say, that it is more likely than not that you committed the violation. This is a much lower standard than the "proof beyond a reasonable doubt" standard that applies in civil cases. The typical civil infraction is decided by a judge or magistrate, without a jury, in what is typically a short proceeding. 
+
+Speeding Offense:
+Courts and the high courts in speciffic unanimously have held the standard of proof in a speeding conviction is 'beyond reasonable doubt'. 
+

@@ -1,0 +1,120 @@
+
+539 A.2d 814
+
+
+372 Pa.Super. 317
+
+
+COMMONWEALTH of Pennsylvania
+v.
+Gail DENNY, Appellant.
+
+
+Superior Court of Pennsylvania.
+
+
+Argued June 25, 1987.
+Filed Sept. 25, 1987.
+Reargument Denied Nov. 19, 1987.
+
+        [372 Pa.Super. 318] Alan M. Rosen, Philadelphia, for appellant.
+
+        Stuart Suss, Asst. Dist. Atty., West Chester, for Com., appellee.
+
+        Before CIRILLO, President Judge, and McEWEN and TAMILIA, JJ.
+
+        CIRILLO, President Judge.
+
+        This is an appeal from a judgment of sentence entered in the Court of Common Pleas, Chester County.
+
+        Appellant Gail Denny was convicted of exceeding the maximum speed as proscribed by 75 Pa.C.S.A. § 3362. Her citation indicated that she had been clocked by a KR-10 radar device as travelling at 69 miles per hour in a 55 mile per hour speed zone. Appellant appealed pursuant to Pa.R.Crim.P. 63(b)(3), and a de novo hearing was held before President Judge Stively on March 19, 1986.
+
+        On July 22, 1986, appellant's post-trial motions were denied. On September 29, 1986, appellant was sentenced in absentia. Appellant was notified of the sentence and her right to appeal within thirty days when she received a letter from the District Attorney's Office dated November 12, 1986. Denny received this letter on or about November 15. Notice of appeal was filed in this court on December 15, 1986.
+
+        We consider the following question on appeal: whether the trial court erred in admitting into evidence a Certificate of Accuracy of a radar speed timing device, where the Commonwealth failed to introduce competent evidence that the issuer of the Certificate was a testing station approved [372 Pa.Super. 319] by the Department of Transportation at the time it allegedly tested the radar device in question?
+
+        Section 3368(d) of the Vehicle Code provides:
+
+All mechanical, electrical or electronic devices shall be of a type approved by the department, which shall appoint stations for calibrating and testing the devices and may prescribe regulations as to the manner in which calibrations and 
+
+Page 815
+
+tests shall be made. The devices shall have been tested for accuracy within a period of 60 days prior to the alleged violation. A certificate from the station showing that the calibration and test were made within the required period, and that the device was accurate, shall be competent and prima facie evidence of those facts in every proceeding in which a violation of this title is charged.
+
+        75 Pa.C.S.A. § 3368(d) (emphasis added).
+
+        Appellant argues that the case of Commonwealth v. Gernsheimer, 276 Pa.Super. 418, 419 A.2d 528 (1980) is controlling. In Gernsheimer, this court stated:
+
+We hold that in prosecuting speeding cases where a radar or other electronic device is used to calibrate a defendant's speed that in order to introduce the results of such into evidence the Commonwealth must offer a Certificate, certified by the Secretary of Transportation or his designee certifying the agency which performs the tests on the devices as an official testing station, and must introduce a Certificate of Electronic Device (radar) Accuracy into evidence.
+
+        Id. at 423, 419 A.2d at 530.
+
+        In the instant case, the trial court did not find Gernsheimer to be controlling, stating, "the Gernsheimer court did not squarely address the issue with which we are presented and we are therefore under no obligation to follow its recommendations." In Gernsheimer, appellant was convicted of speeding. On appeal, the issue raised was whether the trial court improperly admitted the Certificate of Accuracy because the certificate did not contain an official seal on its face.
+
+        [372 Pa.Super. 320] In Gernsheimer, the Commonwealth introduced two exhibits: (1) a certificate from the Secretary of Transportation under seal appointing York Corporation as an official testing station, and (2) a certificate of accuracy, signed by both the person who calibrated the device and the person in charge of the testing station. The latter certificate was at issue, and the appellant contended it should not have been admitted into evidence because it did not contain an official seal and the officer who testified at appellant's hearing had not performed the tests nor was he present during its testing. Gernsheimer, 276 Pa.Super. at 422-23, 419 A.2d at 530. The Gernsheimer court held that an official seal was not needed for admissibility, stating that "[t]here is nothing in [75 Pa.C.S.A. § 3368(d) ] which requires that a seal appear on the Certificate of Electronic Device Accuracy." Id. at 423, 419 A.2d at 530.
+
+        The trial court in the instant case thus concluded that since the language in Gernsheimer went beyond the particular issue raised and was not applicable to the particular facts in Gernsheimer's case, it is obiter dictum. See In re Estate of Pew, 411 Pa. 96, 103, 191 A.2d 399, 404 (1963) (what is actually decided and controlling is the law applicable to the particular facts of that particular case and while all other statements and conclusions therein are entitled to great consideration, they are not controlling).
+
+        The language in Gernsheimer clearly went beyond the specific issue raised. However, this court has twice restated this "dictum" as setting forth the requirements of 75 Pa.C.S.A. § 3368(d). See Commonwealth v. Cummings, 338 Pa.Super. 149, 487 A.2d 897 (1985); Commonwealth v. Gussey, 319 Pa.Super. 398, 466 A.2d 219 (1983).
+
+        In Cummings, the sole issue on appeal was whether in a prosecution for exceeding the maximum speed limit, the Commonwealth may enter into evidence a photocopy of the certificate of accuracy required by 75 Pa.C.S.A. § 3368(d). The court held a photocopy of the certificate was not admissible into evidence because it could not be authenticated. In Gussey, the issue on appeal was whether the certificate[372 Pa.Super. 321] of accuracy was improperly admitted over objection because the date was typed in instead of written by hand, and the Commonwealth did not call the party who executed the certificate to verify the date of execution. The court found no error, holding that "the Commonwealth can utilize any means to fill in the 'certificate of accuracy,' i.e., by typing or hand-writing the required data, except for the signatures of the certifying 
+
+Page 816
+
+personnel." Gussey, 319 Pa.Super. at 409, 466 A.2d at 225.
+
+        Like Gernsheimer, neither of these cases address the specific issue before us: whether the Commonwealth offered competent evidence that the certificate of accuracy was prepared by a testing station appointed by the Department of Transportation. See 75 Pa.C.S.A. § 3368(d). Thus, the trial court was correct in its finding that the dictum in Gernsheimer, as well as its reiteration in Cummings and Gussey, is not binding precedent.
+
+        The confusion in establishing a proper foundation for the admission of a certificate of accuracy pursuant to § 3368 is evident from our review of the record. The Commonwealth relies on the certificate of accuracy itself as proof that Thomas Associates has been designated an official testing station, arguing that "the court properly took judicial notice of the fact that ... the testing station, Thomas Associates, Inc., is an approved testing station since those facts appear in numerous publications of the Pennsylvania Bulletin."
+
+        This argument, however, is misleading. It is true that the trial court is required to take judicial notice of this fact pursuant to the Commonwealth Documents Law, 45 P.S. §§ 1501 and 1506 (1986 special Pamphlet). But the trial court specifically stated:
+
+"We are not considering any entry in the Pennsylvania Bulletin because that was not properly before us ... having been raised long after the evidence of the Commonwealth had closed in this case. So we are not relying on that. We are relying on a reading of [the statute] and [372 Pa.Super. 322] a fair appraisal of [the certificate of accuracy]." 1
+
+        A certificate of accuracy, if properly authenticated, is evidence of the fact that the radar device has been calibrated and tested pursuant to the requirements of § 3368(d). Section 3368(d) provides that the "department shall appoint stations for calibrating and testing." Thus, in order to meet the statutory requirements, the Commonwealth must show that the testing station was appointed by the Department of Transportation. Evidence, independent of the certificate itself, is necessary to prove this. A certificate of accuracy, issued by Thomas Associates, which merely states that Thomas Associates has been designated an official testing station, signed by David A. Thomas, is insufficient. We agree with appellant that an employee of the testing center cannot attest to the fact that the testing station has been appointed by the Department of Transportation as an official testing station.
+
+        Although the dictum in Gernsheimer is not controlling, it is entitled to great consideration. In re Estate of Pew, 411 Pa. at 103, 191 A.2d at 404. In light of the confusion in this case, we find the foundational requirements clarified in Gernsheimer to be particularly helpful. In Gernsheimer, the Commonwealth introduced a separate document from the Secretary of Transportation under seal appointing York Corporation as an official testing station. We recognize the inefficiency of requiring this type of document in the prosecution of such cases, and at the same time recognize the utility of the listings in the Pennsylvania Bulletin.
+
+        We therefore hold that in order for results of a radar device to be properly admissible at trial, the Commonwealth must offer evidence, independent of the certificate of accuracy, to show that the testing facility has been appointed by the Department of Transportation as an official testing station pursuant to the requirements of section 3368(d) of [372 Pa.Super. 323] the Vehicle Code. This independent evidence may consist of either a separate document from the Secretary of Transportation under seal or a citation to the Pennsylvania Bulletin which lists the station as an official testing station.
+
+        Judgment of sentence vacated.
+
+---------------
+
+1 We note that the Commonwealth also requested the court to take judicial notice of the testing stations listed in the Pennsylvania Bulletin prior to the close of its case, though the court made no specific ruling on this request.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

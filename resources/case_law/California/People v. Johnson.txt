@@ -1,0 +1,121 @@
+
+105 Cal.Rptr. 212
+
+
+29 Cal.App.3d Supp. 1
+
+
+The PEOPLE, Plaintiff and Respondent,
+v.
+Jeffrey B. JOHNSON, Defendant and Appellant.
+
+
+Cr. 23877.
+
+
+Appellate Department, Superior Court, San Joaquin County, California.
+
+
+Oct. 10, 1972.
+
+Page 213
+
+        [29 Cal.App.3d Supp. 2] Thomas Teaford, Deputy Public Defender, for defendant and appellant.
+
+        John Phillips, Deputy Dist. Atty., for plaintiff and respondent.
+
+        BIDDICK, Presiding Judge.
+
+        This is an appeal from a speeding conviction in the Municipal Court for the Lodi Judicial District of San Joaquin County. On March 15, 1972, at 10:35 p.m., Jeffrey B. Johnson was cited by an officer of the Lodi Police Department for a violation of sections 22350 and 22352 of the Vehicle Code, excessive speed, travelling 43 miles per hour in a 25 mile per hour zone.
+
+        Mr. Johnson was convicted after a court trial at which the police officer testified, over objection, that he had determined the speed of the appellant's vehicle by means of a VASCAR (Visual Average Speed Computer and Recorder) device.
+
+        The appeal was presented on a settled statement. There is nothing in the statement to indicate that the police officer was not in uniform or that he was in an unmarked car.
+
+        The settled statement does not disclose whether any objection was made to the manner in which the VASCAR testimony was presented or whether any expert witnesses testified on the operation of VASCAR. The sole objection raised by the appellant is to the admissibility of VASCAR evidence under the California speed trap law. It is appellant's contention that the speed-reading of the VASCAR under the particular facts of this case was inadmissible under the California speed trap law, Vehicle Code sections 40801--40805.
+
+        The officer had measured the distance between two points, the crosswalks [29 Cal.App.3d Supp. 3] at two intersections of the street being observed, and had then parked and subsequently measured, by means of a time switch, the time it took the appellant's vehicle to travel the previously measured distance. The officer testified that he had travelled and the VASCAR device had measured the distance between the two crosswalks approximately 20 minutes prior to the timing of appellant's vehicle and that he had stopped other motorists for speeding during the 20-minute period, using the same measured distance.
+
+        The VASCAR consists of the three modular parts, 1) an adaptor which attaches to the speedometer cable; 2) a solid state digital computer which is concealed beneath the car seat; and 3) a control module consisting of two switches and a readout panel with illuminated numerals.
+
+        The VASCAR is a simple computer. Speed computation is achieved by dividing distance by time. In clocking a suspected violator, the officer flips on the time switch as the auto passes a selected landmark and flips it off when the suspect passes a second landmark. The VASCAR unit receives the distance information from the police vehicle speedometer cable. The distance may be travelled either before, during 
+
+Page 214
+
+or after the target vehicle is timed over the measured distance. Time and distance are measured and fed into the computer which calculates the average speed to the nearest tenth of a mile per hour. The speed is then displayed in numerals on the control module. The reading remains there until a push of the reset button clears the computer for another speed check. VASCAR may be used to check a suspected speeder when the patrol car is following the target vehicle, when it is meeting the target vehicle, or when it is being followed by the target vehicle. It can also be used as it was in this case to clock a suspected violator over a previously measured distance.
+
+        There are several Vehicle Code sections which make up the speed trap law. The law was originally enacted in 1923 and has been subsequently amended on several occasions.
+
+        Section 40801 of the Vehicle Code provides that no peace officer or other person shall use a speed trap in arresting or participating or assisting in the arrest of any person for a violation of the Vehicle Code. The section further provides that a speed trap shall not be used in securing evidence of the speed of any vehicle for the purpose of an arrest or prosecution under the Vehicle Code.
+
+        Section 40802 of the code defines a speed trap as follows:
+
+'A 'speed trap' is a particular section of a highway measured as to distance and with boundaries marked, designated or otherwise determined in order that [29 Cal.App.3d Supp. 4] the speed of a vehicle may be calculated by securing the time it takes the vehicle to travel the known distance.'
+
+        Section 40803 provides that no evidence as to the speed of a vehicle upon a highway shall be admitted in court for an alleged Vehicle Code violation when the evidence is based upon or obtained from or by the maintenance or use of a speed trap.
+
+        Section 40804, subdivision (a) provides that a police officer or other person shall be incompetent as a witness if their testimony is based upon the maintenance or use of a speed trap.
+
+        And finally, section 40805, in a grand finale, provides that every court shall be without jurisdiction to render a judgment of conviction against any person for a violation of the Vehicle Code involving the speed of a vehicle if the court admits any evidence or testimony secured in violation of the speed trap law.
+
+        The original speed trap law was contained in section 155 of the California Vehicle Act. The constitutionality of this act was challenged in the early days of its operation and its constitutionality was upheld in the case of Fleming v. Superior Court (1925) 196 Cal. 344, 238 P. 88.
+
+        In discussing the various constitutional attacks that were made on the legislation, the Supreme Court on page 349, 238 P. on page 90, discussed the legislative purpose of the speed trap law at some length:
+
+"The Legislature, in the foregoing provision, clearly expressed its conviction that the presence of traffic officers actually patrolling the highways, dressed in distinctive uniforms, and in plain sight of all travelers on the highways, would have a most salutary effect in securing the observance of each and all of the regulations imposed upon drivers of vehicles upon the public highways. . . . The Legislature knew that a very large percentage of accidents upon public highways occurred at street intersections, that such accidents were caused by failure to observe the right of way rule, by failure to give proper signals, by failure on the part of drivers to turn at intersections in the manner prescribed by law. The Legislature quite evidently believed that many of these accidents would be prevented in the event that officers patrolled the highway and enforced each and all the rules of the road heretofore mentioned."
+
+'Is is not logical to suppose that the lawmaking body thought it better to prevent the commission of crime than to 
+
+Page 215
+
+punish it after its commission, and that its members saw, in the means employed through section 155, a proper method of effectuating that laudable result? If the lawmaking bodies of the world should hit upon some means to prevent arson, burglary, or murder, thus obviating the necessity of laws to provide [29 Cal.App.3d Supp. 5] for their punishment, should we not hail the achievement as an epoch-making triumph? It is only (sic) possible, but it is extremely probable, as contended by petitioner, that the members of the Legislature had some such idea in mind as is suggested by these questions when they enacted section 155, and, if we can see the possibility of such a thing, it is enough under the rules of law affecting our power to pass upon the constitutionality of the section in question.'
+
+        In recent years, traffic law enforcement officers have made increased use of radar for the detection and apprehension of speeders. This use of radar came under attack in the courts in 1955 as being prohibited by the speed trap law.
+
+        In People v. Beamer (1955) 130 Cal.App.2d Supp. 874, 877, 279 P.2d 205, a judgment of conviction for speeding in the municipal court was obtained by the use of radar evidence and was upheld in the Appellate Department of the Superior Court of Alameda County. The court held that a speed trap required A particular section of the highway measured as to distance with boundaries marked, designated or otherwise determined, and that the determination of speed by radar was made without reference to any particular section of a highway, and, in fact, without reference to any highway at all.
+
+        The appellate department reasoned as follows:
+
+'As defined in Section 751 of the Vehicle Code a speed trap consists of four elements: (1) A particular section of a highway, (2) measured as to distance, (3) with boundaries marked, designated or otherwise determined, and (4) in order that the speed of a vehicle may be calculated by securing the time it takes said vehicle to travel such known distance.
+
+'The evidence of the experts in this case shows that the radar device in question determines the speed with which an object is moving toward or away from the device through space. It makes no difference whether the object in question is moving upon the surface of the ground or in the air, and it makes no difference whether the object is moving vertically or horizontally, or at any angle between the vertical and the horizontal.
+
+'The determination of speed is made without reference to any particular section of a highway and, in fact, without reference to any highway at all. The distance measured by this radar device is the distance the reflecting object travels through space and not a measured distance on the highway. Highway boundaries, marked or otherwise determined, are not involved in the operation of this device. (Italics added.)
+
+[29 Cal.App.3d Supp. 6] 'Appellant contends that this radar device is a speed trap because it measures time and distance and actually measures the distance a vehicle travels on the highway. Every determination of speed through space or over the ground involves a determination of time and distance because speed equals distance divided by time. This argument could be applied with equal force to the speedometer in the traffic officer's car when he pursues a speeder along the highway. It is too well established for argument that the officer's speedometer in his automobile is not a speed trap, even though the speedometer is actuated by the movement of the tires of the car along the particular portion of the highway which it is traveling, and incidentally measures the length of such portion.
+
+'For the reason that the electromagnetic radar speed meter here involved determines speed through space without reference to the highway, it would seem to be clear that it is not a speed trap 
+
+Page 216
+
+within the meaning of Section 751 of the Vehicle Code and the judgment of conviction must be affirmed.'
+
+        In a subsequent Beamer case, In re Beamer (1955) 133 Cal.App.2d 63, 68, 283 P.2d 356, 359 a Court of Appeal dismissed a petition for a writ of habeas corpus in the same case. This court used similar reasoning to the language of the court in the Appellate Department and found that all of the elements of a speed trap were not involved in the use of radar.
+
+'It seems quite clear that the method here used to secure the evidence that petitioner was violating the law does not fall within the prohibition of section 751. In no real sense was there 'a particular section of a highway measured as to distance and with boundaries marked, designated or otherwise determined.' While in a general sense a particular portion of the street was involved in that the effective range of the speed meter is the 175 feet effective range, forwards and backwards, from the device, that cannot be the 'particular section of a highway' mentioned in the code because only a very small portion of that section of the highway was used to ascertain the speed. Certainly, the boundaries of the area used to measure the speed were not 'marked, designated or otherwise determined', because any few inches of the roadway within the effective range of the device could be used for measuring purposes. The device may be used anywhere on the highway wherever the device is located, whether stationary or on a moving vehicle.' (Italics added.)
+
+        There have been no opinions of the appellate courts discussing the use of VASCAR. However, in 1969, the District Attorney of Humboldt County requested an Attorney General's opinion on its use. In 52 Ops.Cal.Atty [29 Cal.App.3d Supp. 7] Gen. 231 (1969), the Attorney General expressed the opinion that the VASCAR device provides a method similar to speedometer clocking and does not fall within the restrictive definition of a speed trap as defined in the Vehicle Code. The opinion noted that the use of VASCAR does not Require a particular section of highway. The Attorney General was careful however to point out in a footnote that the VASCAR device can be used to measure a particular section of highway but expressed no opinion as to the admissibility of evidence secured from this method of operation of the device.
+
+        While it is apparent that the appellate courts have been reluctant to extend the operation of the speed trap law beyond the specific language of the statute, the factual situation here, although involving the use of a modern and reliable scientific device, comes squarely within the definition of a speed trap. There was a particular section of highway which was measured as to distance beforehand and it had boundaries which were specifically designated in order that the speed of a vehicle might be calculated by securing the time it took the vehicle to travel the known distance.
+
+        The irony of the situation is that radar, which the general public might well consider a speed trap in the commonly accepted sense of that term, is not a speed trap within the meaning of the Vehicle Code. VASCAR, another scientific device used for the same purpose, if used in a similar manner with a parked patrol car and with a previously measured distance, comes squarely within the statutory definition of a speed trap. At least, the popular and the statutory conception of a speed trap are both fulfilled in the facts of this case.
+
+        A direct and logical reading of the statute and an analysis of the Beamer opinions permits but one conclusion, if the VASCAR device is to be used as it was on Jeffrey B. Johnson, only the Legislature can make such testimony admissible.
+
+        The judgment of conviction is reversed.
+
+        SULLIVAN and CECHINI, JJ., concur.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

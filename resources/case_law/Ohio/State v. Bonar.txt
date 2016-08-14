@@ -1,0 +1,122 @@
+
+
+40 Ohio App.2d 360
+
+
+319 N.E.2d 388, 69 O.O.2d 320
+
+
+The STATE of Ohio Appellee,
+v.
+BONAR, Appellant.
+
+
+Court of Appeals of Ohio, Seventh District, Monroe County.
+
+
+Nov. 20, 1973.
+
+        [319 N.E.2d 389] Syllabus by the Court
+
+        In a prosecution involving speed, where the sole evidence is a reading secured by the use of a radar type speedmeter, it is the obligation of the prosecution to establish prima facie that the radar type speedmeter was accurate and functioning properly at the time the accused's speed was checked and a failure of such proof shall cause an insufficiency of evidence to support conviction.
+
+Page 361
+
+        George F. Burkhart, Prosecuting Atty., for appellee.
+
+        Allan Sherry, Woodsfield, for appellant.
+
+        O'NEILL, Judge.
+
+        The facts as stated by the defendant, appellant herein, are that he was cited by a state highway patrolman with a violation of R.C. 4511.21. It was alleged that he operated a motor vehicle at a speed of seventy-five miles per hour on a state highway where the posted speed limit is sixty miles per hour. The only testimony at trial was that of the patrolman who stated that the weather was clear, the road was dry, traffic was moderate, and that he ascertained defendant's speed by the use of a DC 7 Radar Unit. There was no other evidence introduced as to defendant's speed and no testimony as to whether the radar measuring equipment was properly installed, set up or operating correctly. For this reason, defendant moved for a directed verdict at the conclusion of the state's case. The motion was denied and defendant proceeded no further, but appealed the final judgment of guilty.
+
+        Defendant assigns one error. He insists that since the state put on no evidence to indicate that the speed calibrator was functioning properly, his motion for a directed verdict should have been sustained. He cites one case in support of his argument-East Cleveland v. Ferell, 168 Ohio St. 298, 154 N.E.2d 630. In that case, the Supreme Court, at 299, 154 N.E.2d at 631, capsulized the question as follows:
+
+        'May a defendant be convicted of speeding solely upon evidence obtained from a radar speed meter, in the absence of expert testimony with respect to the construction of the meter and its method of operation?'
+
+        The court's answer to this question is found in a portion of the syllabus:
+
+        '* * * it is sufficient to show that the meter was properly set up and tested by a technician trained by experience to do so, and that at the time it was functioning properly * * *.'
+
+        The state agrees that the court held that proof of reliability is a prerequisite. However, it goes on to argue that the East Cleveland case is fifteen years old and that in 
+
+Page 362
+
+the interim radar equipment and operators have greatly improved and that we should presume such.
+
+        [319 N.E.2d 390] We find a more recent out of state case which made essentially the same requirement as the East Cleveland case. In the case of Kansas City v. Hill (Mo.App.1969), 442 S.W.2d 89, the court cited and adopted the theory of proper function and set up at page 91 the following:
+
+        'In State v. Graham, Mo.App., 322 S.W.2d 188, 195, it was held that the court would take judicial notice of the fact that a radar speedmeter is a device which, within a reasonable engineering tolerance and when properly functioning and operated, accurately measures speed in terms of miles per hour.'
+
+        In the case of City of St. Louis v. Boecker (Mo.App.1963), 370 S.W.2d 731, the court, by reasoning, refuted the presumption of regularity as to speed meters. Headnotes 2 states:
+
+        'It is the obligation of the proponent who uses a radar speedmeter to establish prima facie that the machine was accurate and functioning properly at the time the accused's speed was checked.'
+
+        The Court agreed that the 'attitude toward accepting scientific advances or developments' might be a 'cultural lag.' (370 S.W.2d at page 734.) The court, however, went on, 370 S.W.2d at 736, to adopt the language of a previous decision that a speedmeter is '* * * an instrument constructed by human hands, dealing with delicate measurements, and having a rather feminine need for primping.'
+
+        This out of state law establishes what our Ohio Supreme Court said in East Cleveland v. Ferell, supra. That court's answer was that a defendant may be convicted of speeding solely upon evidence obtained from a speedmeter, and that such evidence shall be sufficient if it shows that the meter was properly set up and tested and that it was functioning properly. Ohio Jurisprudence has interpreted this test to be applicable to admissibility rather than sufficiency to convict: ,'* * * evidence of radar speed meter readings may be admitted in evidence upon a showing that the speed meter 
+
+Page 363
+
+was properly set up and tested by qualified police officers * * *.' 6A Ohio Jurisprudence 2d 638, Automobiles, Section 499.
+
+        This writer does not agree with such an interpretation, but rather is of the opinion that the evidence goes to sufficiency to sustain conviction.
+
+        'In the absence of any statute to the contrary, evidence as to speed based upon untested radar equipment in not sufficient to sustain a conviction for speeding * * *.' 7 American Jurisprudence 2d 871, Automobiles and Highway Traffic, Section 327.
+
+        'Radar speedmeter readings are sufficient in themselves to sustain a conviction for speedings, provided it is shown that the equipment was properly set up and in working order at the time of the alleged violation, and that its accuracy had been tested, the prosecution having the burden of proof in such respect.' 7 American Jurisprudence 2d 870, Automobiles and Highway Traffic, Section 327.
+
+        It is the duty of the prosecution to give all evidence in support of the issues on which it has the burden. It is the duty of the prosecution to prove all essential elements of crime beyond a reasonable doubt. I hope that we have not reached the point where we will indulge the presumption that every machine operates correctly at all times. Surely, we are not at the point where an accused must assist the state in presenting sufficient evidence to support a conviction.
+
+        The lower court should have sustained the motion for a directed verdict for the reason that there was insufficient evidence to sustain conviction. The judgment of the lower court is reversed and a final judgment is rendered for the defendant.
+
+        Judgment reversed.
+
+        [319 N.E.2d 391] LYNCH, P. J., and DONOFRIO, J., concur.
+
+        DONOFRIO, Judge (concurring).
+
+        I concur with the judgment of the majority, but would stateFurther, a clarification of 
+
+Page 364
+
+the question of admissibility as opposed to the question of insufficiency of evidence.
+
+        In the instant case, the prosecution failed to lay the proper foundation: that is, it failed to testify as to the testing of the radar equipment for accuracy prior to its use. Evidence of speed measured by a radar unit is ordinarily tested by the defendant with an objection, made at the time the radar operator testifies to the speed reading.
+
+        This case is limited to its own facts. A motion for a directed verdict was made at the close of the prosecution's evidence to test the sufficiency of the evidence. Defendant did not object at the time of the introduction of the result of the radar reading. Therefore, we are now dealing with the sufficiency of the evidence at the close of the prosecution's case, rather than the failure to sustain an objection to its introduction. If an objection had been entered as to the admissibility of the radar unit's speed reading at the time it was sought to be introduced, I would hold that it would have been error for the court to overrule the objection and permit the evidence to be given.
+
+        In this case, the only evidence presented as to the defendant's speed was the radar unit's reading, presented without first having qualified its accuracy. The motion for a directed verdict should have been sustained under these facts.
+
+        If, however, in any other case where other evidence as to speed, in addition to the radar unit's reading, is given, it would not be proper to sustain a motion for a directed verdict, unless the court obviously feels that the prosecution has failed to establish a prima facie case.
+
+        In short, if there was additional evidence as to speed, such as the officer's personal observation and opinion, etc., the failure of the prosecutor to properly qualify the radar unit's speed reading would not in itself be such a failure as to warrant a directed verdict.
+
+        Obviously, then, the proper attack on this type of evidence should have been by objecting at the time the reading of the radar unit was given rather than the use of a motion for directed verdict.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

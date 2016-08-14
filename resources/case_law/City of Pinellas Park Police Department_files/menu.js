@@ -1,0 +1,50 @@
+
+function printMenu(){
+	
+document.write('<form name="selecter1" onClick="Go1()"><select name="select1" size=1>');
+document.write('<option value=none>Pick A Department</option>');
+document.write('<option value=none>--------------------</option>');
+document.write('<option value="../departments/index.html">Full Department List</option>');
+document.write('<option value="../commact/index.html">Community Activities</option>');
+document.write('<option value="../library/index.html">-- Library</option>');
+document.write('<option value="../paffairs/index.html">-- Public Affairs</option>');
+document.write('<option value="../recreation/index.html">-- Recreation</option>');
+document.write('<option value="../commdev/index.html">Community Development</option>');
+document.write('<option value="../building/index.html">-- Building Development</option>');
+document.write('<option value="../business/index.html">-- Business &amp; Neighborhood</option>');
+document.write('<option value="../business/index.html">&nbsp;&nbsp;&nbsp;&nbsp;Development</option>');
+document.write('<option value="../economicdev/index.html">-- Economic Development</option>');
+document.write('<option value="../planning/index.html">-- Planning</option>');
+document.write('<option value="../zoning/index.html">-- Zoning</option>');
+document.write('<option value="../finance/index.html">Finance Department</option>');
+document.write('<option value="../accounting/index.html">-- Accounting</option>');
+document.write('<option value="../purchasing/index.html">-- Purchasing</option>');
+document.write('<option value="../utility/index.html">-- Utility Billing</option>');
+document.write('<option value="../fire/index.html">Fire Department</option>');
+document.write('<option value="../humanres/index.html">Human Resources</option>');
+document.write('<option value="../personnel/index.html">-- Personnel</option>');
+document.write('<option value="../humanres/risk.html">-- Risk Management</option>');
+document.write('<option value="../mis/index.html">MIS</option>');
+document.write('<option value="../mis/operations.html">-- Operations</option>');
+document.write('<option value="../mis/programming.html">-- Programming</option>');
+document.write('<option value="../police/index.html">Police Department</option>');
+document.write('<option value="../ces/index.html">-- Code Enforcement</option>');
+document.write('<option value="../police/opps.html">-- Operations</option>');
+document.write('<option value="../police/services.html">-- Services</option>');
+document.write('<option value="../pworks/index.html">Public Works</option>');
+document.write('<option value="../engineering/index.html">-- Engineering Services</option>');
+document.write('<option value="../maintenance/index.html">-- Maintenance</option>');
+document.write('<option value="../parks/index.html">-- Parks</option>');
+document.write('<option value="../sewer/index.html">-- Sewer</option>');
+document.write('<option value="../streets/index.html">-- Streets and Drainage</option>');
+document.write('<option value="../brush/index.html">-- Brush Transfer Station</option>');
+document.write('<option value="../traffic/index.html">-- Traffic</option>');
+document.write('<option value="../utilities/index.html">-- Utilities Design</option>');
+document.write('<option value="../water/index.html">-- Water</option>');
+document.write('<option value="../reclaimed/index.html">-- Reclaimed Water</option>');
+document.write('<option value="../boards/index.html">Volunteer Boards</option>');
+document.write('<option value="../contact/index.html">Contact</option>');
+document.write('</select>');
+document.write('<input type="button" value="Go" onclick="Go1()">');
+document.write('</form>');
+}

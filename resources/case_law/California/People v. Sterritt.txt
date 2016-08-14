@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+135 Cal.Rptr. 522
+
+
+65 Cal.App.3d Supp. 1
+
+
+The PEOPLE, Plaintiff and Respondent,
+v.
+Dorreese Vera STERRITT, Defendant and Appellant.
+
+
+Cr. A. No. 14381.
+
+
+Appellate Department, Superior Court, Los Angeles County, California.
+
+
+Nov. 22, 1976.
+
+Page 523
+
+        [65 Cal.App.3d Supp. 3] Morris L. Davidson, Los Angeles, for defendant and appellant.
+
+        John K. Van De Kamp, Dist. Atty., Donald J. Kaplan and George M. Palmer, Deputy Dist. Attys., for plaintiff and respondent.
+
+
+OPINION AND JUDGMENT
+
+        COLE, Acting Presiding Judge.
+
+        We decided in People v. Halopoff (1976) 60 Cal.App.3d Supp. 1, 131 Cal.Rptr. 531, that in the trial of speeding cases where radar is involved 'it is incumbent upon the People, without request from the defendant, to disclose to the court and to the defendant that radar is involved and further, where such is the case, to demonstrate the existence of the engineering and traffic survey required by section 40802, subdivision (b) (of the Vehicle Code).' (60 Cal.App.3d Supp. at p. 5, 131 Cal.Rptr. at p. 535.) In the present matter we hold that Halopoff is to be applied retroactively to cases whose judgments had not yet become final on appeal on the date Halopoff was decided, June 15, 1976.
+
+        Appellant here was convicted of driving at a speed of 45 miles per hour in a section of roadway posted for 25 miles per hour speed. The arresting officer made his observations by looking at a handheld radar unit.
+
+        We have related in some detail in Halopoff, and need not repeat here, the clear and unmistakable legislative policy against the use of 'speed trap' evidence in cases involving the speed of a vehicle (Veh.Code, §§ 40801--40805). Suffice it to state here, that a speed trap is defined, inter alia, as 'as particular section of highway with a prima facie speed limit (established under described provisions of law) which speed limit is not justified by an engineering and traffic survey conducted within five years prior to the date of the alleged violation, and where enforcement involves the use of radar or other electronic devices which measure the speed of moving objects.' (Veh.Code, § 40802, subd. (b).)
+
+        In the instant case the arresting officer testified that an engineering and traffic survey had been conducted within the past 18 months and that he personally did not conduct it because it was not the responsibility of the police department. No evidence was presented as to the scope, [65 Cal.App.3d Supp. 4] findings or recommendations of the survey mentioned by the officer. Defense motions to strike his testimony pursuant to Vehicle Code sections 40803 and 40804 were denied. A motion based on section 40805 of the Vehicle Code (which provides that a court is without jurisdiction to render a judgment of conviction of a Vehicle Code violation involving the subject of a vehicle if any speed trap evidence or testimony has been admitted) was also denied.
+
+        We do not hesitate to apply Halopoff to the instant case and to other cases which had not become final as of the date of the decision in Halopoff. 1
+
+'. . . (I)n the context of applicability to a matter open on direct review, a rule of decisional law is not necessarily retroactive and need not necessarily be applied if it is enunciated as a change, departure, or overturn of previous decisional 
+
+Page 524
+
+law. Where, however, that rule is one which has been foreshadowed by prior decisions or is stated as an application of a previously existing principle, it must be applied to open cases.' (People v. Heredia, supra, 20 Cal.App.3d, at p. 199, 97 Cal.Rptr. at p. 491.)
+
+        Appellant argues that the Halopoff result was foreshadowed by prior decisions and thus that retroactivity is compelled.
+
+        Respondent asserts that Halopoff was a 'law-making opinion' within the meaning of In re Johnson (1970) 3 Cal.3d 404, 410, 90 Cal.Rptr. 569, 475 P.2d 841:
+
+'The retrospective effect of a law-making opinion is to be determined by "(a) the purpose to be served by the new standards, (b) the extent of the reliance by law enforcement authorities on the old standards, and (c) the effect on the administration of justice of a retroactive application of the new standards." (Citation omitted, and cases cited; fn. omitted.) It is also clear that the factors of reliance and burden on the administration of justice are of significant relevance only when the question of retroactivity is a close one after the purpose of the new rule is considered.' (Citation omitted.) (In re Johnson (1970) 3 Cal.3d 404, 410, 90 Cal.Rptr. 569, 572, 475 P.2d 841, 844.)
+
+        While we may readily use Heredia and Johnson to guide us to our decision here, we need not engage in a sterile debate whether Halopoff [65 Cal.App.3d Supp. 5] was or was not a 'law-making opinion,' or was or was not 'foreshadowed by prior decisions.'
+
+        In the first place, as Johnson itself notes, the fundamental determinant of retroactivity is the purpose of the 'new rule.' As noted in Halopoff, the Legislature simply has gone out of its way to indicate its marked dislike of speed trap evidence. The Holopoff decision facilitated that longstanding rule and from this point of view the purpose of the Halopoff requirements requires retroactivity 'even if there is a considerable burden on the administration of justice.' (In re Johnson, supra, at p. 416, 90 Cal.Rptr. at p. 576, 475 P.2d at p. 848.) Thus, if Halopoff is considered a law-making opinion, still, under the Johnson rationale retroactivity should be the result. 2
+
+        On the other hand, because of the clearly expressed and long-standing legislative policy against speed traps it could be argued that Halopoff merely stated the obvious. This argument has some factual support. The Los Angeles city attorney, in a letter to this court declining our invitation to file an amicus curiae brief in this matter, has stated that our decision on retroactivity 'will not materially affect any cases handled by the City Attorney's Office, since we have proceeded for years on the theory that it is the prosecution's burden to establish the existence of the requested survey as part of its case in chief.'
+
+        From this point of view, the Halopoff rule was previously known, and pursuant to Heredia '. . . must be applied to open cases.' Clearly, there should be no adverse effect on the administration of justice. 3
+
+Page 525
+
+        [65 Cal.App.3d Supp. 6] Appellant's other point is without merit, and need not be discussed. 4
+
+        The judgment is reversed.
+
+        ALARCON and THOMAS, ** JJ., concurred.
+
+---------------
+
+* Pursuant to Constitution, article VI, section 21.
+
+1 We are not called upon to determine whether Halopoff may supply the basis for collateral attack upon a judgment which was final as of the date of its decision. (Cf. People v. Heredia (1971) 20 Cal.App.3d 194, 198, 97 Cal.Rptr. 488, fn. 2.)
+
+2 We found it necessary in Halopoff to overrule People v. Stewart (1930) 107 Cal.App.Supp. 757, 288 p. 57, a prior decision of this court to the extent that it was inconsistent with Halopoff. Neither of the parties hereto mentioned that fact in their briefs, but it could be argued that the effect of overruling put Halopoff into that class of decisions which evinced a sharp break with the past.
+
+3 The People, represented by the district attorney, argue that they relied on Pre-Halopoff law and that the city attorney's letter does not negate this reliance. In support of this proposition they state in a supplemental brief that the sheriff's department expected to encounter considerable difficulty in utilizing radar units 'since it was their belief that the posted speed limit in many areas was not based upon an engineering and traffic survey.' Contrary to the district attorney's suggestion, this fact does now show that law enforcement relied upon some rule predating Halopoff; it merely shows, if true, that the sheriff's department was using radar contrary to the provisions of the antispeed trap legislation.
+
+4 Respondent and the Los Angeles city attorney both state that the Halopoff decision needs clarifying. They point out that at one point we described the prosecution's duty as being 'to demonstrate' the existence of the engineering and traffic survey and in another place 'to produce' the survey. Respondent also wonders if 'produce' really means 'produce' (Supp.brief, fn. 2). The Los Angeles city attorney says it would be burdensome to produce the survey whether or not the defendant is interested in it.
+
+A reading of Halopoff should make clear that we meant that the survey had to be physically produced in the courtroom and that it was the People's duty to establish that the survey justified the posted speed limit. Our language was explicit. The People must 'demonstrate the existence of the engineering and traffic survey Required by section 40802, subdivision (b).' (See Veh.Code, § 627.) Of course, if a defendant is satisfied that such a survey exists and stipulates that the People need not produce it, that would be another matter.
+
+** Assigned by the Chairman of the Judicial Council.
+
+
+
+
+
+
+
+
+
+
+
+

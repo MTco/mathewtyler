@@ -1,0 +1,108 @@
+
+
+
+131 Cal.Rptr. 531
+
+
+60 Cal.App.3d Supp. 1
+
+
+The PEOPLE of the State of California, Plaintiff and Respondent,
+v.
+William HALOPOFF, Defendant and Appellant.
+
+
+Cr. A. No. 14023.
+
+
+Appellate Department, Superior Court, Los Angeles County, California.
+
+
+June 15, 1976.
+
+Page 533
+
+        [60 Cal.App.3d Supp. 2] Peter Kent, Santa Monica, for defendant and appellant.
+
+        John K. Van de Kamp, Dist. Atty., Donald J. Kaplan, Sterling S. Suga, Deputy Dist. Attys., for plaintiff and respondent.
+
+        [60 Cal.App.3d Supp. 3] COLE, Judge.
+
+        The Legislature has declared a strong public policy against the use of speed traps. It has provided (1) that no peace officer or other person shall use a speed trap to enforce the Vehicle Code or to secure evidence of speeding for the purpose of arrest or prosecution (Veh.Code, § 40801); 1 (2) that where evidence is obtained as a result of a speed trap it shall not be admissible (§ 40803); 2 (3) that witnesses are incompetent to testify in such cases (§ 40804, subd. (a)); 3 and (4) that courts are without jurisdiction to render judgments of conviction in such cases (§ 40805). 4
+
+        Here we determine that defendant's conviction was improper under these sections and we declare the obligation of the prosecutor to establish that a speed trap was not involved in those cases where radar is used to apprehend a defendant.
+
+        The defendant here was convicted of violating the basic speed law (section 22350) by driving 55 miles per hour in a 40-mile-per-hour zone. The conviction was based upon the testimony of a deputy sheriff that he observed defendant's speed on a radar unit. Section 40802 states:
+
+'A 'speed trap' is either of the following:
+
+(a) A particular section of a highway measured as to distance and with boundaries marked, designated, or otherwise determined in order that the speed of a vehicle may be calculated by securing the time it takes the vehicle to travel the known distance.
+
+(b) A particular section of a highway with a prima facie speed limit * * * Provided by this code or by local ordinance pursuant to paragraph (1) of [60 Cal.App.3d Supp. 4] subdivision (b) of Section 22352, or Established pursuant to Section 22354, 22357, 22358, or 22358.3, which speed limit is not justified by an engineering and traffic survey conducted within five years prior to the date of the alleged violation, and where enforcement involves the use of radar or other electronic devices which measure the speed of moving objects.'
+
+Page 534
+
+        The defendant objected to the introduction of radar testimony because there had been no preliminary showing that the engineering study referred to had been conducted and there was no showing that the radar machine was calibrated, tuned, or maintained properly.
+
+        The court overruled the objection, stating that no speed trap was involved and citing our decision in People v. Echols (1975) 46 Cal.App.3d Supp. 1, 120 Cal.Rptr. 375, in support of its ruling. The court erred. Echols is inapposite. Echols was based on the decision in In re Beamer (1955) 133 Cal.App.2d 63, 68, 283 P.2d 356. The latter case dealt with a speed trap as the term was used in former Vehicle Code section 751, part of which is now embodied in section 40802 subdivision (a). Beamer was decided in 1955 before the enactment of subdivision (b), section 40802. Echols involved an offficer in a helicopter and did not refer to nor relate to section 40802, subdivision (b). Subdivision (b) defines a speed trap not contemplated by the court in Beamer or Echols. Both of these cases were concerned with what is now subdivision (a) of section 40802. It did not involve the use of radar but rather another type of speed trap not relevant here. The use of radar here, in a posted 40-mile-per-hour zone, to measure the speed of defendant's car falls squarely within the definition of a speed trap quoted above. Thus, unless the 40-mile-per-hour speed limit is justified by the engineering and traffic survey referred to in section 40802, subdivision (b), the consequences of the use of a speed trap testimony fatally infect the People's case.
+
+        The deputy sheriff testified that in his opinion 40 miles an hour was a safe speed on the particular street. The People urge that this testimony justifies the posted speed limit of 40 miles an hour. Were we to accept such testimony in place and in stead of the engineering and traffic survey, any need for such surveys would be eliminated; the officer would simply testify that he thought a particular speed was safe and that would suffice to satisfy the speed trap statute (§ 40804, subd. (a)). That surely was not the intent of the Legislature. Only proof of the Survey can take this case out of section 40802, subdivision (b).
+
+        [60 Cal.App.3d Supp. 5] Since the case may be retried and there will be other alleged speeders brought to trial where radar has been used as a means of detection, we discuss briefly the obligation of prosecuting attorneys in such circumstances.
+
+        It is well to note, first, that the anti-speed trap legislation is firmly rooted in California law. The prohibition against the use of speed trap testimony and the prohibition against testimony by any officer participating in a speed trap arrest appeared as long ago as 1923 in section 155 of the California Vehicle Act. (Stats.1923, ch. 266.) The provisions have been amended from time to time, and later codified but have always been carried forth in successive versions of the Vehicle Code. The provision depriving the courts of jurisdiction to render judgment in speed trap cases first appeared in 1925. (Stats.1925, ch. 240.)
+
+        The legislation has as its primary aim the safety of all travelers upon the public highways. It is based upon the philosophy that visible traffic law enforcement constitutes a far greater deterrent to excessive speed and will insure a more universal observance of the rules of the road than would a concealment of officers in speed traps located off the highway. (Fleming v. Superior Court (1925) 196 Cal. 344, 348--349, 238 P. 88.)
+
+        The speed trap laws, of course, did not originally encompass radar. The use of radar on a section of highway with a prima facie speed limit not justified by an engineering and traffic survey taken within five years was first defined as a speed trap in 1972. This comparatively recent legislative inclusion of radar, as being within the 
+
+Page 535
+
+definition of a speed trap when used as indicated, shows that the strong policy disfavoring speed trap prosecutions still exists.
+
+        In the trial of cases where radar is involved, questions will inevitably come up concerning the duty of the prosecution on the one hand, or the defendant on the other, to raise the question of the applicability of the anti-speed trap legislation. We believe, for the following reasons, that in such prosecutions it is incumbent upon the People, without request from the defendant, to disclose to the court and to the defendant that radar is involved and further, where such is the case, to demonstrate the existence of the engineering and traffic survey required by section 40802, subdivision (b) in order to remove the case from the sanctions of sections 40801, 40803, 40804 and 40805.
+
+        [60 Cal.App.3d Supp. 6] First, it goes without saying that the People may not suppress material evidence for to do so hinders the search for truth which is the goal of our system of criminal justice. To further this goal the courts have recognized that it is the duty of the People to disclose substantial material evidence favorable to the accused upon request, for otherwise a defendant is denied a fair trial. (In re Ferguson (1971) 5 Cal.3d 525, 532, 96 Cal.Rptr. 594, 599, 487 P.2d 1234 and cases cited.) Thus, if a defendant in a speeding case asks about relevant engineering and traffic survey evidence, as defendant tried to do here, such evidence must be disclosed. But the Supreme Court has gone further. It has said, 'to condition the duty to disclose upon request would provide a trap for the unwary and place substantial additional burdens on our busy trial courts.' (In re Ferguson, supra, at p. 532, 96 Cal.Rptr. p. 599, 487 P.2d p. 1239.) It is consonant with this policy to require the People to disclose without request that radar was used and to produce the engineering and traffic survey or declare their inability to do so. The prosecution will always know when radar has been used to apprehend a speeder. The defendant and the court may or may not be aware of that fact. Simple fairness, and ease of procedure, dictate that the prosecution make the fact known.
+
+        Second, as noted, a strong public policy against the use of speed trap evidence has been declared by the Legislature. That policy is thwarted if its effectuation is meant to depend upon technical applications of burdens of proof and requests for production of evidence whose significance a defendant may only dimly comprehend if at all. 5 The People argue that the anti-speed trap provisions of the Vehicle Code should be considered as an affirmative defense, analogous to that of entrapment, placing upon the accused the burden of showing that the evidence charged against him was derived from a speed trap. Such an approach was in essence taken by this court in the early case of People v. Stewart (1930) 107 Cal.App.Supp. 757, 288 P. 57.
+
+        It may be technically correct to note, as did Stewart, that generally the burden with respect to a witness' incompetency is upon the party asserting that incompetency. It may also be technically correct that a general objection is an insufficient basis to sustain an objection to the admissibility of particular evidence.
+
+        [60 Cal.App.3d Supp. 7] This reasoning, however, in the context of the anti-speed trap legislation mistakes the trees for the forest. The prohibitions established by sections 40801, 40803, 40804 and 40805 are not attempts to regulate the procedure of the courts or to prescribe rules of evidence. Rather, '. . . the interdict against the admissibility of such evidence is merely an adjunct . . .' to the legislative purpose of properly enforcing the laws respecting the use and operation of vehicles upon the public highways. (Fleming v. Superior Court, supra, 196 Cal. 344, 350, 238 P. 88, 90.) Viewing the forest as a whole that 
+
+Page 536
+
+purpose is best served when the People are required to disclose any material evidence bearing on the potential applicability of the anti-speed trap legislation.
+
+        Third, even though radar is used to apprehend one accused of speeding, a speed trap is not involved if the prima facie speed limit involved has been justified by an engineering and traffic survey conducted within five years prior to the date of the violation (§ 40802, subd. (b)). If the burden is placed on a defendant to establish the existence of a speed trap he is required to prove a negative--the absence of the requisite survey. This is an onerous task which militates against the policy of the legislation. It is far more easy and realistic in this connection to place the burden on the People, who are in the best position to supply the evidence, since they will always know whether such a survey exists, and if it does, will have it in their possession.
+
+        People v. Stewart, supra, 107 Cal.App.Supp. 757, 288 P. 57 is overruled to the extent that it is inconsistent with this opinion.
+
+        The judgment is reversed.
+
+        MARSHALL, P.J., and ALARCON, J., concurred.
+
+---------------
+
+1 Unless otherwise noted, all statutory citations are to sections of the Vehicle Code. Section 40801 provides:
+
+'No peace officer or other person shall use a speed trap in arresting or participating or assisting in the arrest of, any person for any alleged violation of this code nor shall any speed trap be used in securing evidence as to the speed of any vehicle for the purpose of an arrest or prosecution under this code.'
+
+2 Section 40803 provides:
+
+'No evidence as to the speed of a vehicle upon a highway shall be admitted in any court upon the trial of any person for an alleged violation of this code when the evidence is based upon or obtained from or by the maintenance or use of a speed trap.'
+
+3 Section 40804, subdivision (a) provides:
+
+'(a) In any prosecution under this code upon a charge involving the speed of a vehicle, any officer or other person shall be incompetent as a witness if the testimony is based upon or obtained from or by the maintenance or use of a speed trap.'
+
+4 Section 40805 provides:
+
+'Every court shall be without jurisdiction to render a judgment of conviction against any person for a violation of this code involving the speed of a vehicle if the court admits any evidence or testimony secured in violation of, or which is inadmissible under this article.'
+
+5 We note that in the vast number of speeding cases that come before us on appeal defendants appear in propria persona without benefit of counsel.
+
+
+
+
+

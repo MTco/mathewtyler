@@ -1,0 +1,154 @@
+
+
+29 P.3d 1101 (Or. 2001)
+
+
+STATE OF OREGON, Respondent on Review,
+v.
+SARA CLAY, Petitioner on Review.
+
+
+(DC PRO23404; CA A99689; SC S46559)
+
+
+IN THE SUPREME COURT OF THE STATE OF OREGON
+
+
+Argued and submitted March 6, 2000; reassigned June 20, 2001.
+August 9, 2001
+
+        On review from the Court of Appeals.*
+
+        Nicholas L. Dazer, certified law student, argued the cause for petitioner on review. With him on the briefs was Jeffrey S. Mutnick of Copeland, Landye, Bennett & Wolf, LLP, Portland.
+
+        Rolf C. Moan, Assistant Attorney General, Salem, argued the cause for respondent on review. With him on the brief were Hardy Myers, Attorney General, and Michael D. Reynolds, Solicitor General.
+
+        Before Carson, Chief Justice, and Gillette, Durham, Leeson, and Riggs, J., Justices.**
+
+        GILLETTE, J.
+
+        This is a traffic violation case in which defendant was found guilty of violating the maximum urban speed limit. ORS 811.123. The charge was made in a traffic citation issued as a result of a "photo radar" surveillance in northeast Portland, during which the car that defendant is accused of driving was photographed while exceeding the posted speed limit by eleven miles per hour. (1) A district court judge convicted defendant over objections on her behalf that the evidence against her was insufficient. On appeal, a divided panel of the Court of Appeals affirmed the conviction. State v. Clay, 160 Or App 438, 987 P2d 517 (1999). We allowed defendant's petition for review and now reverse the decisions of the Court of Appeals and the judgment of the trial court, and remand the case to the circuit court for further proceedings. (2)
+
+        The following undisputed procedural and evidentiary facts are taken from the opinion of the Court of Appeals:
+
+        "On February 19, 1997, Officer Hussey was operating a Portland Police Photo Radar unit on the 3500 block of Northeast Hassalo Street in Portland. At approximately 2:26 p.m., the unit detected and photographed a silver four-door automobile with Oregon license plate number PWY 727. The vehicle was traveling 36 miles per hour in a 25 miles per hour zone. A citation for violating the posted speed limit was issued and mailed to defendant. Defendant received the citation, pled not guilty, and requested a trial. A trial was held on October 3, 1997. Defendant did not appear at trial but was represented by counsel, who was present. No evidence was presented on behalf of defendant.
+
+        "At trial, Officer Hussey testified that on February 19, 1997, between the hours of 2:00 p.m. and 4:00 p.m., he was on duty, in uniform, operating a marked police vehicle on the 3500 block of Northeast Hassalo Street. He further testified that the speed of offending vehicles was displayed on the back of the photo radar unit and that signs indicating that speed limits were enforced by the use of photo radar were posted on all major routes in Portland. A photograph, taken by the radar unit, showing the driver of the vehicle at the time of the offense was submitted into evidence. On cross-examination, Hussey testified that he did not stop the car in question, that he had not, to his knowledge, ever met defendant and that he did not know the identity of the driver in the radar photo. Based on this evidence, defendant was convicted of violating the maximum speed limit."
+
+        160 Or App at 440.
+
+        The photo radar statutory scheme in place at that time, Oregon Laws 1995, chapter 579, section 2, provided, in part:
+
+        "(1) Notwithstanding any other provision of law, in the jurisdictions authorized to use photo radar:
+
+        "(a) A citation for speeding may be issued on the basis of photo radar if the following conditions are met:
+
+        "(A) The photo radar equipment is operated by a uniformed police officer.
+
+        "(B) The photo radar equipment is operated out of a marked police vehicle.
+
+        "(C) An indication of the actual speed of the vehicle is displayed within 150 feet of the location of the photo radar unit.
+
+        "(D) Signs indicating that speeds are enforced by photo radar are posted, so far as is practicable, on all major routes entering the jurisdiction.
+
+        "(E) The citation is mailed to the registered owner of the vehicle within six business days of the alleged violation.
+
+        "(F) The registered owner is given 30 days from the date the citation is mailed to respond to the citation.
+
+        "* * * * *
+
+        "(b) A rebuttable presumption exists that the registered owner of the vehicle was the driver of the vehicle when the citation is issued and delivered as provided in this section."
+
+        By its terms, ORS 811.123 requires proof that a particular person was speeding. (3) Because the state had no direct witness who could testify that defendant was driving the car at the time that the violation was committed, the state had to rely on the rebuttable presumption provided in paragraph (1)(b) of Oregon Laws 1995, chapter 579, section 2, that the driver of the car was its registered owner. To be entitled to use that presumption, the state was required to prove the predicate fact that defendant was the registered owner of the car. The state produced no direct evidence that defendant was the registered owner of the vehicle. Before the Court of Appeals, defendant asserted that the evidence was insufficient to permit the trier of fact to find that she was, in fact, the registered owner of the car. (4)
+
+        The majority of the Court of Appeals panel dealt with defendant's argument respecting the sufficiency of the evidence in alternative ways. The majority first stated that, "based on these facts, it may be directly inferred that the citation was mailed to her as the registered owner." Clay, 160 Or App at 442. If accurate, that assertion would have ended defendant's argument. But the majority then went on to hold that, even if the evidence were not sufficient to permit the inference, the evidentiary presumption that "[o]fficial duty has been regularly performed," OEC 311(1)(j), applied. Clay, 160 Or App at 442.
+
+        Judge Wollheim dissented. Without discussing directly the question whether the evidence permitted the majority to draw the purely factual inference that the majority stated that it could draw, he challenged the propriety of using the presumption that official duty had been regularly performed. Id. at 443 (Wollheim, J., dissenting). He also argued that, even if that presumption were applicable, another presumption, viz., the presumption that "[t]he law has been obeyed," OEC 311(1)(x), offset it. Id. at 443-44. We allowed review in part to address the issue respecting "dueling presumptions."
+
+        We begin by noting that, unlike the majority in the Court of Appeals, we do not perceive any evidentiary basis in this record that would permit a trier of fact to find that defendant was the registered owner of the speeding car. We turn to the assertion that the presumption that legal duty has been regularly performed may be applied to the facts of this case.
+
+        "A presumption is a rule of law requiring that, once a basic fact is established, the factfinder must find a certain presumed fact, in the absence of evidence rebutting the presumed fact."
+
+        Massee and Massee, 328 Or 195, 203 n 3, 970 P2d 1203 (1999) (citing Laird C. Kirkpatrick, Oregon Evidence, 72 (3d ed 1996)). Here, as noted, the state relies on the presumption found in OEC 311(1)(j), which provides:
+
+        "The following are presumptions:
+
+        "* * * * *
+
+        "(j) Official duty has been regularly performed."
+
+        The majority in the Court of Appeals held that, because Officer Hussey was supposed to send the traffic citation to the registered owner under Oregon Laws 1995, chapter 579, section 2(1)(a)(E), the presumption applied. That was error.
+
+        As noted, a presumption is an inference that the law directs be drawn from a predicate fact. Here, the predicate fact would be that Hussey had an "official duty." But he did not, at least in the sense that that phrase is used in OEC 311(1)(j). Oregon Laws 1995, chapter 579, section 2(1)(a)(E), authorized Hussey to issue a citation for speeding, on the basis of photo radar, to a particular person under certain conditions. But the statute in no sense required Hussey to do so. That is, he had the authority, but not the duty, to issue the citation, if the facts met the conditions set out in the statute. Without the duty, there can be no predicate fact that can serve as a basis for applying the presumption. In choosing to issue the citation, Hussey might have acted entirely within and consistent with the statute's various requirements, but there can be no presumption that he did so.
+
+        The state argues that the presumption should apply and relies, inter alia, on State ex rel Juv Dept v. Geist, 310 Or 176, 182 n 6, 796 P2d 1193 (1990). However, that case is inapposite. In Geist, this court cited OEC 311(1)(j) to support its conclusion that a trial court had continued to require a lawyer to represent a person only after satisfying itself that the lawyer met the statutory requirements for such representation. The distinction between Geist and the present case lies, inter alia, in the fact that the actor in Geist had a legal duty to ensure that trial counsel satisfied certain eligibility standards. We note also that the official in Geist -- a judge -- was a neutral, dispassionate, and impartial official. A judge has no interest in furthering a prosecution or a defense in a case. By contrast, Hussey was a person interested in enforcing a certain statutory scheme relating to vehicular speeding, and his act in sending the citation was in furtherance of that interest. 
+
+        The rationale for applying the presumption that official duty regularly has been performed was stated in another case on which the state relies, Highway Com. v. Heintz Constr., 245 Or 530, 539, 423 P2d 175 (1967). There, the court explained that the presumption "usually [is] applied as evidence of the act of a neutral, dispassionate and impartial official, with no interest in the matter except to regularly perform the duties imposed upon him." Id. With those observations in mind, the court went on to hold that the official to whose acts the state wished to apply the presumption in that case (an engineer on a highway project) did not qualify for the presumption, because the facts showed that the official had not "regularly * * * perform[ed] his duty." Id.
+
+        We think that it is clear from the foregoing discussion that Hussey's act in sending the citation to defendant does not qualify for the presumption set out in OEC 311(1)(j), because Hussey had no legal duty even to mail the citation to defendant. Thus, there is even less of a basis in this case than there was in Heinz to consider applying the presumption.
+
+        In sum, defendant was convicted in this case, notwithstanding that: (1) there was no witness who could identify her as the driver of the speeding car identified by photo radar; (2) there was no evidence that would permit a trier of fact to infer that defendant was the registered owner of the car; (3) there was no evidence of a predicate fact that would permit the state to rely on the presumption that official duty has been regularly performed; and (4) there thus was no basis for invoking the presumption in Oregon Laws 1995, chapter 579, section 2(1)(b), that the registered owner of defendant's vehicle was driving the vehicle at the time in question. Given the lack of evidence in this record, defendant's conviction cannot stand. The contrary conclusions of the majority of the Court of Appeals and the trial court were error. 
+
+        The decision of the Court of Appeals is reversed. The judgment of the trial court is reversed, and the case is remanded to the circuit court for further proceedings. 
+
+---------------
+
+NOTES:
+
+
+*. Appeal from Multnomah County District Court, Mary Overgaard, Judge. 160 Or App 438, 987 P2d 517 (1999).
+
+
+
+**. Van Hoomissen, J., retired December 31, 2000, and did not participate in the decision of this case; Kulongoski, J., resigned June 14, 2001, and did not participate in the decision of this case; De Muniz, J., did not participate in the consideration or decision of this case.
+
+
+
+1. At the time of the present alleged offense, photo radar citations were issued under Oregon Laws 1995, chapter 579, sections 1-3, the pertinent parts of which are set out post. Oregon Laws 1995, chapter 579, the legislation at issue in this case, authorized photo radar demonstration projects in the cities of Beaverton and Portland. Section 3 of that legislation repealed the act, effective on December 31, 1997. However, the 1997 Legislature amended the act and made it permanent. Or Laws 1997, ch 280, §§ 1-3. The photo radar statutes now are codified at ORS 810.438 to 810.439. Or Laws 1999, ch 1071, § 3. 
+
+
+
+2. Effective January 15, 1998, the legislature abolished the district court and transferred cases in district court to the circuit court. Or Laws 1995, ch 658, §§ 2 and 150. 
+
+
+
+3. ORS 811.123 provides, in part:
+
+
+"A person commits the offense of violating a maximum speed limit in an urban area if the person drives a vehicle upon a highway in any city or upon a highway within an urban growth boundary that is in a county with a population greater than 100,000 at a speed greater than any speed posted by authority granted under ORS 810.180 * * *."
+
+
+4. Defendant further argued that, even if the evidence were sufficient to provide the predicate fact, the presumption in paragraph (1)(b) of the statute could not be used against her for a variety of reasons. Because of the disposition that we make of this case, we do not reach those contentions.
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

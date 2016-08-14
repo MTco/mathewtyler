@@ -1,0 +1,162 @@
+
+549 A.2d 140
+
+
+378 Pa.Super. 442
+
+
+COMMONWEALTH of Pennsylvania
+v.
+Louis DeFUSCO, Appellant.
+
+
+Superior Court of Pennsylvania.
+
+
+Submitted May 16, 1988.
+Filed Aug. 25, 1988.
+Reargument Denied Oct. 24, 1988.
+
+        [378 Pa.Super. 443] Mary DeFusco, Conshochocken, for appellant.
+
+        Donna G. Zucker, Asst. Dist. Atty., Philadelphia, for Com., appellee.
+
+        Before CAVANAUGH, MONTGOMERY and HOFFMAN, JJ.
+
+        [378 Pa.Super. 444] HOFFMAN, Judge:
+
+        This appeal is from a judgment of sentence for violating § 3362 of the Pennsylvania Motor Vehicle Code, 75 Pa.C.S.A. § 101 et seq. Appellant contends that 1) the Delaware River Port Authority has promulgated and implemented a regulation permitting the use of electronic speed devices by its officers in contravention of a state law that limits the use of electronic speed devices to the Pennsylvania State Police, 75 Pa.C.S.A. § 3368(c); 2) the lower court erred in admitting evidence of his speed based upon the reading from the electronic device employed by the Delaware River Port Authority police officer; and 3) the Delaware River Port Authority exceeded the scope of its jurisdiction by monitoring traffic on a state highway. For the reasons set forth below, we reverse the judgment of sentence.1
+
+Page 141
+
+        On October 6, 1986, a Delaware River Port Authority (DRPA) officer, positioned in Pennsylvania approximately one mile west of the Walt Whitman Bridge, observed appellant's vehicle exiting the bridge. The DRPA officer, using an electronic speed-timing device, determined that appellant was traveling at a speed of fifty-nine miles per hour in a posted forty-five mile per hour zone. Appellant was issued a citation for speeding in violation of 75 Pa.C.S.A. § 3362(a)(3). After a hearing in Philadelphia Traffic Court, appellant was convicted of the violation and sentenced to pay a fine. Appellant appealed the summary conviction to the Court of Common Pleas. Following a de novo trial, [378 Pa.Super. 445] appellant was adjudged guilty of violating § 3362(a)(3). Post-trial motions were filed, argued, and denied. Appellant was then sentenced to pay a fine. This appeal followed.
+
+        Appellant initially contends that the lower court improperly admitted into evidence a reading that was obtained through the use of an electronic speed device employed by a DRPA officer. Appellant argues that the DRPA has implemented a regulation that permits its officers to use electronic speed devices even though the state legislature has enacted a statute specifically restricting the use of such equipment to the Pennsylvania State Police. According to appellant, this action is directly contrary to express legislative intent. Appellant argues that the DRPA has circumvented the legislature's intent by promulgating a rule that extends the use of electronic speed devices to its officers, even though it is clearly evident that § 3368(b) prohibits the use of electronic speed devices to other than Pennsylvania State Police. Because the arresting officer was not a member of the State Police, appellant contends the use of the radar unit was unauthorized and requires that his conviction be reversed. We agree.
+
+        In determining the effect of an administrative regulation promulgated by the DRPA, we must ultimately review the administrative regulation in question to ensure it is in accordance with the enabling statute. It is well-settled that an administrative regulation must be consistent with the statute under which it was promulgated. Wiley House v. Scanlon, 502 Pa. 228, 237, 465 A.2d 995, 999 (1983) (Department of Education regulation not inconsistent with Public School Act); Commonwealth, Dep't of Pub. Welfare v. Forbes Health Sys., 492 Pa. 77, 81, 422 A.2d 480, 482 (1980) (Department of Public Welfare's medical assistance regulations consistent with enabling statute). Moreover, when there exists an apparent inconsistency or conflict between a statute and a regulation promulgated thereunder, the statute must prevail. Tiani v. Commonwealth, Dep't of Pub. Welfare, 86 Pa.Cmwlth. 640, 642, 486 A.2d 1016, 1017 (1985) [378 Pa.Super. 446] (regulation purporting to implement statutory provisions not conflicting with enabling statute).
+
+        In interpreting a statute, we are guided by the Statutory Construction Act, 1 Pa.C.S.A. § 101 et seq. Section 1921 of the Statutory Construction provides that "[w]hen words of a statute are clear and free from all ambiguity, the letter of it is not to be disregarded under the pretext of pursuing its spirit." 1 Pa.C.S.A. § 1921(b). Thus, if the language of a statute is clear and unambiguous, a court must read its provisions in accordance with their plain meaning and common usage. Commonwealth v. Becker, 366 Pa.Super. 54, 58, 530 A.2d 888, 890 (1987) (en banc).
+
+        Aside from statutory interpretive guidelines, we may also look to general principles of statutory construction. One such principle is encompassed in the legal maxim, expressio unius est exclusio alterius: that which is not included in the law shall be understood as excluded in the law. Grant v. Riverside Corp., 364 Pa.Super. 593, 599, 528 A.2d 962, 965 (1987); Commonwealth ex rel. Maurer v. Witkin, 344 Pa. 191, 196, 25 A.2d 317, 319 (1942). Under 
+
+Page 142
+
+this principle of interpretation, there is an inference that all omissions from a statute should be regarded as designated exclusions. Commonwealth v. Tilghman, 366 Pa.Super. 328, 336, 531 A.2d 441, 445 (1987) (en banc).
+
+        Here, we are called upon to interpret two apparently conflicting sections of the Motor Vehicle Code, 75 Pa.C.S.A. § 101 et seq. The Motor Vehicle Code is a comprehensive statutory enactment governing traffic, roadways, and the manner and circumstances under which vehicles may be operated on the roadways in the Commonwealth. The primary purpose of the Motor Vehicle Code and its amendments is to protect and promote public safety and property within the Commonwealth. Commonwealth v. Arnold, 215 Pa.Super. 444, 449, 258 A.2d 885, 887 (1969); Commonwealth v. Irwin, 345 Pa. 504, 506-07, 29 A.2d 68, 69 (1942). Therefore, every provision of the Code should be interpreted in light of that intent. Commonwealth v. Arnold, supra.
+
+        [378 Pa.Super. 447] The Legislature enacted a specific provision within the Motor Vehicle Code that provides for the operation of speed timing devices to monitor the speed of vehicles. 75 Pa.C.S.A. § 3368(c). The Motor Vehicle Code differentiates between "electronic" and "mechanical or electrical" speed timing devices and further designates those branches of traffic enforcement permitted to use such devices to monitor vehicle speed. Previously, § 3368(c) provided in relevant part:
+
+(c) Mechanical, electrical and electronic devices authorized.--
+
+        (1) the rate of speed of any vehicle may be timed on any highway by police officer using a mechanical or electrical speed timing device.
+
+        (2) electronic devices such as radio-microwave devices (commonly referred to as electronic speed meters or radar) may be used only by members of the Pennsylvania State Police.
+
+        75 Pa.C.S.A. § 3368, 1976, June 17, P.L. 162, No. 81, § 1, eff. July 1, 1977 (emphasis added).
+
+        In 1986, the legislature amended the Motor Vehicle Code by adding Subsection (c)(3) which permits any officer to use a hybrid type of an electrical and electronic speed device. Section 3368(c)(3), as amended, now provides in pertinent part:
+
+(1) Except as otherwise provided in this section, the rate of speed of any vehicle may be timed on any highway by a police officer using a mechanical or electrical speed timing device.
+
+(2) Except as otherwise provided in paragraph (3), electronic devices such as radio-microwave devices (commonly referred to as electronic speed meters or radar) may be used only by members of the Pennsylvania State Police.
+
+(3) Electronic devices which calculate speed by measuring elapsed time between measured road surface points by using two sensors and devices which measure and calculate the average speed of a vehicle between any two points may be used by any police officer.
+
+        [378 Pa.Super. 448] 75 Pa.C.S.A. § 3368(c), as amended by P.L. 71 No. 24, § 2 (March 27, 1986) (emphasis added). Despite the fact that the Code expressly states that only State Police may employ "electronic" devices, the DRPA promulgated a regulation authorizing its officers to use radar devices. The regulation provides, in relevant part:
+
+Mechanical, electrical and electronic devices authorized:
+
+(2) Electronic devices such as radio-microwave devices (commonly referred to as electronic speed meters or radar) may be used by DRPA police....
+
+        Delaware River Port Authority Rules and Regulations, Section 3, 3.2(c)(2), Revised October 15, 1986. The apparent authority for issuing this regulation is contained in 75 Pa.C.S.A. § 6111. Section 6111 of the Motor Vehicle Code provides:
+
+Regulation of traffic on bridges under authority of interstate commissions
+
+(a) General rule.-- The provisions of this title apply to any bridge under the supervision and control of the Delaware River Joint Toll Bridge Commission, the Delaware River Port Authority 
+
+Page 143
+
+and the New York-Pennsylvania Joint Commission on Bridges over the Delaware River unless specifically modified by rules and regulations which shall become effective only upon publication in accordance with law....
+
+        75 Pa.C.S.A. § 6111.
+
+        The issue that we must resolve is whether the DRPA's regulation promulgated under the authority granted by § 6111, is in contravention of § 3368 of the Motor Vehicle Code. An analysis of the central purpose behind § 3368, as well as the legislative history, convinces us that it is. A review of the legislative history underlying the enactment of § 3368(c) provides guidance into ascertaining the Legislature's intent in restricting the use of electronic speed devices by State Police. See Fireman's Fund Ins. Co., v. Nationwide Mut. Ins. Co., 317 Pa.Super. 497, 502, 464 A.2d [378 Pa.Super. 449] 431, 434 (1983). When the Legislature amended the Motor Vehicle Code in 1976, the House and Senate engaged in lengthy debates on the various amendments. Of particular importance are the references to the reasons behind the restriction of electronic speed devices to the State Police. As summarized by our Supreme Court in Commonwealth v. DePasquale,
+
+[M]embers of the legislature cited the following reasons for their desire to restrict the use of electronic devices to the State Police: that the proponents of radar in municipalities are concerned more with revenue raising than with safety ... that radar has not improved safety on the roads but has only helped the district justices and the arresting mills; ... that when radar is available to the police, the number of arrests for speeding increases dramatically; ... and that is is unfair to allow municipalities to use radar when the speed limits have not been updated to keep pace with the new developments in transportation.
+
+        Commonwealth v. DePasquale, 509 Pa. 183, 190, 501 A.2d 626, 631 (1985) (citations omitted).2
+
+        The legislative history clearly evidences an intention on the part of the Legislature to restrict the use of electronic speed measuring devices to our State Police. Moreover, the reasons proffered by the legislature were well grounded in consideration for the safety and welfare of the general public. In keeping with the spirit and purpose of the Motor Vehicle Code, the Legislature stated clearly and concisely that the use of electronic speed detection devices is most effectively reserved for the State Police in order to serve the interests of the general public. Such a reading of the [378 Pa.Super. 450] legislative history is necessary to "effectuate the intention of the general assembly ..." 1 Pa.C.S.A. § 1921(a), 1922(2); see also Fireman's Fund Ins. Co., v. Nationwide Mutual Ins. Co., supra. To do otherwise, would be to disregard the plain and unambiguous language of § 3368(c) of the Motor Vehicle Code. Commonwealth v. Becker, supra.
+
+        Our analysis is further buttressed by the enactment of the 1986 amendment to the Motor Vehicle Code, wherein the Legislature extended to "any officer" permission to use a particular type of electrical/electronic speed measuring device to calculate vehicle speed. Had the legislature intended to enlarge the scope of the use of all electronic speed devices, it had an opportunity to do so at that time. We find a more expansive interpretation of the statutory language unwarranted. We can only regard the inaction of the legislature as a purposeful intent to continue the restriction of the use of electronic speed devices to the State Police. See Grant v. Riverside Corp., supra.
+
+        In interpreting the intent of the legislature, we are also guided by the legal maxim of statutory construction, expressio unius est exclussio alterius: that which is 
+
+Page 144
+
+not included in the law shall be excluded in the law. See Grant v. Riverside Corp., supra. The only possible inference to be drawn from the Legislature's failure to include local enforcement or other designated agencies in the group permitted to use electronic speed devices is that the omission of those not so enumerated are to be designated as exclusions. See id.; Commonwealth v. Tilghman, supra. Certainly, had the legislature wished to accord the DRPA the privilege to use electronic speed devices, it would have included the DRPA in § 3368. See Grant v. Riverside Corp., supra; Commonwealth v. Tilghman, supra. We cannot but deem that omission to be of significance. Accordingly, under this statutory principle, because the DRPA was not given express authority to use electronic speed devices in the Motor Vehicle Code, we cannot now enlarge [378 Pa.Super. 451] the scope of § 3368 to extend a function to the DRPA that the the legislative never intended.
+
+        We turn now to the question whether the DRPA was vested with authority to promulgate a regulation in contravention of the express provisions of the Motor Vehicle Code. This requires us to examine § 6111 which empowers the DRPA to modify the Motor Vehicle Code. Section 6111 of the Motor Vehicle Code binds the DRPA to the provisions of the Code and vests with the DRPA the authority to promulgate rules and regulations modifying the code. 75 Pa.C.S.A. § 6111. An analysis of the DRPA's delegated power to promulgate regulations must be examined in light of the legislative framework under which it was created. The DRPA was originally created by interstate compact between the Commonwealth of Pennsylvania and the State of New Jersey to be a public corporate instrumentality of both states and to exercise an essential governmental function. Yancoskie v. Delaware River Port Auth., 478 Pa. 396, 400, 387 A.2d 41, 43 (1978); accord Bell v. Bell, 83 N.J. 417, 416 A.2d 829 (1980)
+
+The purpose of the DRPA was expanded from the operation of a single interstate bridge to embrace the development and improvement of the lower Delaware port district from Philadelphia south to the Pennsylvania-Delaware border, 36 Pa.C.S.A. § 3503, Arts. 1(a), XII-A(1), XII-B(1). The Authority is charged with the development and improvement of port facilities in this area. Id. Art. I(c), (k). The powers granted the DRPA by virtue of the compact are commensurate with its broad purposes.
+
+        Nardi v. Delaware River Port Authority, 88 Pa.Cmwlth. 558, 560, 490 A.2d 949, 952 (1985).
+
+        Consistent with its broad purpose and delegated authority, the DRPA's powers were further delineated when the legislature enacted § 6111 in the Motor Vehicle Code that, a provision that binds the DRPA to follow the provisions of the Code unless the DRPA promulgated regulations modifying the Code. We believe that the legislature, consistent [378 Pa.Super. 452] with the purpose of the enabling statute, envisioned that § 6111 would confer upon the DRPA the authority to modify the sections of the Motor Vehicle Code for the purpose of promoting safety and efficiency on the bridges. We do not believe, however, that the legislature intended to grant the power to the DRPA to promulgate rules and regulations that directly contravene matters expressed in the Motor Vehicle Code.
+
+        To interpret § 6111, we look to the clear and unambiguous language of the statute and read it in accordance with the plain meaning and common usage of its terms. See Commonwealth v. Becker, supra. Here, it is readily apparent that the DRPA is bound to follow the provisions of the Motor Vehicle Code. Moreover, it is equally clear that the DRPA may only modify the provisions of the Code by duly promulgating a rule or regulation. The word "modify" has been defined as altering or changing in incidental or subordinate measures. Black's Law Dictionary 905 (5th ed. 1979). In light of the plain meaning of the word "modify", it follows that the legislature did not vest with the DRPA the authority to promulgate rules and regulations that go beyond the perimeters of the Motor Vehicle Code. If the contrary were true, the legislature need not have expressly stated that all the provisions of the Motor 
+
+Page 145
+
+Vehicle Code apply to the DRPA. See 75 Pa.C.S.A. § 6111 ("provisions of this title apply to any bridge under the supervision and control of the [DRPA]"). Because the DRPA was not expressly granted the statutory right to use electronic speed devices within their jurisdiction, the DRPA cannot promulgate a regulation in accordance with its delegated authority that conflicts with the enabling statutory scheme. See Wiley House v. Scanlon, supra. The DRPA, therefore, can not enforce a regulation, which overrides legislative intent and extends beyond the statutory scheme. See id. The intent of the legislature was to permit the DRPA to "modify" the Motor Vehicle Code in accordance with its broad purposes and not to empower the DRPA to create [378 Pa.Super. 453] new law. We can find no indication that the legislature intended to enact a broader grant of authority to the DRPA than is otherwise specified in clear and unambiguous terms in the Motor Vehicle Code.
+
+        The legislature has sounded its message: Only State Police are to employ electronic speed measuring devices. See 75 Pa.C.S.A. § 3368(c)(2). See also Commonwealth v. DePasquale, supra; Commonwealth v. Schmitzer, 286 Pa.Super. 138, 428 A.2d 610 (1981). We, therefore conclude that the DRPA's regulation granting its officers the right to use electronic equipment is not an acceptable exercise of delegated authority. A contrary interpretation of the legislative language would give effect to an administrative regulation inconsistent with the statute under which it was promulgated. See Wiley House v. Scanlon, supra. Accordingly, where as here, there is an apparent conflict between a statute and a regulation promulgated thereunder, the statute must prevail. See Tiani v. Commonwealth of Pennsylvania, Department of Public Welfare, supra.
+
+        Because we have determined that the regulation at issue is not consistent with the enabling statute and must, therefore, fail; the use of electronic speed devices by DRPA officers is unlawful. Consequently, in the instant case, evidence of appellant's speed based on information from the use of an electronic speed device should not have been admitted at trial.3 See Commonwealth v. Schmitzer, supra.
+
+        Accordingly, for the foregoing reasons, we reverse the decision of the lower court and vacate judgment of sentence.
+
+        Judgment of sentence vacated and charge dismissed.
+
+---------------
+
+1 We note that appellant, within his argument, raises the question of the procedural constitutionality of the DRPA's actions in promulgating the regulation at issue, § 3(c)(2) of the DRPA's Rules and Regulations. Appellant contends that the DRPA was bound to publish its proposed regulation pursuant to 75 Pa.C.S.A. § 6111, in accordance with 45 Pa.S.A. § 1201-02 (Supp.1987). Appellant argues that the language in § 6111 requires that an agency's proposed regulations must be published in order for them to be given the force and effect of law. By failing to publish the proposed regulations in the Pennsylvania Bulletin prior to their implementation, appellant contends that the DRPA's regulations, specifically, § 3(C)(2), are invalid. Because of the disposition of appellant's first contention, we need not address the procedural constitutional issue or reach the merits of appellant's other contentions.
+
+2 Although the statements and views voiced by the legislators during the floor debates are not controlling in ascertaining legislative intent, they are a legitimate aid in construing a statute and warrant due consideration. See Young v. Kaye 443 Pa. 335, 348 n. 3, 279 A.2d 759, 765 n. 3 (1971) (legislative comments accorded weight in interpreting legislative intent behind statute). But see Martin v. Soblotney, 502 Pa. 418, 424 n. 5, 466 A.2d 1022, 1025 n. 5 (1983) (views of legislators not relied on to ascertain legislative intent).
+
+3 We note that the only evidence introduced by the Commonwealth at appellant's trial as to the speed at which appellant was traveling was the testimony of the DRPA officer based on information provided to him by the use of his radar equipment. Because the DRPA officer offered no personal observation of appellant's speed, there is no other evidence to consider and appellant's sentence is properly vacated.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
