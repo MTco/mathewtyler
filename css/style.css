@@ -226,7 +226,7 @@ footer {
 	display:-webkit-flex;
 	display:flex;
 	-webkit-flex-flow:row wrap;
-	flex-flow:row wrap;
+	flex-flow:wrap;
 }
 
 .flex-item {

@@ -138,8 +138,7 @@ header {
 		padding-right:0;
 		padding-bottom:1vh;
 		border-left:1px solid #eee;
-		line-height:1.3em;
-		line-height:1.3rem;
+		line-height:1.3em;line-height:1.3rem;
 	}
 		section {
 			margin:0 auto;
