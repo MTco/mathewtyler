@@ -53,6 +53,7 @@
 		padding-right:0%;
 		border:0;
 		flex-shrink:1;
+		line-height:calc(1.3em+(1.5-1.3)*((100vw-21em)/(35-21)));
 	}
 	aside {
 		width:98vw; /**/
