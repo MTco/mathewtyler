@@ -702,6 +702,10 @@ ul.alphaLower{
 	visibility:hidden;
 }
 
+.row{width:100%;border:1px solid #000;table-layout:fixed;display:table;}
+.col{width:1vw;text-align:center;border:1px solid #000;display:table-cell;}
+.col:first-child{padding-right:1em;padding-right:1rem;text-align:right;}
+
 q:lang(no) {
 	quotes:"\201C""\201D""\2018""\2019";
 	font-size:4em;
@@ -737,9 +741,6 @@ q::after {
 	align-content:center;
 	justify-content:end;
 }
-/*
- * .quote .txt span{margin-left:2em;margin-left:2rem;}
- */
 .quote .txt::before,q::before,.quote .txt::after,q::after {
 	font-size:3.5em;font-size:3.5rem;
 	display:inline-block;
