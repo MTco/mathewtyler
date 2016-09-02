@@ -1,5 +1,4 @@
-(function (window){
-	'use strict';
+(function(){
 	var inited=false,H,l,where_am_i,head,body,style,qrImg,pfstyle,pfBkVersion,pfurl,_pnicer_script,hash,campaign,tagA,tagB,strlngth,cerebro={
 		campaigner:function(u)
 		{

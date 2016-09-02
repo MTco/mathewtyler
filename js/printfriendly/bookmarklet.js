@@ -1,4 +1,4 @@
-(function (window){
+(function(){
 	if(typeof inited==='undefined'||inited!==true){
 		var inited=true,H=window,l=H.document,where_am_i=top.location.href||l.href||l.location,head=l.head||l.getElementsByTagName('head')[0],_pnicer_script=l.createElement('script');
 		_pnicer_script.type='text/javascript';
