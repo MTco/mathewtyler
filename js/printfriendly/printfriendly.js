@@ -1,5 +1,5 @@
 (function(){
-	var inited=false,H,l,where_am_i,head,body,style,qrImg,pfstyle,pfBkVersion,pfurl,_pnicer_script,hash,campaign,tagA,tagB,strlngth,cerebro={
+	var inited=false,H=window,l=H.document,where_am_i,head,body,style,qrImg,pfstyle,pfBkVersion,pfurl,_pnicer_script,hash,campaign,tagA,tagB,strlngth,cerebro={
 		campaigner:function(u)
 		{
 			u=u.split('#');hash=typeof u['1']!=='undefined'?'#'+u['1']:'';u=u['0'];
