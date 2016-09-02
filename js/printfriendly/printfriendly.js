@@ -31,7 +31,7 @@
 		{
 			if(inited!==true){
 				inited=true;
-				H=window;l=H.document;where_am_i=top.location.href||l.href||l.location;
+				where_am_i=top.location.href||l.href||l.location;
 				head=l.head||l.getElementsByTagName('head')[0];
 				body=l.body||l.getElementsByTagName('body')[0];
 				style=l.createElement('link');
