@@ -508,8 +508,7 @@ ul[class*="menu-"] li a:active,ul[class*="menu-"] li a.selected:hover,ul[class*=
 
 .socialize .the-icons {
 	color:#fff;
-	font-size:1.6em;
-	font-size:1.6rem;
+	font-size:1.6em;font-size:1.6rem;
 	border-radius:4px;
 	margin:0 1px;
 }
