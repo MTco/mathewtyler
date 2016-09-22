@@ -501,6 +501,10 @@ ul[class*="menu-"] li a:active,ul[class*="menu-"] li a.selected:hover,ul[class*=
 		border:2px solid #575556;
 	}
 
+.BSOA {
+	max-width:150px;
+}
+
 
 .socialize .the-icons {
 	color:#fff;
