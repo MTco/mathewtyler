@@ -1,10 +1,13 @@
-<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
-<os:ShortName>Amazon.com: hoped</os:ShortName>
-<os:Description>Search Amazon's online stores.</os:Description>
-<os:InputEncoding>UTF-8</os:InputEncoding>
-<os:Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAFo9M/3AAAABGdBTUEAALGPC/xhBQAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB94IGRMTCf/SYDQAAAFnSURBVDjLlZM9TgJBAIW/GUZZlsKIigWJscBgNCZuxx08gRUcAApLD0CoqSjpuAEhUVquQGGtMVqQyAbYXWDHAllclvDzqsmbb97MvMmI3v29BpAApmUhAkd7HsDSSZdKfNVqczb1+Ij3/o6IxZbEQjIYJBJL47LRwB+Pl8a03w+WRDLQGoSIZmrP46Jex3ddjh4e5uB/4KRQACk5f3rip9UKUqJbrGgrINmiECAOD8lUKhi5XOCp0CFjMT4rFfzRKJoglCJdLocmQ8BZqYR2HPR0GgLUoqRBu43vuqhUitlgsPs1twJ71bBOidtbfMfZM0Br9GSCNE2M62tOi0XU8TGZahWZTG4OSObzXL28kLi7I9ftMu716DebzGybj+dn/OFwc4Bxc4OeTBi8vs5LisdBykj9a0uMZ7M4b2+YlsX0+5uZbSMODjAtC7vTASl3eAWt8f8eXCiFNIzQD1mVikaK4Efuol9Pm488Cf3GkwAAAABJRU5ErkJggg==</os:Image>
-<SearchForm>http://www.amazon.com/</SearchForm>
-<os:Url type="text/html" rel="results" method="GET" template="http://www.amazon.com/gp/search?ie=UTF8&amp;tag=hoped-20&amp;camp=1789&amp;creative=9325&amp;index=aps&amp;linkCode=ur2&amp;t=0111011101110101011101000110010101110110-20&amp;linkId=7Z5AE5GE7NT27H2Q&amp;keywords={searchTerms}"></os:Url>
-<os:Url type="application/x-suggestions+json" rel="results" method="GET" template="http://completion.amazon.com/search/complete?method=completion&amp;tag=hoped-20&amp;search-alias=aps&amp;t=0111011101110101011101000110010101110110-20&amp;client=amzn-search-suggestions&amp;mkt=1&amp;q={searchTerms}"></os:Url>
-<os:Url type="application/opensearchdescription+xml" method="GET" template="https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/searchplugins/amazon-us-hoped.xml#4f80930250cf826ba0c7144dc43fe6aa9f9a07cd" rel="self"></os:Url>
-</SearchPlugin>
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>Amazon.com: hoped</ShortName>
+	<Description>Search Amazon's online stores.</Description>
+	<InputEncoding>UTF-8</InputEncoding>
+	<Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAFo9M/3AAAABGdBTUEAALGPC/xhBQAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB94IGRMTCf/SYDQAAAFnSURBVDjLlZM9TgJBAIW/GUZZlsKIigWJscBgNCZuxx08gRUcAApLD0CoqSjpuAEhUVquQGGtMVqQyAbYXWDHAllclvDzqsmbb97MvMmI3v29BpAApmUhAkd7HsDSSZdKfNVqczb1+Ij3/o6IxZbEQjIYJBJL47LRwB+Pl8a03w+WRDLQGoSIZmrP46Jex3ddjh4e5uB/4KRQACk5f3rip9UKUqJbrGgrINmiECAOD8lUKhi5XOCp0CFjMT4rFfzRKJoglCJdLocmQ8BZqYR2HPR0GgLUoqRBu43vuqhUitlgsPs1twJ71bBOidtbfMfZM0Br9GSCNE2M62tOi0XU8TGZahWZTG4OSObzXL28kLi7I9ftMu716DebzGybj+dn/OFwc4Bxc4OeTBi8vs5LisdBykj9a0uMZ7M4b2+YlsX0+5uZbSMODjAtC7vTASl3eAWt8f8eXCiFNIzQD1mVikaK4Efuol9Pm488Cf3GkwAAAABJRU5ErkJggg==</Image>
+	<SearchForm>http://www.amazon.com/?tag=hoped-20</SearchForm>
+	<Url type="text/html" rel="results" method="GET" template="http://www.amazon.com/gp/search?ie=UTF8&amp;tag=hoped-20&amp;camp=1789&amp;creative=9325&amp;index=aps&amp;linkCode=ur2&amp;t=0111011101110101011101000110010101110110-20&amp;linkId=7Z5AE5GE7NT27H2Q&amp;keywords={searchTerms}" resultDomain="amazon.com"/>
+	<Url type="application/x-suggestions+json" rel="results" method="GET" template="http://completion.amazon.com/search/complete?method=completion&amp;tag=hoped-20&amp;search-alias=aps&amp;t=0111011101110101011101000110010101110110-20&amp;client=amzn-search-suggestions&amp;mkt=1&amp;q={searchTerms}" resultDomain="amazon.com"/>
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://rawgit.com/MaxMillion/mathewtyler/gh-pages/searchplugins/amazon-us-hoped.xml#d4d50c13dd307e418e04d4587365d609ecede17a"/>
+	<moz:SearchForm>http://www.amazon.com/?tag=hoped-20</moz:SearchForm>
+</OpenSearchDescription>
