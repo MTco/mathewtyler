@@ -82,8 +82,7 @@ header {
 	margin-right:2%;
 	right:0;
 	*/
-	top:1.5em;
-	top:3rem;
+	top:1.5em;top:3rem;
 	text-decoration:none;
 	background:#fff;
 	z-index:365;
@@ -102,14 +101,12 @@ header {
 		margin-left:6%;
 	}
 		#menuToggle:checked ~ aside {
-			margin-bottom:-1em;
-			margin-bottom:-1rem;
+			margin-bottom:-1em;margin-bottom:-1rem;
 		}
 
 #main,main {
 	min-height:60vh;
-	margin-top:-6em;
-	margin-top:-6rem;
+	margin-top:-6em;margin-top:-6rem;
 	padding-bottom:3vh;
 	display:flex;
 	flex-flow:row wrap;
@@ -130,8 +127,7 @@ header {
 		float:left;
 		width:78%;/*620px;*/
 		min-height:70vh;
-		margin-top:34em;
-		margin-top:34rem;
+		margin-top:34em;margin-top:34rem;
 		margin-left:10px;
 		margin-right:10px;
 		padding-left:5vw;
@@ -156,47 +152,47 @@ article::after{
 }
 body {
 	color:#444;
-	font-family:'Helvetica',sans-serif;
+	font:17px/27px 'Helvetica',sans-serif;
 }
 h1,h2,h3,h4,h5,h6 {
-	font-family:'Trebuchet MS', sans-serif;
+	font-family:'Trebuchet MS',sans-serif;
 	font-weight:bold;
 }
 h1 {
-	font-size:3em;
-	margin-top:0.75em;
-	margin-bottom:0.25em;
+	font-size:3em;font-size:3rem;
+	margin-top:0.75em;margin-top:0.75rem;
+	margin-bottom:0.25em;margin-bottom:0.25rem;
 }
 h2 {
-	font-size:2em;
-	margin-top:1em;
-	margin-bottom:0.75em;
+	font-size:2em;font-size:2rem;
+	margin-top:1em;margin-top:1rem;
+	margin-bottom:0.75em;margin-bottom:0.75rem;
 }
 h3 {
-	font-size:1.5em;
-	margin-top:1.25em;
-	margin-bottom:0.5em;
+	font-size:1.5em;font-size:1.5rem;
+	margin-top:1.25em;margin-top:1.25rem;
+	margin-bottom:0.5em;margin-bottom:0.5rem;
 	font-weight:normal;
 }
 h4 {
-	font-size:1.25em;
-	margin-top:1em;
-	margin-bottom:0.5em;
+	font-size:1.25em;font-size:1.25rem;
+	margin-top:1em;margin-top:1rem;
+	margin-bottom:0.5em;margin-bottom:0.5rem;
 	font-weight:normal;
 	color:#4d4d4d;
 }
 h5 {
-	font-size:1.125em;
-	margin-top:0.5em;
-	margin-bottom:0.5em;
+	font-size:1.125em;font-size:1.125rem;
+	margin-top:0.5em;margin-top:0.5rem;
+	margin-bottom:0.5em;margin-bottom:0.5rem;
 }
 h6 {
-	font-size:1em;
-	margin-top:0.5em;
-	margin-bottom:0.5em;
+	font-size:1em;font-size:1rem;
+	margin-top:0.5em;margin-top:0.5rem;
+	margin-bottom:0.5em;margin-bottom:0.5rem;
 }
 p {
-	margin:1em 0;
+	margin:1em 0;margin:1rem 0;
 }
 a {
 	color:#69b5e1;
@@ -210,22 +206,22 @@ abbr,acronym {
 	cursor:help;
 }
 address {
-	font-size:1em;
+	font-size:1em;font-size:1rem;
 	font-style:italic;
 }
 blockquote {
 	margin:1em 0;
-	padding:0 0 0 2em;
+	padding:0 0 0 2em;padding:0 0 0 2rem;
 }
 cite {
 	font-style:italic;
 }
 code {
-	font-size:1em;
+	font-size:1em;font-size:1rem;
 	font-family:monospace;
 	background:#eeeeee;
 	border:1px solid #e1e1e1;
-	padding:0.125em 0.25em;
+	padding:0.125em 0.25em;padding:0.125rem 0.25rem;
 	line-height:150%;
 }
 em,i {
@@ -237,16 +233,16 @@ strong,b {
 hr {
 	outline:none;
 	border:none;
-	margin:1em 0;
+	margin:1em 0;margin:1rem 0;
 	padding:0;
 	border-top:1px solid #eeeeee;
 }
 ols,uls {
-	margin:1em 0;
-	padding:0 0 0 2em;
+	margin:1em 0;margin:1rem 0;
+	padding:0 0 0 2em;padding:0 0 0 2rem;
 }
 ol li,ul li {
-	font-size:1em;
+	font-size:1em;font-size:1rem;
 	list-style-position:outside;
 }
 ul li {
@@ -256,20 +252,20 @@ ol li {
 	list-style:decimal;
 }
 form {
-	margin:1em 0;
+	margin:1em 0;margin:1rem 0;
 }
 dl {
-	margin:1em 0;
+	margin:1em 0;margin:1rem 0;
 }
 dl dt {
 	font-weight:bold;
 }
 dl dd {
-	margin:0 0 0.5em;
+	margin:0 0 0.5em;margin:0 0 0.5rem;
 }
 table {
 	width:100%;
-	margin:1em 0;
+	margin:1em 0;margin:1rem 0;
 }
 table th {
 	padding:0.5em;
@@ -279,7 +275,7 @@ table th {
 	font-weight:bold;
 }
 table td {
-	padding:0.5em;
+	padding:0.5em;padding:0.5rem;
 	border:1px solid #eeeeee;
 }
 form {
@@ -287,30 +283,30 @@ form {
 }
 fieldset {
 	display:block;
-	margin:1.25em 0;
+	margin:1.25em 0;margin:1.25rem 0;
 	padding:0;
 }
 legend {
 	display:block;
 	width:100%;
-	margin:0 0 1em 0;
+	margin:0 0 1em 0;margin:0 0 1rem 0;
 	font-weight:bold;
 	border-bottom:1px solid #eeeeee;
 }
 label {
 	display:block;
-	margin:0 0 0.25em;
+	margin:0 0 0.25em;margin:0 0 0.25rem;
 	font-weight:bold;
 }
 select,textarea,input[type="text"],input[type="password"],input[type="datetime"],input[type="datetime-local"],input[type="date"],input[type="month"],input[type="time"],input[type="week"],input[type="number"],input[type="email"],input[type="url"],input[type="search"],input[type="tel"],input[type="image"],input[type="color"] {
 	display:block;
-	padding:0.5em;
-	margin:0 0 0.625em;
+	padding:0.5em;padding:0.5rem;
+	margin:0 0 0.625em;margin:0 0 0.625rem;
 	vertical-align:middle;
 	border:1px solid #eeeeee;
 	outline:none;
 	font-family:inherit;
-	font-size:1em;
+	font-size:1em;font-size:1rem;
 	-webkit-appearance:none;
 	border-radius:0;
 }
@@ -325,29 +321,29 @@ input[type="submit"],input[type="button"] {
 	border-radius:0;
 }
 input[type="file"] {
-	padding:0.125em;
+	padding:0.125em;padding:0.125rem;
 	margin:0 0 0.625em;
 	font-family:inherit;
-	font-size:1em;
+	font-size:1em;font-size:1rem;
 	-webkit-appearance:none;
 	border-radius:0;
 	line-height:100%;
 }
 textarea {
-	padding:0.25em;
+	padding:0.25em;padding:0.25rem;
 }
 progress,meter {
-	padding:0.125em;
-	margin:0 0 0.625em;
+	padding:0.125em;padding:0.125rem;
+	margin:0 0 0.625em;margin:0 0 0.625rem;
 	font-family:inherit;
-	font-size:1em;
+	font-size:1em;font-size:1rem;
 }
 .button,button,input[type="button"],input[type="submit"],input[type="reset"] {
 	-webkit-appearance:none;
-	padding:0.625em 1.25em;
-	margin:0 0 0.625em;
+	padding:0.625em 1.25em;padding:0.625em 1.25rem;
+	margin:0 0 0.625em;margin:0 0 0.625rem;
 	font-family:inherit;
-	font-size:1em;
+	font-size:1em;font-size:1rem;
 	border:none;
 	outline:none;
 	background:#eeeeee;
@@ -433,7 +429,7 @@ ul[class*="menu-"] li a:active,ul[class*="menu-"] li a.selected:hover,ul[class*=
 	margin:0;
 	padding:0;
 	position:absolute;
-	top:2.25em;
+	top:2.25em;top:2.25rem;
 	left:0;
 	border:1px solid #eeeeee;
 	background:white;
@@ -604,19 +600,18 @@ ul[class*="menu-"] li a:active,ul[class*="menu-"] li a.selected:hover,ul[class*=
 .flag-icon {
 	width:1.3333333333333333em;
 	position:relative;
-	font-size:1em;
-	font-size:1rem;
+	font-size:1em;font-size:1rem;
 	background-size:contain;
 	background-position:50%;
 	background-repeat:no-repeat;
 	display:inline-block;
-	line-height:1em;
+	line-height:1em;line-height:1rem;
 }
 .flag-icon:before {
 	content:"\00a0";
 }
 .flag-icon.flag-icon-squared {
-	width:1em;
+	width:1em;width:1rem;
 }
 .flag-icon-us {
 	background-image:url(https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/ui/flags/4x3/us.svg#f538a6599e00f55d99c7a6f9d65641b8644c57e7);

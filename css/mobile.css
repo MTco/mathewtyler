@@ -1,10 +1,10 @@
 @charset 'UTF-8';
 @media (max-width:767px) {
 	html {
-		font-size:13px;
+		font-size:17px/27px;
 	}
 	body {
-		font-size:16px;
+		font-size:17px/27px;
 	}
 	h1,h2,h3,h4,h5,h6 {
 		line-height:140%;
@@ -72,17 +72,11 @@
 		margin-left:-950px;
 	}
 		html.js #menuToggle:checked ~ aside,html.no-js aside {
-			margin-top:8em;
-			margin-top:8rem;
-			margin-top:29vh;
-			margin-left:1em;
-			margin-left:1rem;
-			margin-left:6vw;
+			margin-top:8em;margin-top:8rem;margin-top:29vh;
+			margin-left:1em;margin-left:1rem;margin-left:6vw;
 		}
 		html.js #menuToggle:checked ~ article,html.no-js article {
-			margin-top:4em;
-			margin-top:4rem;
-			margin-top:13vh;
+			margin-top:4em;margin-top:4rem;margin-top:13vh;
 		}
 	footer {
 		float:left;
@@ -93,16 +87,13 @@
 		padding-right:0%;
 	}
 	#main,main {
-		margin-top:-6em;
-		margin-top:-6rem;
+		margin-top:-6em;margin-top:-6rem;
 		flex-direction:column;
 	}
 	html.js #menuLink,html.no-js #menuLink2 {display:inline-block;}
 	#menuLink,#menuLink2 {
-		top:0.2em;
-		top:0.5rem;
-		font-size:2.5em;
-		font-size:2.5rem;
+		top:0.2em;top:0.5rem;
+		font-size:2.5em;font-size:2.5rem;
 		order:1;
 	}
 	header { order: 1; }
