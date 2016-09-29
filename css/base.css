@@ -73,6 +73,9 @@ header {
 		background:linear-gradient(to bottom, #4c4c4c 0%,#595959 12%,#666666 25%,#474747 39%,#2c2c2c 50%,#000000 51%,#111111 60%,#2b2b2b 76%,#1c1c1c 91%,#131313 100%); /* W3C */
 		filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313',GradientType=0 ); /* IE6-8 */
 	}
+	#timeLeft{
+		display:none;
+	}
 
 #menuLink,#menuLink2 {
 	/*
@@ -116,25 +119,13 @@ header {
 	z-index:350;
 }
 	aside {
-		float:left;
 		width:10%;/*300px; */
-		margin-left:10px;
-		margin-right:10px;
-		padding-left:0;
-		padding-right:0;
 	}
 	article {
-		float:left;
 		width:78%;/*620px;*/
 		min-height:70vh;
-		margin-top:34em;margin-top:34rem;
-		margin-left:10px;
-		margin-right:10px;
-		padding-left:5vw;
-		padding-right:0;
 		padding-bottom:1vh;
 		border-left:1px solid #eee;
-		line-height:1.3em;line-height:1.3rem;
 	}
 		section {
 			margin:0 auto;

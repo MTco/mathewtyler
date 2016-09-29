@@ -26,6 +26,9 @@
 		.fpotusSeal img {
 			max-width:128px;
 		}
+		#timeLeft{
+			display:none;
+		}
 	article {
 		float:left;
 		width:78%;/*731.5px;*/
