@@ -64,7 +64,7 @@
 					style.rel='stylesheet';
 					style.type='text/css';
 					style.crossorigin='anonymous';
-					style.href='https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/printfriendly/printfriendly.css?#xe2efbb11db8d4a67b0dbae46c7a37f5b9d48b987'+(Math.random());
+					style.href='https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/printfriendly/printfriendly.css?#791ff1bcdf8952d356aae35b08c698bbc390e18b'+(Math.random());
 					firstScript.parentNode.insertBefore(style,firstScript);
 					where_am_iB=app.campaigner(where_am_i);
 					where_am_i=encodeURIComponent(where_am_iB);
@@ -90,6 +90,7 @@
 				if(inited!==true){if(isHostMethod(l,'addEventListener')){l.removeEventListener('DOMContentLoaded',app.v,false);H.removeEventListener('load',app.initialize,false);app.initialize();}else{if(l.readyState==='complete'){l.detachEvent('onreadystatechange',app.v);H.detachEvent('onload',app.initialize);app.initialize();}}}
 			}
 		};
+		if(inited!==true&&l.readyState==='complete'){app.initialize();}else if(inited!==true){if(isHostMethod(l,'addEventListener')){l.addEventListener('DOMContentLoaded',app.v,false);H.addEventListener('load',app.initialize,false);}else{l.attachEvent('onreadystatechange',app.v);H.attachEvent('onload',app.initialize);}}
 	}else{
 		window.print();
 	}
