@@ -65,15 +65,17 @@
 					style.rel='stylesheet';
 					style.type='text/css';
 					style.crossorigin='anonymous';
-					style.href='https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/printfriendly/printfriendly.css?#93c5825752f1d09a77b3b83f1e26ea0ab2816163'+(Math.random());
+					style.href='https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/printfriendly/printfriendly.css?#943088dec4283fad20b1cbcadc9787ff9939f4bd'+(Math.random());
 					firstScript.parentNode.insertBefore(style,firstScript);
 					where_am_iB=app.campaigner(where_am_i);
 					where_am_i=encodeURIComponent(where_am_iB);
 					asdf.id='MTco-GoogleQR';
-					body.appendChild(asdf);
 					qrImg.className='print-only print-footer pf-footer delete-off delete-no';
 					qrImg.src='https://chart.googleapis.com/chart?cht=qr&chs=350x350&choe=UTF-8&chld=H&chl='+where_am_i;
-					asdf.appendChild(qrImg);
+					console.debug(qrImg);
+					asdf.innerHTML='<img class="'+qrImg.className+'" src="'+qrImg.src+'"/>';
+					console.debug(asdf);
+					body.appendChild(asdf);
 					/*if(!H.jQuery){document.write('<script src="https://cdn.jsdelivr.net/jquery/3.1.0/jquery.min.js"><\/script>');}var tmp=$('#pf-core').contents().find('#algo-iframe').first().contents().find('#article_content .sub .text-node').first().text();*/
 					setTimeout((function(){
 						window.print();
