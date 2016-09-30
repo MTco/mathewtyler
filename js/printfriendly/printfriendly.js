@@ -85,10 +85,10 @@
 			},
 			v:function()
 			{
-				if(inited!==true){if(isHostMethod(l,'addEventListener')){l.removeEventListener('DOMContentLoaded',app.v,false);H.removeEventListener('load',app.initialize,false);asdf=app.initialize();asdf();}else{if(l.readyState==='complete'){l.detachEvent('onreadystatechange',app.v);H.detachEvent('onload',app.initialize);asdf=app.initialize();asdf();}}}
+				if(inited!==true){if(isHostMethod(l,'addEventListener')){l.removeEventListener('DOMContentLoaded',app.v,false);H.removeEventListener('load',app.initialize,false);app.initialize();}else{if(l.readyState==='complete'){l.detachEvent('onreadystatechange',app.v);H.detachEvent('onload',app.initialize);app.initialize();}}}
 			}
 		};
-		if(inited!==true&&l.readyState==='complete'){asdf=app.initialize();asdf();}else if(inited!==true){if(isHostMethod(l,'addEventListener')){l.addEventListener('DOMContentLoaded',app.v,false);H.addEventListener('load',app.initialize,false);}else{l.attachEvent('onreadystatechange',app.v);H.attachEvent('onload',app.initialize);}}
+		if(inited!==true&&l.readyState==='complete'){app.initialize();}else if(inited!==true){if(isHostMethod(l,'addEventListener')){l.addEventListener('DOMContentLoaded',app.v,false);H.addEventListener('load',app.initialize,false);}else{l.attachEvent('onreadystatechange',app.v);H.attachEvent('onload',app.initialize);}}
 	}else{
 		window.print();
 	}
