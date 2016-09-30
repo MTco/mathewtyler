@@ -59,13 +59,13 @@
 					_pnicer_script.type='text/javascript';
 					_pnicer_script.crossorigin='anonymous';
 					_pnicer_script.src='https://d3nekkt1lmmhms.cloudfront.net/printfriendly.js?x='+(Math.random());
-					tmp=l.location.protocol;
-					try{l.location.protocol='https';}catch(e){}
+					//tmp=l.location.protocol;
+					//try{l.location.protocol='https';}catch(e){}
 					firstScript.parentNode.insertBefore(_pnicer_script,firstScript);
 					style.rel='stylesheet';
 					style.type='text/css';
 					style.crossorigin='anonymous';
-					style.href='https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/printfriendly/printfriendly.css?#ca527d584e644a9f6b505edd78bb0accbc796794'+(Math.random());
+					style.href='https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/printfriendly/printfriendly.css?#98e821f20cc9c8a93e443ec93d329ced65386c16'+(Math.random());
 					firstScript.parentNode.insertBefore(style,firstScript);
 					where_am_iB=app.campaigner(where_am_i);
 					where_am_i=encodeURIComponent(where_am_iB);
@@ -77,7 +77,7 @@
 					/*if(!H.jQuery){document.write('<script src="https://cdn.jsdelivr.net/jquery/3.1.0/jquery.min.js"><\/script>');}var tmp=$('#pf-core').contents().find('#algo-iframe').first().contents().find('#article_content .sub .text-node').first().text();*/
 					setTimeout((function(){
 						window.print();
-						l.location.protocol=tmp;
+						//l.location.protocol=tmp;
 					}),3500);
 				}else{
 					window.print();
