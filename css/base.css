@@ -233,7 +233,6 @@ ols,uls {
 	padding:0 0 0 2em;padding:0 0 0 2rem;
 }
 ol li,ul li {
-	font-size:1em;font-size:1rem;
 	list-style-position:outside;
 }
 ul li {

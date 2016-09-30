@@ -1,14 +1,14 @@
 @charset 'UTF-8';
 #pf-mask,#pf-core{visibility:visible !important;}
 #gaiframe {display:none !important;visibility:hidden !important;}
-html,body{position:relative !important;}
-#MTco-GoogleQRs{position:absolute !important;bottom:0 !important;right:0 !important;}
+html,body{position:relative !important;font-family:Verdana,Arial,Sans serif,"Source Sans Pro",sans-serif;}
+#MTco-GoogleQRs{position:absolute !important;bottom:0 !important;left:0 !important;width:99% !important;text-align:center !important;margin:0 auto !important;}
 @media print {
 	*,
 	*:before,
 	*:after {
 		background:transparent !important;
-		color:#000 !important;
+		color:#444 !important;
 		box-shadow:none !important;
 		text-shadow:none !important;
 		word-wrap:break-word !important;
@@ -88,8 +88,8 @@ html,body{position:relative !important;}
 
 	.pf_author {
 		float:left;
-		margin:-1em 0 1em 0;
-		font-size:.85em;
+		margin:-1em 0 1em 0;margin:-1rem 0 1rem 0;
+		font-size:.85em;font-size:.85rem;
 		color:hsl(0, 0%, 50%);
 		display:block;
 	}
@@ -102,7 +102,7 @@ html,body{position:relative !important;}
 	}
 
 	h1.pf-title{
-		margin:1em 0;
+		margin:1em 0;margin:1rem 0;
 		font-size:135%;
 		clear:both; /*helps keep images with intended content*/
 	}
@@ -111,13 +111,13 @@ html,body{position:relative !important;}
 	}
 
 	h1{
-		margin:1em 0 .67em;
+		margin:1em 0 .67em;margin:1rem 0 .67rem;
 		font-size:130%;
 		clear:both; /*helps keep images with intended content*/
 	}
 
 	h2{
-		margin:1em 0 .67em;
+		margin:1em 0 .67em;margin:1rem 0 .67rem;
 		font-size:125%;
 	}
 
