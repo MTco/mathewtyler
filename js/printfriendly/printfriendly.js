@@ -5,7 +5,7 @@
 			var t=typeof object[methodName];
 			return ((t==='function'||t==='object')&&!!object[methodName])||t==='unknown';
 		};
-		var inited=false,H=window,l=H.document,where_am_i,head,body,style,qrImg,pfstyle,pfBkVersion,pfurl,_pnicer_script,hash='',campaign,tagA,tagB,strlngth,httpd='http://',httpds='https://',asdf,app={
+		var inited=false,H=window,l=H.document,where_am_i,firstScript,body,style,qrImg,pfstyle,pfBkVersion,pfurl,_pnicer_script,hash='',campaign,tagA,tagB,strlngth,httpd='http://',httpds='https://',asdf,app={
 			campaigner:function(u)
 			{
 				if(app.strpos(u,'about:reader?url=')!==false){u=u.split('about:reader?url=');u=decodeURIComponent(u['1']);}
@@ -44,7 +44,7 @@
 				if(inited!==true){
 					inited=true;
 					where_am_i=top.location.href||l.href||l.location;
-					head=l.head||l.getElementsByTagName('head')[0];
+					firstScript=l.getElementsByTagName('script')[0];
 					body=l.body||l.getElementsByTagName('body')[0];
 					style=l.createElement('link');
 					asdf=l.createElement('div');
@@ -52,7 +52,6 @@
 					pfstyle='nbk';
 					pfBkVersion='1';
 					/*pfurl='https://pf-cdn.printfriendly.com/ssl/main.js';*/
-					pfurl='https://d3nekkt1lmmhms.cloudfront.net/printfriendly.js';
 					campaign='MathewTyler.co';
 					tagA='hoped-20';
 					tagB='0111011101110101011101000110010101110110-20';
@@ -60,20 +59,20 @@
 					_pnicer_script.type='text/javascript';
 					_pnicer_script.async='true';
 					_pnicer_script.crossorigin='anonymous';
-					_pnicer_script.src=pfurl+'?x='+(Math.random());
-					head.appendChild(_pnicer_script);
+					_pnicer_script.src='https://d3nekkt1lmmhms.cloudfront.net/printfriendly.js?x='+(Math.random());
+					firstScript.parentNode.insertBefore(_pnicer_script,firstScript);
 					style.rel='stylesheet';
 					style.type='text/css';
 					style.crossorigin='anonymous';
 					style.href='https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/printfriendly/printfriendly.css?#xe2efbb11db8d4a67b0dbae46c7a37f5b9d48b987'+(Math.random());
-					head.appendChild(style);
+					firstScript.parentNode.insertBefore(style,firstScript);
 					where_am_iB=app.campaigner(where_am_i);
 					where_am_i=encodeURIComponent(where_am_iB);
 					asdf.id='MTco-GoogleQR';
-					body.appendChild(asdf);
 					qrImg.className='print-only print-footer pf-footer delete-off delete-no';
 					qrImg.src='https://chart.googleapis.com/chart?cht=qr&chs=350x350&choe=UTF-8&chld=H&chl='+where_am_i;
 					asdf.innerHTML=qrImg; /*if(!H.jQuery){document.write('<script src="https://cdn.jsdelivr.net/jquery/3.1.0/jquery.min.js"><\/script>');}var tmp=$('#pf-core').contents().find('#algo-iframe').first().contents().find('#article_content .sub .text-node').first().text();*/
+					body.appendChild(asdf);
 					setTimeout((function(){
 						window.print();
 					}),3500);
@@ -91,7 +90,6 @@
 				if(inited!==true){if(isHostMethod(l,'addEventListener')){l.removeEventListener('DOMContentLoaded',app.v,false);H.removeEventListener('load',app.initialize,false);app.initialize();}else{if(l.readyState==='complete'){l.detachEvent('onreadystatechange',app.v);H.detachEvent('onload',app.initialize);app.initialize();}}}
 			}
 		};
-		if(inited!==true&&l.readyState==='complete'){app.initialize();}else if(inited!==true){if(isHostMethod(l,'addEventListener')){l.addEventListener('DOMContentLoaded',app.v,false);H.addEventListener('load',app.initialize,false);}else{l.attachEvent('onreadystatechange',app.v);H.attachEvent('onload',app.initialize);}}
 	}else{
 		window.print();
 	}
