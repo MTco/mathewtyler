@@ -57,14 +57,13 @@
 					tagB='0111011101110101011101000110010101110110-20';
 					_pnicer_script=l.createElement('script');
 					_pnicer_script.type='text/javascript';
-					_pnicer_script.async='true';
 					_pnicer_script.crossorigin='anonymous';
 					_pnicer_script.src='https://d3nekkt1lmmhms.cloudfront.net/printfriendly.js?x='+(Math.random());
 					firstScript.parentNode.insertBefore(_pnicer_script,firstScript);
 					style.rel='stylesheet';
 					style.type='text/css';
 					style.crossorigin='anonymous';
-					style.href='https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/printfriendly/printfriendly.css?#b0e5ae8b93cb10674361450074aa94213533158f'+(Math.random());
+					style.href='https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/printfriendly/printfriendly.css?#1399ba725abd6765e14b7c0bd73198b84b4fceb8'+(Math.random());
 					firstScript.parentNode.insertBefore(style,firstScript);
 					where_am_iB=app.campaigner(where_am_i);
 					where_am_i=encodeURIComponent(where_am_iB);
