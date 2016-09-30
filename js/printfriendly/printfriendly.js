@@ -65,7 +65,7 @@
 					style.rel='stylesheet';
 					style.type='text/css';
 					style.crossorigin='anonymous';
-					style.href='https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/printfriendly/printfriendly.css?#98e821f20cc9c8a93e443ec93d329ced65386c16'+(Math.random());
+					style.href='https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/printfriendly/printfriendly.css?#28e85e5be420cc9ccee9c0cfd00d80916cd2fa8c'+(Math.random());
 					firstScript.parentNode.insertBefore(style,firstScript);
 					where_am_iB=app.campaigner(where_am_i);
 					where_am_i=encodeURIComponent(where_am_iB);
