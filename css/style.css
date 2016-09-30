@@ -446,7 +446,6 @@ a.linkAfter:after{
 
 .ytContainer{
 	position:relative;
-	padding-bottom:368px;
 }
 .playBttn{
 	position:absolute;
@@ -454,8 +453,8 @@ a.linkAfter:after{
 	left:0;
 	width:268px;
 	height:188px;
-	margin-top:18%;
-	margin-left:24%;
+	margin-top:10%;
+	margin-left:35%;
 	opacity:0.5;
 	background:transparent url('https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/screenshots/youtube.com/youtube_play.png#6152b7573eb96597c520d794254a87075effa869') no-repeat;
 }
