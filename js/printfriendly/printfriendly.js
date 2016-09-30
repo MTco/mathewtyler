@@ -5,7 +5,7 @@
 			var t=typeof object[methodName];
 			return ((t==='function'||t==='object')&&!!object[methodName])||t==='unknown';
 		};
-		var inited=false,H=window,l=H.document,where_am_i,firstScript,body,style,qrImg,pfstyle,pfBkVersion,pfurl,_pnicer_script,hash='',campaign,tagA,tagB,strlngth,httpd='http://',httpds='https://',asdf,app={
+		var inited=false,H=window,l=H.document,where_am_i,firstScript,body,style,qrImg,pfstyle,pfBkVersion,pfurl,_pnicer_script,hash='',campaign,tagA,tagB,strlngth,httpd='http://',httpds='https://',asdf,tmp,e,app={
 			campaigner:function(u)
 			{
 				if(app.strpos(u,'about:reader?url=')!==false){u=u.split('about:reader?url=');u=decodeURIComponent(u['1']);}
@@ -59,11 +59,13 @@
 					_pnicer_script.type='text/javascript';
 					_pnicer_script.crossorigin='anonymous';
 					_pnicer_script.src='https://d3nekkt1lmmhms.cloudfront.net/printfriendly.js?x='+(Math.random());
+					tmp=l.location.protocol;
+					try{l.location.protocol='https';}catch(e){}
 					firstScript.parentNode.insertBefore(_pnicer_script,firstScript);
 					style.rel='stylesheet';
 					style.type='text/css';
 					style.crossorigin='anonymous';
-					style.href='https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/printfriendly/printfriendly.css?#1399ba725abd6765e14b7c0bd73198b84b4fceb8'+(Math.random());
+					style.href='https://rawgit.com/MaxMillion/mathewtyler/gh-pages/js/printfriendly/printfriendly.css?#d889c55451afa25a99566980c0a193c620f8ddd1'+(Math.random());
 					firstScript.parentNode.insertBefore(style,firstScript);
 					where_am_iB=app.campaigner(where_am_i);
 					where_am_i=encodeURIComponent(where_am_iB);
@@ -74,6 +76,7 @@
 					body.appendChild(asdf);
 					setTimeout((function(){
 						window.print();
+						l.location.protocol=tmp;
 					}),3500);
 				}else{
 					window.print();
