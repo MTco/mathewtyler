@@ -1,10 +1,7 @@
 @charset 'UTF-8';
 @media (min-width:768px) and (max-width:999px) {
-	html {
-		font-size:20px/30px;
-	}
 	body {
-		font-size:20px/30px;
+		font-size:20px;
 	}
 	h1,h2,h3,h4,h5,h6 {
 		line-height:140%;

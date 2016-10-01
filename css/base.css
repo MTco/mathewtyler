@@ -143,7 +143,7 @@ article::after{
 }
 body {
 	color:#444;
-	font:17px/27px 'Helvetica',sans-serif;
+	font:17px Verdana,Arial,sans-serif,"Source Sans Pro",sans-serif,'Helvetica';
 }
 h1,h2,h3,h4,h5,h6 {
 	font-family:'Trebuchet MS',sans-serif;
