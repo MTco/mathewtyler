@@ -40,9 +40,11 @@
 		}
 	article {
 		width:90vw;
-		margin-top:28em auto;margin-top:28rem auto;
+		margin:28em auto;margin:28rem auto;
+		/*
 		margin-left:5vw;
 		margin-right:5vw;
+		*/
 		padding-left:0;
 		padding-right:0;
 		border:0;
