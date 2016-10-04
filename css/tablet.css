@@ -37,8 +37,9 @@
 	}
 	html.js #menuLink,html.no-js #menuLink2 {display:inline-block;}
 	#menuLink,#menuLink2 {
-		top:0.25em;top:1.5rem;
-		right:0.3em;right:1rem;
+		position:fixed;
+		top:0.25em;top:0.5rem;
+		right:1.3em;right:1.5rem;
 		order:3;
 	}
 	#menuLink label,#menuLink2 label{
@@ -60,7 +61,7 @@
 		}
 	article {
 		width:83%;
-		margin-top:6em;margin-top:6rem;
+		margin-top:10em;margin-top:10rem;
 		margin-left:8px;
 		margin-right:8px;
 		padding-left:0;
