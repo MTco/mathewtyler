@@ -103,4 +103,12 @@
 		.socialize ol li{
 			display:inline-block;
 		}
+
+	input[type=checkbox]:checked ~ .qrOverlay {
+		top:-81%;top:-81vh;
+		height:79%;height:79vh;
+	}
+	.qrShare{
+		height:77%;height:77vh;
+	}
 }

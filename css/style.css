@@ -151,41 +151,32 @@ header,#main{
 .containerz ,.container ,header,main ,aside ,article ,footer {background-color: rgba(45, 53, 62, 0.9);}
 */
 
+/*
+#https://pageshot.net
+
+.vertical-centered-content-wrapper {
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	background-image: -webkit-radial-gradient(ellipse 250% 100% at center 140%, #737ffd 12%, #0065b8 50%, #1e4488 100%);
+	background-image: radial-gradient(ellipse 250% 100% at center 140%, #737ffd 12%, #0065b8 50%, #1e4488 100%);
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	min-height: 100vh;
+	overflow: hidden;
+}
+*/
+
 .socialize .the-icons {
 	width:16%;
-}
-.qrOverlay {
-	position:absolute;
-	top:0;
-	left:-100vw;
-	width:1px;
-	height:1px;
-	margin:0 auto;
-	display:none;
-	background:#000;
-	align-items:center;
-	text-align:center;
-	z-index:35000;
-}
-.qrOverlay a {
-	width:96vw;
-	margin:0 auto;
-	display:flex;
-	text-align:center;
-	align-items:center;
-}
-.qrShare {
-	width:auto;
-	height:100%;
-	margin:0 auto;
-	padding:6%;
-}
-input[type=checkbox]:checked ~ .qrOverlay {
-	top:-85vh;
-	left:0;
-	width:100vw;
-	height:85vh;
-	display:flex;
 }
 
 .push {

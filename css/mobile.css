@@ -82,7 +82,7 @@
 		padding-right:0%;
 	}
 	#main,main {
-		margin-top:-6em;margin-top:-6rem;
+		margin-top:-4em;margin-top:-4rem;
 		flex-direction:column;
 	}
 	html.js #menuLink,html.no-js #menuLink2 {display:inline-block;}
@@ -171,5 +171,11 @@
 	}
 	.socialize ol li{
 		max-width:71px;
+	}
+	.qrOverlay a {
+		padding-top:10%;padding-top:10vh;
+	}
+	.qrShare{
+		height:70%;height:70vh;
 	}
 }

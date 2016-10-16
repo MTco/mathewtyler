@@ -128,6 +128,41 @@ header {
 		section {
 			margin:0 auto;
 		}
+
+.qrOverlay {
+	position:absolute;
+	top:0;
+	left:-100vw;
+	width:1px;
+	height:1px;
+	margin:0 auto;
+	display:none;
+	background:#000;
+	align-items:center;
+	text-align:center;
+	z-index:35000;
+}
+.qrOverlay a {
+	width:96vw;
+	margin:0 auto;
+	display:flex;
+	text-align:center;
+	align-items:center;
+}
+.qrShare {
+	width:auto;
+	height:83%;height:83vh;
+	margin:0 auto;
+	padding:0;
+}
+input[type=checkbox]:checked ~ .qrOverlay {
+	top:-88vh;
+	left:0;
+	width:100vw;
+	height:85vh;
+	display:flex;
+}
+
 footer {
 	float:left;
 	width:940px;
