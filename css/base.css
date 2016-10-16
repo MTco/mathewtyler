@@ -159,7 +159,7 @@ input[type=checkbox]:checked ~ .qrOverlay {
 	top:-88vh;
 	left:0;
 	width:100vw;
-	height:85vh;
+	height:90vh;
 	display:flex;
 }
 
