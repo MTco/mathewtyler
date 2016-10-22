@@ -1,4 +1,4 @@
-(function(){
+var asdf=(function(){
 	if(!window['priFri']&&typeof inited==='undefined'){
 		var isHostMethod=function(object,methodName)
 		{
