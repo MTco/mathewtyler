@@ -1,5 +1,1 @@
-(function (window){
-	'use strict';
-	var H=window,l=H.document,where_am_i=top.location||l.href||l.location;
-	if(typeof where_am_i.hash==='undefined'||where_am_i.hash===''){where_am_i+='#qr';top.location=where_am_i;}
-})(window);
+(function(window){'use strict';var H=window,l=H.document,where_am_i=top.location||l.href||l.location,hash=location.hash||'';if(hash!=='#qr'){where_am_i+='#qr';top.location=where_am_i;return true;}return false;})(window);
