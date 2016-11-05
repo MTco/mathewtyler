@@ -1,14 +1,17 @@
 @charset 'UTF-8';
 
 html {
-	position:relative;background:transparent;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;direction:ltr;text-rendering:optimizelegibility;
-	font-family:Verdana,Arial,sans-serif,"Source Sans Pro",sans-serif;
-	/*font-family:"Proxima Nova Regular","Segoe UI",Roboto,"Droid Sans","Helvetica Neue",Arial,sans-serif;*/
-}
-html, body, button {
+	position:relative;
+	background:transparent;
+	-ms-text-size-adjust:100%;
+	-webkit-text-size-adjust:100%;
+	direction:ltr;
 	-moz-osx-font-smoothing:grayscale;
 	-webkit-font-smoothing:antialiased;
-	font-smoothing:antialiased;font-family:Verdana,Arial,sans-serif,"Source Sans Pro",sans-serif;
+	font-smoothing:antialiased;
+	text-rendering:optimizelegibility;
+	font-family:Verdana,Arial,sans-serif,"Source Sans Pro",sans-serif;
+	/*font-family:"Proxima Nova Regular","Segoe UI",Roboto,"Droid Sans","Helvetica Neue",Arial,sans-serif;*/
 }
 
 /*
@@ -109,7 +112,7 @@ header,#main{
 
 #timeLeft{
 	position:absolute;
-	top:0;right:15.4%;
+	top:0;right:0;
 	width:225px;width:10em;width:13rem;
 	height:35px;height:1.7em;height:2.2rem;
 	background:#45484d; /* Old browsers */
