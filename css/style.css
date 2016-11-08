@@ -266,17 +266,30 @@ footer .tc{
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#F3241A',endColorstr='#cf0404',GradientType=0 ); /* IE6-9 */
 }
 
-li:nth-child(odd) h2{
+li:nth-child(odd) h2,.h2Red{
 	background:#C62127;
 	color:#fff;
 	border-radius:6px;
 	padding:0.1% 1%;
 }
-li:nth-child(even) h2{
+li:nth-child(even) h2,.h2Blue{
 	background:#0078C1;
 	color:#fff;
 	border-radius:6px;
 	padding:0.1% 1%;
+}
+
+input[type=checkbox] ,html.js .hiddenOverflow{
+	display:none;
+}
+input[type=checkbox]:checked ~ label h2 span{
+	transform:rotateZ(180deg);
+}
+input[type=checkbox]:checked ~ .hiddenOverflow {
+	display:block;
+}
+label h2 span{
+	font-size:0.5em !important;font-size:1rem !important;
 }
 
 .pure-button {
