@@ -25,6 +25,7 @@
 	}
 	header,article,footer{
 		width:96vw;
+		margin:0 auto !important;
 		border:unset !important;
 	}
 	header{
