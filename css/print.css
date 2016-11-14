@@ -21,11 +21,11 @@
 	*/
 
 	#wrapper{
+		width:96%;width:96vw;
 		box-shadow:unset !important;
 	}
 	header,article,footer{
-		width:96vw;
-		margin:0 auto !important;
+		width:96%;width:96vw;
 		border:unset !important;
 	}
 	header{
