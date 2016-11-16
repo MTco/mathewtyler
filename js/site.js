@@ -1,13 +1,14 @@
 var e;try{window.opener=null;}catch(e){}
 (function (window){
 	'use strict';
-	if(typeof window.inited==='undefined'){
-		var inited=window.inited=false,jq=(function($){
+	if(typeof inited==='undefined'){
+		FastClick.attach(document.body);
+		var inited=false,H=window,l=H.document,jq=(function($,dom){
 			var isHostMethod=function(object,methodName)
 			{
 				var t=typeof object[methodName];
 				return ((t==='function'||t==='object')&&!!object[methodName])||t==='unknown';
-			},inited=false,H=window,l=H.document,where_am_i=top.location||l.href||l.location,hash=location.hash||'',e,nIntervId,$el,tmp,eventMethod=isHostMethod(l,'addEventListener')?'addEventListener':'attachEvent',$body,e,asdf,MTcoApp=function(){
+			},inited=false,where_am_i=top.location||l.href||l.location,hash=location.hash||'',e,nIntervId,$el,tmp,eventMethod=isHostMethod(l,'addEventListener')?'addEventListener':'attachEvent',$body,e,asdf,MTcoApp=function(){
 				function app(){
 					if(inited===false){
 						var self=this;
@@ -36,7 +37,7 @@ var e;try{window.opener=null;}catch(e){}
 				return app;
 			}();
 			var app=new MTcoApp();return true;
-		}(jQuery.noConflict(true)));
+		}(H.jQuery.noConflict(true),l));
 	}
 	return false;
 })(window);
