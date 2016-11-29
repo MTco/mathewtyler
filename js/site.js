@@ -2,7 +2,6 @@ var e;try{window.opener=null;}catch(e){}
 (function (window){
 	'use strict';
 	if(typeof inited==='undefined'){
-		FastClick.attach(document.body);
 		var inited=false,H=window,l=H.document,jq=(function($,dom){
 			var isHostMethod=function(object,methodName)
 			{
@@ -10,7 +9,7 @@ var e;try{window.opener=null;}catch(e){}
 				return ((t==='function'||t==='object')&&!!object[methodName])||t==='unknown';
 			},inited=false,where_am_i=top.location||l.href||l.location,hash=location.hash||'',e,nIntervId,$el,tmp,eventMethod=isHostMethod(l,'addEventListener')?'addEventListener':'attachEvent',$body,e,asdf,MTcoApp=function(){
 				function app(){
-					if(inited===false){
+					if(inited!==true){
 						var self=this;
 						self.initialize();
 					}else{
@@ -19,9 +18,10 @@ var e;try{window.opener=null;}catch(e){}
 				};
 				app.prototype.initialize=function initialize(){
 					var self=this;
-					if(inited===false){
-						inited=window.inited=true;
-						if(hash!=='')
+					if(inited!==true){
+						inited=true;
+						hash='#'+hash.substr(1,36);
+						if(hash!=='#')
 						{
 							clearInterval(nIntervId);
 							$el=$('body',$('html')['0']).first().find(hash).first();
@@ -38,6 +38,9 @@ var e;try{window.opener=null;}catch(e){}
 			}();
 			var app=new MTcoApp();return true;
 		}(H.jQuery.noConflict(true),l));
+		FastClick.attach(l.body);
+		return true;
+	}else{
+		return false;
 	}
-	return false;
 })(window);
