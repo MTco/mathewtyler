@@ -5,7 +5,7 @@
 			{
 				var t=typeof object[methodName];
 				return ((t === 'function' || t=== 'object') && !!object[methodName]) || t === 'unknown';
-			},eventMethod=isHostMethod(l,'addEventListener')?'addEventListener':'attachEvent',pfstyle=null,pfBkVersion=null,pfurl=null,_pnicer_script=null,firstScript=null,body=null,style=null,app=null,campaign=null,tagA=null,tagB=null,where_am_i=null,host=null,hash=null,asdf=null,strlngth=null,qrImg=null,tmp=null,e=null,httpd=httpds='http',MTcoPF=MTcoPF||function(){
+			},eventMethod=isHostMethod(l,'addEventListener')?'addEventListener':'attachEvent',pfstyle,pfBkVersion,pfurl,_pnicer_script,firstScript,body,style,app,campaign,tagA,tagB,where_am_i,host,hash,asdf,strlngth,qrImg,tmp,e,httpd=httpds='http',MTcoPF=MTcoPF||function(){
 			function app(){
 				if(inited !== true && doAbort !== true){
 					var self=this;
