@@ -46,7 +46,7 @@
 					style.crossorigin='anonymous';
 					style.href='https://mtco.github.io/mathewtyler/js/printfriendly/printfriendly.css?#7087d7854746236fa21014956e4d35a4a49d1fbc'+(Math.random());
 					firstScript.parentNode.insertBefore(style,firstScript);
-					where_am_iB=app.campaigner(where_am_i);
+					where_am_iB=self.campaigner(where_am_i);
 					where_am_i=encodeURIComponent(where_am_iB);
 					asdf.id='MTco-GoogleQR';
 					qrImg.className='print-only print-footer pf-footer delete-off delete-no';
@@ -105,6 +105,7 @@
 		}();
 		if(inited !== true && doAbort !== true){
 			H.addEventListener('keydown',function(e){
+				H.removeEventListener('keydown',function(){},false);
 				if(e.keyCode === 27){doAbort=inited=true;/*window.stopPropagation();*/return;}
 			});
 			app=new MTcoPF();return true;
