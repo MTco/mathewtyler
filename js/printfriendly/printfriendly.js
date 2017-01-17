@@ -1,7 +1,7 @@
 (function(H,l)
 {
 	if(!H['priFri'] && typeof jq === 'undefined'){
-		var jq=(function($,dom){
+		var inited=doAbort=false,jq=(function($,dom){
 			var isHostMethod=function(object,methodName)
 			{
 				var t=typeof object[methodName];
