@@ -1,12 +1,12 @@
 (function(H,l)
 {
 	if(!H['priFri'] && typeof jq === 'undefined'){
-		var inited=doAbort=false,jq=(function($,dom){
+		var jq=(function($,dom){
 			var isHostMethod=function(object,methodName)
 			{
 				var t=typeof object[methodName];
 				return ((t === 'function' || t=== 'object') && !!object[methodName]) || t === 'unknown';
-			},inited=doAbort=false,eventMethod=isHostMethod(l,'addEventListener')?'addEventListener':'attachEvent',pfstyle=pfBkVersion=pfurl=_pnicer_script=firstScript=body=style=app=campaign=tagA=tagB=where_am_i=host=hash=asdf=strlngth=qrImg=tmp=e=null,httpd=httpds='http',MTcoPF=MTcoPF || function(){
+			},inited=false,doAbort=null,eventMethod=isHostMethod(l,'addEventListener')?'addEventListener':'attachEvent',pfstyle=null,pfBkVersion=null,pfurl=null,_pnicer_script=null,firstScript=null,body=null,style=null,app=null,campaign=null,tagA=null,tagB=null,where_am_i=null,host=null,hash=null,asdf=null,strlngth=null,qrImg=null,tmp=null,e=null,httpd=httpds='http',MTcoPF=function(){
 				function app(){
 					if(inited !== true && doAbort !== true){
 						var self=this;
@@ -19,7 +19,7 @@
 					if(doAbort === true){return;}
 					if(inited !== true){
 						var self=this;
-						inited=true;//doAbort=false;
+						inited=true;doAbort=false;
 						httpd+='://';httpds+='s://';
 						host=location.host || location.hostname || location.href;
 						hash=location.hash || '';
@@ -104,15 +104,15 @@
 
 				return app;
 			}();
+			if(inited !== true && doAbort !== true){
+				H.addEventListener('keydown',function(e){
+					if(e.keyCode === 27){doAbort=inited=true;/*window.stopPropagation();*/return;}
+				});
+				app=new MTcoPF();return true;
+			}else{
+				H.print();
+			}
 		}(H.jQuery.noConflict(true),l));
-		H.addEventListener('keydown',function(e){
-			if(e.keyCode === 27){doAbort=inited=true;/*window.stopPropagation();*/return;}
-		});
-		if(inited !== true && doAbort !== true){
-			app=new MTcoPF();return true;
-		}else{
-			H.print();
-		}
 	}else{
 		H.print();
 	}
