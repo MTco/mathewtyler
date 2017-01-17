@@ -1,11 +1,11 @@
 (function(H,l)
 {
 	if(!H['priFri'] && typeof inited === 'undefined'){
-		var inited=doAbort=false,isHostMethod=function(object,methodName)
+		var inited=false,doAbort,isHostMethod=function(object,methodName)
 			{
 				var t=typeof object[methodName];
 				return ((t === 'function' || t=== 'object') && !!object[methodName]) || t === 'unknown';
-			},eventMethod=isHostMethod(l,'addEventListener')?'addEventListener':'attachEvent',pfstyle,pfBkVersion,pfurl,_pnicer_script,firstScript,body,style,app,campaign,tagA,tagB,where_am_i,host,hash,asdf,strlngth,qrImg,tmp,e,httpd=httpds='http',MTcoPF=MTcoPF||function(){
+			},eventMethod=isHostMethod(l,'addEventListener')?'addEventListener':'attachEvent',pfstyle,pfBkVersion,pfurl,_pnicer_script,firstScript,body,style,app,campaign,tagA,tagB,where_am_i,host,hash,asdf,strlngth,nIntervId,qrImg,tmp,e,httpd=httpds='http',MTcoPF=MTcoPF||function(){
 			function app(){
 				if(inited !== true && doAbort !== true){
 					var self=this;
@@ -54,8 +54,8 @@
 					asdf.innerHTML='<img class="'+qrImg.className+'" src="'+qrImg.src+'"/>';
 					body.appendChild(asdf);
 					/*if(!H.jQuery){document.write('<script src="https://cdn.jsdelivr.net/jquery/3.1.0/jquery.min.js"><\/script>');}var tmp=$('#pf-core').contents().find('#algo-iframe').first().contents().find('#article_content .sub .text-node').first().text();*/
-					setTimeout((function(){
-						H.print();
+					nIntervId=setTimeout((function(){
+						clearInterval(nIntervId);H.print();
 						//l.location.protocol=tmp;
 					}),3500);
 				}else{
@@ -116,4 +116,3 @@
 		H.print();
 	}
 })(window,document);
-//
