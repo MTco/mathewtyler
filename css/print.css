@@ -125,6 +125,10 @@
 	  clear:both; /*helps keep images with intended content*/
 	}
 
+	.unorderlist > li{
+		list-style-type:none !important;
+	}
+
 	.listNumerical li,
 	ol.numerical li,
 	ul.numerical li{
@@ -177,10 +181,6 @@
 		list-style:lower-alpha inside !important;
 		text-shadow:unset !important;
 		display:list-item !important;
-	}
-
-	.unorderlist > li{
-		list-style-type:none !important;
 	}
 
 	li h2 {
