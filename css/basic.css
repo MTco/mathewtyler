@@ -589,55 +589,55 @@ a.disabled,input.disabled{
 .listNumerical li,
 ol.numerical li,
 ul.numerical li{
-	color:#444;
-	list-style:numerical;
-	text-shadow:unset;
-	display:list-item;
+	color:#444 !important;
+	list-style:numerical !important;
+	text-shadow:unset !important;
+	display:list-item !important;
 }
 
 .listCircle li,
 ol.circle li,
 ul.circle li{
-	color:#444;
-	list-style:circle inside;
-	text-shadow:unset;
-	display:list-item;
+	color:#444 !important;
+	list-style:circle inside !important;
+	text-shadow:unset !important;
+	display:list-item !important;
 }
 
 .listDisc li,
 ol.disc li,
 ul.disc li{
-	color:#444;
-	list-style:disc inside;
-	text-shadow:unset;
-	display:list-item;
+	color:#444 !important;
+	list-style:disc inside !important;
+	text-shadow:unset !important;
+	display:list-item !important;
 }
 
 .listSquare li,
 ol.square li,
 ul.square li{
-	color:#444;
-	list-style:square inside;
-	text-shadow:unset;
-	display:list-item;
+	color:#444 !important;
+	list-style:square inside !important;
+	text-shadow:unset !important;
+	display:list-item !important;
 }
 
 .romanUpper li,
 ol.romanUpper li,
 ul.romanUpper li{
-	color:#444;
-	list-style:upper-roman inside;
-	text-shadow:unset;
-	display:list-item;
+	color:#444 !important;
+	list-style:upper-roman inside !important;
+	text-shadow:unset !important;
+	display:list-item !important;
 }
 
 .alphaLower li,
 ol.alphaLower li,
 ul.alphaLower li{
-	color:#444;
-	list-style:lower-alpha inside;
-	text-shadow:unset;
-	display:list-item;
+	color:#444 !important;
+	list-style:lower-alpha inside !important;
+	text-shadow:unset !important;
+	display:list-item !important;
 }
 
 .hiddenDisplay {
