@@ -586,84 +586,59 @@ a.disabled,input.disabled{
 	font-variant:small-caps;
 }
 
-.listNumerical,
-ol.numerical,
-ul.numerical{
+.listNumerical li,
+ol.numerical li,
+ul.numerical li{
+	color:#444;
 	list-style:numerical;
-	color:#444;
-	text-shadow:unset !important;
+	text-shadow:unset;
+	display:list-item;
 }
-	.listCircle li,
-	ol.circle li,
-	ul.circle li{
-		display:list-item;
-		list-style:unset;
-	}
-.listCircle,
-ol.circle,
-ul.circle{
+
+.listCircle li,
+ol.circle li,
+ul.circle li{
+	color:#444;
 	list-style:circle inside;
-	color:#444;
-	text-shadow:unset !important;
+	text-shadow:unset;
+	display:list-item;
 }
-	.listCircle li,
-	ol.circle li,
-	ul.circle li{
-		display:list-item;
-		list-style:unset;
-	}
-.listDisc,
-ol.disc,
-ul.disc{
+
+.listDisc li,
+ol.disc li,
+ul.disc li{
+	color:#444;
 	list-style:disc inside;
-	color:#444;
-	text-shadow:unset !important;
+	text-shadow:unset;
+	display:list-item;
 }
-	.listDisc li,
-	ol.disc li,
-	ul.disc li{
-		display:list-item;
-		list-style:unset;
-	}
-.listSquare,
-ol.square,
-ul.square{
+
+.listSquare li,
+ol.square li,
+ul.square li{
+	color:#444;
 	list-style:square inside;
-	color:#444;
-	text-shadow:unset !important;
+	text-shadow:unset;
+	display:list-item;
 }
-	.listSquare li,
-	ol.square li,
-	ul.square li{
-		display:list-item;
-		list-style:unset;
-	}
-.romanUpper,
-ol.romanUpper,
-ul.romanUpper{
+
+.romanUpper li,
+ol.romanUpper li,
+ul.romanUpper li{
+	color:#444;
 	list-style:upper-roman inside;
-	color:#444;
-	text-shadow:unset !important;
+	text-shadow:unset;
+	display:list-item;
 }
-	.romanUpper li,
-	ol.romanUpper li,
-	ul.romanUpper li{
-		display:list-item;
-		list-style:unset;
-	}
-.alphaLower,
-ol.alphaLower,
-ul.alphaLower{
+
+.alphaLower li,
+ol.alphaLower li,
+ul.alphaLower li{
+	color:#444;
 	list-style:lower-alpha inside;
-	color:#444;
-	text-shadow:unset !important;
+	text-shadow:unset;
+	display:list-item;
 }
-	.alphaLower li,
-	ol.alphaLower li,
-	ul.alphaLower li{
-		display:list-item;
-		list-style:unset;
-	}
 
 .hiddenDisplay {
 	display:none !important;
