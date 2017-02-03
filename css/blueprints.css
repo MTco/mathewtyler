@@ -3,7 +3,7 @@
    IMPLEMENTATION
    ========================================================================== */
 
-h2,.blueprints * {
+.blueprintsContainer h2,.blueprintsContainer .blueprints * {
 	font-family:'Comic Neue', sans-serif;
 	font-weight:300;
 	line-height:1.5;
@@ -155,10 +155,10 @@ h2,.blueprints * {
 	font-weight:700;
 	font-style:oblique;
 }
-article {
+.article {
 	width:82%;
 }
-.legals{
+.blueprintsContainer .legals{
 	color:#000;
 	background:#fff;
 	font-family:times,Times New Roman,times-roman,georgia,serif;
@@ -167,17 +167,17 @@ article {
 	text-shadow:unset;
 	filter:unset;
 }
-.blueprints * {
+.blueprintsContainer .blueprints * {
 	color:#fff;
 	background:#2F4E81;
 	font-weight:bold;
 }
-#outter {
+.blueprintsContainer #outter {
 	display:flex;
 	align-items:center;
 	justify-content:center;
 }
-ol li{
+.blueprintsContainer ol li{
 	padding:0.5em;
 	padding:0.5rem;
 	list-style:decimal inside;
