@@ -59,7 +59,7 @@ body {
 }
 
 body,footer{
-	background:#F7F5F2 url('https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/ui/textures/vintage_speckles.png#a3af1eb0d370b0e784188e8f6b394515cabe46a0') repeat;	/*#F7F5F2	#E7E3DB	#F4F1E6	#EFEEE9	#F4F4F0	#F8F8F2	#F4F1EA	#f9f9f9	#f1f1f1 #F0ECDF #DBD7CE #D1C6B0 #EFEAE1*/
+	background:#F7F5F2 url('https://mtco.github.io/mathewtyler/img/ui/textures/vintage_speckles.png') repeat;	/*#F7F5F2	#E7E3DB	#F4F1E6	#EFEEE9	#F4F4F0	#F8F8F2	#F4F1EA	#f9f9f9	#f1f1f1 #F0ECDF #DBD7CE #D1C6B0 #EFEAE1*/
 }
 
 a {
@@ -466,7 +466,7 @@ a.linkAfter:after{
 	margin-top:10%;
 	margin-left:35%;
 	opacity:0.5;
-	background:transparent url('https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/screenshots/youtube.com/youtube_play.png#6152b7573eb96597c520d794254a87075effa869') no-repeat;
+	background:transparent url('https://mtco.github.io/mathewtyler/img/screenshots/youtube.com/youtube_play.png') no-repeat;
 }
 
 .pulse {

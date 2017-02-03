@@ -637,10 +637,10 @@ ul[class*="menu-"] li a:active,ul[class*="menu-"] li a.selected:hover,ul[class*=
 	width:1em;width:1rem;
 }
 .flag-icon-us {
-	background-image:url(https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/ui/flags/4x3/us.svg#f538a6599e00f55d99c7a6f9d65641b8644c57e7);
+	background-image:url(https://mtco.github.io/mathewtyler/img/ui/flags/4x3/us.svg);
 }
 .flag-icon-us.flag-icon-squared {
-	background-image:url(https://cdn.rawgit.com/MaxMillion/mathewtyler/gh-pages/img/ui/flags/1x1/us.svg#f538a6599e00f55d99c7a6f9d65641b8644c57e7);
+	background-image:url(https://mtco.github.io/mathewtyler/img/ui/flags/1x1/us.svg);
 }
 
 .mobileVisible,.tabletVisibile,.desktopVisible {
