@@ -463,8 +463,10 @@ a.linkAfter:after{
 	left:0;
 	width:268px;
 	height:188px;
-	margin-top:10%;
-	margin-left:35%;
+	margin-top:14%;
+	margin-top:8vh;
+	margin-left:22%;
+	margin-left:5vw;
 	opacity:0.5;
 	background:transparent url('https://mtco.github.io/mathewtyler/img/screenshots/youtube.com/youtube_play.png') no-repeat;
 }
