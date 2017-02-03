@@ -179,6 +179,10 @@
 		display:list-item !important;
 	}
 
+	.unorderlist li{
+		list-style-type:none !important;
+	}
+
 	li h2 {
 		color:#444 !important;
 		background:unset !important;
