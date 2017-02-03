@@ -72,4 +72,4 @@ NETWORK:
 *
 
 FALLBACK:
-/ /offline.html#qr
+/ /offline.html?status=offline#qr
