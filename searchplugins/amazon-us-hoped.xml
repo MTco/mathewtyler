@@ -8,7 +8,7 @@
 	<SearchForm>http://www.amazon.com/?ie=UTF8&amp;tag=hoped-20&amp;t=0111011101110101011101000110010101110110-20</SearchForm>
 	<moz:SearchForm>http://www.amazon.com/?ie=UTF8&amp;tag=hoped-20&amp;t=0111011101110101011101000110010101110110-20</moz:SearchForm>
 	<Url type="application/x-suggestions+json" rel="results" method="GET" template="http://completion.amazon.com/search/complete?method=completion&amp;tag=hoped-20&amp;search-alias=aps&amp;t=0111011101110101011101000110010101110110-20&amp;client=amzn-search-suggestions&amp;mkt=1&amp;q={searchTerms}" resultDomain="amazon.com"/>
-	<Url type="text/html" rel="results" method="GET" template="http://www.amazon.com/gp/search" resultDomain="amazon.com"/>
+	<Url type="text/html" rel="results" method="GET" template="http://www.amazon.com/gp/search" resultDomain="amazon.com">
 		<Param name="ie" value="UTF8"/>
 		<Param name="tag" value="hoped-20"/>
 		<Param name="camp" value="1789"/>
