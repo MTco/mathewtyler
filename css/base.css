@@ -119,13 +119,13 @@ header {
 	aside {
 		width:10%;/*300px; */
 	}
-	article {
+	section {
 		width:78%;/*620px;*/
 		min-height:70vh;
 		padding-bottom:1vh;
 		border-left:1px solid #eee;
 	}
-		section {
+		article {
 			margin:0 auto;
 		}
 
@@ -171,7 +171,7 @@ footer {
 	padding-left:0;
 	padding-right:0;
 }
-article::after{
+section::after{
 	clear:both;
 }
 body {

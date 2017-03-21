@@ -38,7 +38,7 @@
 		header .pageTitleImage{
 			width:84%;
 		}
-	article {
+	section {
 		width:90vw;
 		margin:28em auto;margin:28rem auto;
 		/*
@@ -70,7 +70,7 @@
 			margin-top:8em;margin-top:8rem;margin-top:29vh;
 			margin-left:1em;margin-left:1rem;margin-left:6vw;
 		}
-		html.js #menuToggle:checked ~ article,html.no-js article {
+		html.js #menuToggle:checked ~ section,html.no-js section {
 			margin-top:4em;margin-top:4rem;margin-top:13vh;
 		}
 	footer {
@@ -95,7 +95,7 @@
 		font-size:2.5em;font-size:2.5rem;
 	}
 	header { order: 1; }
-	article { order: 3; }
+	section { order: 3; }
 	aside { order: 2; }
 	footer { order: 4; }
 

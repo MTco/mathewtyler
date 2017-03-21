@@ -1,0 +1,9 @@
+<IfModule mod_expires.c>
+	ExpiresActive On
+	ExpiresByType application/x-javascript A4838400
+</IfModule>
+<ifmodule mod_php4.c>
+	php_flag zlib.output_compression on
+	php_value zlib.output_compression 16386
+	php_value zlib.output_compression_level 6
+</ifmodule>
