@@ -20,6 +20,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 		}
 ol,ul {
 	list-style:none;
+	margin-left:2em;margin-left:2.5rem;margin-left:3.65%;margin-left:1.65vw;
 }
 blockquote,q {
 	quotes:none;
