@@ -113,7 +113,7 @@ header,#main{
 #timeLeft{
 	position:absolute;
 	top:0;right:0;
-	width:225px;width:10em;width:13rem;
+	width:240px;width:12em;width:15rem;
 	height:35px;height:1.7em;height:2.2rem;
 	background:#45484d; /* Old browsers */
 	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
