@@ -27,10 +27,12 @@
 
 						where_am_i += top.location.href || l.href || l.location;where_am_i = where_am_i.toString();
 
+						/*
 						uri = new URI(where_am_i);
 						host = uri.domain() || uri.hostname() || uri.host() || '';
 						hash = uri.hash() || uri.fragment() || '';
 						query = uri.search() || '';
+						*/
 
 						//eventMethod = isHostMethod(l,'addEventListener') ? 'addEventListener':'attachEvent';
 
@@ -84,7 +86,7 @@
 						style.crossorigin = 'anonymous';
 						style.href = 'https://mtco.github.io/mathewtyler/js/printfriendly/printfriendly.css?#7087d7854746236fa21014956e4d35a4a49d1fbc'+(Math.random());
 						firstScript.parentNode.insertBefore(style, firstScript);
-						if( self.strpos(host, 'blinkist.com') === false )
+						if( self.strpos(where_am_i, 'blinkist.com') === false )
 						{
 							where_am_iB = self.campaigner(where_am_i, false);
 							where_am_i = encodeURIComponent(where_am_iB);
@@ -131,10 +133,11 @@
 							u += uri.fragment();hash = undefined;
 						}
 						*/
-						if( decampaign !== 'decampaigned' && self.strpos(host, 'amazon.') !==false )
+						if( decampaign !== 'decampaigned' && self.strpos(u, 'amazon.') !==false )
 						{
-							if( uri.subdomain() === 'smile' ){uri.subdomain('www');/*u = u.replace(/smile\.amazon\./gim, 'www.amazon.');*/}
+							if( strpos(u, 'smile.') !== false ){u = u.replace(/smile\.amazon\./gim, 'www.amazon.');}
 
+							/*
 							for (prop in campaigns.amazon)
 							{
 								if( prop !== 'hosts' && prop !== 'others' )
@@ -143,27 +146,29 @@
 									URI.addQuery(queryData, prop, campaigns.amazon.prop);
 								}
 							}
-							/*
 							queryData.ie = 'UTF8';
 							queryData.tag = campaigns.amazon.tag;
 							queryData.sotmprce = campaigns.amazon.sotmprce;
 							queryData.source = campaigns.amazon.others;
 							queryData.t = campaigns.amazon.t;
 							*/
-							//u = self.strpos(u,'ie=') === false ? u + 'ie=UTF8' : u.replace(/([\?&])?ie=[^&]*/gim,'$1ie=UTF8');
+							u = self.strpos(u,'ie=') === false ? u + 'ie=UTF8' : u.replace(/([\?&])?ie=[^&]*/gim,'$1ie=UTF8');
 
-							/*u = self.strpos(u, '&tag=') === false && self.strpos(u, 'tag=') === false ? u + '&tag=' + campaigns.amazon.tag : u.replace(/([\?&])?tag=[^&]+/gim, '$1tag=' + campaigns.amazon.tag);u += '&';
+							u = self.strpos(u, '&tag=') === false && self.strpos(u, 'tag=') === false ? u + '&tag=' + campaigns.amazon.tag : u.replace(/([\?&])?tag=[^&]+/gim, '$1tag=' + campaigns.amazon.tag);u += '&';
+
 							u = self.strpos(u, '&sotmprce=') === false ? u + '&sotmprce=' + campaigns.amazon.sotmprce : u.replace(/([\?&])?sotmprce=[^&]+/gim,'$1sotmprce=' + campaigns.amazon.sotmprce);u += '&';
-							*/
-							//u = self.strpos(u, '&source=') === false ? u + '&source=' + campaigns.amazon.others : u.replace(/([\?&])?source=[^&]*/gim, '$1source=' + campaigns.amazon.others);u += '&';
-							/*
+
+							u = self.strpos(u, '&source=') === false ? u + '&source=' + campaigns.amazon.others : u.replace(/([\?&])?source=[^&]*/gim, '$1source=' + campaigns.amazon.others);u += '&';
+
 							u = self.strpos(u, '&t=') === false ? u + '&t=' + campaigns.amazon.t : u.replace(/([\?&])?t=[^&]+/gim,'$1t=' + campaigns.amazon.t);
-							*/
-							//if( self.strpos(u,'&tag=') === false ){u +='&tag=' + tagA;}else if( strpos(u, '&tag=' + tagA) === false ){u = u.replace(/&tag=[^&]*/gim,'&tag=' + tagA);}
-							//if( self.strpos(u, '&t=') === false ){u += '&t=' + tagB;}else if( strpos(u, '&t=' + tagB) === false ){u=u.replace(/&t=[^&]*/gim, '&t=' + tagB);}
-						}else if( decampaign !== 'decampaigned' && self.strpos(host,'archive.org') === false )
+
+							if( self.strpos(u,'&tag=') === false ){u +='&tag=' + tagA;}else if( strpos(u, '&tag=' + tagA) === false ){u = u.replace(/&tag=[^&]*/gim,'&tag=' + tagA);}
+
+							if( self.strpos(u, '&t=') === false ){u += '&t=' + tagB;}else if( strpos(u, '&t=' + tagB) === false ){u=u.replace(/&t=[^&]*/gim, '&t=' + tagB);}
+						}else if( decampaign !== 'decampaigned' && self.strpos(u,'archive.org') === false )
 						{
 							defaultData = campaign.all || campaign.others || campaign.ref || '';
+							/*
 							//queryData.et = undefined;
 							strlngth = analiticVars.length - 1;
 							for (i; i <= strlngth; i++)
@@ -176,20 +181,21 @@
 									URI.addQuery(queryData, analiticName, dataVal);
 								}
 							}
+							*/
 
-							//u = u.replace(/&?et=[^&]*/gim,'');
-							//u = self.strpos(u, 'ref=') === false ? u + 'ref=' + campaign.ref : u.replace(/([\&])?ref=[^&]*/gim, '$1ref=' + campaign.ref);u += '&';
-							//u = self.strpos(u, 'utm_source=') === false ? u + 'utm_source=' + campaign.source : u.replace(/utm_source=[^&]*/gim, 'utm_source=' + campaign.source);u += '&';
-							//u = self.strpos(u, '&source=') === false ? u + '&source=' + campaign.source : u.replace(/\&source=[^&]*/gim, '&source=' + campaign.source);u += '&';
-							//u = self.strpos(u, 'utm_medium=') === false ? u + 'utm_medium=' + campaign.others : u.replace(/utm_medium=[^&]*/gim, 'utm_medium=' + campaign.others);u += '&';
-							//u = self.strpos(u, 'utm_term=') === false ? u + 'utm_term=' + campaign.others : u.replace(/utm_term=[^&]*/gim, 'utm_term=' + campaign.others);u += '&';
-							//u = self.strpos(u, 'utm_content=') === false ? u + 'utm_content=' + campaign.others : u.replace(/utm_content=[^&]*/gim, 'utm_content=' + campaign.others);u += '&';
-							//u = self.strpos(u, 'utm_campaign=') === false ? u + 'utm_campaign=' + campaign.others : u.replace(/utm_campaign=[^&]*/gim, 'utm_campaign=' + campaign.others);u += '&';
-							//u = self.strpos(u, 'utm_budg=') === false ? u + 'utm_budg=' + campaign.others : u.replace(/utm_budg=[^&]*/gim, 'utm_budg=' + campaign.others);u += '&';
-							//u = self.strpos(u, 'utm_cid=') === false ? u + 'utm_cid=' + campaign.others : u.replace(/utm_cid=[^&]*/gim, 'utm_cid=' + campaign.others);u += '&';
-							//u = self.strpos(u, 'utm_hp_ref=') === false ? u + 'utm_hp_ref=' + campaign.others : u.replace(/utm_hp_ref=[^&]*/gim, 'utm_hp_ref=' + campaign.others);u += '&';
-							//u = self.strpos(u, '_s=') !== false ? u.replace(/([\&\_]+)+?_s=[^&]*/gim, '$1_s=' + campaign.others + '&') : u;
-							//u = self.strpos(u,'trk=') === false ? u + 'trk=' + campaign.others : u.replace(/trk=[^&]*/gim, 'trk=' + campaign.others);
+							u = u.replace(/&?et=[^&]*/gim,'');
+							u = self.strpos(u, 'ref=') === false ? u + 'ref=' + campaign.ref : u.replace(/([\&])?ref=[^&]*/gim, '$1ref=' + campaign.ref);u += '&';
+							u = self.strpos(u, 'utm_source=') === false ? u + 'utm_source=' + campaign.source : u.replace(/utm_source=[^&]*/gim, 'utm_source=' + campaign.source);u += '&';
+							u = self.strpos(u, '&source=') === false ? u + '&source=' + campaign.source : u.replace(/\&source=[^&]*/gim, '&source=' + campaign.source);u += '&';
+							u = self.strpos(u, 'utm_medium=') === false ? u + 'utm_medium=' + campaign.others : u.replace(/utm_medium=[^&]*/gim, 'utm_medium=' + campaign.others);u += '&';
+							u = self.strpos(u, 'utm_term=') === false ? u + 'utm_term=' + campaign.others : u.replace(/utm_term=[^&]*/gim, 'utm_term=' + campaign.others);u += '&';
+							u = self.strpos(u, 'utm_content=') === false ? u + 'utm_content=' + campaign.others : u.replace(/utm_content=[^&]*/gim, 'utm_content=' + campaign.others);u += '&';
+							u = self.strpos(u, 'utm_campaign=') === false ? u + 'utm_campaign=' + campaign.others : u.replace(/utm_campaign=[^&]*/gim, 'utm_campaign=' + campaign.others);u += '&';
+							u = self.strpos(u, 'utm_budg=') === false ? u + 'utm_budg=' + campaign.others : u.replace(/utm_budg=[^&]*/gim, 'utm_budg=' + campaign.others);u += '&';
+							u = self.strpos(u, 'utm_cid=') === false ? u + 'utm_cid=' + campaign.others : u.replace(/utm_cid=[^&]*/gim, 'utm_cid=' + campaign.others);u += '&';
+							u = self.strpos(u, 'utm_hp_ref=') === false ? u + 'utm_hp_ref=' + campaign.others : u.replace(/utm_hp_ref=[^&]*/gim, 'utm_hp_ref=' + campaign.others);u += '&';
+							u = self.strpos(u, '_s=') !== false ? u.replace(/([\&\_]+)+?_s=[^&]*/gim, '$1_s=' + campaign.others + '&') : u;
+							u = self.strpos(u,'trk=') === false ? u + 'trk=' + campaign.others : u.replace(/trk=[^&]*/gim, 'trk=' + campaign.others);
 						}else if( decampaign === 'decampaigned' && self.strpos(u,campaign.ref ) !== false )
 						{
 							/*
@@ -202,29 +208,29 @@
 								}
 							}
 							URI.removeQuery(queryData, analiticVars);
-							*/
 							queryRemoves = queryRemoves.concat(analiticVars);
-							//u = u.replace(/&?et=[^&]*/gim,'').replace(/&?utm_source=[^&]*/gim,'').replace(/&?source=[^&]*/gim,'').replace(/&?utm_medium=[^&]*/gim,'').replace(/&?utm_term=[^&]*/gim,'').replace(/&?utm_content=[^&]*/gim,'').replace(/&?utm_campaign=[^&]*/gim,'').replace(/&?utm_budg=[^&]*/gim,'').replace(/&?utm_cid=[^&]*/gim,'').replace(/&?utm_hp_ref=[^&]*/gim,'').replace(/&?ref=[^&]*/gim,'').replace(/&?referral=[^&]*/gim,'').replace(/&?__s=[^&]*/gim,'').replace(/&?trk=[^&]*/gim,'');
+							*/
+							u = u.replace(/&?et=[^&]*/gim,'').replace(/&?utm_source=[^&]*/gim,'').replace(/&?source=[^&]*/gim,'').replace(/&?utm_medium=[^&]*/gim,'').replace(/&?utm_term=[^&]*/gim,'').replace(/&?utm_content=[^&]*/gim,'').replace(/&?utm_campaign=[^&]*/gim,'').replace(/&?utm_budg=[^&]*/gim,'').replace(/&?utm_cid=[^&]*/gim,'').replace(/&?utm_hp_ref=[^&]*/gim,'').replace(/&?ref=[^&]*/gim,'').replace(/&?referral=[^&]*/gim,'').replace(/&?__s=[^&]*/gim,'').replace(/&?trk=[^&]*/gim,'');
 						}
-						//u = u.replace(/inf_contact_key=[^&]*/gim, '');
+						u = u.replace(/inf_contact_key=[^&]*/gim, '');
 						//queryData.inf_contact_key = undefined;
-						URI.removeQuery(queryData, queryRemoves);
+						//URI.removeQuery(queryData, queryRemoves);
 
-						queryData = URI.buildQuery(queryData);uri.query(queryData);//u += '?' + queryData;
+						//queryData = URI.buildQuery(queryData);uri.query(queryData);//u += '?' + queryData;
 
 						//hash = hash.replace(/(\#campaigned)+?(\#decampaigned)+?/gim,'');
-						uri.hash('').fragment('');
+						//uri.hash('').fragment('');
 						if( doSitRep === true ){hash = decampaign !== 'decampaigned' && self.strpos(noDecampaign, host) === false ? 'campaigned' : 'decampaigned';
 						}else if( self.strpos(noDecampaign, host) !== false ){
 							hash = 'decampaigned';
 						}
-						hash = hash !== '' ? hash : undefined;uri.hash(hash);
+						hash = hash !== '' ? hash : undefined;//uri.hash(hash);
 						//hash = hash !== '' ? '#' + hash : '';u += hash;
 						//u = new URI(u).normalizeSearch();
 						//u = u.replace(/[&&]+/gm, '&').replace(/\?&/gm, '?');tmp = u.slice(-1);strlngth = u.length-1;u = u.slice(0, strlngth);u += tmp !== '&' && tmp !== '?' ? tmp : '';
 					}
-					//u = u.toString();
-					u = uri.normalizeHostname().normalizePort().normalizePathname().normalizeSearch().normalizeHash().toString();
+					u = u.toString();
+					//u = uri.normalizeHostname().normalizePort().normalizePathname().normalizeSearch().normalizeHash().toString();
 					return u;
 				};
 
@@ -232,29 +238,33 @@
 
 				app.prototype.abort = function abort(e)
 				{
-					if( e.keyCode === 27 ){
-						/*var self = this;*/
-						clearInterval(nIntervId);doAbort = true;
+					if( doAbort !== true && e.keyCode === 27 )
+					{
+						doAbort = true;
+						if( typeof nIntervId === 'number' ){clearInterval(nIntervId);nIntervId = null;}
 						bean.off(H, 'keydown', self.abort);
 						self.dropLoad();
+						return true;
 						//nIntervId = clearInterval(nIntervId);/*var self = this;*///bean.off(H, 'keydown', self.abort);doAbort = inited = true;/*H.stopPropagation();H.removeEventListener('keydown',function(){},false);*/
 						//throw('');return;
 					}
+					return false;
 				};
 				app.prototype.dropLoad = function dropLoad(e)
 				{
-					/*var self = this;*/
 					if( doAbort !== true )
 					{
-						clearInterval(nIntervId);bean.off(H, 'keydown', self.abort);
+						if( typeof nIntervId === 'number' ){clearInterval(nIntervId);nIntervId = null;}bean.off(H, 'keydown', self.abort);
 					}
+					bean.off(l, 'mouseenter click hover focusin', 'a');
 					bean.off(H, 'beforeunload', self.dropLoad);
 					doAbort = inited = nIntervId = true;throw('');return;
 				};
 
 				return app;
 			}();
-			if(inited !== true && doAbort !== true){
+			if( app === null && inited !== true && doAbort !== true )
+			{
 				app = new MTcoPF();
 				return true;
 			}else{
