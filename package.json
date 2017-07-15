@@ -1,6 +1,9 @@
 {
 	"name": "MathewTyler.co",
-	"version": "0.1",
+	"lastversion": "0.1",
+    "versions": [
+      "0.1"
+    ],
 	"description": "MathewTyler.co; united we stand, divided we fall.",
 	"license": "Copyright 2017 Mathew Tyler. All rights reserved.",
 	"repository": "MTco/mathewtyler",
@@ -9,6 +12,8 @@
 		"email": "hi@tylerpresident.com",
 		"url": "tylerpresident.com"
 	},
+	"homepage": "http://tylerpresident.com",
+    "github": "https://github.com/MTco/mathewtyler",
 	"main": "img/logo/MathewTyler.org_350x53.png",
 	"files": [
 		"img/logo/MathewTyler.org_350x53.png",
