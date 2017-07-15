@@ -7,20 +7,23 @@
 		],
 		"description": "MathewTyler.co; united we stand, divided we fall.",
 		"license": "Copyright 2017 Mathew Tyler. All rights reserved.",
-		"repository": "MTco/mathewtyler",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/MTco/mathewtyler.git"
+		},
 		"author": {
 			"name": "Mathew Tyler",
 			"email": "hi@tylerpresident.com",
-			"url": "tylerpresident.com"
+			"url": "http://tylerpresident.com"
 		},
 		"homepage": "http://tylerpresident.com",
 		"github": "https://github.com/MTco/mathewtyler",
-		"main": "jsdeliver-rum.min.js",
-		"mainfile": "jsdeliver-rum.min.js",
+		"main": "dist/js/lib/jsdeliver/jsdelivr-rum.js",
+		"mainfile": "dist/js/lib/jsdeliver/jsdelivr-rum.js",
 		"assets": [
 			{
 				"version": "0.1",
-				"mainfile": "jsdeliver-rum.min.js",
+				"mainfile": "dist/js/lib/jsdeliver/jsdelivr-rum.js",
 				"files": [
 					"img/logo/MathewTyler.org_350x53.png",
 					"img/logo/headerLogo2_350x53.png",
@@ -121,6 +124,7 @@
 			"politics",
 			"potus"
 		],
+		"dependencies": {},
 		"devDependencies": {
 			"generate-github-markdown-css": "^2.1.0"
 		},
