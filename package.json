@@ -1,9 +1,9 @@
 [
 	{
 		"name": "MathewTyler.co",
-		"lastversion": "0.1",
+		"lastversion": "1.0",
 		"versions": [
-		  "0.1"
+		  "1.0"
 		],
 		"description": "MathewTyler.co; united we stand, divided we fall.",
 		"license": "Copyright 2017 Mathew Tyler. All rights reserved.",
@@ -22,7 +22,7 @@
 		"mainfile": "dist/js/lib/jsdeliver/jsdelivr-rum.js",
 		"assets": [
 			{
-				"version": "0.1",
+				"version": "1.0",
 				"mainfile": "dist/js/lib/jsdeliver/jsdelivr-rum.js",
 				"files": [
 					"img/logo/MathewTyler.org_350x53.png",
