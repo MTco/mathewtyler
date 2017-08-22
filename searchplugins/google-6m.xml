@@ -8,7 +8,7 @@
 	</Image>
 	<SearchForm>https://www.google.com/?ref=MathewTyler.co</SearchForm>
 	<moz:SearchForm>https://www.google.com/?ref=MathewTyler.co</moz:SearchForm>
-	<Url type="application/x-suggestions+json" method="GET" template="https://www.google.com/complete/search?client=&amp;q={searchTerms}"/>
+	<Url type="application/x-suggestions+json" method="GET" template="https://www.google.com/complete/search?ie=UTF-8&amp;oe=UTF-8&amp;client=MathewTyler.co&amp;q={searchTerms}"/>
 	<Url type="text/html" rel="results" method="GET" template="https://www.google.com/search" resultDomain="google.com">
 		<Param name="ie" value="UTF-8"/>
 		<Param name="oe" value="UTF-8"/>
@@ -21,6 +21,7 @@
 		<Param name="aqi" value=""/>
 		<Param name="aql" value=""/>
 		<Param name="gs_sm" value=""/>
+		<Param name="client" value="MathewTyler.co"/>
 		<Param name="gs_upl" value=""/>
 		<Param name="btnG" value="Search"/>
 		<Param name="as_qdr" value="all"/>
