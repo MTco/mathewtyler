@@ -1,2 +1,2 @@
-# MathewTyler.org
-Future President of the United States of America, [MathewTyler.org](http://mathewtyler.org)
+# TylerPresident.com
+Future President of the United States of America, [TylerPresident.com](http://tylerpresident.com/vision)
