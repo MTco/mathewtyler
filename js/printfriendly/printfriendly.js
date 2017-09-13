@@ -8,7 +8,7 @@
 				{
 					var t = typeof object[methodName];t = ((t === 'function' || t === 'object') && !!object[methodName]) || t === 'unknown';
 					return t;
-				}, inited = null, doAbort = null, eventMethod = null, pfstyle = null, pfBkVersion = null, pfurl = null, _pnicer_script = null, firstScript = null, body = null, style = null, host = null, hash = null, asdf = null, strlngth = null, nIntervId = null, qrImg = null, tmp = null, e = null, queryRemoves = null, analiticVars = null, uri = null, self = null, app = null, campaign = null, campaigns = {}, httpd = httpds = 'http', where_am_i = '', MTcoPF = MTcoPF || function(){
+				}, inited = null, doAbort = null, doSitRep = null, eventMethod = null, pfstyle = null, pfBkVersion = null, pfurl = null, _pnicer_script = null, firstScript = null, body = null, style = null, host = null, hash = null, asdf = null, strlngth = null, nIntervId = null, qrImg = null, tmp = null, e = null, queryRemoves = null, analiticVars = null, uri = null, self = null, app = null, campaign = null, campaigns = {}, httpd = httpds = 'http', where_am_i = '', MTcoPF = MTcoPF || function(){
 				function app()
 				{
 					if( inited !== true && doAbort !== true ){
