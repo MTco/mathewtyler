@@ -1,13 +1,14 @@
-(function(H,l)
+(function(H, l)
 {
 	if( !H['priFri'] && typeof MTcoPF === 'undefined' )
 	{
-		var isHostMethod = function(object,methodName)
-			{
-				var t=typeof object[methodName];
-				return ((t === 'function' || t=== 'object') && !!object[methodName]) || t === 'unknown';
-			}, inited = null, doAbort = null, eventMethod = null, pfstyle = null, pfBkVersion = null, pfurl = null, _pnicer_script = null, firstScript = null, body = null, style = null, host = null, hash = null, asdf = null, strlngth = null, nIntervId = null, qrImg = null, tmp = null, e = null, queryRemoves = null, analiticVars = null, uri = null, self = null, app = null, campaign = null, campaigns = {}, httpd = httpds = 'http', where_am_i = '', MTcoPF = MTcoPF || function()
-			{
+		var jq = (function($, dom)
+		{
+			var isHostMethod = function(object, methodName)
+				{
+					var t = typeof object[methodName];t = ((t === 'function' || t === 'object') && !!object[methodName]) || t === 'unknown';
+					return t;
+				}, inited = null, doAbort = null, eventMethod = null, pfstyle = null, pfBkVersion = null, pfurl = null, _pnicer_script = null, firstScript = null, body = null, style = null, host = null, hash = null, asdf = null, strlngth = null, nIntervId = null, qrImg = null, tmp = null, e = null, queryRemoves = null, analiticVars = null, uri = null, self = null, app = null, campaign = null, campaigns = {}, httpd = httpds = 'http', where_am_i = '', MTcoPF = MTcoPF || function(){
 				function app()
 				{
 					if( inited !== true && doAbort !== true ){
@@ -86,7 +87,7 @@
 						style.crossorigin = 'anonymous';
 						style.href = 'https://mtco.github.io/mathewtyler/js/printfriendly/printfriendly.css?#7087d7854746236fa21014956e4d35a4a49d1fbc'+(Math.random());
 						firstScript.parentNode.insertBefore(style, firstScript);
-						if( self.strpos(where_am_i, 'blinkist.com') === false )
+						if( self.strpos(location.host, 'blinkist.com') === false && self.strpos(location.hostname, 'blinkist.com') === false )
 						{
 							where_am_iB = self.campaigner(where_am_i, false);
 							where_am_i = encodeURIComponent(where_am_iB);
@@ -238,7 +239,7 @@
 
 				app.prototype.abort = function abort(e)
 				{
-					if( doAbort !== true && e.keyCode === 27 )
+					if( e.keyCode === 27 && doAbort !== true )
 					{
 						doAbort = true;
 						if( typeof nIntervId === 'number' ){clearInterval(nIntervId);nIntervId = null;}
@@ -248,7 +249,7 @@
 						//nIntervId = clearInterval(nIntervId);/*var self = this;*///bean.off(H, 'keydown', self.abort);doAbort = inited = true;/*H.stopPropagation();H.removeEventListener('keydown',function(){},false);*/
 						//throw('');return;
 					}
-					return false;
+					return;
 				};
 				app.prototype.dropLoad = function dropLoad(e)
 				{
@@ -256,21 +257,22 @@
 					{
 						if( typeof nIntervId === 'number' ){clearInterval(nIntervId);nIntervId = null;}bean.off(H, 'keydown', self.abort);
 					}
+					doAbort = inited = nIntervId = true;
 					bean.off(l, 'mouseenter click hover focusin', 'a');
 					bean.off(H, 'beforeunload', self.dropLoad);
-					doAbort = inited = nIntervId = true;throw('');return;
+					throw('');return;
 				};
 
 				return app;
 			}();
 			if( app === null && inited !== true && doAbort !== true )
 			{
-				app = new MTcoPF();
-				return true;
+				app = new MTcoPF();return true;
 			}else{
 				H.print();
 			}
-		}else{
-			H.print();
-		}
-})(window,window.document);
+		}(H.jQuery.noConflict(true), l));
+	}else{
+		H.print();
+	}
+})(window, window.document);
