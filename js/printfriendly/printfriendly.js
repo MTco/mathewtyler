@@ -87,8 +87,7 @@
 						style.crossorigin = 'anonymous';
 						style.href = 'https://mtco.github.io/mathewtyler/js/printfriendly/printfriendly.css?#7087d7854746236fa21014956e4d35a4a49d1fbc'+(Math.random());
 						firstScript.parentNode.insertBefore(style, firstScript);
-						console.debug(where_am_i);
-						if( self.strpos(location.host, 'blinkist.com') === false && self.strpos(location.hostname, 'blinkist.com') === false )
+						if( self.strpos(where_am_i, '/magazine/posts/') === false && self.strpos(location.host, 'blinkist.com') === false && self.strpos(location.hostname, 'blinkist.com') === false )
 						{
 							where_am_iB = self.campaigner(where_am_i, false);
 							where_am_i = encodeURIComponent(where_am_iB);
