@@ -21,7 +21,7 @@
 			margin:3% 1%;
 		}
 		.headerLogo {
-			flex:3 6 50vw;
+			flex:3 6 50%;flex:3 6 50vw;
 			order:2;
 		}
 		.fpotusSeal {
@@ -46,7 +46,7 @@
 		font-size:3em;font-size:3rem;
 	}
 	aside {
-		width:14%;
+		width:14%;width:14vw;
 		margin-top:-950px;
 		margin-left:-950px;
 		margin-right:8px;
@@ -59,8 +59,8 @@
 			margin-bottom:-23em;margin-bottom:-23rem;
 			padding-bottom:18em;padding-bottom:18rem;
 		}
-	section {
-		width:83%;
+	article.main {
+		width:83%;width:83vw;
 		margin:10em auto;margin:10rem auto;
 		/*
 		margin-left:8px;margin-right:8px;
@@ -89,22 +89,22 @@
 		display:block;
 		visibility:visible;
 	}
-	.tablet.hidden ,.tabletHidden {
+	.tablet.hidden, .tabletHidden {
 		display:none !important;
 		visibility:hidden;
 	}
-	.tablet.visuallyhidden ,.tabletVisuallyHidden {
-		border:0;
-		clip:rect(0 0 0 0);
-		height:1px;
-		margin:-1px;
-		overflow:hidden;
-		padding:0;
+	.tablet.visuallyhidden, .tabletVisuallyHidden {
 		position:absolute;
 		width:1px;
+		height:1px;
+		margin:-1px;
+		padding:0;
+		border:0;
+		clip:rect(0 0 0 0);
+		overflow:hidden;
 	}
 	.BSOA {
-		width:20vw;
+		width:20%;width:20vw;
 	}
 	.socialize{
 		bottom:0%;
