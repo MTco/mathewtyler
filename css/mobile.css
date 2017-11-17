@@ -40,7 +40,7 @@
 		}
 	article.main {
 		width:90%;width:90vw;
-		margin:28em auto;margin:28rem auto;
+		margin:4em auto;margin:4rem auto;margin:12vh auto;
 		/*
 		margin-left:5vw;margin-right:5vw;
 		*/
@@ -70,7 +70,7 @@
 			margin-top:8em;margin-top:8rem;margin-top:29vh;
 			margin-left:1em;margin-left:1rem;margin-left:6vw;
 		}
-		html.js #menuToggle:checked ~ section,html.no-js section {
+		html.js #menuToggle:checked ~ article.main,html.no-js article.main {
 			margin-top:4em;margin-top:4rem;margin-top:13vh;
 		}
 	footer {

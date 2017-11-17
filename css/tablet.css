@@ -56,12 +56,12 @@
 		#menuToggle:checked ~ aside,html.no-js aside {
 			margin-top:-1vh;
 			margin-left:6vw;
-			margin-bottom:-23em;margin-bottom:-23rem;
+			margin-bottom:-22em;margin-bottom:-30rem;margin-bottom:-42vh;
 			padding-bottom:18em;padding-bottom:18rem;
 		}
 	article.main {
 		width:83%;width:83vw;
-		margin:10em auto;margin:10rem auto;
+		margin:13em auto;margin:16rem auto;
 		/*
 		margin-left:8px;margin-right:8px;
 		*/
