@@ -1,14 +1,14 @@
-(function(H, l)
+(function(H,l,e)
 {
-	if( !H['priFri'] && typeof MTcoPF === 'undefined' )
+	var jq = jq || null;
+	if( !H['priFri'] && jq === null )
 	{
-		var jq = (function($, dom)
+		jq = (function($, dom)
 		{
 			var isHostMethod = function(object, methodName)
 				{
-					var t = typeof object[methodName];t = ((t === 'function' || t === 'object') && !!object[methodName]) || t === 'unknown';
-					return t;
-				}, inited = null, doAbort = null, doSitRep = null, eventMethod = null, pfstyle = null, pfBkVersion = null, pfurl = null, _pnicer_script = null, firstScript = null, body = null, style = null, host = null, hash = null, asdf = null, strlngth = null, nIntervId = null, qrImg = null, tmp = null, e = null, queryRemoves = null, analiticVars = null, uri = null, self = null, noDecampaign = null, campaign = null, campaigns = {}, httpd = httpds = 'http', where_am_i = '', app = null, MTcoPF = MTcoPF || function(){
+					var t = typeof object[methodName];t = ((t === 'function' || t === 'object') && !!object[methodName]) || t === 'unknown';return t;
+				}, inited = null, doAbort = null, doSitRep = null, eventMethod = null, pfstyle = null, pfBkVersion = null, pfurl = null, _pnicer_script = null, firstScript = null, body = null, style = null, host = null, hash = null, asdf = null, strlngth = null, nIntervId = null, qrImg = null, tmp = null, queryRemoves = null, analiticVars = null, uri = null, self = null, noDecampaign = null, campaign = null, campaigns = {}, httpd = httpds = 'http', where_am_i = '', app = null, MTcoPF = MTcoPF || function(){
 				function app()
 				{
 					if( inited !== true && doAbort !== true ){
@@ -23,8 +23,9 @@
 					if( doAbort === true ){self.dropLoad();/*throw('');return;*/}
 					if(inited !== true)
 					{
-						inited=true;doAbort=false;
-						httpd+='://';httpds+='s://';
+						inited = true;
+						doAbort = false;
+						httpd += '://';httpds += 's://';
 
 						where_am_i += top.location.href || l.href || l.location;where_am_i = where_am_i.toString();
 
@@ -43,34 +44,33 @@
 
 						campaign = 'MathewTyler.co';
 						campaigns.presidential = {
-													hosts : 'all'
-													,all : campaign
-													,ref : campaign
+													hosts : 'all',
+													all : campaign,
+													ref : campaign
 												};
 
 						campaigns.amazon = {
-													hosts : 'amazon'
-													,tag : 'hoped-20'
-													,sotmprce : campaign
-													,t : '0111011101110101011101000110010101110110-20'
-													,others : campaign
+													hosts : 'amazon',
+													tag : 'hoped-20',
+													sotmprce : campaign,
+													t : '0111011101110101011101000110010101110110-20',
+													others : campaign
 												};
 						campaigns.others = {
-												hosts : 'all'
-												,all : campaign
-												,ref : campaign
+												hosts : 'all',
+												all : campaign,
+												ref : campaign
 											};
 						campaign = {
-										hosts : 'all'
-										,ref : campaign
-										,source : campaign
-										,others : campaign
+										hosts : 'all',
+										ref : campaign,
+										source : campaign,
+										others : campaign
 									};
 
 						body = l.body || l.getElementsByTagName('body')[0];
 						firstScript = l.getElementsByTagName('script')[0] || l.getElementsByTagName('head')[0] || body;
 						style = l.createElement('link');
-						asdf = l.createElement('div');
 						qrImg = l.createElement('img');
 						pfstyle = 'nbk';
 						pfBkVersion = '1';
@@ -91,6 +91,7 @@
 						{
 							where_am_iB = self.campaigner(where_am_i, false);
 							where_am_i = encodeURIComponent(where_am_iB);
+							asdf = l.createElement('div');
 							asdf.id = 'MTco-GoogleQR';
 							qrImg.className = 'print-only print-footer pf-footer delete-off delete-no';
 							qrImg.src = 'https://chart.googleapis.com/chart?cht=qr&chs=350x350&choe=UTF-8&chld=H&chl=' + where_am_i;
@@ -235,15 +236,15 @@
 					return u;
 				};
 
-				app.prototype.strpos = function strpos(haystack,needle,offset){var i = (haystack + '').indexOf(needle,(offset || 0));i = i === -1 ? false : i;return i;};
+				app.prototype.strpos = function strpos(haystack,needle,offset){haystack=haystack+'';offset=offset || 0;var i=haystack.indexOf(needle,offset);i=i===-1?false:i;return i;};
 
 				app.prototype.abort = function abort(e)
 				{
 					if( e.keyCode === 27 && doAbort !== true )
 					{
 						doAbort = true;
-						if( typeof nIntervId === 'number' ){clearInterval(nIntervId);nIntervId = null;}
 						bean.off(H, 'keydown', self.abort);
+						if( typeof nIntervId === 'number' ){clearInterval(nIntervId);nIntervId = null;}
 						self.dropLoad();
 						return true;
 						//nIntervId = clearInterval(nIntervId);/*var self = this;*///bean.off(H, 'keydown', self.abort);doAbort = inited = true;/*H.stopPropagation();H.removeEventListener('keydown',function(){},false);*/
@@ -260,19 +261,19 @@
 					doAbort = inited = nIntervId = true;
 					bean.off(l, 'mouseenter click hover focusin', 'a');
 					bean.off(H, 'beforeunload', self.dropLoad);
-					throw('');return;
+					return null;
+					// throw('');return;
 				};
 
 				return app;
 			}();
-			if( app === null && inited !== true && doAbort !== true )
-			{
+			if( app === null ){
 				app = new MTcoPF();return true;
 			}else{
 				H.print();
 			}
-		}(H.jQuery.noConflict(true), l));
+		}(H.jQuery.noConflict(true),l));
 	}else{
 		H.print();
 	}
-})(window, window.document);
+})(window,window.document,null);
