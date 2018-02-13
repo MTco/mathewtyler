@@ -8,19 +8,21 @@
 	<SearchForm>https://www.amazon.com/?ie=UTF8&amp;tag=hoped-20&amp;t=0111011101110101011101000110010101110110-20</SearchForm>
 	<moz:SearchForm>https://www.amazon.com/?ie=UTF8&amp;tag=hoped-20&amp;t=0111011101110101011101000110010101110110-20</moz:SearchForm>
 	<Url type="application/x-suggestions+json" rel="results" method="GET" template="https://completion.amazon.com/search/complete?method=completion&amp;tag=hoped-20&amp;search-alias=aps&amp;sf=qz&amp;unfiltered=1&amp;t=0111011101110101011101000110010101110110-20&amp;client=amzn-search-suggestions&amp;mkt=1&amp;q={searchTerms}" resultDomain="amazon.com"/>
-	<Url type="text/html" rel="results" method="GET" template="https://www.amazon.com/s/ref=TylerPresident.com" resultDomain="amazon.com">
+	<Url type="text/html" rel="results" method="GET" template="https://www.amazon.com/s/ref=sr_qz_back" resultDomain="amazon.com">
 		<Param name="ie" value="UTF8"/>
+		<Param name="trk" value="TylerPresident.com"/>
 		<Param name="tag" value="hoped-20"/>
 		<Param name="camp" value="1789"/>
+		<Param name="source" value="MathewTyler.co"/>
 		<Param name="creative" value="9325"/>
 		<Param name="sotmprce" value="TylerPresident.com"/>
-		<Param name="sf" value="qz,rba"/>
-		<Param name="rh" value="i:aps,k:{searchTerms}"/>
-		<Param name="unfiltered" value="1"/>
 		<Param name="index" value="aps"/>
 		<Param name="linkCode" value="ur2"/>
 		<Param name="t" value="0111011101110101011101000110010101110110-20"/>
 		<Param name="linkId" value="7Z5AE5GE7NT27H2Q"/>
+		<Param name="sf" value="qz,rba"/>
+		<Param name="unfiltered" value="1"/>
+		<Param name="rh" value="i:aps,k:{searchTerms}"/>
 		<Param name="keywords" value="{searchTerms}"/>
 	</Url>
 	<Url type="application/opensearchdescription+xml" rel="self" template="https://mtco.github.io/mathewtyler/searchplugins/amazon-us-hoped.xml"/>
