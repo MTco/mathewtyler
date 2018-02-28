@@ -36,7 +36,7 @@ h1,h2,h3,h4,h5,h6 {
 	line-height:140%;
 }
 .container {
-	width:960px;
+	width:960px;width:96vw;
 	margin:0 auto;
 }
 header {
@@ -105,7 +105,7 @@ header {
 			margin-bottom:-1em;margin-bottom:-1rem;
 		}
 
-#main,.main {
+#main,main {
 	min-height:60vh;
 	margin-top:-6em;margin-top:-6rem;
 	padding-bottom:3vh;

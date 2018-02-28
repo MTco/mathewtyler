@@ -40,7 +40,7 @@
 		}
 	article.main {
 		width:90%;width:90vw;
-		margin:4em auto;margin:4rem auto;margin:12vh auto;
+		margin:31em auto;margin:32rem auto;margin:106vh auto;
 		/*
 		margin-left:5vw;margin-right:5vw;
 		*/
@@ -71,7 +71,7 @@
 			margin-left:1em;margin-left:1rem;margin-left:6vw;
 		}
 		#menuToggle:checked ~ article.main {
-			margin-top:4em;margin-top:4rem;margin-top:13vh;
+			margin-top:2em;margin-top:2rem;margin-top:10vh;
 		}
 	footer {
 		float:left;
@@ -95,8 +95,8 @@
 		font-size:2.5em;font-size:2.5rem;
 	}
 	header { order: 1; }
-	aside { order: 3; }
-	article.main { order: 2; }
+	aside { order: 2; }
+	article.main { order: 3; }
 	footer { order: 4; }
 
 	.mobileVisible {

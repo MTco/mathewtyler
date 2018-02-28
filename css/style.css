@@ -285,7 +285,7 @@ li:nth-child(even) h2,.h2Blue{
 	padding:0.1% 1%;
 }
 
-input[type=checkbox] ,html.js .hiddenOverflow{
+input[type=checkbox], .hiddenOverflow{
 	display:none;
 }
 input[type=checkbox]:checked ~ label h2 span{
