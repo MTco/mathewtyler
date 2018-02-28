@@ -50,7 +50,7 @@ header {
 		display:flex;
 	}
 	/* We tell all items to be 100% width */
-	header,#main,.main,nav,footer {
+	header,#main,main,nav,footer {
 		flex:1 100%;
 	}
 
