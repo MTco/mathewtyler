@@ -35,7 +35,7 @@
 		justify-content:space-around;
 		flex-direction:column;
 	}
-	html.js #menuLink,html.no-js #menuLink2 {display:inline-block;}
+	#menuLink, #menuLink2 {display:inline-block;}
 	#menuLink,#menuLink2 {
 		position:fixed;
 		top:0.25em;top:0.5rem;
@@ -53,7 +53,7 @@
 		padding-left:0;
 		padding-right:0;
 	}
-		#menuToggle:checked ~ aside,html.no-js aside {
+		#menuToggle:checked ~ aside,aside {
 			margin-top:-1vh;
 			margin-left:6vw;
 			margin-bottom:-22em;margin-bottom:-30rem;margin-bottom:-42vh;

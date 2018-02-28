@@ -62,15 +62,15 @@
 		padding-left:0%;
 		padding-right:0%;
 	}
-	html.js aside {
+	aside {
 		margin-top:-950px;
 		margin-left:-950px;
 	}
-		html.js #menuToggle:checked ~ aside,html.no-js aside {
+		#menuToggle:checked ~ aside, aside {
 			margin-top:8em;margin-top:8rem;margin-top:29vh;
 			margin-left:1em;margin-left:1rem;margin-left:6vw;
 		}
-		html.js #menuToggle:checked ~ article.main,html.no-js article.main {
+		#menuToggle:checked ~ article.main, article.main {
 			margin-top:4em;margin-top:4rem;margin-top:13vh;
 		}
 	footer {
@@ -85,7 +85,7 @@
 		margin-top:-4em;margin-top:-4rem;
 		flex-direction:column;
 	}
-	html.js #menuLink,html.no-js #menuLink2 {display:inline-block;}
+	#menuLink,#menuLink2 {display:inline-block;}
 	#menuLink,#menuLink2 {
 		float:right;
 		top:0.2em;top:0.5rem;
