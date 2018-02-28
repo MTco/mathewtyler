@@ -1,4 +1,4 @@
-/*! *
+/*!*
  * https://web.archive.org/web/20111116231142/http://ecmanaut.googlecode.com/svn/trunk/lib/make-iframe.js
  *
  * Creates a new iframe and attaches it to the DOM, waits for it to load, tests that we did not hit https://bugzilla.mozilla.org/show_bug.cgi?id=295813 nor https://bugzilla.mozilla.org/show_bug.cgi?id=388714 (and retries otherwise), to finally call the provided done callback, passing the iframe, its window and document. (The optional name parameter, if provided, will be used to name the iframe in window.frames, or be created as "pane-1" onwards, otherwise.)

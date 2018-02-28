@@ -1,5 +1,5 @@
-'use strict';
 $(function(){
+	// 'use strict';
 	//document.getElementById(\'PersistentCookie\').checked=false;
 	var H=window,l=H.document,hash=location.hash,e,nIntervId,didInit=false,$el,tmp;
 	hash='#'+hash.substr(1,36);
