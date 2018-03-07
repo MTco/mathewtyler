@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# 1499529703 Sat, 08 Jul 2017 09:01:43 -0700
+# 1520369450 Tue, 06 Mar 2018 12:50:50 -0800
 
 CACHE:
 img/logo/MathewTyler.org_350x53.png?r=771b7b3dffe80bec39b9d97804f5a6420825c1fc
@@ -80,8 +80,8 @@ css/fontello/852e4c71/css/fontello-ie7.css?r=771b7b3dffe80bec39b9d97804f5a642082
 upup.min.js?r=771b7b3dffe80bec39b9d97804f5a6420825c1fc
 upup.sw.min.js?r=771b7b3dffe80bec39b9d97804f5a6420825c1fc
 js/lib/fastclick/1.0.6/fastclick.min.js?r=771b7b3dffe80bec39b9d97804f5a6420825c1fc
-js/lib/modernizer/2.8.3/modernizr.min.js?r=771b7b3dffe80bec39b9d97804f5a6420825c1fc
-js/lib/jquery/3.1.1/jquery.min.js?r=771b7b3dffe80bec39b9d97804f5a6420825c1fc
+js/lib/modernizer/3.5.0/modernizr.min.js?r=771b7b3dffe80bec39b9d97804f5a6420825c1fc
+js/lib/jquery/3.3.1/jquery.min.js?r=771b7b3dffe80bec39b9d97804f5a6420825c1fc
 js/lib/jquery/plugins/jquery.fittext-1.2.js?r=771b7b3dffe80bec39b9d97804f5a6420825c1fc
 js/site.js?r=771b7b3dffe80bec39b9d97804f5a6420825c1fc
 js/qr.js?r=771b7b3dffe80bec39b9d97804f5a6420825c1fc
