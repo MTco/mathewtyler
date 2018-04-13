@@ -139,7 +139,7 @@ header,#main{
 }
 	#timeLeft span{
 		position:absolute;
-		width:136%;width:136vw;
+		width:325px;width:136%;width:16em;width:20rem;width:24vw;
 		top:30px;left:-65%;
 		background:#111;
 		color:#fff;
@@ -187,6 +187,9 @@ header,#main{
 .socialize .the-icons {
 	width:16%;width:16vw;
 }
+		.socialize .btn-social-icon,.socialize-inline .btn-social-icon {
+			display:inline-block;
+		}
 
 .push {
 	height:6vh;
@@ -781,6 +784,6 @@ span.yt{
 }
 
 /*a[href^='http']:after*/
-.external-icon {
+.external-icon,.external.ico,.ext.ico {
 	content:' ' url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVklEQVR4Xn3PgQkAMQhDUXfqTu7kTtkpd5RA8AInfArtQ2iRXFWT2QedAfttj2FsPIOE1eCOlEuoWWjgzYaB/IkeGOrxXhqB+uA9Bfcm0lAZuh+YIeAD+cAqSz4kCMUAAAAASUVORK5CYII=');
 }

@@ -68,37 +68,33 @@
 	}
 	/*img {display:none;}*/
 
-	pre a[href]:after {
-		content:'';
-	}
-
-	pre abbr[title]:after {
-		content:'';
-	}
-
-	pre   .ir a:after,
-	pre a[href^="javascript:"]:after,
-	pre a[href^="#"]:after {
+	pre a[href]:after, pre abbr[title]:after, pre   .ir a:after,
+	pre a[href^="javascript:"]:after,pre a[href^="#"]:after,.no-print,.print-no,.penaltyOfPerjury {
 		content:'';
 	}
 
 	.pf_author {
 		float:left;
 		margin:-1em 0 1em 0;
+		margin:-1rem 0 1rem 0;
 		font-size:.85em;
+		font-size:.85rem;
 		color:hsl(0, 0%, 50%);
 		display:block;
 	}
 	.pf-date {
 		float:right;
 		margin:-1em 0 1em 0;
+		margin:-1rem 0 1rem 0;
 		font-size:.85em;
+		font-size:.85rem;
 		color:hsl(0, 0%, 50%);
 		display:block;
 	}
 
 	h1.pf-title{
 		margin:1em 0;
+		margin:1rem 0;
 		font-size:135%;
 		clear:both; /*helps keep images with intended content*/
 	}
@@ -108,12 +104,14 @@
 
 	h1{
 		margin:1em 0 .67em;
+		margin:1rem 0 .67rem;
 		font-size:130%;
 		clear:both; /*helps keep images with intended content*/
 	}
 
 	h2{
 		margin:1em 0 .67em;
+		margin:1rem 0 .67rem;
 		font-size:125%;
 	}
 
@@ -194,6 +192,8 @@
 
 	.no-print,.print-no,.penaltyOfPerjury {
 		position:absolute !important;
+		top:-500px !important;top:-500% !important;top:-500vh !important;
+		left:-500px !important;left:-500% !important;left:-500vw !important;
 		width:1px !important;
 		height:1px !important;
 		content:'' !important;

@@ -8,12 +8,16 @@
 	</Image>
 	<SearchForm>https://www.google.com/?ref=TylerPresident.com</SearchForm>
 	<moz:SearchForm>https://www.google.com/?ref=TylerPresident.com</moz:SearchForm>
-	<Url type="application/x-suggestions+json" method="GET" template="https://www.google.com/complete/search?ie=UTF-8&amp;oe=UTF-8&amp;client=TylerPresident.com&amp;q={searchTerms}"/>
+	<Url type="application/x-suggestions+json" method="GET" template="https://www.google.com/complete/search?ie=UTF-8&amp;oe=UTF-8&amp;hl=en&amp;lr=US&amp;gl=us&amp;pws=0&amp;gws_rd=cr&amp;ncr=1&amp;tbs=lr:US&amp;safe=&amp;filter=0&amp;client=TylerPresident.com&amp;q={searchTerms}"/>
 	<Url type="text/html" rel="results" method="GET" template="https://www.google.com/search" resultDomain="google.com">
 		<Param name="ie" value="UTF-8"/>
 		<Param name="oe" value="UTF-8"/>
 		<Param name="hl" value="en"/>
 		<Param name="lr" value="US"/>
+		<Param name="gl" value="us"/>
+		<Param name="pws" value="0"/>
+		<Param name="gws_rd" value="cr"/>
+		<Param name="ncr" value="1"/>
 		<Param name="site" value=""/>
 		<Param name="sourceid" value="TylerPresident.com"/>
 		<Param name="oq" value=""/>
@@ -25,12 +29,12 @@
 		<Param name="gs_upl" value=""/>
 		<Param name="btnG" value="Search"/>
 		<Param name="as_qdr" value="all"/>
-		<Param name="safe" value=""/>
+		<Param name="Gf" value="0"/>
+		<Param name="newwindow" value="1"/>
 		<Param name="num" value="100"/>
 		<Param name="filter" value="0"/>
-		<Param name="Gf" value="0"/>
+		<Param name="safe" value=""/>
 		<Param name="tbs" value="qdr:m6"/>
-		<Param name="newwindow" value="1"/>
 		<Param name="q" value="{searchTerms}"/>
 	</Url>
 	<Url type="application/opensearchdescription+xml" rel="self" template="https://mtco.github.io/mathewtyler/searchplugins/google-6m.xml"/>
