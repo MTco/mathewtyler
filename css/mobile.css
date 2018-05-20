@@ -98,7 +98,11 @@
 	aside { order: 2; }
 	article.main { order: 3; }
 	footer { order: 4; }
-
+	
+	.tabletVisibile, .tablet.hidden, .tabletHidden, .tablet.visuallyhidden, .tabletVisuallyHidden, .desktopVisible, .desktop.hidden, .desktopHidden, .desktop.visuallyhidden, .desktopVisuallyHidden {
+		display:none;
+		visibility:hidden;
+	}
 	.mobileVisible {
 		display:block;
 		visibility:visible;

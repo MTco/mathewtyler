@@ -1,5 +1,5 @@
 @charset 'UTF-8';
-@media (min-width:1024px) {
+@media (min-width:1025px) {
 	body {
 		font-size:20px;
 	}
@@ -57,6 +57,11 @@
 		margin-top:0;
 		justify-content:flex-start;
 	}
+
+	.mobileVisible, .mobile.hidden, .mobileHidden, .mobile.visuallyhidden, .mobileVisuallyHidden, .tabletVisibile, .tablet.hidden, .tabletHidden, .tablet.visuallyhidden, .tabletVisuallyHidden {
+		display:none;
+		visibility:hidden;
+	}
 	.desktopVisible {
 		display:block;
 		visibility:visible;
@@ -83,7 +88,7 @@
 		font-size:1.6em;font-size:1.6rem;
 	}
 
-	/*
+	/*!*
 	.socialize {
 		text-align:center;
 		opacity:0.5;

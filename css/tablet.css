@@ -89,6 +89,11 @@
 		padding-left:0;
 		padding-right:0;
 	}
+	
+	.mobileVisible, .mobile.hidden, .mobileHidden, .mobile.visuallyhidden, .mobileVisuallyHidden, .desktopVisible, .desktop.hidden, .desktopHidden, .desktop.visuallyhidden, .desktopVisuallyHidden {
+		display:none;
+		visibility:hidden;
+	}
 	.tabletVisible {
 		display:block;
 		visibility:visible;
