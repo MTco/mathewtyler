@@ -1,6 +1,19 @@
 @charset 'UTF-8';
-#pf-mask,#pf-core{visibility:visible !important;}
-#gaiframe {display:none !important;visibility:hidden !important;}
+#pf-core{visibility:visible !important;}
+#pf-mask,#gaiframe {
+		position:absolute !important;
+		width:1px !important;
+		height:1px !important;
+		margin:-65px !important;
+		padding:0 !important;
+		clip:rect(0 0 0 0) !important;
+		overflow:hidden !important;
+		border:0 !important;
+		display:none !important;
+		visibility:hidden !important;
+		opacity:0 !important;
+		content:'' !important;
+}
 html,body{position:relative !important;font-family:Verdana,Arial,Sans serif,"Source Sans Pro",sans-serif;}
 #MTco-GoogleQRs{position:absolute !important;bottom:0 !important;left:0 !important;width:99% !important;text-align:center !important;margin:0 auto !important;}
 @media print {
