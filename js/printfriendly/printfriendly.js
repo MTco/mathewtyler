@@ -212,7 +212,7 @@
 							opts.script.asdf.id = 'MTco-GoogleQR';
 							opts.script.qrImg = l.createElement('img');
 							opts.script.qrImg.crossorigin = 'anonymous';
-							opts.script.qrImg.className = 'print-only print-footer pf-footer delete-on delete-yes';
+							opts.script.qrImg.className = 'print-footer pf-footer';
 							opts.script.qrImg.src = 'https://chart.googleapis.com/chart?cht=qr&chs=350x350&choe=utf-8&chld=H&chl=' + opts.page.where_am_i;
 							opts.script.asdf.innerHTML = '<img class="' + opts.script.qrImg.className + '" src="' + opts.script.qrImg.src + '"/>';
 							opts.script.body.appendChild(opts.script.asdf);
