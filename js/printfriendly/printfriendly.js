@@ -210,6 +210,7 @@
 							opts.script.where_am_i = self.encodeURI(opts.page.tmp);
 							opts.script.asdf = l.createElement('div');
 							opts.script.asdf.id = 'MTco-GoogleQR';
+							opts.script.asdf.className = 'print-footer pf-footer';
 							opts.script.qrImg = l.createElement('img');
 							opts.script.qrImg.crossorigin = 'anonymous';
 							opts.script.qrImg.className = 'print-footer pf-footer';
