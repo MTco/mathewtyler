@@ -1,7 +1,7 @@
 ;(function(uw,H,l,err,leVoid,svoid,opts){
 	leVoid = opts.script.leVoid === void 0 ? opts.script.leVoid : void 0;opts.script.leVoid = leVoid;svoid = typeof svoid === opts.script.svoid ? svoid : ''+void 0;opts.script.svoid = svoid;
-	H = typeof H === 'object' ? H : window;
-	uw = typeof uw !== svoid ? uw : H;
+	H = typeof H === 'object' ? H : window;uw = H;
+	// uw = typeof uw !== svoid ? uw : H;
 	var e = null, jq = jq || null;
 
 	// var pfHeaderImgUrl = 'URL';
