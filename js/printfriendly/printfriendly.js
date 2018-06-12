@@ -26,7 +26,7 @@
 		l = uw.document;
 		jq = (function($, dom)
 		{
-			var app = null, self = null, opts = {script:{debug:false, leVoid:leVoid, svoid:svoid}}, uri = null, $body = null, $this = null, MTcoPF = MTcoPF || function(){
+			var app = null, self = null, opts = typeof opts === 'object' ? opts : {script:{name:'MTco_Printfriendly',leVoid:leVoid,svoid:svoid,doDebug:!1}}, uri = null, $body = null, $this = null, MTcoPF = MTcoPF || function(){
 			/*!*
 			var inited = null, doAbort = null, doSitRep = null, eventMethod = null, pfstyle = null, pfBkVersion = null, pfurl = null, _pnicer_script = null, firstScript = null, body = null, style = null, host = null, hash = null, asdf = null, strlngth = null, nIntervId = null, qrImg = null, tmp = null, queryRemoves = null, analiticVars = null, app = null, self = null, uri = null, noDecampaign = null, campaign = null, campaigns = {}, httpd = httpds = 'http', where_am_i = '', MTcoPF = MTcoPF || function(){
 			//	*/
@@ -46,7 +46,7 @@
 						opts.script = {
 										inited:opts.script.inited || !0,
 										doDebug:opts.script.doDebug || !1,
-										name:'MTcoPF',
+										name:opts.script.name || 'MTcoPF',
 										leVoid:opts.script.leVoid || void 0,
 										svoid:opts.script.svoid || '' + leVoid,
 										doAbort:opts.script.doAbort || !1,
@@ -87,7 +87,7 @@
 									};
 
 						opts.page = {
-										css:'#pf-core{visibility:visible;} .hidden,#pf-mask,#gaiframe{position:absolute;width:1px;height:1px;margin:-65px;padding:0;clip:rect(0 0 0 0);overflow:hidden;border:0;display:none;visibility:hidden;opacity:0;content:\'\';z-index:-350;}html,body{position:relative;font-family:Verdana,Arial,Sans serif,"Source Sans Pro",sans-serif;}#MTco-GoogleQRs{position:absolute;bottom:0;left:0;width:99%;text-align:center;margin:0 auto;}',
+										css:'#pf-core{visibility:visible;} .hidden,#pf-mask,#gaiframe{position:absolute;top:-350px;left:-350px;width:1px;height:1px;margin:-65px;padding:0;clip:rect(0 0 0 0);overflow:hidden;border:0;display:none;visibility:hidden;opacity:0;content:\'\';z-index:-350;}html,body{position:relative;font-family:Verdana,Arial,Sans serif,"Source Sans Pro",sans-serif;}#MTco-GoogleQRs{position:absolute;bottom:0;left:0;width:99%;text-align:center;margin:0 auto;}',
 										info:{},
 										uri:null,
 										urlMD5:null,
@@ -646,7 +646,7 @@
 							opts.script.doAbort = true;
 							if( typeof opts.script.nIntervId === 'number' ){clearInterval(opts.script.nIntervId);opts.script.nIntervId = false;}bean.off(uw, 'keydown', self.abort);
 						}
-						opts = {script:{debug:false,doAbort:true,doDropLoad:true,inited:true,nIntervId:false,leVoid:leVoid,svoid:svoid}};
+						opts = typeof opts === 'object' ? opts : {script:{name:'MTco_Campaign',debug:false,doAbort:true,doDropLoad:true,inited:true,nIntervId:false,leVoid:leVoid,svoid:svoid}};
 						// opts.script.doAbort = true;opts.script.inited = true;opts.script.nIntervId = true;
 						bean.off(uw, 'beforeunload', self.dropLoad);bean.off(l, 'mouseenter click hover focusin', 'a');bean.off(uw, 'keydown', self.abort);bean.off(uw, 'onunload', self.dropLoad);
 					}
@@ -664,4 +664,4 @@
 	}else{
 		uw.print();
 	}
-})( ( typeof unsafeWindow !== '' + void 0 ) ? unsafeWindow : window, window, null, null, null, null, {script:{leVoid:void 0,svoid:''+void 0,doDebug:false}} );
+})( ( typeof unsafeWindow !== '' + void 0 ) ? unsafeWindow : window, window, null, null, null, null, {script:{name:'MTco_Printfriendly',leVoid:void 0,svoid:''+void 0,doDebug:!1}} );
