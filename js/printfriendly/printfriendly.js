@@ -87,7 +87,7 @@
 									};
 
 						opts.page = {
-										css:'#pf-core{visibility:visible;} .hidden,#pf-mask,#gaiframe{position:absolute;width:1px;height:1px;margin:-65px;padding:0;clip:rect(0 0 0 0);overflow:hidden;border:0;display:none;visibility:hidden;opacity:0;content:'';z-index:-350;}html,body{position:relative;font-family:Verdana,Arial,Sans serif,"Source Sans Pro",sans-serif;}#MTco-GoogleQRs{position:absolute;bottom:0;left:0;width:99%;text-align:center;margin:0 auto;}',
+										css:'#pf-core{visibility:visible;} .hidden,#pf-mask,#gaiframe{position:absolute;width:1px;height:1px;margin:-65px;padding:0;clip:rect(0 0 0 0);overflow:hidden;border:0;display:none;visibility:hidden;opacity:0;content:\'\';z-index:-350;}html,body{position:relative;font-family:Verdana,Arial,Sans serif,"Source Sans Pro",sans-serif;}#MTco-GoogleQRs{position:absolute;bottom:0;left:0;width:99%;text-align:center;margin:0 auto;}',
 										info:{},
 										uri:null,
 										urlMD5:null,
