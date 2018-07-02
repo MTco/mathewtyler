@@ -1,2 +1,2 @@
 # TylerPresident.com
-Future President of the United States of America, [TylerPresident.com](http://tylerpresident.com/vision)
+Mathew Tyler, future President of the United States of America; i.e., [TylerPresident.com](http://tylerpresident.com)
