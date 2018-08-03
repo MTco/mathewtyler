@@ -11,6 +11,24 @@
 a.legal,a.legal *{
 	font-size:inherit !important;
 }
+.legal > ol li{
+	color:#444;
+	list-style:upper-roman inside;
+	text-shadow:unset;
+	display:list-item;
+}
+.legal > ol li ol li{
+	color:#444;
+	list-style:lower-alpha inside;
+	text-shadow:unset;
+	display:list-item;
+}
+.legal > ol li ol li ol li{
+	color:#444;
+	list-style:numerical;
+	text-shadow:unset;
+	display:list-item;
+}
 .exception,.exception *,
 .legal.exception,.legal.exception  *,
 .legal_exception,.legal_exception *{
@@ -19,4 +37,14 @@ a.legal,a.legal *{
 	color:inherit !important;
 	font-size:inherit !important;
 	text-transform:inherit !important;
+}
+li,.exception, .exception *, .legal.exception, .legal.exception *, .legal_exception,.legal_exception *{
+	color:#444 !important;
+}
+.legal.exception li,.exception li {
+	list-style:unset;
+	text-shadow:unset;
+}
+.legal.exception,.exception{
+	text-transform:none !important;
 }

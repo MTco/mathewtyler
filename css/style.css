@@ -221,6 +221,8 @@ footer .tc{
 
 #wrapper{
 	box-shadow:inset 0 1px 2px #E5E5E5;
+	margin:0 auto;
+	text-align:center;
 }
 #wrapper > div{
 	position:relative;
@@ -228,6 +230,7 @@ footer .tc{
 	padding-bottom:16em;
 	padding-bottom:18rem;
 	background:#fafafa;
+	text-align:left;
 }
 
 /*
@@ -629,22 +632,37 @@ a.linkAfter:after{
 			filter:alpha(opacity=100);
 		}
 
-ul ul,
-ul ol,
-ol ol,
-ol ul{
+ol ol, ol ul,
+ul ol, ul ul{
 	margin-left:20px;
+}
+.unorder_list > li, .unorderlist > li, ul, ol{
+	list-style-type:none;
 }
 
 .lineAbove{margin-top:10px;padding-top:10px;border-top:1px solid #444;}
 .lineBelow{margin-bottom:10px;padding-bottom:10px;border-bottom:1px solid #444;}
 
+.hidden, input[type=checkbox], .hiddenOverflow {
+	position:absolute;top:-350px;left:-350px;width:1px;height:1px;margin:-65px;padding:0;clip:rect(0 0 0 0);overflow:hidden;border:0;display:none;visibility:hidden;opacity:0;content:'';z-index:-350;
+}
+
+.quote .txt{
+	font-family:"times,Times New Roman,times-roman,georgia,serif !important";
+}
+
 .note {
 	font-style:italic;
 }
 
+.cite::before{
+	content:'[';
+}
+.cite::after{
+	content:']';
+}
 .cite {
-	font-size:10pt !important;
+	font-size:12pt !important;
 	font-style:italic;
 }
 	.cite a{
