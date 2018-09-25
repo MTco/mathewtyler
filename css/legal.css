@@ -2,7 +2,7 @@
 .legal,.legal *{
 	background:#fff !important;
 	color:#000 !important;
-	font-family:"times,Times New Roman,times-roman,georgia,serif !important";
+	font-family:"times","Times New Roman","times-roman",georgia,serif !important;
 	font-size:12pt !important;
 	text-transform:uppercase !important;
 	text-shadow:unset !important;

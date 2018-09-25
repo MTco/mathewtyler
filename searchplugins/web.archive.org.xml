@@ -15,5 +15,5 @@
 		<Param name="ref" value="TylerPresident.com"/>
 		<Param name="url" value="{searchTerms}"/>
 	</Url>
-	<Url type="application/opensearchdescription+xml" rel="self" template="https://mtco.github.io/mathewtyler/searchplugins/web.archive.org.xml"/>
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://mtco.github.io/mathewtyler/searchplugins/web.archive.org.xml?v=20180925T094400"/>
 </OpenSearchDescription>
