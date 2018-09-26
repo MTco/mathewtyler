@@ -5,10 +5,13 @@
 	<Description>Search Amazon's online stores.</Description>
 	<InputEncoding>utf-8</InputEncoding>
 	<Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAAEEfUpiAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAWIQAAFiEBtq+j4gAAAAd0SU1FB+IIARAHGrGR8EAAAAQXSURBVFjD3ZddaB1VEMd/e3NN0jTxEkyKRrrNClZBG/EhUhupCmMVFSMGq1ahVkzVomAsRFAfxBb6oCDog6L148Giog8lilIcC7aKDypYjVItySabqpikNdHUpElzrw/OlpN170cqgjpwYc8583Vm/jNzLqSRiBRE5PIFG6mckQQTFNPxQyyWsb3D8WEmkuC5PBxo5MSmSIIJLyE6BDQDl6jqN66KmH4C6oD+eMNL+DoHZAFvnOyKPr7r8ByfPaAFOA2IgLyvIWXJNbEaUGBMVYOT17JDgE9VtR5oFZFXFzAYtTpBbUwyLAWGVDU2WUgyVJmp+23dGUlwXhza3pcZaDhO5rp5vElV9d7gUBuwccEtIgnqgauBPb6GUyyW7KbF4+Qw3gW8VERPs6qOuxuZFCsfAzcbs+dEhjTFWXehqohID3CvKTwMvFvqakkPmmJhoAdYDmxxWNb8RUEkQRxl7H4jdva0JTRv0QdoHJZgZfTnb18yTdXA88AmYAIIgUmDTZvxvgls8TU8GknQAPzGv5OKgaYskEQkTuU7wGqgAZgC9qnqTZUicdbqPklDbiUXw0GnI9xpKDwSF3RZIAEfGlgeVdU+23umVAyyifUU8DnQUeIqJRXUJ8DRB5wFtFdUC8BbTmF5qtpprZBKFVyTwnNfKYwkcfA9cK4tXwBq4t4WDwdVbYkkuAEY9DXsT3rQ5XxvNuH3HWvdIxJ0Wrb2A2StCg8Cd8wz+HWgg96VctV2j0LVj1RvP6jvHUO6M9s4sGYjYzcWYCuwBLgbwIskwNeQSILrgV3A6cC3wJgxLrdMHAPu8TXcFUmwzNdwNNkPYkU1QC1wgaX5K2DG13CG/yV5lfYWVY3XZwOrgBVADvgdGAD6VXUkTeaUHIh7k333Ao9ZqZVz+gjQpaof/e0IiEgrsBu4KHF0FDgEzAPnAGemiG9Q1dcX20xc4xlAUow/qaq9Cd7XgNsTfLcBp+6AquaBncBOt384aWkGLrQaa0lRUagkBdlyGBCRHPCAYaBmMQOvEsqUwoeIdNkjYZs1Ruyl8aJVQpONrSf+CQdy9lJJ0iOqutnKLp6X5xeLbrmIlXKgCmhK2b/MeQlmReQpYH0K37Ui0lWsF8RvulJ9oBrYATxUhCVf5gIArOXXO7sZvWUOrx04A5gBBnwNV50MUyTBEsvpsE2RvK86C2wVkbeBV5xB6TkInwUeV9Ud5vDDhodxYN0H6JcRQd0cXi2wFrgVeNBssGCcmSOXGtoFGAX2Ap9lKIRNnBirYfpnmD0O09OwNPMLudwUVbX2gm3MwLIa8m2zeFfM411sNvYCz/oa7o4kaAd6fA03pHbChDN19hhrA9YBHcDKEtEeAj6xaf8FMOxrOOnm29FNRf8UiwGn0v3/BP0BCSd9JzTRGIEAAAAASUVORK5CYII=</Image>
-	<SearchForm>https://www.amazon.com/?ie=UTF8&amp;tag=ebates08-20&amp;linkId=4eb56a301ed94e5ea458e4ec85107501&amp;t=ebates08-20&amp;trk=TylerPresident.com&amp;linkCode=ll2&amp;ebs1864693976sbe=ascsubtag&amp;fap=1&amp;mkt=1&amp;unfiltered=1&amp;q=TylerPresident.com&amp;keywords=TylerPresident.com</SearchForm>
-	<moz:SearchForm>https://www.amazon.com/?ie=UTF8&amp;tag=ebates08-20&amp;linkId=4eb56a301ed94e5ea458e4ec85107501&amp;t=ebates08-20&amp;trk=TylerPresident.com&amp;linkCode=ll2&amp;ebs1864693976sbe=ascsubtag&amp;&amp;fap=1&amp;mkt=1&amp;unfiltered=1&amp;q=TylerPresident.com&amp;keywords=TylerPresident.com</moz:SearchForm>
-	<Url type="application/x-suggestions+json" rel="results" method="GET" template="https://completion.amazon.com/search/complete?method=completion&amp;tag=ebates08-20&amp;search-alias=aps&amp;sf=qz&amp;unfiltered=1&amp;t=ebates08-20&amp;client=amzn-search-suggestions&amp;linkId=4eb56a301ed94e5ea458e4ec85107501&amp;ebs1864693976sbe=ascsubtag&amp;fap=1&amp;mkt=1&amp;q={searchTerms}" resultDomain="amazon.com"/>
+	<SearchForm>https://www.amazon.com/?sf=fr&amp;unfiltered=1&amp;fap=1&amp;ie=UTF8&amp;tag=ebates08-20&amp;linkId=4eb56a301ed94e5ea458e4ec85107501&amp;t=ebates08-20&amp;trk=TylerPresident.com&amp;linkCode=ll2&amp;ebs1864693976sbe=ascsubtag&amp;mkt=1&amp;q=TylerPresident.com&amp;keywords=TylerPresident.com</SearchForm>
+	<moz:SearchForm>https://www.amazon.com/?sf=fr&amp;unfiltered=1&amp;fap=1&amp;ie=UTF8&amp;tag=ebates08-20&amp;linkId=4eb56a301ed94e5ea458e4ec85107501&amp;t=ebates08-20&amp;trk=TylerPresident.com&amp;linkCode=ll2&amp;ebs1864693976sbe=ascsubtag&amp;&amp;mkt=1&amp;q=TylerPresident.com&amp;keywords=TylerPresident.com</moz:SearchForm>
+	<Url type="application/x-suggestions+json" rel="results" method="GET" template="https://completion.amazon.com/search/complete?sf=fr&amp;unfiltered=1&amp;fap=1&amp;method=completion&amp;tag=ebates08-20&amp;search-alias=aps&amp;sf=qz&amp;t=ebates08-20&amp;client=amzn-search-suggestions&amp;linkId=4eb56a301ed94e5ea458e4ec85107501&amp;ebs1864693976sbe=ascsubtag&amp;mkt=1&amp;q={searchTerms}" resultDomain="amazon.com"/>
 	<Url type="text/html" rel="results" method="GET" template="https://www.amazon.com/s/ref=MathewTyler.co" resultDomain="amazon.com">
+		<Param name="sf" value="fr"/>
+		<Param name="unfiltered" value="1"/>
+		<Param name="fap" value="1"/>
 		<Param name="ie" value="{inputEncoding}"/>
 		<Param name="trk" value="TylerPresident.com"/>
 		<Param name="tag" value="ebates08-20"/>
@@ -22,11 +25,9 @@
 		<Param name="linkId" value="4eb56a301ed94e5ea458e4ec85107501"/>
 		<Param name="ascsubtag" value="ebs1864693976sbe"/>
 		<Param name="sf" value="qz,rba"/>
-		<Param name="fap" value="1"/>
 		<Param name="mkt" value="1"/>
-		<Param name="unfiltered" value="1"/>
 		<Param name="rh" value="i:aps,k:{searchTerms}"/>
 		<Param name="keywords" value="{searchTerms}"/>
 	</Url>
-	<Url type="application/opensearchdescription+xml" rel="self" template="https://mtco.github.io/mathewtyler/searchplugins/amazon-us-hoped.xml?v=20180925T094400"/>
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://mtco.github.io/mathewtyler/searchplugins/amazon-us-hoped.xml?v=20180926T131600"/>
 </OpenSearchDescription>
