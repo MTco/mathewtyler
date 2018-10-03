@@ -638,6 +638,8 @@ ul ol, ul ul{
 }
 .unorder_list > li, .unorderlist > li, ul, ol{
 	list-style-type:none;
+	margin:1.5em 0;
+	margin:2rem 0;
 }
 
 .lineAbove{margin-top:10px;padding-top:10px;border-top:1px solid #444;}
