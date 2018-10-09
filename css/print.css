@@ -10,6 +10,12 @@
 		word-wrap:break-word !important;
 		border:0;
 	}
+	.cite::before{
+		content:'[';
+	}
+	.cite::after{
+		content:']';
+	}
 	a,a:visited{color:#06c !important;text-decoration:none}
 	/*
 	* {

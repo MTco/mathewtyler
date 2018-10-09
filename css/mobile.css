@@ -85,13 +85,13 @@
 		margin-top:-4em;margin-top:-4rem;
 		flex-direction:column;
 	}
-	#menuLink,#menuLink2 {display:inline-block;}
-	#menuLink,#menuLink2 {
+	.js #menuLink,.no-js #menuLink2 {display:inline-block;}
+	.js #menuLink,.no-js #menuLink2 {
 		float:right;
 		top:0.2em;top:0.5rem;
 		order:1;
 	}
-	#menuLink label,#menuLink2 label{
+	.js #menuLink label,.no-js #menuLink2 label{
 		font-size:2.5em;font-size:2.5rem;
 	}
 	header { order: 1; }
