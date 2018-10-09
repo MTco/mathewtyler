@@ -838,19 +838,19 @@ span.yt{
 	-webkit-transition: -webkit-transform 0.5s ease-in-out;
 }
 
-.burger-check:checked ~ .burger {
+#menuToggle:checked ~ .burger {
 	border-bottom:4px solid transparent;
 	transition:border-bottom 0.8s ease-in-out;
 	-webkit-transition:border-bottom 0.8s ease-in-out;
 }
-.burger-check:checked ~ .burger:before {
+#menuToggle:checked ~ .burger:before {
 	-ms-transform:rotate(-405deg) translateY(1px) translateX(-3px);
 	transform:rotate(-405deg) translateY(1px) translateX(-3px);
 	-webkit-transform:rotate(-405deg) translateY(1px) translateX(-3px);
 	transition:transform 0.5s ease-in-out;
 	-webkit-transition:-webkit-transform 0.5s ease-in-out;
 }
-.burger-check:checked ~ .burger:after {
+#menuToggle:checked ~ .burger:after {
 	-ms-transform:rotate(405deg) translateY(-4px) translateX(-5px);
 	transform:rotate(405deg) translateY(-4px) translateX(-5px);
 	-webkit-transform:rotate(405deg) translateY(-4px) translateX(-5px);
