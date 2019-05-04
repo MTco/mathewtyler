@@ -28,5 +28,5 @@
 		<Param name="rh" value="i:aps,k:{searchTerms}"/>
 		<Param name="keywords" value="{searchTerms}"/>
 	</Url>
-	<Url type="application/opensearchdescription+xml" rel="self" template="https://mtco.github.io/mathewtyler/searchplugins/amazon-us-hoped.xml?v=20181002T100400"/>
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://mathewtyler.co/searchplugins/amazon-us-hoped.xml?v=20190504"/>
 </OpenSearchDescription>
