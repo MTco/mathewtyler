@@ -12,7 +12,7 @@
 		<Param name="sf" value="qz,rba"/>
 		<Param name="unfiltered" value="1"/>
 		<Param name="fap" value="1"/>
-		<Param name="ie" value="{inputEncoding}"/>
+		<Param name="ie" value="utf-8"/>
 		<Param name="trk" value="TylerPresident.com"/>
 		<Param name="tag" value="hoped-20"/>
 		<Param name="camp" value="TylerPresident.com"/>
