@@ -4,16 +4,16 @@
 	<ShortName>Archive.org: Wayback machine</ShortName>
 	<LongName>Internet Archive: Wayback Machine</LongName>
 	<Description>The Wayback Machine is a digital archive of the World Wide Web and other information on the Internet created by the Internet Archive, a non-profit organization</Description>
-	<InputEncoding>UTF-8</InputEncoding>
-	<Image width="32" height="32" type="image/x-icon">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAAEhFhW+AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+AJGREsJZVAvegAAAACYktHRAD/h4/MvwAAAlRJREFUGBl1wTFrXmUYxvH/dT/POSdvihKxUmssVqSgQgZB2sFPENLNDIIK4hKwToJDR93EDyD9DoIVEengIhTq0mLTihUVu2htBw0unrznuS/Pix3j71eCwdK33IN+M6UXciAIdPXgiVd4ygN6fm38AbY9e7vAqcGbvYmSNkLS3RbA6UKJ3hDUD2y3k6VOL1+r9zfOfk71Ht5DYQzGkVQwEi8tqYe/H4hfBbTnJIob7HEJggzBxVqUYdmHV75Lopzw8Jbrk168aalE0kHPFLSF7RYYzIosIKSOMhADZQ0FQtvhYMV57a+QKIDMipZRKEFH6WQFChNUYPPjk0CNIlR3v/F/PttBs+H9EDJo0oey1H/lRx9sxN/dsfvHz4Up/PRJ8RvdL19Uv14LYXymsb5sw8SxSMI4mbUkSRPGZhYgZgFhEDMhiKABSQpMIZIFwVoshmAtUiq8SNYl4RyWt8M1fdoIsKzbULtPt4QAi+nnOygCkAFZEwjhwBKOMjIbMpOwkR1IuD8ENGzvntl4pj+8e3Djy6t/NlaEZtl/VKdparYFOOlCXV8u3SwNgbTuI73HoCJUJLZ2nwWd32G29eom6PyOECJQKZz6cbzc8844XoCn74xXFrw7jhcYFFJ1Bla/Hkw9E5heybJnotkQGLJBMjPYGDAPBYIIkhWBCgQSIGaBhSACgSBAySwAiRDGSZpMDFPSBM0NIVQt88f+8a9Hvv/N+/Dg5uPX/+HWPe9jjJF4xEe6qJ6QqNPlE1NNEA8ZGfKx127VZiD4PyIUkhUcQQjQv3JoO1wOM0dtAAAAAElFTkSuQmCC</Image>
-	<SearchForm>https://web.archive.org/?ref=TylerPresident.com&amp;sourceid=TylerPresident.com</SearchForm>
-	<moz:SearchForm>https://web.archive.org/?ref=TylerPresident.com&amp;sourceid=TylerPresident.com</moz:SearchForm>
-	<Url type="application/x-suggestions+json" method="GET" template="https://web.archive.org/form-submit.jsp?ie=utf-8&amp;type=urlquery&amp;ref=TylerPresident.com&amp;url={searchTerms}"/>
-	<Url type="text/html" rel="results" method="GET" template="https://web.archive.org/form-submit.jsp" resultDomain="archive.org">
+	<InputEncoding>utf-8</InputEncoding>
+	<Image width="16" height="16" type="image/x-icon">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAAEhFhW+AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+AJGREsJZVAvegAAAACYktHRAD/h4/MvwAAAlRJREFUGBl1wTFrXmUYxvH/dT/POSdvihKxUmssVqSgQgZB2sFPENLNDIIK4hKwToJDR93EDyD9DoIVEengIhTq0mLTihUVu2htBw0unrznuS/Pix3j71eCwdK33IN+M6UXciAIdPXgiVd4ygN6fm38AbY9e7vAqcGbvYmSNkLS3RbA6UKJ3hDUD2y3k6VOL1+r9zfOfk71Ht5DYQzGkVQwEi8tqYe/H4hfBbTnJIob7HEJggzBxVqUYdmHV75Lopzw8Jbrk168aalE0kHPFLSF7RYYzIosIKSOMhADZQ0FQtvhYMV57a+QKIDMipZRKEFH6WQFChNUYPPjk0CNIlR3v/F/PttBs+H9EDJo0oey1H/lRx9sxN/dsfvHz4Up/PRJ8RvdL19Uv14LYXymsb5sw8SxSMI4mbUkSRPGZhYgZgFhEDMhiKABSQpMIZIFwVoshmAtUiq8SNYl4RyWt8M1fdoIsKzbULtPt4QAi+nnOygCkAFZEwjhwBKOMjIbMpOwkR1IuD8ENGzvntl4pj+8e3Djy6t/NlaEZtl/VKdparYFOOlCXV8u3SwNgbTuI73HoCJUJLZ2nwWd32G29eom6PyOECJQKZz6cbzc8844XoCn74xXFrw7jhcYFFJ1Bla/Hkw9E5heybJnotkQGLJBMjPYGDAPBYIIkhWBCgQSIGaBhSACgSBAySwAiRDGSZpMDFPSBM0NIVQt88f+8a9Hvv/N+/Dg5uPX/+HWPe9jjJF4xEe6qJ6QqNPlE1NNEA8ZGfKx127VZiD4PyIUkhUcQQjQv3JoO1wOM0dtAAAAAElFTkSuQmCC</Image>
+	<SearchForm>https://web.archive.org/?ref=MathewTyler.co</SearchForm>
+	<moz:SearchForm>https://web.archive.org/?ref=MathewTyler.co</moz:SearchForm>
+	<Url type="application/x-suggestions+json" method="GET" template="https://wayback.archive.org/web/{searchTerms}"/>
+	<Url type="text/html" rel="results" method="POST" template="https://web.archive.org" resultDomain="web.archive.org">
 		<Param name="ie" value="utf-8"/>
 		<Param name="type" value="urlquery"/>
-		<Param name="ref" value="TylerPresident.com"/>
+		<Param name="ref" value="MathewTyler.co"/>
 		<Param name="url" value="{searchTerms}"/>
 	</Url>
-	<Url type="application/opensearchdescription+xml" rel="self" template="https://mathewtyler.co/searchplugins/web.archive.org.xml?v=20190504"/>
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://mathewtyler.co/searchplugins/web.archive.org.xml?v=20200921T164713"/>
 </OpenSearchDescription>
