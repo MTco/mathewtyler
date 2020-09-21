@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>Encrypted Google</ShortName>
+	<Description>Encrypted Google</Description>
+	<InputEncoding>utf-8</InputEncoding>
+	<OutputEncoding>utf-8</OutputEncoding>
+	<Image width="16" height="16">data:image/png;base64,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</Image>
+	<SearchForm>https://www.google.com/?sourceid=firefox-b-1-d&amp;ref=MathewTyler.co&amp;client=firefox-b-1-d</SearchForm>
+	<moz:SearchForm>https://www.google.com/?sourceid=firefox-b-1-d&amp;ref=MathewTyler.co&amp;client=firefox-b-1-d</moz:SearchForm>
+	<Url type="application/x-suggestions+json" method="GET" template="https://www.google.com/complete/search?sourceid=firefox-b-1-d&amp;ie=utf-8&amp;oe=utf-8&amp;hl=en&amp;lr=US&amp;gl=us&amp;cx=partner-pub-9258476642491672:4769585795&amp;gws_rd=cr&amp;ncr=1&amp;tbs=lr:US&amp;safe=&amp;filter=0&amp;client=firefox-b-1-d&amp;q={searchTerms}"/>
+	<Url type="text/html" rel="results" method="GET" template="https://cse.google.com/cse" resultDomain="cse.google.com">
+		<Param name="ie" value="utf-8"/>
+		<Param name="oe" value="utf-8"/>
+		<Param name="hl" value="en"/>
+		<Param name="lr" value="US"/>
+		<Param name="gl" value="us"/>
+		<Param name="cx" value="partner-pub-9258476642491672:4769585795"/>
+		<Param name="sourceid" value="firefox-b-1-d"/>
+		<Param name="oq" value=""/>
+		<Param name="aq" value=""/>
+		<Param name="aqi" value=""/>
+		<Param name="aql" value=""/>
+		<Param name="tbs" value="lr:US"/>
+		<Param name="gs_sm" value=""/>
+		<Param name="client" value="firefox-b-1-d"/>
+		<Param name="gs_upl" value=""/>
+		<Param name="sa" value="Search"/>
+		<Param name="btnG" value="Search"/>
+		<Param name="as_qdr" value="all"/>
+		<Param name="Gf" value="0"/>
+		<Param name="tbs" value="imgo:1"/>
+		<Param name="safe" value=""/>
+		<Param name="num" value="100"/>
+		<Param name="filter" value="0"/>
+		<Param name="newwindow" value="1"/>
+		<Param name="oq" value="{searchTerms}"/>
+		<Param name="q" value="{searchTerms}"/>
+	</Url>
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://mathewtyler.co/searchplugins/google.xml?v=20200921T164713"/>
+</OpenSearchDescription>
