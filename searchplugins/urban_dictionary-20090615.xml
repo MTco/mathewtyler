@@ -1,0 +1,12 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<!-- Plugin by: kef - http://www.finallunar.com/ -->
+<ShortName>Urban Dictionary</ShortName>
+<Description>Define something in the Urban Dictionary</Description>
+<InputEncoding>utf-8</InputEncoding>
+<Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAQlJREFUOE9jfPToEQNJAKjhP9EAZDqZGg63Nk9UlJtrYXp62lSIfYdamhbY26wOCz4zHSoCFETY8ObGjRMT%2BuaYmyxxc4FoeHfn9osL5zenJC3z8YQ7Gd1Jx3u7t2ZlIPtoR0HeruJCnBqADttXXYmsYbmv9%2BbUZJwadhYV7KkoQ9awyNkB6CqcGo60tx5saoBL%2F%2F7xY5qWOj4NR7u7tudkwTW8v3%2B%2FV0J0ZaA%2FThuAxsPD5Pf374eaG4Ea5tta%2F%2FryBaIHPZSAPgaqALoBqHOWsSGQDUGzDPUvzJ%2BHRcOTE8eXerj1y0r1SUsAw2dnYf4MfZ2p6qqTlOSn62ph0UAwTZGbloD6iAcAxihgpPE6dfkAAAAASUVORK5CYII%3D</Image>
+<Url type="text/html" method="GET" template="http://www.urbandictionary.com/define.php">
+  <Param name="sourceid" value="Mozilla-search"/>
+  <Param name="term" value="{searchTerms}"/>
+</Url>
+<moz:SearchForm>http://www.urbandictionary.com/define.php</moz:SearchForm>
+</OpenSearchDescription>

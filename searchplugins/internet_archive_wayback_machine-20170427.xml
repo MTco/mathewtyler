@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>web.archive.org</ShortName>
+  <LongName>Internet Archive: Wayback Machine</LongName>
+  <Description>The Wayback Machine is a digital archive of the World Wide Web and other information on the Internet created by the Internet Archive, a non-profit organization</Description>
+  <InputEncoding>utf-8</InputEncoding>
+  <Image width="32" height="32" type="image/x-icon">https://archive.org/favicon.ico</Image>
+  <Url type="text/html" template="https://web.archive.org/web/submit?url={searchTerms}&amp;type=replay"/>
+  <moz:SearchForm>https://web.archive.org/</moz:SearchForm>
+</OpenSearchDescription>

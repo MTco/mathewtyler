@@ -38,5 +38,5 @@
 		<Param name="newwindow" value="1"/>
 		<Param name="q" value="{searchTerms}"/>
 	</Url>
-	<Url type="application/opensearchdescription+xml" rel="self" template="https://mathewtyler.co/searchplugins/google-all.xml?v=20200921T164713"/>
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://mathewtyler.co/searchplugins/google-all.xml?v=20200921T164714"/>
 </OpenSearchDescription>

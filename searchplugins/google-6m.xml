@@ -38,5 +38,5 @@
 		<Param name="tbs" value="qdr:m6"/>
 		<Param name="q" value="{searchTerms}"/>
 	</Url>
-	<Url type="application/opensearchdescription+xml" rel="self" template="https://mathewtyler.co/searchplugins/google-6m.xml?v=20200918T164712"/>
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://mathewtyler.co/searchplugins/google-6m.xml?v=20200921T164714"/>
 </OpenSearchDescription>

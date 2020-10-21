@@ -15,5 +15,19 @@
 		<Param name="ref" value="MathewTyler.co"/>
 		<Param name="url" value="{searchTerms}"/>
 	</Url>
-	<Url type="application/opensearchdescription+xml" rel="self" template="https://mathewtyler.co/searchplugins/web.archive.org.xml?v=20200921T164713"/>
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://mathewtyler.co/searchplugins/web.archive.org.xml?v=20200921T164714"/>
 </OpenSearchDescription>
+
+<!--
+https://web.archive.org/web/2/http://form-submit.jsp?ie=utf-8&type=urlquery&ref=TylerPresident.com&url=https%3A%2F%2Fhacks.mozilla.org%2F2013%2F08%2Fnew-features-of-firefox-developer-tools-episode-25%2F
+
+https://web.archive.org/web/*/?ie=utf-8&type=urlquery&ref=TylerPresident.com&url=https%3A%2F%2Fhacks.mozilla.org%2F2013%2F08%2Fnew-features-of-firefox-developer-tools-episode-25%2F
+
+https://web.archive.org/web/*/https://hacks.mozilla.org/2013/08/new-features-of-firefox-developer-tools-episode-25/
+
+https://archive.org/searchresults.php?search=http://mathewtyler.co&sin=TXT&limit=100&start=0&searchAll=yes&submit=this+was+submitted
+
+http://web.archive.org/web/20200110121339/https://tech.co/news/tools-to-help-you-search-the-archived-internet-2018-06
+
+javascript:%28function%20wb%28%29%20%7B%20%20var%20s%20%3D%20%28function%20%28%29%20%7B%20%2F%2A%s%2A%2F%3B%20%7D%29.toString%28%29%20.replace%28%2F%5Efunction%5Cs%2A%5C%28%5Cs%2A%5C%29%5Cs%2A%5C%7B%5Cs%2A%5C%2F%5C%2A%2F%2C%20%27%27%29%20.replace%28%2F%5C%2A%5C%2F%5Cs%2A%5C%3B%3F%5Cs%2A%5C%7D%5Cs%2A%24%2F%2C%20%27%27%29%20.replace%28%2F%5Cu0025s%2F%2C%20%27%27%29%3B%20if%20%28s%20%3D%3D%3D%20%27%27%29%20%7B%20s%20%3D%20getSelection%28%29%20%2B%20%27%27%20%7C%7C%20prompt%28%27Please%20enter%20the%20destination%20URL%3A%27%2C%20location%29%3B%20%7D%20if%20%28s%29%20%7B%20location%20%3D%20%27https%3A%2F%2Fwayback.archive.org%2Fweb%2F%27%20%2B%20s%3B%20%7D%20%7D%29%28%29%3B
+-->
